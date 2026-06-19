@@ -1,0 +1,354 @@
+{
+  "generated_at": "2026-06-19T18:03:51.643305+00:00",
+  "case_type": "UnidentifiedPersons",
+  "decade": "1910s",
+  "count": 1,
+  "cases": [
+    {
+      "id": 8428,
+      "idFormatted": "UP8428",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2011-01-20T16:06:47",
+      "modifiedDateTime": "2026-04-10T19:30:35.943",
+      "caseIdentification": {
+        "id": 2768,
+        "caseNumber": "1915-0002"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 4925,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 1915,
+        "estimatedYearOfBirthFrom": 1855,
+        "estimatedYearOfBirthTo": 1875,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 3688,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1915-05-13",
+        "address": {
+          "city": "Colton",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 282,
+            "name": "San Bernardino County",
+            "displayName": "San Bernardino"
+          },
+          "countyId": 0,
+          "zipCode": "92324"
+        },
+        "circumstancesOfRecovery": "White male adult found hanging from a willow tree in the river bottom, 2 miles southwest of Colton, CA.  Designated \"John Doe #02-1915\", he was described as being about 45-50, 5'10\" to 5'11\", 150 to 160 lbs, chestnut brown hair, slightly balding.  Identity can only be established by DNA.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.0739016,
+            "lon": -117.3136547
+          },
+          "formattedAddress": "Colton, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 2611,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 27156,
+          "identityId": 23101,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Also present at the scene was a cane, described as a \"heavy hickory walking stick.\"",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 1516,
+          "identityId": 3219,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Not described",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 10554,
+          "identityId": 8616,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Clothing found hanging on tree: Tan overcoat/raincoat (dealer label: \"Ransom & Salsbee,\" San Antonio, Texas), a gray hat (dealer label: \"Joske Bros. Co Department Store,\" San Antonio, Texas), a shirt with collar and tie.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 13676,
+          "identityId": 11270,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "None found",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 20968,
+          "identityId": 15102,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "No description of pants or shoes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 21727,
+          "identityId": 18451,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "None found",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 1880,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Chestnut brown - slightly bald",
+        "bodyHairDescription": "Not described",
+        "facialHairDescription": "Dark sandy moustache",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "eyeDescription": "Undetermined due to decomposition"
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 772,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 43403,
+          "isCaseOwner": false,
+          "name": "San Bernardino County Sheriff's Department- Coroner Division",
+          "city": "San Bernardino",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 282,
+            "name": "San Bernardino County",
+            "localizedName": "San Bernardino"
+          },
+          "countyDisplayName": "San Bernardino",
+          "selection": {
+            "id": 49132,
+            "contact": {
+              "id": 29487,
+              "firstName": "September",
+              "lastName": "Fonzi-Jones",
+              "jobTitle": "Sheriff's Service Specialist, Coroner Division",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45291,
+              "name": "San Bernardino County Sheriff's Department- Coroner Division",
+              "street1": "175 South Lena Road",
+              "city": "San Bernardino",
+              "county": {
+                "id": 282,
+                "name": "San Bernardino County",
+                "localizedName": "San Bernardino"
+              },
+              "zipCode": "92415",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9093872978",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://wp.sbcounty.gov/sheriff/divisions/coroner/"
+            }
+          },
+          "caseNumber": "1915-0002"
+        }
+      ],
+      "caseContributors": [
+        {
+          "id": 14192,
+          "identityId": 19999,
+          "isPublic": true,
+          "user": {
+            "id": 29487,
+            "firstName": "September",
+            "lastName": "Fonzi-Jones",
+            "jobTitle": "Sheriff's Service Specialist, Coroner Division",
+            "roleId": 1,
+            "role": "Law Enforcement",
+            "isPublicEmail": false,
+            "isPublicPhone1": false,
+            "isPublicPhone2": false
+          },
+          "agency": {
+            "id": 45291,
+            "name": "San Bernardino County Sheriff's Department- Coroner Division",
+            "street1": "175 South Lena Road",
+            "city": "San Bernardino",
+            "county": {
+              "id": 282,
+              "name": "San Bernardino County",
+              "localizedName": "San Bernardino"
+            },
+            "zipCode": "92415",
+            "state": {
+              "id": 3,
+              "name": "California",
+              "localizedName": "CA"
+            },
+            "phone": "9093872978",
+            "approved": true,
+            "websiteUrl": "http://wp.sbcounty.gov/sheriff/divisions/coroner/"
+          }
+        }
+      ],
+      "caseOwner": {
+        "id": 19700,
+        "investigatingAgencyIdentityId": 43403
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/8428/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/8428/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    }
+  ]
+}

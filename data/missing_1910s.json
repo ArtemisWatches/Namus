@@ -1,0 +1,452 @@
+{
+  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "case_type": "MissingPersons",
+  "decade": "1910s",
+  "count": 2,
+  "cases": [
+    {
+      "id": 24464,
+      "idFormatted": "MP24464",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2014-05-03T09:49:10",
+      "modifiedDateTime": "2026-01-30T17:24:54.757",
+      "subjectIdentification": {
+        "id": 26766,
+        "firstName": "John",
+        "middleName": "William",
+        "lastName": "Gates",
+        "currentMinAge": 143,
+        "currentMaxAge": 143,
+        "computedMissingMinAge": 33,
+        "computedMissingMaxAge": 33
+      },
+      "subjectDescription": {
+        "id": 24668,
+        "heightFrom": 69,
+        "heightTo": 72,
+        "weightFrom": 160,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 28346,
+        "circumstancesOfDisappearance": "According to the \"Investigator's Report for Mother's Compensation of the Boulder County Court,\" in May 1917: \"John W. Gates, husband of Applicant and father of children. He left home April 23, 1916 for no reason known to Applicant who does not know of his whereabouts now and has had no word from him since leaving, previous to leaving he was a good provider, and good husband, and kind father. Applicant fears he met with an accident.\" Family stories include the theory that his wagon ran off a mountain road while hauling supplies to a mining company. The rumors also include a story that he was murdered."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 25660,
+        "date": "1916-04-23",
+        "address": {
+          "city": "Longmont",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 311,
+            "name": "Boulder County",
+            "displayName": "Boulder"
+          },
+          "countyId": 0
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.1672068,
+            "lon": -105.1019275
+          },
+          "formattedAddress": "Longmont, CO, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 23221,
+          "isCaseOwner": false,
+          "name": "Longmont Department of Public Safety",
+          "city": "Longmont",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 311,
+            "name": "Boulder County",
+            "localizedName": "Boulder"
+          },
+          "countyDisplayName": "Boulder",
+          "selection": {
+            "id": 52217,
+            "contact": {
+              "id": 125224,
+              "firstName": "Jeff",
+              "lastName": "Satur",
+              "jobTitle": "Commander",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44036,
+              "name": "Longmont Department of Public Safety",
+              "street1": "225 Kimbark Street",
+              "city": "Longmont",
+              "county": {
+                "id": 311,
+                "name": "Boulder County",
+                "localizedName": "Boulder"
+              },
+              "zipCode": "80501",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3036518555",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "14-3410",
+          "dateReported": "2014-04-30"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 44036,
+        "isCaseOwner": false,
+        "name": "Longmont Department of Public Safety"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 19924,
+        "investigatingAgencyIdentityId": 23221
+      },
+      "physicalDescription": {
+        "id": 23753,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Receding hairline",
+        "facialHairDescription": "None",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 40505,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 53746,
+          "identityId": 51189,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Cropped from 1912 portrait of family (with wife and 3 children)",
+          "isPublic": true,
+          "createdDateTime": "2014-05-03T10:13:08",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 797,
+              "width": 681,
+              "storageKey": "f7ab4184c24e47478c2d2c142bf0678b",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/51189/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 103,
+              "storageKey": "388180b80d7643dfa991071309f85dd3",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/51189/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/51189/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 15790,
+        "defaultImageIdentityId": 51189
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/24464/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 24522,
+      "idFormatted": "MP24522",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2014-05-07T15:08:58",
+      "modifiedDateTime": "2024-03-19T17:35:48.867",
+      "subjectIdentification": {
+        "id": 7092,
+        "firstName": "Noel",
+        "middleName": "Elijah",
+        "lastName": "Davis",
+        "currentMinAge": 126,
+        "currentMaxAge": 126,
+        "computedMissingMinAge": 16,
+        "computedMissingMaxAge": 16
+      },
+      "subjectDescription": {
+        "id": 6794,
+        "heightFrom": 66,
+        "heightTo": 72,
+        "weightFrom": 140,
+        "weightTo": 160,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 2976,
+        "ncmecNumber": "1235872"
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 73219,
+        "circumstancesOfDisappearance": "Noel left Reno, Nevada in 1915 to visit his older sister and her husband  who lived in the San Francisco Bay Area, however, Noel never arrived and was never heard from again."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 6930,
+        "date": "1915-11-01",
+        "address": {
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.5296329,
+            "lon": -119.8138027
+          },
+          "formattedAddress": "Reno, NV, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 5529,
+          "isCaseOwner": false,
+          "name": "Reno Police Department",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 158909,
+            "agency": {
+              "id": 47645,
+              "name": "Reno Police Department",
+              "street1": "455 East 2nd Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89502",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7753342175",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.renopd.com/"
+            }
+          },
+          "caseNumber": "14-21404"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 47645,
+        "isCaseOwner": false,
+        "name": "Reno Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 4956,
+        "investigatingAgencyIdentityId": 5529
+      },
+      "physicalDescription": {
+        "id": 6230,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 42020,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 11993,
+          "identityId": 11381,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-08-04T17:55:37",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 859,
+              "width": 693,
+              "storageKey": "8c0b13ca807f443d86cf6b5231a674cb",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/11381/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 97,
+              "storageKey": "3b5edfdbb1aa4a65b7505ad7257e29eb",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/11381/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/11381/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 3985,
+        "defaultImageIdentityId": 11381
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/24522/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    }
+  ]
+}

@@ -1,0 +1,2800 @@
+{
+  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "case_type": "MissingPersons",
+  "decade": "1930s",
+  "count": 8,
+  "cases": [
+    {
+      "id": 2797,
+      "idFormatted": "MP2797",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2009-09-08T22:26:52",
+      "modifiedDateTime": "2023-05-25T22:03:44.07",
+      "subjectIdentification": {
+        "id": 23611,
+        "firstName": "Joseph",
+        "middleName": "Laurence",
+        "lastName": "Halpern",
+        "nicknames": "Louis Hollenbuck, \"Teacher\"",
+        "currentMinAge": 115,
+        "currentMaxAge": 115,
+        "computedMissingMinAge": 22,
+        "computedMissingMaxAge": 22
+      },
+      "subjectDescription": {
+        "id": 21931,
+        "heightFrom": 68,
+        "weightFrom": 165,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 24906,
+        "circumstancesOfDisappearance": "Disappeared on August 14, 1933 while hiking in Rocky Mountain National Park near Taylor Peak.Unsubstantiated reports place him in Phoenix, AZ in December of 1934, with the Lewis Brothers Circus in Michigan in the summer of 1935, traveling with CCC near Alliance, Nebraska in May of 1935.He may have used the alias Louis Hollenbuck and was called \"teacher\" by co-workers. He was also a computer at the Aberdeen Proving Grounds in 1932."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 4245,
+          "identityId": 1788,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Had an army knapsack with him."
+        },
+        {
+          "id": 8674,
+          "identityId": 4223,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Light blue shirt, light brown trousers. One report notes white shirt with blue stripes."
+        },
+        {
+          "id": 24731,
+          "identityId": 23263,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Heavy shoes or mukluks."
+        }
+      ],
+      "sighting": {
+        "id": 22702,
+        "date": "1933-08-15",
+        "address": {
+          "city": "Estes Park Vacinity",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 340,
+            "name": "Larimer County",
+            "displayName": "Larimer"
+          },
+          "countyId": 0
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.6955572,
+            "lon": -105.5943388
+          },
+          "formattedAddress": "Larimer County, CO, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 20633,
+          "isCaseOwner": false,
+          "name": "Rocky Mountain National Park Service",
+          "city": "Estes Park",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 340,
+            "name": "Larimer County",
+            "localizedName": "Larimer"
+          },
+          "countyDisplayName": "Larimer",
+          "selection": {
+            "id": 52216,
+            "agency": {
+              "id": 60871,
+              "name": "Rocky Mountain National Park Service",
+              "street1": "1000 US-36",
+              "city": "Estes Park",
+              "county": {
+                "id": 340,
+                "name": "Larimer County",
+                "localizedName": "Larimer"
+              },
+              "zipCode": "80517",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "9705861206",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 6,
+                "name": "Other",
+                "localizedName": "Other"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nps.gov/romo/index.htm"
+            }
+          },
+          "dateReported": "1933-08-15"
+        },
+        {
+          "id": 20634,
+          "isCaseOwner": false,
+          "name": "Glendale Police Department",
+          "city": "Glendale",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 307,
+            "name": "Arapahoe County",
+            "localizedName": "Arapahoe"
+          },
+          "countyDisplayName": "Arapahoe",
+          "selection": {
+            "id": 52215,
+            "agency": {
+              "id": 60515,
+              "name": "Glendale Police Department",
+              "street1": "950 S Birch Street",
+              "street2": "Suite A",
+              "city": "Glendale",
+              "county": {
+                "id": 307,
+                "name": "Arapahoe County",
+                "localizedName": "Arapahoe"
+              },
+              "zipCode": "80246",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3037591511",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.glendale.co.us/157/Police"
+            }
+          },
+          "caseNumber": "2012-32"
+        },
+        {
+          "id": 20635,
+          "isCaseOwner": false,
+          "name": "Colorado Bureau of Investigation",
+          "city": "Lakewood",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 52214,
+            "contact": {
+              "id": 2209,
+              "firstName": "Audrey",
+              "lastName": "Simkins",
+              "jobTitle": "Criminal Intelligence Analyst",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43265,
+              "name": "Colorado Bureau of Investigation",
+              "street1": "690 Kipling Street",
+              "city": "Lakewood",
+              "county": {
+                "id": 335,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "80215",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3032394201",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.colorado.gov/cbi"
+            }
+          }
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 60871,
+        "isCaseOwner": false,
+        "name": "Rocky Mountain National Park Service"
+      },
+      "caseContributors": [
+        {
+          "id": 100379,
+          "identityId": 92488,
+          "isPublic": true,
+          "user": {
+            "id": 2209,
+            "firstName": "Audrey",
+            "lastName": "Simkins",
+            "jobTitle": "Criminal Intelligence Analyst",
+            "roleId": 16,
+            "role": "LE/ME/Coroner Support",
+            "isPublicEmail": false,
+            "isPublicPhone1": false,
+            "isPublicPhone2": false
+          },
+          "agency": {
+            "id": 43265,
+            "name": "Colorado Bureau of Investigation",
+            "street1": "690 Kipling Street",
+            "city": "Lakewood",
+            "county": {
+              "id": 335,
+              "name": "Jefferson County",
+              "localizedName": "Jefferson"
+            },
+            "zipCode": "80215",
+            "state": {
+              "id": 9,
+              "name": "Colorado",
+              "localizedName": "CO"
+            },
+            "phone": "3032394201",
+            "approved": true,
+            "websiteUrl": "https://www.colorado.gov/cbi"
+          }
+        }
+      ],
+      "caseOwner": {
+        "id": 17678,
+        "investigatingAgencyIdentityId": 20633
+      },
+      "physicalDescription": {
+        "id": 20990,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "eyeDescription": "Right eye crossed with slight scar above it."
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 42944,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 48713,
+          "identityId": 46370,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Graduation picture",
+          "isPublic": true,
+          "createdDateTime": "2009-09-09T09:29:02",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 1350,
+              "width": 950,
+              "storageKey": "7e0b2579b5ce4ae0ac6f8e67b5669eeb",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46370/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 84,
+              "storageKey": "d9301860de104f72885bd0a39dad02f3",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46370/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46370/Download"
+        },
+        {
+          "id": 48719,
+          "identityId": 46376,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Signature",
+          "isPublic": true,
+          "createdDateTime": "2012-02-24T09:06:21",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 1650,
+              "width": 1275,
+              "storageKey": "227b92ebec9b45c4879d7661e623b4b5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46376/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "6794743974924bd094586ef0f85a378a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46376/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46376/Download"
+        },
+        {
+          "id": 48716,
+          "identityId": 46373,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Reward poster created by Joseph's father in 1934(?)",
+          "isPublic": true,
+          "createdDateTime": "2012-01-05T13:45:16",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 2200,
+              "width": 1700,
+              "storageKey": "abfbbd9f3287454a94007f762d74a98a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46373/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "312fb4f7abef44c5918188fbe12a8d71",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46373/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46373/Download"
+        },
+        {
+          "id": 48721,
+          "identityId": 46377,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Map of park area searched.",
+          "isPublic": true,
+          "createdDateTime": "2012-05-19T21:20:09",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 5442,
+              "width": 3489,
+              "storageKey": "8baed872f77248af9f13aba43c04af95",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46377/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 77,
+              "storageKey": "145e4673845b4225a44476e5c02174e1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46377/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46377/Download"
+        },
+        {
+          "id": 48714,
+          "identityId": 46371,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2011-10-17T16:24:20",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 489,
+              "width": 335,
+              "storageKey": "a1ce340bfb394f95a47cdc11290ef6f4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46371/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 82,
+              "storageKey": "0ec100b5c17940b9be9f10912fe3cd78",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46371/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46371/Download"
+        },
+        {
+          "id": 48715,
+          "identityId": 46372,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2011-10-17T16:24:37",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 632,
+              "width": 494,
+              "storageKey": "4d76d1d81d794502895770fdb5096177",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46372/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "8cd0acd855bf4076b4f5a4ad7fbf1614",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46372/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46372/Download"
+        },
+        {
+          "id": 48718,
+          "identityId": 46375,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Three fingerprints from right hand from postal savings account application filled out July, 1932 in Hyde Park, Illinois.",
+          "isPublic": true,
+          "createdDateTime": "2012-01-05T13:48:46",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 2200,
+              "width": 1700,
+              "storageKey": "674bb1fed8664bbdb3276a494fb32490",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46375/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "7f0a3c30ac274909bbc3bb20c8edbb83",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46375/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/46375/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 29324,
+        "defaultImageIdentityId": 46371
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/2797/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 5405,
+      "idFormatted": "MP5405",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2010-03-10T17:43:00",
+      "modifiedDateTime": "2022-12-05T15:49:01.927",
+      "subjectIdentification": {
+        "id": 4767,
+        "firstName": "Marion",
+        "middleName": "Alice",
+        "lastName": "Morton",
+        "nicknames": "UNK",
+        "currentMinAge": 142,
+        "currentMaxAge": 142,
+        "computedMissingMinAge": 53,
+        "computedMissingMaxAge": 53
+      },
+      "subjectDescription": {
+        "id": 146472,
+        "heightFrom": 63,
+        "weightFrom": 95,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 64147,
+        "circumstancesOfDisappearance": "Marian Morton was seen and known to be alive by granddaughter on a winter evening in either 1938, 1939 or 1940 at 114 W Market St Georgetown, Delaware."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 60662,
+        "date": "1937-12-30",
+        "address": {
+          "city": "Georgetown",
+          "state": {
+            "id": 26,
+            "name": "Delaware",
+            "displayName": "DE"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 379,
+            "name": "Sussex County",
+            "displayName": "Sussex"
+          },
+          "countyId": 0,
+          "zipCode": "19947"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.6901134,
+            "lon": -75.38547280000002
+          },
+          "formattedAddress": "Georgetown, DE 19947, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 3524,
+          "isCaseOwner": false,
+          "name": "Georgetown Police Department",
+          "city": "Georgetown",
+          "state": {
+            "id": 26,
+            "name": "Delaware",
+            "localizedName": "DE"
+          },
+          "stateDisplayName": "DE",
+          "county": {
+            "id": 379,
+            "name": "Sussex County",
+            "localizedName": "Sussex"
+          },
+          "countyDisplayName": "Sussex",
+          "selection": {
+            "id": 48323,
+            "agency": {
+              "id": 60506,
+              "name": "Georgetown Police Department",
+              "street1": "335 North Race Street",
+              "city": "Georgetown",
+              "county": {
+                "id": 379,
+                "name": "Sussex County",
+                "localizedName": "Sussex"
+              },
+              "zipCode": "19947",
+              "state": {
+                "id": 26,
+                "name": "Delaware",
+                "localizedName": "DE"
+              },
+              "phone": "3028566613",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "81-12-001330"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 60506,
+        "isCaseOwner": false,
+        "name": "Georgetown Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 3145,
+        "investigatingAgencyIdentityId": 3524
+      },
+      "physicalDescription": {
+        "id": 4340,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [
+        {
+          "id": 29103,
+          "identityId": 26059,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-12-05T15:48:03.91",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "clipping_70504726",
+            "fileExtension": "pdf",
+            "storageKey": "49b76c773a1a44379f3cc0155465af49",
+            "href": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Documents/26059"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Documents/26059/Download"
+        },
+        {
+          "id": 29104,
+          "identityId": 26060,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-12-05T15:48:06.287",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "clipping_70506184",
+            "fileExtension": "pdf",
+            "storageKey": "ef8d693d514d4103abb47a8843cc8aac",
+            "href": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Documents/26060"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Documents/26060/Download"
+        }
+      ],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/5405/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Delaware"
+    },
+    {
+      "id": 7033,
+      "idFormatted": "MP7033",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2010-05-04T10:46:38",
+      "modifiedDateTime": "2026-05-19T12:33:19.387",
+      "subjectIdentification": {
+        "id": 31458,
+        "firstName": "Marjorie",
+        "lastName": "West",
+        "currentMinAge": 93,
+        "currentMaxAge": 93,
+        "computedMissingMinAge": 4,
+        "computedMissingMaxAge": 4
+      },
+      "subjectDescription": {
+        "id": 28950,
+        "heightFrom": 39,
+        "weightFrom": 35,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 22654,
+        "ncmecNumber": "1176415"
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": true,
+      "circumstances": {
+        "id": 33641,
+        "circumstancesOfDisappearance": "Marjorie attended a church service with her family members in Bradford, Pennsylvania during the morning hours of May 8, 1938. Her parents decided to have a Mother's Day picnic afterwards in the White Gravel area, which was a 40-minute drive from Bradford. They drove south along US Route 219, following an old railroad grade from Custer City to Marshburg, Pennsylvania. The Wests entered the White Gravel area from Chapel Fork Road in McKean County.\n\nMarjorie picked wildflowers with her older sister Dorothea later during the day. Dorothea recalled that their parents warned them against walking behind a large boulder near the flowers. She said their father and brother checked the area, but there was a chance that rattlesnakes were hiding near the rock. \nDorothea left Marjorie alone while she spoke to their mother at approximately 3:00 PM. Marjorie disappeared by the time her sister returned to the area. She has never been heard from again. The girls' mother called the police after an initial search of the area by family members produced no evidence as to Marjorie's whereabouts. Police searched with bloodhounds around the rock and down to the road where the scent trail stopped; there near the road were the violets that Marjorie had picked earlier. \n\nWitnesses reported that two vehicles drove past the Wests' picnic site prior to Marjorie's disappearance. The first was going south to Morrison just before three o'clock. The second was going toward Marshburg just after three. Authorities identified the cars and neither was involved in her case. \n\nA taxi driver in Thomas, West Virginia claimed that he saw a girl matching Marjorie's description riding in a dark-colored sedan with an unidentified man. The sighting took place at 11:38 PM on the night of her disappearance. The driver said that the individual asked him where the nearest motel was located. The driver directed him to an establishment across the street, which did not have any vacancies. The man returned and inquired about a local liquor store. The driver instructed him to stop at a bar down the road. The driver identified Marjorie as the man's passenger several days later, but man's identity remains a mystery. \n\nInvestigators determined that the approximate travel time along US Route 219 between the White Gravel area and Thomas, West Virginia was eight hours. If the individual abducted Marjorie around 3:00 PM, they would have arrived in Thomas by 11:00 - 11:30 PM that evening. Authorities were unable to confirm the child's identity. \n\nThere was speculation that Marjorie was taken to Canada by other family members, while others theorized that she may have fallen down an abandoned oil well near White Gravel. Some people believed that Marjorie may have been abducted and taken somewhere in the south or southwestern United States. \nAdditional speculation pointed towards the Tennessee Children's Home Society near Memphis, Tennessee. The facility was operated by Georgia Tann, who was initially lauded for placing at-risk children in adoptive homes. Authorities eventually learned that Tann had kidnapped over 1200 young children during the years 1932 through 1951. The majority of victims were abducted from states bordering Tennessee, although some children resided in Connecticut. Judge Camille Kelly approved Tann's custody bids for the majority of the victims. Tann placed most of the children with childless couples in New York City, New York or Los Angeles, California. \n\nNone of the theories have been proven and no one has been implicated in Marjorie's disappearance."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 6703,
+          "identityId": 9582,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A blue dress, a red hat and a navy blue mid-length coat with the collar edged in pink."
+        }
+      ],
+      "sighting": {
+        "id": 105117,
+        "date": "1938-05-08",
+        "address": {
+          "city": "White Gravel",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2351,
+            "name": "McKean County",
+            "displayName": "McKean"
+          },
+          "countyId": 0,
+          "zipCode": "16701"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.8163924,
+            "lon": -78.8091125
+          },
+          "formattedAddress": "White Gravel Creek, Hamilton Township, PA 16738, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 27081,
+          "isCaseOwner": false,
+          "name": "Pennsylvania State Police",
+          "city": "Punxsutawney",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2342,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 73360,
+            "contact": {
+              "id": 155262,
+              "firstName": "Neil",
+              "lastName": "Ginther",
+              "jobTitle": "Trooper",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 42140,
+              "name": "Pennsylvania State Police",
+              "street1": "485 North Findley Street",
+              "city": "Punxsutawney",
+              "county": {
+                "id": 2342,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "15767",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "8149380535",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C05-1091880",
+          "dateReported": "1938-05-08"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 42140,
+        "isCaseOwner": false,
+        "name": "Pennsylvania State Police"
+      },
+      "caseContributors": [
+        {
+          "id": 189931,
+          "identityId": 182103,
+          "isPublic": true,
+          "user": {
+            "id": 9223,
+            "firstName": "David",
+            "lastName": "Ray",
+            "jobTitle": "County Detective",
+            "roleId": 1,
+            "role": "Law Enforcement",
+            "isPublicEmail": false,
+            "isPublicPhone1": false,
+            "isPublicPhone2": false
+          },
+          "agency": {
+            "id": 43416,
+            "name": "Jefferson County District Attorney",
+            "street1": "200 Main Street",
+            "city": "Brookville",
+            "county": {
+              "id": 2342,
+              "name": "Jefferson County",
+              "localizedName": "Jefferson"
+            },
+            "zipCode": "15825",
+            "state": {
+              "id": 24,
+              "name": "Pennsylvania",
+              "localizedName": "PA"
+            },
+            "phone": "8148491628",
+            "approved": true,
+            "websiteUrl": "https://www.jeffersoncountypa.com/district-attorney/"
+          },
+          "relationship": {
+            "id": 16,
+            "name": "LawEnforcement",
+            "localizedName": "Law Enforcement"
+          }
+        },
+        {
+          "id": 125359,
+          "identityId": 121006,
+          "isPublic": true,
+          "user": {
+            "id": 2992,
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "jobTitle": "NCMEC Team ADAM Coordinator",
+            "roleId": 4,
+            "role": "NCMEC Liaison",
+            "isPublicEmail": false,
+            "isPublicPhone1": false,
+            "isPublicPhone2": false
+          },
+          "agency": {
+            "id": 39954,
+            "name": "National Center for Missing & Exploited Children",
+            "street1": "333 John Carlyle Street",
+            "city": "Alexandria",
+            "county": {
+              "id": 2890,
+              "name": "Alexandria City",
+              "localizedName": "Alexandria"
+            },
+            "zipCode": "22314",
+            "state": {
+              "id": 54,
+              "name": "Virginia",
+              "localizedName": "VA"
+            },
+            "phone": "8008435678",
+            "email": "namus@ncmec.org",
+            "approved": true,
+            "websiteUrl": "www.missingkids.com"
+          },
+          "relationship": {
+            "id": 22,
+            "name": "NcmecCaseManager",
+            "localizedName": "NCMEC Case Manager"
+          }
+        }
+      ],
+      "caseOwner": {
+        "id": 23173,
+        "investigatingAgencyIdentityId": 27081
+      },
+      "physicalDescription": {
+        "id": 28284,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "headHairDescription": "Very Curly, Short",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 33968,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 65534,
+          "identityId": 61671,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2010-05-04T10:46:38",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 150,
+              "width": 128,
+              "storageKey": "15f6c8d5409e45e288e131440ddd0ff1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61671/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "3461d788660a4e2d9c282cf13fec2935",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61671/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61671/Download"
+        },
+        {
+          "id": 65538,
+          "identityId": 61675,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2012-05-14T09:53:18",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 2448,
+              "width": 3264,
+              "storageKey": "ccd7a9be0ca64defba8482b8e7013c5a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61675/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "7ca54bfcafd14fb58aceb49f1b368b17",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61675/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61675/Download"
+        },
+        {
+          "id": 65535,
+          "identityId": 61672,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Dorothea at age 65, circa 1990s. ",
+          "isPublic": true,
+          "createdDateTime": "2010-05-04T10:47:09",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 150,
+              "width": 127,
+              "storageKey": "35cd7394d01c41fc8ce0ba03819b2e91",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61672/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "3f21da233e354ea9904071cb3f6576d6",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61672/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61672/Download"
+        },
+        {
+          "id": 65536,
+          "identityId": 61673,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Dorothea West at age 12, circa 1940s (Marjorie's sister, Dorothea closely resembles what Marjorie would look like)",
+          "isPublic": true,
+          "createdDateTime": "2010-05-04T10:48:18",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 150,
+              "width": 124,
+              "storageKey": "a1f51e0a92234b179fd1e882cc7ad3ba",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61673/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "712431fb0d9f43b8911219008b643fb1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61673/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61673/Download"
+        },
+        {
+          "id": 213698,
+          "identityId": 201201,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "isPublic": true,
+          "createdDateTime": "2024-02-21T23:50:41.77",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 866,
+              "width": 640,
+              "storageKey": "e5f7fd9373864432a5123abe1a33bafe",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/201201/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 89,
+              "storageKey": "f98e73623c8a409997d334394ac333f8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/201201/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/201201/Download"
+        },
+        {
+          "id": 65537,
+          "identityId": 61674,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2010-05-04T10:49:10",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 150,
+              "width": 128,
+              "storageKey": "18fd8b71e07c435ea7843d92ddcc618e",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61674/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "c711207997d64f0198c3efddae321d91",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61674/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/61674/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 18706,
+        "defaultImageIdentityId": 61671
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/7033/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 27248,
+      "idFormatted": "MP27248",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2014-12-31T18:40:25",
+      "modifiedDateTime": "2024-11-12T14:04:16.977",
+      "subjectIdentification": {
+        "id": 216269,
+        "firstName": "Roy",
+        "middleName": "John",
+        "lastName": "Frisch",
+        "currentMinAge": 139,
+        "currentMaxAge": 139,
+        "computedMissingMinAge": 46,
+        "computedMissingMaxAge": 46
+      },
+      "subjectDescription": {
+        "id": 17597,
+        "heightFrom": 68,
+        "heightTo": 69,
+        "weightFrom": 175,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 191311,
+        "circumstancesOfDisappearance": "At the time of his disappearance, Roy Frisch lived with other family members at 247 Court Street and was employed at the Riverside Bank as a cashier.  He was scheduled to testify for the government against two people alleged to be involved in organized crime.\n\nAt 7:45 pm on the evening of his disappearance, Roy Frisch left his home walking to the Majestic Theater, where he watched the movie, Gallant Lady.  After the movie, he was seen by a friend at the corner of Sierra and Court Streets.  Roy Frisch never made it home and he has not been seen since.  He is believed to have met with foul play."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 2545,
+          "identityId": 1641,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "light gray Fedora hat with wide black band (Usually Dobbs brand), initials in hat band."
+        },
+        {
+          "id": 7988,
+          "identityId": 9860,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "dark gray suit Society Brand with name Burks and Short, size 16.5 shirt with collars. Chest measured 41\", waist measured 38.5\". Name Roy Frisch or Roy J. Frisch on label inside pocket on inside coat"
+        },
+        {
+          "id": 32152,
+          "identityId": 27814,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Stacy Adams vici kid black oxfords, size 9, rubber heels, narrow (A or AA)"
+        },
+        {
+          "id": 35985,
+          "identityId": 32995,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Suspenders"
+        }
+      ],
+      "sighting": {
+        "id": 18317,
+        "date": "1934-03-22",
+        "address": {
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0,
+          "zipCode": "89501"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.5254004,
+            "lon": -119.8135266
+          },
+          "formattedAddress": "Reno, NV 89501, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 16124,
+          "isCaseOwner": false,
+          "name": "Reno Police Department",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 158059,
+            "agency": {
+              "id": 47645,
+              "name": "Reno Police Department",
+              "street1": "455 East 2nd Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89502",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7753342175",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.renopd.com/"
+            }
+          },
+          "caseNumber": "96-162608"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 47645,
+        "isCaseOwner": false,
+        "name": "Reno Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 14021,
+        "investigatingAgencyIdentityId": 16124
+      },
+      "physicalDescription": {
+        "id": 16785,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "light brown, straight combed to the left side",
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 15396,
+          "identityId": 13719,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "pit scars on the right side of his upper lip, large burn scar on left forearm"
+        },
+        {
+          "id": 3240,
+          "identityId": 2983,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "walked very erect and had a peculiar very noticeable swing to his body when he walked, shoulders thrown back and feet swing forward ahead of his body when he walked."
+        }
+      ],
+      "images": [
+        {
+          "id": 38769,
+          "identityId": 36738,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-12-31T19:33:20",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 440,
+              "width": 352,
+              "storageKey": "d5156b036d9c45428fa161ec8558efb5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36738/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "ee82572fadf945e3877c8398895da102",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36738/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36738/Download"
+        },
+        {
+          "id": 38770,
+          "identityId": 36739,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-12-31T19:34:10",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 712,
+              "width": 534,
+              "storageKey": "a4de51cef4ed44bea5047c28236b83be",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36739/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "cbbfa387fe2a46b2974536649bcb2a72",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36739/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36739/Download"
+        },
+        {
+          "id": 38771,
+          "identityId": 36740,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-12-31T19:35:25",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 669,
+              "width": 808,
+              "storageKey": "d502e98407dc437dbfaa9ec95859e519",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36740/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 99,
+              "width": 120,
+              "storageKey": "4f0639932bdb47e9ae2e902dbff79d8c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36740/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/36740/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 10956,
+        "defaultImageIdentityId": 36738
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/27248/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 27783,
+      "idFormatted": "MP27783",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2015-02-20T10:01:40",
+      "modifiedDateTime": "2023-10-12T02:03:31.16",
+      "subjectIdentification": {
+        "id": 27566,
+        "firstName": "Olga",
+        "lastName": "Mauger",
+        "currentMinAge": 113,
+        "currentMaxAge": 113,
+        "computedMissingMinAge": 21,
+        "computedMissingMaxAge": 21
+      },
+      "subjectDescription": {
+        "id": 25360,
+        "heightFrom": 65,
+        "heightTo": 69,
+        "weightFrom": 120,
+        "weightTo": 150,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 81054
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 167678,
+        "circumstancesOfDisappearance": "Olga Mauger went missing near Togwotee Pass while elk hunting with her new husband."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 99244,
+          "identityId": 973,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "A hand-axe was fastened to her belt; she carried a sack lunch"
+        },
+        {
+          "id": 99243,
+          "identityId": 13574,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Riding trousers, a man's shirt, a gray and blue pullover sweater, and a green felt tam"
+        },
+        {
+          "id": 33011,
+          "identityId": 27919,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "High laced boots"
+        }
+      ],
+      "sighting": {
+        "id": 204610,
+        "date": "1934-09-17",
+        "address": {
+          "city": "Dubois",
+          "state": {
+            "id": 29,
+            "name": "Wyoming",
+            "displayName": "WY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3193,
+            "name": "Fremont County",
+            "displayName": "Fremont"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.533565,
+            "lon": -109.6304335
+          },
+          "formattedAddress": "Dubois, WY, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 23805,
+          "isCaseOwner": false,
+          "name": "Fremont County Sheriff's Office",
+          "city": "Riverton",
+          "state": {
+            "id": 29,
+            "name": "Wyoming",
+            "localizedName": "WY"
+          },
+          "stateDisplayName": "WY",
+          "county": {
+            "id": 3193,
+            "name": "Fremont County",
+            "localizedName": "Fremont"
+          },
+          "countyDisplayName": "Fremont",
+          "selection": {
+            "id": 10098,
+            "contact": {
+              "id": 64051,
+              "firstName": "Jason",
+              "lastName": "Cox",
+              "jobTitle": "Detective",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43672,
+              "name": "Fremont County Sheriff's Office",
+              "street1": "818 South Federal Boulevard Suite 500",
+              "city": "Riverton",
+              "county": {
+                "id": 3193,
+                "name": "Fremont County",
+                "localizedName": "Fremont"
+              },
+              "zipCode": "82501",
+              "state": {
+                "id": 29,
+                "name": "Wyoming",
+                "localizedName": "WY"
+              },
+              "phone": "3078567200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C-15-02025"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43672,
+        "isCaseOwner": false,
+        "name": "Fremont County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 20471,
+        "investigatingAgencyIdentityId": 23805
+      },
+      "physicalDescription": {
+        "id": 141914,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 32072,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 191779,
+          "identityId": 181004,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-11-04T15:37:35.13",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 613,
+              "width": 389,
+              "storageKey": "81e484d268cd4863a03f1814b51218cc",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/181004/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 76,
+              "storageKey": "d4a1f6b2bfa4415485fddff9ca19430c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/181004/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/181004/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 97261,
+        "defaultImageIdentityId": 181004
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/27783/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wyoming"
+    },
+    {
+      "id": 53417,
+      "idFormatted": "MP53417",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2018-11-12T20:52:08.417",
+      "modifiedDateTime": "2023-06-08T21:03:23.07",
+      "subjectIdentification": {
+        "id": 48019,
+        "firstName": "Everett",
+        "lastName": "Ruess",
+        "currentMinAge": 112,
+        "currentMaxAge": 112,
+        "computedMissingMinAge": 20,
+        "computedMissingMaxAge": 20
+      },
+      "subjectDescription": {
+        "id": 134796,
+        "heightFrom": 67,
+        "heightTo": 69,
+        "weightFrom": 150,
+        "weightTo": 200,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 154285,
+        "circumstancesOfDisappearance": "On November 20, 1934, Everett Ruess set out alone into the Utah desert, taking two donkeys as pack animals. He was never seen again. Earlier in 1934, Ruess had told his parents he would be unreachable for nearly two months, but about three months after his last correspondence, they started receiving their son’s uncalled-for mail. They wrote a letter to the post office of Escalante, Utah, on February 7, 1935. A commissioner of Garfield County saw the letter and decided to form a search party with other men in the area. Ruess’ donkeys were found near the north side of Davis Gulch, a canyon of the Escalante River. The only sign of Ruess himself was a corral he had made at his campsite in Davis Gulch, as well as an inscription the search party found nearby, with the words “NEMO Nov 1934”. The commissioner reported the discovery of the donkeys and the inscription to Ruess’ parents in a letter dated March 8, 1935. \n\nOn March 15, after completing a last attempt to find Ruess in the Kaiparowits Plateau, Allen wrote a final note to the family calling an end to the search efforts. Later searches in late May and June 1935 included an aerial survey of the land from an altitude of 12,000 feet (3,700 m), covering the ground from Lee’s Ferry to Escalante. On the ground, a party of nine horseback riders joined the search, but discontinued their effort a week later. Some believe Ruess may have fallen off a cliff or drowned in a flash flood; others suspected he had been murdered."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 42789,
+          "identityId": 39348,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "He may have been wearing a Navajo bracelet with three turquoise stones. His bedroll, food, journal, paintings, cooking kit, and money were missing. wears a size 9 shoe."
+        }
+      ],
+      "sighting": {
+        "id": 168772,
+        "date": "1934-11-20",
+        "address": {
+          "city": "Escalante",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "displayName": "UT"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2852,
+            "name": "Garfield County",
+            "displayName": "Garfield"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.7702663,
+            "lon": -111.602119
+          },
+          "formattedAddress": "Escalante, UT 84726, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 41797,
+          "isCaseOwner": false,
+          "name": "Garfield County Sheriffs Office",
+          "city": "Panguitch",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "localizedName": "UT"
+          },
+          "stateDisplayName": "UT",
+          "county": {
+            "id": 2852,
+            "name": "Garfield County",
+            "localizedName": "Garfield"
+          },
+          "countyDisplayName": "Garfield",
+          "selection": {
+            "id": 120890,
+            "agency": {
+              "id": 48940,
+              "name": "Garfield County Sheriffs Office",
+              "street1": "375 N 700 W",
+              "city": "Panguitch",
+              "county": {
+                "id": 2852,
+                "name": "Garfield County",
+                "localizedName": "Garfield"
+              },
+              "zipCode": "84759",
+              "state": {
+                "id": 19,
+                "name": "Utah",
+                "localizedName": "UT"
+              },
+              "phone": "4356762678",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "0042753"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48940,
+        "isCaseOwner": false,
+        "name": "Garfield County Sheriffs Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 79571,
+        "investigatingAgencyIdentityId": 41797
+      },
+      "physicalDescription": {
+        "id": 45495,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 47441,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 93597,
+          "identityId": 88028,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2018-11-12T21:07:40.827",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 150,
+              "width": 104,
+              "storageKey": "b59e3775633c438a9f3ee5c495367bf5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/88028/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 83,
+              "storageKey": "1dcf4438051147d487f7503be537dd3a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/88028/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/88028/Download"
+        },
+        {
+          "id": 182724,
+          "identityId": 172567,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-03-28T20:05:25.463",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 198,
+              "width": 159,
+              "storageKey": "0df5d487ae6d4f869740a9389ea230f0",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172567/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "2ab60e1c29fe4dabbaf3331ddadc9570",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172567/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172567/Download"
+        },
+        {
+          "id": 182726,
+          "identityId": 172569,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-03-28T20:05:59.653",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 219,
+              "width": 167,
+              "storageKey": "ffde07c328d4473688e2af2828e146ac",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172569/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 92,
+              "storageKey": "fccea51d4e714633ad3256724db902a9",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172569/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172569/Download"
+        },
+        {
+          "id": 182727,
+          "identityId": 172570,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2022-03-28T20:06:04.357",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 447,
+              "width": 577,
+              "storageKey": "43c4e103959d4916b8bc23cd278d4828",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172570/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 93,
+              "width": 120,
+              "storageKey": "3172aa9c21bf4c6ba390f2aa2377ef8d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172570/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/172570/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 30218,
+        "defaultImageIdentityId": 88028
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/53417/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Utah"
+    },
+    {
+      "id": 54982,
+      "idFormatted": "MP54982",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2019-01-27T08:40:24.823",
+      "modifiedDateTime": "2023-07-05T17:35:25.197",
+      "subjectIdentification": {
+        "id": 168220,
+        "firstName": "Ruth",
+        "middleName": "Elizabeth",
+        "lastName": "Baumgardner",
+        "nicknames": "Ruthie",
+        "currentMinAge": 110,
+        "currentMaxAge": 111,
+        "computedMissingMinAge": 21,
+        "computedMissingMaxAge": 21,
+        "missingMinAge": 21
+      },
+      "subjectDescription": {
+        "id": 50801,
+        "heightFrom": 65,
+        "weightFrom": 110,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 59053,
+        "circumstancesOfDisappearance": "Ruth Baumgardner was a senior at Ohio Wesleyan University, where she majored in art. She belonged to the Delta Delta Delta, or Tri-Delt, sorority and lived in Austin Hall on campus. She resided with her parents in the 2000 block of Arthur Avenue in Lakewood, Ohio when she was not at college.\n\nShe was last seen by her sorority sisters shortly after 11 p.m. on May 4, 1937. She had her hair up in curlers and pins and was behaving normally at the time. Sometime before midnight she said goodbye to her friends and has never been seen nor heard from again."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 47465,
+          "identityId": 42879,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Possibly a brown suit and a sport hat"
+        },
+        {
+          "id": 47756,
+          "identityId": 42880,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown suede ghillie shoes which tied at the ankle"
+        }
+      ],
+      "sighting": {
+        "id": 54731,
+        "date": "1937-05-04",
+        "address": {
+          "city": "Delaware",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2129,
+            "name": "Delaware County",
+            "displayName": "Delaware"
+          },
+          "countyId": 0,
+          "zipCode": "43015"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.2986724,
+            "lon": -83.067965
+          },
+          "formattedAddress": "Delaware, OH 43015, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 46898,
+          "isCaseOwner": false,
+          "name": "Delaware Police Department",
+          "city": "Delaware",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2129,
+            "name": "Delaware County",
+            "localizedName": "Delaware"
+          },
+          "countyDisplayName": "Delaware",
+          "selection": {
+            "id": 142013,
+            "agency": {
+              "id": 53935,
+              "name": "Delaware Police Department",
+              "street1": "70 North Union Street",
+              "street2": "#2",
+              "city": "Delaware",
+              "county": {
+                "id": 2129,
+                "name": "Delaware County",
+                "localizedName": "Delaware"
+              },
+              "zipCode": "43015",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "7402031111",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.delawareohio.net/police-department-page/"
+            }
+          },
+          "caseNumber": "2023-30012350"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 53935,
+        "isCaseOwner": false,
+        "name": "Delaware Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 37839,
+        "investigatingAgencyIdentityId": 46898
+      },
+      "physicalDescription": {
+        "id": 51828,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "eyeDescription": "Her eyes may be blue or grey"
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 40504,
+          "identityId": 35161,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "An irregular streak of light blonde hair in her hair"
+        }
+      ],
+      "images": [
+        {
+          "id": 102525,
+          "identityId": 95987,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2019-02-10T03:44:38.053",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 171,
+              "width": 118,
+              "storageKey": "b846cd49208e4f659c9ce09d893403f7",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/95987/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 83,
+              "storageKey": "70c1de4e798d413180034ab5b2b2a9df",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/95987/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/95987/Download"
+        },
+        {
+          "id": 199387,
+          "identityId": 187985,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "The Delaware Gazette, Sept 13, 1993, pg. 15",
+          "isPublic": true,
+          "createdDateTime": "2023-05-02T18:48:58.873",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 860,
+              "width": 1311,
+              "storageKey": "850878f13fda4df6ad36c1523b1f6ddb",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187985/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 79,
+              "width": 120,
+              "storageKey": "a1d99e59d9d34282b25f73dc3c071be2",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187985/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187985/Download"
+        },
+        {
+          "id": 199389,
+          "identityId": 187987,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "The Delaware Gazette, Sept. 13, 1993, pg. 22",
+          "isPublic": true,
+          "createdDateTime": "2023-05-02T18:54:48.423",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 812,
+              "width": 919,
+              "storageKey": "349880f19e6e41ab8d663abf064d6fba",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187987/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 106,
+              "width": 120,
+              "storageKey": "af34ccb73e004d918ca89c6063c59173",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187987/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/187987/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 36405,
+        "defaultImageIdentityId": 95987
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/54982/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 59776,
+      "idFormatted": "MP59776",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2019-09-01T15:01:12.743",
+      "modifiedDateTime": "2021-08-06T00:13:35.987",
+      "subjectIdentification": {
+        "id": 71597,
+        "firstName": "Opal",
+        "middleName": "Beatrice",
+        "lastName": "Fulks",
+        "currentMinAge": 117,
+        "currentMaxAge": 117,
+        "computedMissingMinAge": 22,
+        "computedMissingMaxAge": 22
+      },
+      "subjectDescription": {
+        "id": 68416,
+        "heightFrom": 60,
+        "heightTo": 70,
+        "weightFrom": 100,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 78509,
+        "circumstancesOfDisappearance": "Unknown.  Last documented presence was at birth of third daughter Barbara Annette Fulks on March 4, 1931 in Monticello, Indiana."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 75569,
+        "date": "1931-03-04",
+        "address": {
+          "city": "Monticello",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "displayName": "IN"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 849,
+            "name": "White County",
+            "displayName": "White"
+          },
+          "countyId": 0,
+          "zipCode": "47960"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7453169,
+            "lon": -86.7647343
+          },
+          "formattedAddress": "Monticello, IN 47960, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 61052,
+          "isCaseOwner": false,
+          "name": "Monticello Police Department",
+          "city": "Monticello",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "localizedName": "IN"
+          },
+          "stateDisplayName": "IN",
+          "county": {
+            "id": 849,
+            "name": "White County",
+            "localizedName": "White"
+          },
+          "countyDisplayName": "White",
+          "selection": {
+            "id": 48701,
+            "contact": {
+              "id": 116657,
+              "firstName": "Jason",
+              "lastName": "Lingenfelter",
+              "jobTitle": "Chief of Police",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 58414,
+              "name": "Monticello Police Department",
+              "street1": "229 North Main Street",
+              "city": "Monticello",
+              "county": {
+                "id": 849,
+                "name": "White County",
+                "localizedName": "White"
+              },
+              "zipCode": "47960",
+              "state": {
+                "id": 49,
+                "name": "Indiana",
+                "localizedName": "IN"
+              },
+              "phone": "5745832256",
+              "email": "police@monticelloin.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.monticelloin.gov/departments/police/overview"
+            }
+          },
+          "caseNumber": "2019-292",
+          "dateReported": "2019-08-17"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 58414,
+        "isCaseOwner": false,
+        "name": "Monticello Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 45040,
+        "investigatingAgencyIdentityId": 61052
+      },
+      "physicalDescription": {
+        "id": 68992,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 118697,
+          "identityId": 111973,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2019-09-13T13:05:53.06",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 318,
+              "width": 214,
+              "storageKey": "a78f27aadd6c4e8ea8469ebdd6af5fe2",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/111973/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 81,
+              "storageKey": "5fbb4a749f3140df9f759f517b0d8661",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/111973/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/111973/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 48179,
+        "defaultImageIdentityId": 111973
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/59776/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Indiana"
+    }
+  ]
+}

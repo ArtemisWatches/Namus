@@ -1,0 +1,507 @@
+{
+  "generated_at": "2026-06-19T18:03:51.643305+00:00",
+  "case_type": "UnidentifiedPersons",
+  "decade": "1920s",
+  "count": 2,
+  "cases": [
+    {
+      "id": 5180,
+      "idFormatted": "UP5180",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2009-05-07T00:11:00",
+      "modifiedDateTime": "2026-04-10T19:30:35.943",
+      "caseIdentification": {
+        "id": 2723,
+        "caseNumber": "27-0001"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 4848,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 35,
+        "estimatedAgeTo": 45,
+        "estimatedYearOfDeathFrom": 1927,
+        "estimatedYearOfBirthFrom": 1882,
+        "estimatedYearOfBirthTo": 1892,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightFrom": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 175,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 3609,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1927-03-29",
+        "agencyQAReviewed": "2009-05-07",
+        "address": {
+          "city": "San Bernardino",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 282,
+            "name": "San Bernardino County",
+            "displayName": "San Bernardino"
+          },
+          "countyId": 0,
+          "zipCode": "92407"
+        },
+        "circumstancesOfRecovery": "This Unknown White Man (designated John Doe #01-27) was March 29, 1927, on Little Mountain approximately 100 yards west of the Kendall Dr. cut.  The body was described as a White male, 6', 175 lbs, brown hair and brown eyes, with \"fair\" complexion.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.216765,
+            "lon": -117.3851496
+          },
+          "formattedAddress": "ARROWHED FARM, CA 92407, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 20604,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 1493,
+          "identityId": 2993,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Not described, other than a \"cap\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 12581,
+          "identityId": 8604,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Not described",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 13662,
+          "identityId": 11256,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Not described",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 15955,
+          "identityId": 13883,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Not described",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 21712,
+          "identityId": 18436,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Not described",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 1842,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Brown",
+        "bodyHairDescription": "Not described",
+        "facialHairDescription": "Not described",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "eyeDescription": "Brown"
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 742,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 2476,
+          "isCaseOwner": false,
+          "name": "San Bernardino County Sheriff's Department- Coroner Division",
+          "city": "San Bernardino",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 282,
+            "name": "San Bernardino County",
+            "localizedName": "San Bernardino"
+          },
+          "countyDisplayName": "San Bernardino",
+          "selection": {
+            "id": 49131,
+            "contact": {
+              "id": 29487,
+              "firstName": "September",
+              "lastName": "Fonzi-Jones",
+              "jobTitle": "Sheriff's Service Specialist, Coroner Division",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45291,
+              "name": "San Bernardino County Sheriff's Department- Coroner Division",
+              "street1": "175 South Lena Road",
+              "city": "San Bernardino",
+              "county": {
+                "id": 282,
+                "name": "San Bernardino County",
+                "localizedName": "San Bernardino"
+              },
+              "zipCode": "92415",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9093872978",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://wp.sbcounty.gov/sheriff/divisions/coroner/"
+            }
+          },
+          "caseNumber": "27-0001"
+        }
+      ],
+      "caseContributors": [
+        {
+          "id": 26406,
+          "identityId": 20155,
+          "isPublic": true,
+          "user": {
+            "id": 29487,
+            "firstName": "September",
+            "lastName": "Fonzi-Jones",
+            "jobTitle": "Sheriff's Service Specialist, Coroner Division",
+            "roleId": 1,
+            "role": "Law Enforcement",
+            "isPublicEmail": false,
+            "isPublicPhone1": false,
+            "isPublicPhone2": false
+          },
+          "agency": {
+            "id": 45291,
+            "name": "San Bernardino County Sheriff's Department- Coroner Division",
+            "street1": "175 South Lena Road",
+            "city": "San Bernardino",
+            "county": {
+              "id": 282,
+              "name": "San Bernardino County",
+              "localizedName": "San Bernardino"
+            },
+            "zipCode": "92415",
+            "state": {
+              "id": 3,
+              "name": "California",
+              "localizedName": "CA"
+            },
+            "phone": "9093872978",
+            "approved": true,
+            "websiteUrl": "http://wp.sbcounty.gov/sheriff/divisions/coroner/"
+          }
+        }
+      ],
+      "caseOwner": {
+        "id": 19699,
+        "investigatingAgencyIdentityId": 2476
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/5180/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/5180/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 10851,
+      "idFormatted": "UP10851",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2012-12-14T18:11:15",
+      "modifiedDateTime": "2018-02-09T10:56:39",
+      "caseIdentification": {
+        "id": 15800,
+        "caseNumber": "10-1398"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 24726,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedYearOfDeathFrom": 1924,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 22568,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1924-01-01",
+        "address": {
+          "city": "Des Moines",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "displayName": "IA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "displayName": "Polk"
+          },
+          "countyId": 0
+        },
+        "circumstancesOfRecovery": "Unidentified male remains found in Des Moines, IA on 01/01/1924.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.5868353,
+            "lon": -93.6249593
+          },
+          "formattedAddress": "Des Moines, IA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 15760,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 5,
+          "name": "Not recognizable - Charred/burned",
+          "localizedName": "Not recognizable - Charred/burned"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 17560,
+          "identityId": 15869,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Lower part of a pair of hip boots",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 12244,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Long"
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 11404,
+          "isCaseOwner": false,
+          "name": "Des Moines Police Department",
+          "city": "Des Moines",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "properties": {
+            "id": 17091,
+            "contact": {
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "name": "Des Moines Police Department",
+              "city": "Des Moines",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "approved": true
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/10851/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/10851/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Iowa"
+    }
+  ]
+}

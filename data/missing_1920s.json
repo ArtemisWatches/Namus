@@ -1,0 +1,1605 @@
+{
+  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "case_type": "MissingPersons",
+  "decade": "1920s",
+  "count": 6,
+  "cases": [
+    {
+      "id": 14632,
+      "idFormatted": "MP14632",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2012-05-03T18:49:58",
+      "modifiedDateTime": "2024-01-08T20:15:49.987",
+      "subjectIdentification": {
+        "id": 13924,
+        "firstName": "Marvin",
+        "middleName": "Alvin",
+        "lastName": "Clark",
+        "currentMinAge": 168,
+        "currentMaxAge": 168,
+        "computedMissingMinAge": 69,
+        "computedMissingMaxAge": 69
+      },
+      "subjectDescription": {
+        "id": 13013,
+        "heightFrom": 67,
+        "heightTo": 68,
+        "weightFrom": 150,
+        "weightTo": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 14594,
+        "circumstancesOfDisappearance": "Marvin Alvin Clark disappeared from the Tigard, Oregon area when he took a \"motor stage\" to Portland to presumably visit his daughter.  He never arrived at her residence, and he was reported missing.  He was partially paralyzed on his right side and was said to have a halting gait.  Clark had lived in Tigard for approximately 15 years; he was also the old town marshall from Linnton, Oregon and knew the area above St. Helens Highway very well."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 16146,
+          "identityId": 9420,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Dark suit"
+        },
+        {
+          "id": 21828,
+          "identityId": 19780,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "wire-rimmed eyeglasses"
+        },
+        {
+          "id": 25467,
+          "identityId": 25395,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Known to wear leather \"high top\" boots"
+        }
+      ],
+      "sighting": {
+        "id": 213199,
+        "date": "1926-10-30",
+        "address": {
+          "city": "Tigard",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "displayName": "OR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "displayName": "Multnomah"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.5145659,
+            "lon": -122.5863212
+          },
+          "formattedAddress": "Multnomah County, OR, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 11704,
+          "isCaseOwner": false,
+          "name": "Multnomah County Sheriff's Office",
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "localizedName": "Multnomah"
+          },
+          "countyDisplayName": "Multnomah",
+          "selection": {
+            "id": 86977,
+            "contact": {
+              "id": 71104,
+              "firstName": "Lee",
+              "lastName": "Gosson",
+              "jobTitle": "Detective Sgt.",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28751,
+              "name": "Multnomah County Sheriff's Office",
+              "street1": "501 Southeast Hawthorne Boulevard, Suite 350",
+              "city": "Portland",
+              "county": {
+                "id": 2299,
+                "name": "Multnomah County",
+                "localizedName": "Multnomah"
+              },
+              "zipCode": "97214",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "5039884300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.mcso.us/site/"
+            }
+          },
+          "caseNumber": "86-4910"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 28751,
+        "isCaseOwner": false,
+        "name": "Multnomah County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 9923,
+        "investigatingAgencyIdentityId": 11704
+      },
+      "physicalDescription": {
+        "id": 12187,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "headHairDescription": "Unknown",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 2874,
+          "identityId": 2652,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Walked with a limp, may have used a cane."
+        }
+      ],
+      "images": [
+        {
+          "id": 28566,
+          "identityId": 26871,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-04-09T11:17:48",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 640,
+              "width": 500,
+              "storageKey": "61536b55668e42d6b3c41de579c68de8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26871/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "3eb363f238034e899df27032b4e5b0af",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26871/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26871/Download"
+        },
+        {
+          "id": 28567,
+          "identityId": 26872,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-04-09T11:22:19",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 640,
+              "width": 480,
+              "storageKey": "4581ca6a455240999a93683bed49ef4c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26872/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "df50ff5c8c1b41e39d247ec73954fecc",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26872/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26872/Download"
+        },
+        {
+          "id": 28568,
+          "identityId": 26873,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-04-09T11:23:22",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 480,
+              "width": 640,
+              "storageKey": "50a80cc6276d4a6d87cabf9d07041334",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26873/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0b85761c282b41889d5fdddf94a622d6",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26873/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26873/Download"
+        },
+        {
+          "id": 28569,
+          "identityId": 26874,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2014-04-09T11:28:32",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 480,
+              "width": 640,
+              "storageKey": "d4d9309930ad48dba6f4a43d76e5455d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26874/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "204fe0fafa414dc9a23dcacdd1cca961",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26874/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/26874/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 8061,
+        "defaultImageIdentityId": 26871
+      },
+      "documents": [
+        {
+          "id": 1906,
+          "identityId": 1784,
+          "title": "Newspaper Article",
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Original newspaper article documenting the disappearance of Marvin Clark, provided by the Oregonian",
+          "isPublic": true,
+          "createdDateTime": "2014-04-29T19:00:34",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "ClarkMissing.pdf",
+            "fileExtension": "pdf",
+            "storageKey": "1b2bf598ce3646f493e6218118680eba",
+            "href": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Documents/1784"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Documents/1784/Download"
+        }
+      ],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/14632/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oregon"
+    },
+    {
+      "id": 24452,
+      "idFormatted": "MP24452",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2014-05-02T18:26:08",
+      "modifiedDateTime": "2025-01-29T15:06:03.49",
+      "subjectIdentification": {
+        "id": 141581,
+        "firstName": "Gerald",
+        "middleName": "Clifford",
+        "lastName": "Bartlett",
+        "nicknames": "\"Cliff\" or \"Dutch\"",
+        "currentMinAge": 122,
+        "currentMaxAge": 122,
+        "computedMissingMinAge": 21,
+        "computedMissingMaxAge": 21
+      },
+      "subjectDescription": {
+        "id": 24666,
+        "heightFrom": 68,
+        "heightTo": 72,
+        "weightFrom": 150,
+        "weightTo": 200,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 148512,
+        "circumstancesOfDisappearance": "Date last seen is approximate. MP last shows in Census in 1925."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 270918,
+        "date": "1925-07-01",
+        "address": {
+          "city": "Devils Lake",
+          "state": {
+            "id": 20,
+            "name": "North Dakota",
+            "displayName": "ND"
+          },
+          "stateId": 0,
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 48.112779,
+            "lon": -98.86512019999999
+          },
+          "formattedAddress": "Devils Lake, ND 58301, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 23218,
+          "isCaseOwner": false,
+          "name": "Ramsey County Sheriff's Office",
+          "city": "Devils Lake",
+          "state": {
+            "id": 20,
+            "name": "North Dakota",
+            "localizedName": "ND"
+          },
+          "stateDisplayName": "ND",
+          "county": {
+            "id": 2087,
+            "name": "Ramsey County",
+            "localizedName": "Ramsey"
+          },
+          "countyDisplayName": "Ramsey",
+          "selection": {
+            "id": 116697,
+            "contact": {
+              "id": 237022,
+              "firstName": "B.",
+              "lastName": "Potts",
+              "jobTitle": "Det.",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48341,
+              "name": "Ramsey County Sheriff's Office",
+              "street1": "222 West Walnut Street",
+              "city": "Devils Lake",
+              "county": {
+                "id": 2087,
+                "name": "Ramsey County",
+                "localizedName": "Ramsey"
+              },
+              "zipCode": "58301",
+              "state": {
+                "id": 20,
+                "name": "North Dakota",
+                "localizedName": "ND"
+              },
+              "phone": "7016620700",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.ramsey.nd.us/161/Sheriff"
+            }
+          },
+          "caseNumber": "14-001400"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48341,
+        "isCaseOwner": false,
+        "name": "Ramsey County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 19922,
+        "investigatingAgencyIdentityId": 23218
+      },
+      "physicalDescription": {
+        "id": 23751,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 33352,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 178596,
+          "identityId": 168655,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2021-12-21T14:12:21.63",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 215,
+              "width": 158,
+              "storageKey": "c71ad8b890be4a9dbc23f9fc5ae88c2c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/168655/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 88,
+              "storageKey": "76be52598feb4a5991f9cac5f1822204",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/168655/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/168655/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 89793,
+        "defaultImageIdentityId": 168655
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/24452/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Dakota"
+    },
+    {
+      "id": 25633,
+      "idFormatted": "MP25633",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2014-08-08T15:04:41",
+      "modifiedDateTime": "2024-01-08T20:16:38.91",
+      "subjectIdentification": {
+        "id": 27016,
+        "firstName": "Sigmund",
+        "lastName": "Myers",
+        "nicknames": "Sig",
+        "currentMinAge": 150,
+        "currentMaxAge": 150,
+        "computedMissingMinAge": 44,
+        "computedMissingMaxAge": 44
+      },
+      "subjectDescription": {
+        "id": 24882,
+        "heightFrom": 69,
+        "weightFrom": 165,
+        "weightTo": 175,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 18411
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 28593,
+        "circumstancesOfDisappearance": "MP's family believes he has been missing since 1920\n \n* note - MP's DOB, hgt/wgt DLS are all approx."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 213200,
+        "date": "1920-01-01",
+        "address": {
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "displayName": "OR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "displayName": "Multnomah"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.515232,
+            "lon": -122.6783853
+          },
+          "formattedAddress": "Portland, OR, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 23415,
+          "isCaseOwner": false,
+          "name": "Multnomah County Sheriff's Office",
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "localizedName": "Multnomah"
+          },
+          "countyDisplayName": "Multnomah",
+          "selection": {
+            "id": 15090,
+            "contact": {
+              "id": 71104,
+              "firstName": "Lee",
+              "lastName": "Gosson",
+              "jobTitle": "Detective Sgt.",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28751,
+              "name": "Multnomah County Sheriff's Office",
+              "street1": "501 Southeast Hawthorne Boulevard, Suite 350",
+              "city": "Portland",
+              "county": {
+                "id": 2299,
+                "name": "Multnomah County",
+                "localizedName": "Multnomah"
+              },
+              "zipCode": "97214",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "5039884300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.mcso.us/site/"
+            }
+          },
+          "caseNumber": "86-4910"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 28751,
+        "isCaseOwner": false,
+        "name": "Multnomah County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 20102,
+        "investigatingAgencyIdentityId": 23415
+      },
+      "physicalDescription": {
+        "id": 23970,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 36468,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/25633/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/25633/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/25633/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oregon"
+    },
+    {
+      "id": 40180,
+      "idFormatted": "MP40180",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2017-10-10T15:18:12",
+      "modifiedDateTime": "2024-08-01T16:22:27.9",
+      "subjectIdentification": {
+        "id": 38904,
+        "firstName": "Melvin",
+        "middleName": "Charles",
+        "lastName": "Horst",
+        "currentMinAge": 101,
+        "currentMaxAge": 101,
+        "computedMissingMinAge": 4,
+        "computedMissingMaxAge": 4
+      },
+      "subjectDescription": {
+        "id": 36058,
+        "heightFrom": 37,
+        "weightFrom": 49,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 28927,
+        "ncmecNumber": "1311686"
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 61862,
+        "circumstancesOfDisappearance": "Four year old Melvin went to play with four neighborhood friends during the afternoon of December 27, 1928.  Melvin was carrying a small red toy truck or wagon at the time of his disappearance.  His friends said that they played in a vacant lot off of Chestnut St., near the railroad tracks.  The boys told authorities that Melvin said he had to walk home.  He was approximately one block from his family residence.  Melvin never arrived and has not been heard from again.  The toy was found in his front yard."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 16349,
+          "identityId": 4931,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A sweater, brown overcoat, and stocking cap"
+        }
+      ],
+      "sighting": {
+        "id": 247056,
+        "date": "1928-12-27",
+        "address": {
+          "city": "Orrville",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2193,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.8436663,
+            "lon": -81.7640212
+          },
+          "formattedAddress": "Orrville, OH 44667, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 34118,
+          "isCaseOwner": false,
+          "name": "Orrville Police Department",
+          "city": "Orrville",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2193,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 28713,
+            "contact": {
+              "id": 92218,
+              "firstName": "Jamie",
+              "lastName": "McGreal",
+              "jobTitle": "Sergeant",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 55052,
+              "name": "Orrville Police Department",
+              "street1": "207 North Main Street",
+              "city": "Orrville",
+              "county": {
+                "id": 2193,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "44667",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "3306845058",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "17-38077"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 55052,
+        "isCaseOwner": false,
+        "name": "Orrville Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 29424,
+        "investigatingAgencyIdentityId": 34118
+      },
+      "physicalDescription": {
+        "id": 35590,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 32195,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 103596,
+          "identityId": 97598,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2019-02-25T21:02:08.48",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 500,
+              "width": 400,
+              "storageKey": "cfa28e843b1c4cc1815b5fa135e1b8cf",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97598/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "be7572820b7e481f8093132cffee56db",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97598/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97598/Download"
+        },
+        {
+          "id": 103597,
+          "identityId": 97599,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 17,
+            "name": "AgeProgression",
+            "localizedName": "Age progression",
+            "ordinal": 170
+          },
+          "caption": "Age progressed to 94 yoa - AP done by NCMEC",
+          "isPublic": true,
+          "createdDateTime": "2019-02-25T21:02:09.87",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 500,
+              "width": 400,
+              "storageKey": "d20463c13c5849898d8920c17f1bb082",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97599/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "8ec48ac7ee6049919eff776a70053a3b",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97599/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/97599/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 37654,
+        "defaultImageIdentityId": 97598
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/40180/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 65312,
+      "idFormatted": "MP65312",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2020-02-13T17:45:14.207",
+      "modifiedDateTime": "2025-04-28T21:10:27.97",
+      "subjectIdentification": {
+        "id": 91152,
+        "firstName": "Louis",
+        "middleName": "C.",
+        "lastName": "Lakin",
+        "currentMinAge": 135,
+        "currentMaxAge": 135,
+        "computedMissingMinAge": 37,
+        "computedMissingMaxAge": 37
+      },
+      "subjectDescription": {
+        "id": 83002,
+        "heightFrom": 67,
+        "heightTo": 69,
+        "weightFrom": 145,
+        "weightTo": 155,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 96116,
+        "circumstancesOfDisappearance": "Louis Lakin was last known to be somewhere between the logging camps outside of Gresham, Oregon and Missoula, Montana.  Louis had family in the Portland area; they reported him missing in 1928 and searched extensively for him throughout the years."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 194443,
+        "date": "1928-01-06",
+        "address": {
+          "city": "Gresham",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "displayName": "OR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "displayName": "Multnomah"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.5044715,
+            "lon": -122.4356657
+          },
+          "formattedAddress": "Gresham, OR, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 74508,
+          "isCaseOwner": false,
+          "name": "Portland Police Bureau",
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "localizedName": "Multnomah"
+          },
+          "countyDisplayName": "Multnomah",
+          "selection": {
+            "id": 70877,
+            "contact": {
+              "id": 12468,
+              "firstName": "Heidi",
+              "lastName": "Helwig",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43352,
+              "name": "Portland Police Bureau",
+              "street1": "1111 Southwest 2nd Avenue",
+              "city": "Portland",
+              "county": {
+                "id": 2299,
+                "name": "Multnomah County",
+                "localizedName": "Multnomah"
+              },
+              "zipCode": "97204",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "5038230400",
+              "email": "missing@police.portlandoregon.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.portlandoregon.gov/police/article/549803"
+            }
+          },
+          "caseNumber": "20-680297"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43352,
+        "isCaseOwner": false,
+        "name": "Portland Police Bureau"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 89543,
+        "investigatingAgencyIdentityId": 74508
+      },
+      "physicalDescription": {
+        "id": 83127,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 134668,
+          "identityId": 126486,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Newspaper article-Missing Person",
+          "isPublic": true,
+          "createdDateTime": "2020-02-13T17:50:51.397",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1465,
+              "width": 2341,
+              "storageKey": "d42da43b65d843f595f18531422a140c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126486/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 75,
+              "width": 120,
+              "storageKey": "6aa736805efb4951a0def4f8f46cd722",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126486/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126486/Download"
+        },
+        {
+          "id": 134667,
+          "identityId": 126485,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Louis Lakin-WWI Veteran",
+          "isPublic": true,
+          "createdDateTime": "2020-02-13T17:50:21.85",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 667,
+              "width": 500,
+              "storageKey": "e5a3020195c9426b88ba12439ac5e89a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126485/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "a0c32247b6a142538f9d136598ad629a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126485/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/126485/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 59577,
+        "defaultImageIdentityId": 126485
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/65312/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oregon"
+    },
+    {
+      "id": 96395,
+      "idFormatted": "MP96395",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2022-10-17T15:19:49.52",
+      "modifiedDateTime": "2025-03-05T15:59:14.51",
+      "subjectIdentification": {
+        "id": 162559,
+        "firstName": "Melvin",
+        "middleName": "Leonard",
+        "lastName": "Raphe",
+        "nicknames": "None",
+        "currentMinAge": 129,
+        "currentMaxAge": 129,
+        "computedMissingMinAge": 31,
+        "computedMissingMaxAge": 31
+      },
+      "subjectDescription": {
+        "id": 145960,
+        "heightFrom": 68,
+        "heightTo": 71,
+        "weightFrom": 150,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 235961,
+        "circumstancesOfDisappearance": "Melvin disappeared in Indianapolis, Indiana in 1927 at the age of 31."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 183487,
+        "date": "1927-12-31",
+        "address": {
+          "city": "Indianapolis",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "displayName": "IN"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 807,
+            "name": "Marion County",
+            "displayName": "Marion"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.768403,
+            "lon": -86.158068
+          },
+          "formattedAddress": "Indianapolis, IN, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 122960,
+          "isCaseOwner": false,
+          "name": "Indianapolis Metropolitan Police Department",
+          "city": "Indianapolis",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "localizedName": "IN"
+          },
+          "stateDisplayName": "IN",
+          "county": {
+            "id": 807,
+            "name": "Marion County",
+            "localizedName": "Marion"
+          },
+          "countyDisplayName": "Marion",
+          "selection": {
+            "id": 136294,
+            "agency": {
+              "id": 45277,
+              "name": "Indianapolis Metropolitan Police Department",
+              "street1": "2451 North Keystone Avenue",
+              "city": "Indianapolis",
+              "county": {
+                "id": 807,
+                "name": "Marion County",
+                "localizedName": "Marion"
+              },
+              "zipCode": "46218",
+              "state": {
+                "id": 49,
+                "name": "Indiana",
+                "localizedName": "IN"
+              },
+              "phone": "3173276160",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "IP220115137"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 45277,
+        "isCaseOwner": false,
+        "name": "Indianapolis Metropolitan Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 107946,
+        "investigatingAgencyIdentityId": 122960
+      },
+      "physicalDescription": {
+        "id": 142004,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Likely short and balding",
+        "bodyHairDescription": "Unknown",
+        "facialHairDescription": "Unknown",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "eyeDescription": "Unknown"
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 84803,
+          "identityId": 77341,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Possibility of tattoos indicating his military service in the 12th Cavalry Regiment; 1st Kansas National Guard; and the 137th Infantry Regiment, 35th Division, American Expeditionary Force."
+        }
+      ],
+      "images": [
+        {
+          "id": 192007,
+          "identityId": 181211,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Melvin Leonard Raphe at age 21",
+          "isPublic": true,
+          "createdDateTime": "2022-11-10T16:27:02.303",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 571,
+              "width": 454,
+              "storageKey": "ec2f4ae070984933a9b705d82d7d0cb4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/181211/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 95,
+              "storageKey": "5eb39da347dc480194f000daf1697ed4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/181211/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/181211/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 97361,
+        "defaultImageIdentityId": 181211
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Indiana"
+    }
+  ]
+}

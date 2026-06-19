@@ -1,0 +1,246 @@
+{
+  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "case_type": "MissingPersons",
+  "decade": "1900s",
+  "count": 1,
+  "cases": [
+    {
+      "id": 9137,
+      "idFormatted": "MP9137",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2011-01-05T13:19:57",
+      "modifiedDateTime": "2025-03-24T13:08:00.973",
+      "subjectIdentification": {
+        "id": 5124,
+        "firstName": "Elijah",
+        "middleName": "Gersham",
+        "lastName": "Cravens",
+        "currentMinAge": 154,
+        "currentMaxAge": 165,
+        "computedMissingMinAge": 30,
+        "computedMissingMaxAge": 40,
+        "missingMinAge": 30,
+        "missingMaxAge": 40
+      },
+      "subjectDescription": {
+        "id": 5023,
+        "heightFrom": 60,
+        "heightTo": 72,
+        "weightFrom": 100,
+        "weightTo": 300,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 2567
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 175044,
+        "circumstancesOfDisappearance": "The MP was a farmer who lived outside of Okmulgee, OK.  He left on horseback to attend a 'Woodmen of the World' meeting and was never seen again (LKA is unknown)."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 5119,
+        "date": "1902-01-01",
+        "address": {
+          "city": "Okmulgee",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2252,
+            "name": "Okmulgee County",
+            "displayName": "Okmulgee"
+          },
+          "countyId": 0
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.6266957,
+            "lon": -95.9515399
+          },
+          "formattedAddress": "Okmulgee, OK 74447, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 1645,
+          "comment": "on a horse"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 3832,
+          "isCaseOwner": false,
+          "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+          "city": "Tulsa",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2268,
+            "name": "Tulsa County",
+            "localizedName": "Tulsa"
+          },
+          "countyDisplayName": "Tulsa",
+          "selection": {
+            "id": 30528,
+            "contact": {
+              "id": 1530,
+              "firstName": "Angela",
+              "lastName": "Berg",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28353,
+              "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+              "street1": "1627 Southwest Boulevard",
+              "city": "Tulsa",
+              "county": {
+                "id": 2268,
+                "name": "Tulsa County",
+                "localizedName": "Tulsa"
+              },
+              "zipCode": "74107",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9182953400",
+              "email": "unidentifiedpersons@ocme.ok.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ok.gov/ocme/"
+            }
+          },
+          "caseNumber": "OCME MP11-001",
+          "dateReported": "2011-01-05"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 28353,
+        "isCaseOwner": false,
+        "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 3410,
+        "investigatingAgencyIdentityId": 3832
+      },
+      "physicalDescription": {
+        "id": 4702,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 41314,
+        "noKnownInformation": true
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 10077,
+          "identityId": 9526,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Provided by family.",
+          "isPublic": true,
+          "createdDateTime": "2011-01-14T09:27:08",
+          "files": {
+            "original": {
+              "mimeType": "image/jpg",
+              "height": 868,
+              "width": 523,
+              "storageKey": "ad646c766a5e49338decb36f4d7c15ee",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/9526/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 72,
+              "storageKey": "43d62ddcdbd745c69526dd8ca99b05a3",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/9526/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/9526/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 3355,
+        "defaultImageIdentityId": 9526
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/9137/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
+    }
+  ]
+}
