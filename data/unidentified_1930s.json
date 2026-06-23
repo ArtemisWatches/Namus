@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T18:03:51.643305+00:00",
+  "generated_at": "2026-06-23T09:52:11.138228+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1930s",
-  "count": 6,
+  "count": 7,
   "cases": [
     {
       "id": 8366,
@@ -2141,6 +2141,226 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/77631/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/77631/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Minnesota"
+    },
+    {
+      "id": 131512,
+      "idFormatted": "UP131512",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-10-17T14:14:01.91",
+      "modifiedDateTime": "2025-11-26T16:46:45.897",
+      "caseIdentification": {
+        "id": 49923,
+        "caseNumber": "1930-256"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70225,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 37,
+        "estimatedAgeTo": 47,
+        "estimatedYearOfDeathFrom": 1930,
+        "estimatedYearOfBirthFrom": 1883,
+        "estimatedYearOfBirthTo": 1893,
+        "heightFrom": 68,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 160,
+        "weightTo": 200,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 73031,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1930-09-24",
+        "address": {
+          "city": "Rothschild",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3151,
+            "name": "Marathon County",
+            "displayName": "Marathon"
+          },
+          "countyId": 0,
+          "zipCode": "54474"
+        },
+        "description": "Near Highway 51, south of Rothschild, near papermill",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "An unidentified male was recovered in Rothschild, Wisconsin. Prior to, he had arrived to the community via train. He had left a note that mentioned his time in the war. Despite efforts, no one was able to identify him. He had a Statute of Liberty tattoo on his left arm, an American flag and initials \"PR\" and \"USA\" on his left arm, he also had a sailing vessel on his right arm.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 44.8733046,
+            "lon": -89.62045619999999
+          },
+          "formattedAddress": "Rothschild, WI 54474, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 52869,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55002,
+          "identityId": 46678,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He wore a dark blue serge double breasted suite, blue work shirt, lavender and white checkered tie, gray soft hat sized 7 1/8, new 8 inch top brown work shoes size 8.5.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45130,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Male pattern baldness",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 48726,
+          "isCaseOwner": false,
+          "name": "Marathon County Medical Examiner's Office",
+          "city": "Wausau",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3151,
+            "name": "Marathon County",
+            "localizedName": "Marathon"
+          },
+          "countyDisplayName": "Marathon",
+          "selection": {
+            "id": 61987,
+            "contact": {
+              "id": 314394,
+              "firstName": "Jessica",
+              "lastName": "Blahnik",
+              "jobTitle": "Director of Operations- Medical Examiner Office",
+              "roleId": 2,
+              "role": "Medical Examiner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 42151,
+              "name": "Marathon County Medical Examiner's Office",
+              "street1": "Marathon County Courthouse",
+              "street2": "500 Forest St.",
+              "city": "Wausau",
+              "county": {
+                "id": 3151,
+                "name": "Marathon County",
+                "localizedName": "Marathon"
+              },
+              "zipCode": "54403",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "7152611199",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "1930-256",
+          "dateReported": "1930-09-24"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/131512/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/131512/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
     }
   ]
 }
