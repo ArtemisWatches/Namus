@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T18:03:51.643305+00:00",
+  "generated_at": "2026-06-25T09:31:39.946346+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 203,
+  "count": 204,
   "cases": [
     {
       "id": 334,
@@ -55453,6 +55453,291 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/128415/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/128415/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 132138,
+      "idFormatted": "UP132138",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-10-28T22:39:22.963",
+      "modifiedDateTime": "2024-12-30T04:28:30.893",
+      "caseIdentification": {
+        "id": 49978,
+        "caseNumber": "19679/ 67-11-0001"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69218,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 155,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73231,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1967-11-27",
+        "address": {
+          "city": "Kerman",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0
+        },
+        "description": "Irrigation canal on the west side of Dickinson Avenue, 240 yards north of Muscat Avenue",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The unidentified male decedent was found in irrigation canal on the west side of Dickinson Avenue, 240 yards north of Muscat Avenue on 11/27/1967. Deceased for 3-6 weeks before discovery.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.72355719999999,
+            "lon": -120.059879
+          },
+          "formattedAddress": "Kerman, CA 93630, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 52917,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55541,
+          "identityId": 46777,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "A key to a cheap lock on a string was around the neck.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55138,
+          "identityId": 46776,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long sleeve khaki shirt, grey slacks under brown slacks, white socks and one buckskin loafer type shoe.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45179,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16825,
+          "identityId": 14172,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Appears to be small, well developed Caucasian male."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 48798,
+          "isCaseOwner": false,
+          "name": "Fresno County Sheriff's Office",
+          "city": "Fresno",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 56417,
+            "agency": {
+              "id": 46046,
+              "name": "Fresno County Sheriff's Office",
+              "street1": "2200 Fresno Street",
+              "city": "Fresno",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93721",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596008400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fresnosheriff.org/"
+            }
+          }
+        },
+        {
+          "id": 48883,
+          "isCaseOwner": false,
+          "name": "Fresno County Sheriff - Coroner's Office",
+          "city": "Fresno",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 56536,
+            "agency": {
+              "id": 46045,
+              "name": "Fresno County Sheriff - Coroner's Office",
+              "street1": "3333 East American Avenue, Suite G",
+              "city": "Fresno",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93725",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596003400",
+              "email": "coroner@fresnosheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fresnosheriff.org/coroner.html"
+            }
+          },
+          "caseNumber": "19679/ 67-11-0001"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 22740,
+        "investigatingAgencyIdentityId": 48883
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/132138/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/132138/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

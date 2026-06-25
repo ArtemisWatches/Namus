@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "generated_at": "2026-06-25T09:31:29.083125+00:00",
   "case_type": "MissingPersons",
   "decade": "1950s",
-  "count": 79,
+  "count": 80,
   "cases": [
     {
       "id": 1379,
@@ -22823,6 +22823,294 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/129354/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/129354/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 132927,
+      "idFormatted": "MP132927",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-11-09T22:24:05.46",
+      "modifiedDateTime": "2025-05-23T15:51:57.687",
+      "subjectIdentification": {
+        "id": 233481,
+        "firstName": "Mary",
+        "middleName": "Louise",
+        "lastName": "Dragoo",
+        "nicknames": "Mary Dagroo",
+        "currentMinAge": 111,
+        "currentMaxAge": 111,
+        "computedMissingMinAge": 43,
+        "computedMissingMaxAge": 43
+      },
+      "subjectDescription": {
+        "id": 198233,
+        "heightFrom": 60,
+        "weightFrom": 140,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 101417
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 223836,
+        "circumstancesOfDisappearance": "Individual left her home in Bartlett Cove for a walk and never returned. Husband was the individual who reported her missing, Searches began the following day and were called off after 3 days."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 266692,
+        "date": "1958-05-12",
+        "address": {
+          "city": "Gustavus",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "displayName": "AK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 133,
+            "name": "Hoonah–Angoon Census Area",
+            "displayName": "Hoonah–Angoon"
+          },
+          "countyId": 0,
+          "zipCode": "99826"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 58.4126017,
+            "lon": -135.7389018
+          },
+          "formattedAddress": "Gustavus, AK 99826, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 156174,
+          "isCaseOwner": false,
+          "name": "National Park Service - Glacier Bay",
+          "city": "Gustavus",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 133,
+            "name": "Hoonah–Angoon Census Area",
+            "localizedName": "Hoonah–Angoon"
+          },
+          "countyDisplayName": "Hoonah–Angoon",
+          "selection": {
+            "id": 179727,
+            "agency": {
+              "id": 80067,
+              "name": "National Park Service - Glacier Bay",
+              "street1": "1 Park Road",
+              "city": "Gustavus",
+              "county": {
+                "id": 133,
+                "name": "Hoonah–Angoon Census Area",
+                "localizedName": "Hoonah–Angoon"
+              },
+              "zipCode": "99826",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9076972230",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nps.gov/glba/contacts.htm"
+            }
+          },
+          "caseNumber": "NP24320525",
+          "dateReported": "1958-05-12"
+        },
+        {
+          "id": 161330,
+          "isCaseOwner": false,
+          "name": "Alaska State Troopers",
+          "city": "Anchorage",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 126,
+            "name": "Anchorage Borough",
+            "localizedName": "Anchorage"
+          },
+          "countyDisplayName": "Anchorage",
+          "selection": {
+            "id": 185249,
+            "contact": {
+              "id": 21038,
+              "firstName": "Malia",
+              "lastName": "Miller",
+              "jobTitle": "Missing Persons Clearinghouse Manager",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40118,
+              "name": "Alaska State Troopers",
+              "street1": "5700 East Tudor Road",
+              "city": "Anchorage",
+              "county": {
+                "id": 126,
+                "name": "Anchorage Borough",
+                "localizedName": "Anchorage"
+              },
+              "zipCode": "99507",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9072695511",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "AK24130969",
+          "dateReported": "1958-05-12"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 80067,
+        "isCaseOwner": false,
+        "name": "National Park Service - Glacier Bay"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 103913,
+        "investigatingAgencyIdentityId": 156174
+      },
+      "physicalDescription": {
+        "id": 186638,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 227267,
+          "identityId": 213188,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Image Mrs. Dragoo",
+          "isPublic": true,
+          "createdDateTime": "2024-12-21T23:49:58.357",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1920,
+              "width": 1440,
+              "storageKey": "40cc13c72f6247f1965e622779bb6121",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/213188/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "86b4b33bca4940118f6ae4ef9366f626",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/213188/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/213188/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 114763,
+        "defaultImageIdentityId": 213188
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
     }
   ]
 }
