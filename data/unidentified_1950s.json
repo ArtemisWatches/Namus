@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T11:10:20.735171+00:00",
+  "generated_at": "2026-07-01T09:58:13.219132+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 83,
+  "count": 84,
   "cases": [
     {
       "id": 2802,
@@ -20978,6 +20978,253 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/133971/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/133971/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 134871,
+      "idFormatted": "UP134871",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-13T18:39:20.19",
+      "modifiedDateTime": "2024-12-13T21:57:40.927",
+      "caseIdentification": {
+        "id": 50221,
+        "caseNumber": "BCC1951"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69621,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 20,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 7,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73764,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1951-09-13",
+        "address": {
+          "city": "Solebury Township",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2318,
+            "name": "Bucks County",
+            "displayName": "Bucks"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found in a suitcase in a creek.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.368676,
+            "lon": -75.0026972
+          },
+          "formattedAddress": "Solebury Township, PA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53201,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45454,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49100,
+          "isCaseOwner": false,
+          "name": "Bucks County Coroners Office",
+          "city": "Warmister",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2318,
+            "name": "Bucks County",
+            "localizedName": "Bucks"
+          },
+          "countyDisplayName": "Bucks",
+          "selection": {
+            "id": 57016,
+            "contact": {
+              "id": 261049,
+              "firstName": "Kristina",
+              "lastName": "Johnson",
+              "jobTitle": "Deputy Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29199,
+              "name": "Bucks County Coroners Office",
+              "street1": "850 Eagle Boulevard",
+              "city": "Warmister",
+              "county": {
+                "id": 2318,
+                "name": "Bucks County",
+                "localizedName": "Bucks"
+              },
+              "zipCode": "18974",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "2678805040",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.buckscounty.gov/337/Coroner"
+            }
+          },
+          "caseNumber": "BCC1951"
+        },
+        {
+          "id": 49101,
+          "isCaseOwner": false,
+          "name": "Pennsylvania State Police",
+          "city": "Dublin",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2318,
+            "name": "Bucks County",
+            "localizedName": "Bucks"
+          },
+          "countyDisplayName": "Bucks",
+          "selection": {
+            "id": 57013,
+            "agency": {
+              "id": 75412,
+              "name": "Pennsylvania State Police",
+              "street1": "3218 Rickert Road",
+              "city": "Dublin",
+              "county": {
+                "id": 2318,
+                "name": "Bucks County",
+                "localizedName": "Bucks"
+              },
+              "zipCode": "18917",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "2152499191",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 22966,
+        "investigatingAgencyIdentityId": 49100
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134871/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134871/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }
