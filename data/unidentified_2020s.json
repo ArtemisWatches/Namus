@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T09:58:13.219132+00:00",
+  "generated_at": "2026-07-02T09:20:54.321017+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1864,
+  "count": 1869,
   "cases": [
     {
       "id": 64643,
@@ -566046,6 +566046,1493 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135202/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135202/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 135251,
+      "idFormatted": "UP135251",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-20T20:03:15.947",
+      "modifiedDateTime": "2026-02-16T21:10:05.613",
+      "caseIdentification": {
+        "id": 50256,
+        "caseNumber": "2024-04031"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72303,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 21,
+        "estimatedAgeTo": 99,
+        "heightFrom": 59,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77398,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-06-02",
+        "address": {
+          "city": "Animas",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1869,
+            "name": "Hidalgo County",
+            "displayName": "Hidalgo"
+          },
+          "countyId": 0,
+          "zipCode": "88020"
+        },
+        "description": "31.89110, -108.75642",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.89110, -108.75642",
+        "circumstancesOfRecovery": "Humerus bone found by Battalion Search and Rescue 5 miles South of Animas, NM on County Road 1 and 3 miles East off Arena Rd in Hidalgo.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.9496748,
+            "lon": -108.8067046
+          },
+          "formattedAddress": "Animas, NM 88020, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55273,
+        "headNotRecovered": true,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45498,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49133,
+          "isCaseOwner": false,
+          "name": "Hidalgo County Sheriff's Office",
+          "city": "Lordsburg",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1869,
+            "name": "Hidalgo County",
+            "localizedName": "Hidalgo"
+          },
+          "countyDisplayName": "Hidalgo",
+          "selection": {
+            "id": 57060,
+            "agency": {
+              "id": 44181,
+              "name": "Hidalgo County Sheriff's Office",
+              "street1": "730 East 2nd Street",
+              "city": "Lordsburg",
+              "county": {
+                "id": 1869,
+                "name": "Hidalgo County",
+                "localizedName": "Hidalgo"
+              },
+              "zipCode": "88045",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755423833",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.hidalgocounty.org/index.php/services/law-enforcement/"
+            }
+          }
+        },
+        {
+          "id": 52073,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 62543,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "2024-04031"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25357,
+        "investigatingAgencyIdentityId": 52073
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135251/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135251/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 135253,
+      "idFormatted": "UP135253",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-20T20:19:57.553",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 50257,
+        "caseNumber": "2022-03172"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71472,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "possibleFirstName": "Jorge",
+        "possibleLastName": "Flores-Nicolas",
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78331,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-04-25",
+        "address": {
+          "city": "Deming",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1873,
+            "name": "Luna County",
+            "displayName": "Luna"
+          },
+          "countyId": 0,
+          "zipCode": "88030"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.1396, -108.0319",
+        "circumstancesOfRecovery": "Local ranchers found the skeletal remains 70 yard off of Gage Rd.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.2686981,
+            "lon": -107.7586404
+          },
+          "formattedAddress": "Deming, NM 88030, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55270,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58327,
+          "identityId": 49133,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Black rim glasses",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45499,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 131488,
+          "identityId": 118648,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Photo from identification card",
+          "isPublic": true,
+          "createdDateTime": "2026-01-13T16:45:26.667",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1941,
+              "width": 1464,
+              "storageKey": "b2b6521c62384495872841510c27c3a3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118648/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "1ebbe63eb0a6468d9606374ad8f086c9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118648/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118648/Download"
+        },
+        {
+          "id": 131514,
+          "identityId": 118670,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Misc items found near the remains",
+          "isPublic": true,
+          "createdDateTime": "2026-01-14T12:53:16.667",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2537,
+              "width": 4135,
+              "storageKey": "cb87e3661b68477a979f1fdcb8975f92",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118670/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 74,
+              "width": 120,
+              "storageKey": "2e21b63436de4f9a80888c23a4e8acf2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118670/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118670/Download"
+        },
+        {
+          "id": 131515,
+          "identityId": 118671,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Misc items found near the remains",
+          "isPublic": true,
+          "createdDateTime": "2026-01-14T12:54:43.573",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1678,
+              "width": 3280,
+              "storageKey": "aacdf6ceced04f0a88430afe56ae640e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118671/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 61,
+              "width": 120,
+              "storageKey": "4bca3cce8d5d4e39b109706d0ab24aae",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118671/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/118671/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26348,
+        "defaultImageIdentityId": 118648
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49134,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Deming",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1873,
+            "name": "Luna County",
+            "localizedName": "Luna"
+          },
+          "countyDisplayName": "Luna",
+          "selection": {
+            "id": 57061,
+            "agency": {
+              "id": 63172,
+              "name": "New Mexico State Police",
+              "street1": "3000 East Pine Street",
+              "city": "Deming",
+              "county": {
+                "id": 1873,
+                "name": "Luna County",
+                "localizedName": "Luna"
+              },
+              "zipCode": "88030",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755466631",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 52071,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 62541,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "2022-03172"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25355,
+        "investigatingAgencyIdentityId": 52071
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135253/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 135289,
+      "idFormatted": "UP135289",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-21T06:11:34.663",
+      "modifiedDateTime": "2024-12-24T02:35:54.313",
+      "caseIdentification": {
+        "id": 50261,
+        "caseNumber": "24-0601"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69690,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightFrom": 15,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73854,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-07",
+        "address": {
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "displayName": "El Paso"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Found at home in a state of decomposition/skeletonization.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.7618778,
+            "lon": -106.4850217
+          },
+          "formattedAddress": "El Paso, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53244,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45502,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49137,
+          "isCaseOwner": false,
+          "name": "El Paso County Medical Examiners Office",
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "localizedName": "El Paso"
+          },
+          "countyDisplayName": "El Paso",
+          "selection": {
+            "id": 57064,
+            "agency": {
+              "id": 33532,
+              "name": "El Paso County Medical Examiners Office",
+              "street1": "4505 Alberta Avenue",
+              "city": "El Paso",
+              "county": {
+                "id": 2659,
+                "name": "El Paso County",
+                "localizedName": "El Paso"
+              },
+              "zipCode": "79905",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9155321447",
+              "email": "medexaminquiry@epcounty.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.epcounty.com/medicalexaminer/"
+            }
+          },
+          "caseNumber": "24-0601",
+          "dateReported": "2024-11-07"
+        },
+        {
+          "id": 49138,
+          "isCaseOwner": false,
+          "name": "El Paso Police Department",
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "localizedName": "El Paso"
+          },
+          "countyDisplayName": "El Paso",
+          "selection": {
+            "id": 57065,
+            "agency": {
+              "id": 40095,
+              "name": "El Paso Police Department",
+              "street1": "911 North Raynor",
+              "city": "El Paso",
+              "county": {
+                "id": 2659,
+                "name": "El Paso County",
+                "localizedName": "El Paso"
+              },
+              "zipCode": "79903",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9158324400",
+              "email": "pdpios@elpasotexas.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.elpasotexas.gov/police-department"
+            }
+          },
+          "caseNumber": "24-312166",
+          "dateReported": "2024-11-07"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135289/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135289/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 135544,
+      "idFormatted": "UP135544",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-27T14:43:10.633",
+      "modifiedDateTime": "2024-12-27T16:11:31.187",
+      "caseIdentification": {
+        "id": 50265,
+        "caseNumber": "DC24-1398"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69700,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 75,
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 112,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73872,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-06",
+        "address": {
+          "city": "Hyde Park",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1903,
+            "name": "Dutchess County",
+            "displayName": "Dutchess"
+          },
+          "countyId": 0,
+          "zipCode": "12538"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The body of an unidentified elderly female, lying face down was located along the East side of the Hudson River at the Vanderbilt Mansion Historic Sight, 119 Vanderbilt Park Road, Hyde Park, NY. The female has no scars, marks, or tattoos.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.7846911,
+            "lon": -73.9332993
+          },
+          "formattedAddress": "Hyde Park, NY 12538, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53249,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45509,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16924,
+          "identityId": 14239,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "The female has no scars, marks, or tattoos."
+        }
+      ],
+      "images": [
+        {
+          "id": 122980,
+          "identityId": 110852,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2024-12-27T14:47:26.497",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 3000,
+              "storageKey": "4757642aeeb94d1281455736a04b39d3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135544/Images/110852/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "ec5ff5b0ff76412da9192e68026f93ec",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135544/Images/110852/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135544/Images/110852/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25483,
+        "defaultImageIdentityId": 110852
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49145,
+          "isCaseOwner": false,
+          "name": "Dutchess County Medical Examiner's Office",
+          "city": "Poughkeepsie",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1903,
+            "name": "Dutchess County",
+            "localizedName": "Dutchess"
+          },
+          "countyDisplayName": "Dutchess",
+          "selection": {
+            "id": 57075,
+            "agency": {
+              "id": 23358,
+              "name": "Dutchess County Medical Examiner's Office",
+              "street1": "168 Washington Street",
+              "city": "Poughkeepsie",
+              "county": {
+                "id": 1903,
+                "name": "Dutchess County",
+                "localizedName": "Dutchess"
+              },
+              "zipCode": "12601",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "8454319177",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dutchessny.gov/CountyGov/Departments/DBCH/HDme.htm"
+            }
+          },
+          "caseNumber": "DC24-1398"
+        },
+        {
+          "id": 49146,
+          "isCaseOwner": false,
+          "name": "New York State Police - Rhinebeck",
+          "city": "Rhinebeck",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1903,
+            "name": "Dutchess County",
+            "localizedName": "Dutchess"
+          },
+          "countyDisplayName": "Dutchess",
+          "selection": {
+            "id": 57076,
+            "agency": {
+              "id": 45957,
+              "name": "New York State Police - Rhinebeck",
+              "street1": "5696 U.S. 9",
+              "city": "Rhinebeck",
+              "county": {
+                "id": 1903,
+                "name": "Dutchess County",
+                "localizedName": "Dutchess"
+              },
+              "zipCode": "12572",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "8458764194",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://troopers.ny.gov/location/troop-k"
+            }
+          },
+          "caseNumber": "NY2400970235"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 22994,
+        "investigatingAgencyIdentityId": 49145
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135544/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135544/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 135689,
+      "idFormatted": "UP135689",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2024-12-30T20:02:13.26",
+      "modifiedDateTime": "2025-09-02T21:44:05.103",
+      "caseIdentification": {
+        "id": 50271,
+        "caseNumber": "24-3984"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69720,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 65,
+        "estimatedYearOfDeathFrom": 2017,
+        "estimatedYearOfDeathTo": 2023,
+        "estimatedYearOfBirthFrom": 1952,
+        "estimatedYearOfBirthTo": 1998,
+        "heightFrom": 59,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 73888,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-18",
+        "address": {
+          "city": "SE of Pena Blanca Lake",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "displayName": "Santa Cruz"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.393310, -111.076260",
+        "circumstancesOfRecovery": "Remains were discovered in a remote desert area by USBP.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.4047794,
+            "lon": -111.086652
+          },
+          "formattedAddress": "Peña Blanca Lake, Arizona 85621, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53255,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55557,
+          "identityId": 47041,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Black Alcatel one touch cell phone",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55555,
+          "identityId": 47040,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Short sleeve polo shirt - Dark in color \"George\" brand - Size Medium\nBall cap - likely originally a dark color with NY on the front - New Era brand - Size 7 1/8",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45517,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16928,
+          "identityId": 14243,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Small tooth colored fillings on lower first R and L molars"
+        }
+      ],
+      "images": [
+        {
+          "id": 122992,
+          "identityId": 110861,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Ball cap similar to this one was found near the decedent - Size 7 1/8",
+          "isPublic": true,
+          "createdDateTime": "2024-12-30T21:34:04.233",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 722,
+              "width": 896,
+              "storageKey": "c0c46378bcb846289fd32f5b221581a3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110861/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 97,
+              "width": 120,
+              "storageKey": "08abed008cf74055bc48869fb4666147",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110861/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110861/Download"
+        },
+        {
+          "id": 122991,
+          "identityId": 110862,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2024-12-30T21:34:05.217",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 587,
+              "width": 482,
+              "storageKey": "8ee4f440d4c34c39a9012241d014a4de",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110862/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "cdb6d7b7ef3848b2b16e6f5ee206360d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110862/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/110862/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25488,
+        "defaultImageIdentityId": 110861
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49154,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57084,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3984"
+        },
+        {
+          "id": 49155,
+          "isCaseOwner": false,
+          "name": "Santa Cruz County Sheriff's Office",
+          "city": "Nogales",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "localizedName": "Santa Cruz"
+          },
+          "countyDisplayName": "Santa Cruz",
+          "selection": {
+            "id": 57085,
+            "agency": {
+              "id": 48457,
+              "name": "Santa Cruz County Sheriff's Office",
+              "street1": "2170 North Congress Drive",
+              "city": "Nogales",
+              "county": {
+                "id": 169,
+                "name": "Santa Cruz County",
+                "localizedName": "Santa Cruz"
+              },
+              "zipCode": "85621",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207617869",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://santacruzsheriff.org/"
+            }
+          },
+          "caseNumber": "241118004"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23000,
+        "investigatingAgencyIdentityId": 49154
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135689/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
     }
   ]
 }
