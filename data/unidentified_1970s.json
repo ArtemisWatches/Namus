@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T09:58:13.219132+00:00",
+  "generated_at": "2026-07-03T09:26:19.366712+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 948,
+  "count": 952,
   "cases": [
     {
       "id": 103,
@@ -273377,6 +273377,1006 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134866/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134866/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
+    },
+    {
+      "id": 135990,
+      "idFormatted": "UP135990",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-05T19:47:00.727",
+      "modifiedDateTime": "2025-07-11T05:13:00.92",
+      "caseIdentification": {
+        "id": 50968,
+        "caseNumber": "1972-02265"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71440,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 35,
+        "estimatedYearOfDeathFrom": 1972,
+        "estimatedYearOfBirthFrom": 1937,
+        "estimatedYearOfBirthTo": 1947,
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 73924,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1972-10-01",
+        "address": {
+          "city": "Ramona",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92065"
+        },
+        "description": "100' N of Black Canyon Rd. & 9.1 mi. N. of Highway 78",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "On 10/01/1972, the decedent's shallow grave and a portion of his remains had been found by individuals searching for rocks in the area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.04136039999999,
+            "lon": -116.8792553
+          },
+          "formattedAddress": "Ramona, CA 92065, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53280,
+        "conditionOfRemains": {
+          "id": 9,
+          "name": "Not recognizable - Partial remains with soft tissues",
+          "localizedName": "Not recognizable - Partial remains with soft tissues"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56341,
+          "identityId": 47055,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Remains were clad in white denim, bell bottom, trousers labeled \"PHILMAT\", white knit under shirt and black synthetic leather wind breaker. Remains were wrapped in 4 blankets, wrapped in a dark green plastic drop cloth, then topped by a thin square piece of wood & covered with dirt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45538,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "bodyHairDescription": "Extremities appear extremely hairy.",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49206,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 59978,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "1972-02265"
+        },
+        {
+          "id": 50340,
+          "isCaseOwner": false,
+          "name": "San Diego County Sheriff's Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 59977,
+            "agency": {
+              "id": 44057,
+              "name": "San Diego County Sheriff's Department",
+              "street1": "9621 Ridgehaven Court",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8585655200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.sdsheriff.net"
+            }
+          },
+          "caseNumber": "329799"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23027,
+        "investigatingAgencyIdentityId": 49206
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135990/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135990/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 135991,
+      "idFormatted": "UP135991",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-05T20:07:55.93",
+      "modifiedDateTime": "2025-06-25T12:26:37.763",
+      "caseIdentification": {
+        "id": 50297,
+        "caseNumber": "1972-00130"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69759,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 138,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73927,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1972-01-13",
+        "address": {
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92014"
+        },
+        "description": "253 N. 21st St",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was seen in the area at 3:30pm and talked to a gentleman that lives at 253 N. 21st. St. The decedent asked if ok to stay on his lawn. At approx. 5:10pm, the decedent was observed by the homeowner on all fours in front of residence. The decedent was assisted to the rear of the residence were he was given some coffee and food. The decedent started declining right away and was deceased before medics could arrive.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.9864215,
+            "lon": -117.226457
+          },
+          "formattedAddress": "Del Mar, CA 92014, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53281,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55583,
+          "identityId": 47056,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "The decedent was wearing a gray jacket with the tag, \"Sierra Sportswear, made in California\", sewed on the inside. The collar and the wrist webbing were brow. There was a gray knit sweater with no label attached. A  blue handkerchief with a white design was in his trousers/pocket. The decedent was wearing size 9.5 brown hush puppy shoes; one green and one maroon sock; a blue short-sleeved shirt, size 15.5 \"Mr. Leggs\" label on the inside; green striped trousers, \"Lee\" brand; brown-yellow-white t-shirt; and a pair of solid green trousers with no brand name. In trousers/belt loops was a dark brown belt, size 37, with a silver buckle. On the buckle was a snake and cactus plant; the snake was raised above the silver buckle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55584,
+          "identityId": 47057,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "1 x 20 cent Singapore coin\n1 x 25 centavo Philippines coin",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45540,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "facialHairDescription": "full growth of a mustache and beard; within were gray hairs.",
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16930,
+          "identityId": 14245,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the decedent's left foreman were three homemade tattoos. At the wrist area were the initials G.S. or C.S. Above them appeared another single initial, either a small letter \"e\" or a capital \"C\". Above that was  a poorly defined outline of a possible heart shape."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49182,
+          "isCaseOwner": false,
+          "name": "San Diego Police Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 57134,
+            "agency": {
+              "id": 43441,
+              "name": "San Diego Police Department",
+              "street1": "1401 Broadway",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92101",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6195312000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiego.gov/police"
+            }
+          }
+        },
+        {
+          "id": 49205,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 59986,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "1972-00130"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23026,
+        "investigatingAgencyIdentityId": 49205
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135991/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135991/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 136139,
+      "idFormatted": "UP136139",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-07T17:56:33.147",
+      "modifiedDateTime": "2025-05-05T13:40:20.823",
+      "caseIdentification": {
+        "id": 50320,
+        "caseNumber": "76-2825"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69802,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightFrom": 6,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73973,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-11-13",
+        "address": {
+          "city": "Huntington",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "displayName": "Suffolk"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn found on Round Swamp Road, approximately 1/4 miles south of Manetto Hill Road, in Huntington, NY.\nAnimal scavenging observed on lower portion of body.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.8681539,
+            "lon": -73.425676
+          },
+          "formattedAddress": "Huntington, NY, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53309,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55601,
+          "identityId": 47069,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "plastic bag",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45565,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49210,
+          "isCaseOwner": false,
+          "name": "Suffolk County Medical Examiner's Office",
+          "city": "Hauppauge",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 57162,
+            "contact": {
+              "id": 237377,
+              "firstName": "Amy",
+              "lastName": "Rapkiewicz",
+              "jobTitle": "Deputy Medical Examiner",
+              "roleId": 2,
+              "role": "Medical Examiner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43955,
+              "name": "Suffolk County Medical Examiner's Office",
+              "street1": "725 Veterans Memorial Highway, Bldg. #487",
+              "city": "Hauppauge",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11788",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318535555",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.suffolkcountyny.gov/Departments/Medical-Examiner"
+            }
+          },
+          "caseNumber": "76-2825",
+          "dateReported": "1976-11-13"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23034,
+        "investigatingAgencyIdentityId": 49210
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136139/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136139/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 136135,
+      "idFormatted": "UP136135",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-07T17:29:21.983",
+      "modifiedDateTime": "2025-05-05T13:40:09.947",
+      "caseIdentification": {
+        "id": 50319,
+        "caseNumber": "74-1167"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69801,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 18,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 6,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73970,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-04-28",
+        "address": {
+          "city": "Huntington",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "displayName": "Suffolk"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found on the side of a house on Norwich St. in Huntington, NY.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.8681539,
+            "lon": -73.425676
+          },
+          "formattedAddress": "Huntington, NY, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53308,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55600,
+          "identityId": 47068,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Plastic bag and shroud",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45564,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49209,
+          "isCaseOwner": false,
+          "name": "Suffolk County Medical Examiner's Office",
+          "city": "Hauppauge",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 57161,
+            "contact": {
+              "id": 237377,
+              "firstName": "Amy",
+              "lastName": "Rapkiewicz",
+              "jobTitle": "Deputy Medical Examiner",
+              "roleId": 2,
+              "role": "Medical Examiner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43955,
+              "name": "Suffolk County Medical Examiner's Office",
+              "street1": "725 Veterans Memorial Highway, Bldg. #487",
+              "city": "Hauppauge",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11788",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318535555",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.suffolkcountyny.gov/Departments/Medical-Examiner"
+            }
+          },
+          "caseNumber": "74-1167",
+          "dateReported": "1974-04-28"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23032,
+        "investigatingAgencyIdentityId": 49209
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136135/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136135/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }

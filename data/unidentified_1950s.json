@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T09:58:13.219132+00:00",
+  "generated_at": "2026-07-03T09:26:19.366712+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 84,
+  "count": 96,
   "cases": [
     {
       "id": 2802,
@@ -21225,6 +21225,2927 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134871/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/134871/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 135821,
+      "idFormatted": "UP135821",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-02T20:10:59.187",
+      "modifiedDateTime": "2025-05-01T13:44:59.307",
+      "caseIdentification": {
+        "id": 50278,
+        "caseNumber": "C1957-00001"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69728,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 40,
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedYearOfBirthFrom": 1917,
+        "estimatedYearOfBirthTo": 1927,
+        "estimatedPostmortemInterval": 6,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 160,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73892,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-01-29",
+        "address": {
+          "city": "Norfolk",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2973,
+            "name": "Norfolk City",
+            "displayName": "Norfolk"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in abandoned vehicle in the parking lot of a service station. Had been seen the night before.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.8500234,
+            "lon": -76.2899071
+          },
+          "formattedAddress": "Downtown, Norfolk, VA 23510, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53258,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55569,
+          "identityId": 47048,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Coverall type pants\nTopcoat",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45521,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16929,
+          "identityId": 14244,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "2\" well-healed scar in the horizonal plane of the lower left quadrant"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49159,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Tidewater District",
+          "city": "Norfolk",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2973,
+            "name": "Norfolk City",
+            "localizedName": "Norfolk"
+          },
+          "countyDisplayName": "Norfolk",
+          "selection": {
+            "id": 57101,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 53880,
+              "name": "Office of the Chief Medical Examiner Tidewater District",
+              "street1": "830 Southampton Ave., Suite 100",
+              "city": "Norfolk",
+              "county": {
+                "id": 2973,
+                "name": "Norfolk City",
+                "localizedName": "Norfolk"
+              },
+              "zipCode": "23510",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7576838366",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1957-00001"
+        },
+        {
+          "id": 49160,
+          "isCaseOwner": false,
+          "name": "Norfolk Police Department",
+          "city": "Norfolk",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2973,
+            "name": "Norfolk City",
+            "localizedName": "Norfolk"
+          },
+          "countyDisplayName": "Norfolk",
+          "selection": {
+            "id": 57096,
+            "agency": {
+              "id": 44197,
+              "name": "Norfolk Police Department",
+              "street1": "100 Brooke Avenue",
+              "city": "Norfolk",
+              "county": {
+                "id": 2973,
+                "name": "Norfolk City",
+                "localizedName": "Norfolk"
+              },
+              "zipCode": "23510",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7576643277",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.norfolk.gov/police"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23004,
+        "investigatingAgencyIdentityId": 49159
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135821/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135821/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135826,
+      "idFormatted": "UP135826",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-02T20:37:20.2",
+      "modifiedDateTime": "2025-01-14T17:53:54.743",
+      "caseIdentification": {
+        "id": 50279,
+        "caseNumber": "C1957-00002"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69730,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightFrom": 22,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 8,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74106,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-02-27",
+        "address": {
+          "city": "Blackstone",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2977,
+            "name": "Nottoway County",
+            "displayName": "Nottoway"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found in a city dump",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.080428,
+            "lon": -77.99722589999999
+          },
+          "formattedAddress": "Blackstone, VA 23824, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53260,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45522,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49161,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 57102,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C1957-00002"
+        },
+        {
+          "id": 49162,
+          "isCaseOwner": false,
+          "name": "Blackstone Police Department",
+          "city": "Blackstone",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2977,
+            "name": "Nottoway County",
+            "localizedName": "Nottoway"
+          },
+          "countyDisplayName": "Nottoway",
+          "selection": {
+            "id": 57098,
+            "agency": {
+              "id": 80334,
+              "name": "Blackstone Police Department",
+              "street1": "101 West Elm Street",
+              "city": "Blackstone",
+              "county": {
+                "id": 2977,
+                "name": "Nottoway County",
+                "localizedName": "Nottoway"
+              },
+              "zipCode": "23824",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "4342921485",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.townofblackstoneva.com/police-department"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23005,
+        "investigatingAgencyIdentityId": 49161
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135826/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135826/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135860,
+      "idFormatted": "UP135860",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T14:34:08.22",
+      "modifiedDateTime": "2025-01-03T16:32:04.537",
+      "caseIdentification": {
+        "id": 50280,
+        "caseNumber": "C1957-00003"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69734,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedPostmortemInterval": 6,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 73896,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-03-06",
+        "address": {
+          "city": "Williamsburg",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3016,
+            "name": "Williamsburg City",
+            "displayName": "Williamsburg"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found in garbage by city employees",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.2765426,
+            "lon": -76.7086559
+          },
+          "formattedAddress": "Williamsburg Amtrak Station, Williamsburg, VA 23185, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53262,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45523,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49163,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 57111,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C1957-00003"
+        },
+        {
+          "id": 49164,
+          "isCaseOwner": false,
+          "name": "Williamsburg City Police",
+          "city": "Williamsburg",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 3016,
+            "name": "Williamsburg City",
+            "localizedName": "Williamsburg"
+          },
+          "countyDisplayName": "Williamsburg",
+          "selection": {
+            "id": 57104,
+            "agency": {
+              "id": 75354,
+              "name": "Williamsburg City Police",
+              "street1": "425 Armistead Avenue",
+              "city": "Williamsburg",
+              "county": {
+                "id": 3016,
+                "name": "Williamsburg City",
+                "localizedName": "Williamsburg"
+              },
+              "zipCode": "23185",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7572202333",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.williamsburgva.gov/304/Police"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23007,
+        "investigatingAgencyIdentityId": 49163
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135860/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135860/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135862,
+      "idFormatted": "UP135862",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T14:50:58.033",
+      "modifiedDateTime": "2025-04-23T16:12:11.693",
+      "caseIdentification": {
+        "id": 50281,
+        "caseNumber": "C1957-00004"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69736,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Asian",
+          "localizedName": "Asian"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 30,
+        "estimatedYearOfDeathFrom": 1956,
+        "estimatedYearOfDeathTo": 1957,
+        "estimatedYearOfBirthFrom": 1926,
+        "estimatedYearOfBirthTo": 1937,
+        "estimatedPostmortemInterval": 8,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73898,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-03-09",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2984,
+            "name": "Portsmouth City",
+            "displayName": "Portsmouth"
+          },
+          "countyId": 0
+        },
+        "description": "Craney Island",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found on the rocks of the causeway on Craney Island",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.8354258,
+            "lon": -76.2982742
+          },
+          "formattedAddress": "Portsmouth, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53264,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55570,
+          "identityId": 47049,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Knit sweater around neck",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45524,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49165,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 57113,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C1957-00004"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23008,
+        "investigatingAgencyIdentityId": 49165
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135862/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135862/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135864,
+      "idFormatted": "UP135864",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T15:43:46.52",
+      "modifiedDateTime": "2025-01-03T16:33:15.927",
+      "caseIdentification": {
+        "id": 50282,
+        "caseNumber": "C1957-00005"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69738,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedPostmortemInterval": 6,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 14,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 2,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73900,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-04-01",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2890,
+            "name": "Alexandria City",
+            "displayName": "Alexandria"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Infant found wrapped in a sheet",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.8048355,
+            "lon": -77.0469214
+          },
+          "formattedAddress": "Alexandria, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53265,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45525,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49166,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 57114,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1957-00005"
+        },
+        {
+          "id": 49167,
+          "isCaseOwner": false,
+          "name": "Alexandria City Police Department",
+          "city": "Alexandria",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2890,
+            "name": "Alexandria City",
+            "localizedName": "Alexandria"
+          },
+          "countyDisplayName": "Alexandria",
+          "selection": {
+            "id": 57107,
+            "agency": {
+              "id": 50190,
+              "name": "Alexandria City Police Department",
+              "street1": "3600 Wheeler Avenue",
+              "city": "Alexandria",
+              "county": {
+                "id": 2890,
+                "name": "Alexandria City",
+                "localizedName": "Alexandria"
+              },
+              "zipCode": "22304",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7037464444",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.alexandriava.gov/Police"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23009,
+        "investigatingAgencyIdentityId": 49166
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135864/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135864/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135871,
+      "idFormatted": "UP135871",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T17:18:01.68",
+      "modifiedDateTime": "2025-01-03T19:37:47.97",
+      "caseIdentification": {
+        "id": 50285,
+        "caseNumber": "C1957-00007"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69743,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1957,
+        "heightFrom": 18,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73906,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-08-09",
+        "address": {
+          "city": "Triangle",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "displayName": "Prince William"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found in a trashcan",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.54678759999999,
+            "lon": -77.3366491
+          },
+          "formattedAddress": "Triangle, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53269,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45528,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49171,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 57127,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1957-00007"
+        },
+        {
+          "id": 49172,
+          "isCaseOwner": false,
+          "name": "Virginia State Police Bureau of Criminal Investigation  Division Seven",
+          "city": "Fairfax",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2926,
+            "name": "Fairfax County",
+            "localizedName": "Fairfax"
+          },
+          "countyDisplayName": "Fairfax",
+          "selection": {
+            "id": 57117,
+            "agency": {
+              "id": 75761,
+              "name": "Virginia State Police Bureau of Criminal Investigation  Division Seven",
+              "street1": "4977 Alliance Drive",
+              "city": "Fairfax",
+              "county": {
+                "id": 2926,
+                "name": "Fairfax County",
+                "localizedName": "Fairfax"
+              },
+              "zipCode": "22030",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://vsp.virginia.gov/sections-units-bureaus/office-locations/division-seven-fairfax/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23012,
+        "investigatingAgencyIdentityId": 49171
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135871/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135871/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135865,
+      "idFormatted": "UP135865",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T16:21:26.35",
+      "modifiedDateTime": "2025-01-03T16:33:42.07",
+      "caseIdentification": {
+        "id": 50283,
+        "caseNumber": "C1957-00006"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69740,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedYearOfBirthFrom": 1897,
+        "estimatedYearOfBirthTo": 1917,
+        "estimatedPostmortemInterval": 30,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 1,
+          "name": "Minutes",
+          "localizedName": "Minutes"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 73902,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1957-05-20",
+        "address": {
+          "city": "Exmore",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2974,
+            "name": "Northampton County",
+            "displayName": "Northampton"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Became unresponsive while in a truck riding to a labor camp.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.5318008,
+            "lon": -75.82298589999999
+          },
+          "formattedAddress": "Exmore, VA 23350, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53267,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45526,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49168,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Tidewater District",
+          "city": "Norfolk",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2973,
+            "name": "Norfolk City",
+            "localizedName": "Norfolk"
+          },
+          "countyDisplayName": "Norfolk",
+          "selection": {
+            "id": 57115,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 53880,
+              "name": "Office of the Chief Medical Examiner Tidewater District",
+              "street1": "830 Southampton Ave., Suite 100",
+              "city": "Norfolk",
+              "county": {
+                "id": 2973,
+                "name": "Norfolk City",
+                "localizedName": "Norfolk"
+              },
+              "zipCode": "23510",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7576838366",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1957-00006"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23010,
+        "investigatingAgencyIdentityId": 49168
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135865/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135865/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135878,
+      "idFormatted": "UP135878",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T18:03:53.697",
+      "modifiedDateTime": "2025-01-03T19:38:17.627",
+      "caseIdentification": {
+        "id": 50286,
+        "caseNumber": "C1958-01737"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69744,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 18,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 8,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73908,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1958-04-18",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2920,
+            "name": "Danville City",
+            "displayName": "Danville"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Newborn infant found in a waiting area at a train station",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.5859718,
+            "lon": -79.39502279999999
+          },
+          "formattedAddress": "Danville, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53270,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45529,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49173,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Western District",
+          "city": "Roanoke",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2995,
+            "name": "Roanoke County",
+            "localizedName": "Roanoke"
+          },
+          "countyDisplayName": "Roanoke",
+          "selection": {
+            "id": 57128,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 50337,
+              "name": "Office of the Chief Medical Examiner Western District",
+              "street1": "6600 Northside High School Road",
+              "city": "Roanoke",
+              "county": {
+                "id": 2995,
+                "name": "Roanoke County",
+                "localizedName": "Roanoke"
+              },
+              "zipCode": "24019",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "5405616615",
+              "email": "OCME_WEST@vdh.virginia.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1958-01737"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23013,
+        "investigatingAgencyIdentityId": 49173
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135878/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135878/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135881,
+      "idFormatted": "UP135881",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T18:33:51.167",
+      "modifiedDateTime": "2025-04-23T16:11:39.707",
+      "caseIdentification": {
+        "id": 50287,
+        "caseNumber": "C1958-01820"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69746,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 50,
+        "estimatedYearOfDeathFrom": 1957,
+        "estimatedYearOfDeathTo": 1958,
+        "estimatedYearOfBirthFrom": 1907,
+        "estimatedYearOfBirthTo": 1918,
+        "estimatedPostmortemInterval": 3,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 5,
+          "name": "Months",
+          "localizedName": "Months"
+        },
+        "heightFrom": 69,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 185,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73910,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1958-04-23",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2915,
+            "name": "Colonial Heights City",
+            "displayName": "Colonial Heights"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in the Appomattox River",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.244039,
+            "lon": -77.4102607
+          },
+          "formattedAddress": "Colonial Heights, VA 23834, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53272,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55574,
+          "identityId": 47053,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Pencil\nComb",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55571,
+          "identityId": 47050,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown gabardine overcoat\nIke-type jacket\nGray pants\nWhite shirt (laundry marks \"J\" \"Bern\")\nRed checked tie",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55573,
+          "identityId": 47052,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Dark rimmed glasses",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55572,
+          "identityId": 47051,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Black shoes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45530,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49174,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 57129,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C1958-01820"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23014,
+        "investigatingAgencyIdentityId": 49174
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135881/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135881/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135885,
+      "idFormatted": "UP135885",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T19:05:47.483",
+      "modifiedDateTime": "2025-01-03T19:39:32.157",
+      "caseIdentification": {
+        "id": 50289,
+        "caseNumber": "C1958-03624"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69749,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1958,
+        "estimatedPostmortemInterval": 6,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 20,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 7,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73914,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1958-09-15",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2895,
+            "name": "Arlington County",
+            "displayName": "Arlington"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Infant found by the Iwo Jima Memorial at Arlington Ridge Park",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.8816208,
+            "lon": -77.09098089999999
+          },
+          "formattedAddress": "Arlington County, Arlington, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53275,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45532,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49176,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 57131,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1958-03624"
+        },
+        {
+          "id": 49177,
+          "isCaseOwner": false,
+          "name": "Arlington County Police Department",
+          "city": "Arlington",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2895,
+            "name": "Arlington County",
+            "localizedName": "Arlington"
+          },
+          "countyDisplayName": "Arlington",
+          "selection": {
+            "id": 57122,
+            "agency": {
+              "id": 39976,
+              "name": "Arlington County Police Department",
+              "street1": "1425 N Courthouse Road",
+              "city": "Arlington",
+              "county": {
+                "id": 2895,
+                "name": "Arlington County",
+                "localizedName": "Arlington"
+              },
+              "zipCode": "22201",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035582222",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://police.arlingtonva.us/"
+            }
+          }
+        },
+        {
+          "id": 49178,
+          "isCaseOwner": false,
+          "name": "United States Park Police - George Washington Memorial Parkway Station",
+          "city": "McLean",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2926,
+            "name": "Fairfax County",
+            "localizedName": "Fairfax"
+          },
+          "countyDisplayName": "Fairfax",
+          "selection": {
+            "id": 57123,
+            "agency": {
+              "id": 70991,
+              "name": "United States Park Police - George Washington Memorial Parkway Station",
+              "street1": "700 George Washington Memorial Parkway",
+              "city": "McLean",
+              "county": {
+                "id": 2926,
+                "name": "Fairfax County",
+                "localizedName": "Fairfax"
+              },
+              "zipCode": "22101",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7032851000",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nps.gov/subjects/uspp/district-2.htm"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23016,
+        "investigatingAgencyIdentityId": 49176
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135885/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135885/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135883,
+      "idFormatted": "UP135883",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T18:50:38.717",
+      "modifiedDateTime": "2025-01-03T19:39:01.327",
+      "caseIdentification": {
+        "id": 50288,
+        "caseNumber": "C1958-03091"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69747,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 73912,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1958-06-16",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2926,
+            "name": "Fairfax County",
+            "displayName": "Fairfax"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found in a rotting wooded box at the shore of the Potomac River",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.74389439999999,
+            "lon": -77.2405153
+          },
+          "formattedAddress": "Fairfax County, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53273,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45531,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49175,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 57130,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "C1958-03091"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23015,
+        "investigatingAgencyIdentityId": 49175
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135883/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135883/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 135890,
+      "idFormatted": "UP135890",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-03T19:20:59.187",
+      "modifiedDateTime": "2025-01-03T19:39:50.11",
+      "caseIdentification": {
+        "id": 50291,
+        "caseNumber": "C1958-04095"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 69752,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1958,
+        "estimatedPostmortemInterval": 18,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 19,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 6,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 73917,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1958-10-23",
+        "address": {
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2992,
+            "name": "Richmond City",
+            "displayName": "Richmond"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Infant found in the trash can in the basement of a clinic building.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.5407246,
+            "lon": -77.4360481
+          },
+          "formattedAddress": "Richmond, VA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53278,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45534,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49180,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 57132,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C1958-04095"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23017,
+        "investigatingAgencyIdentityId": 49180
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135890/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/135890/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
     }
   ]
 }
