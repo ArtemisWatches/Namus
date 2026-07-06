@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T09:18:10.233119+00:00",
+  "generated_at": "2026-07-06T10:46:35.998991+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1250,
+  "count": 1251,
   "cases": [
     {
       "id": 1,
@@ -365727,6 +365727,299 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/134266/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/134266/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
+    },
+    {
+      "id": 138179,
+      "idFormatted": "MP138179",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T16:00:57.167",
+      "modifiedDateTime": "2025-02-10T19:41:28.197",
+      "subjectIdentification": {
+        "id": 225577,
+        "firstName": "Sara",
+        "middleName": "Yvonne",
+        "lastName": "Griffin",
+        "nicknames": "Von",
+        "currentMinAge": 90,
+        "currentMaxAge": 90,
+        "computedMissingMinAge": 39,
+        "computedMissingMaxAge": 39
+      },
+      "subjectDescription": {
+        "id": 199107,
+        "heightFrom": 63,
+        "weightFrom": 125,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 102241
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 234261,
+        "circumstancesOfDisappearance": "Griffin was last seen by her daughter getting into a van owned and driven by an acquaintance of the family. Griffin had a small green suitcase with her and told her daughter that she could not go with them. The acquaintance was known to be aggressive and to carry weapons. Griffin never returned home. The home was located on what was the Rural Route 1. Now it is a part of what we call the \"River View\" area."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 122055,
+          "identityId": 112035,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "small green suitcase\nno clothing description"
+        }
+      ],
+      "sighting": {
+        "id": 271883,
+        "date": "1975-11-19",
+        "address": {
+          "city": "Fort Mill",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "displayName": "SC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2428,
+            "name": "York County",
+            "displayName": "York"
+          },
+          "countyId": 0,
+          "zipCode": "29708"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.045022,
+            "lon": -80.9981576
+          },
+          "formattedAddress": "Fort Mill, SC 29708, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 164093,
+          "isCaseOwner": false,
+          "name": "York County Sheriffs Office",
+          "city": "York",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "localizedName": "SC"
+          },
+          "stateDisplayName": "SC",
+          "county": {
+            "id": 2428,
+            "name": "York County",
+            "localizedName": "York"
+          },
+          "countyDisplayName": "York",
+          "selection": {
+            "id": 188413,
+            "contact": {
+              "id": 321345,
+              "firstName": "LaNelle",
+              "lastName": "Day",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43973,
+              "name": "York County Sheriffs Office",
+              "street1": "1675 York Hwy",
+              "city": "York",
+              "county": {
+                "id": 2428,
+                "name": "York County",
+                "localizedName": "York"
+              },
+              "zipCode": "29745",
+              "state": {
+                "id": 5,
+                "name": "South Carolina",
+                "localizedName": "SC"
+              },
+              "phone": "8036283059",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "1975-0823",
+          "dateReported": "1975-11-09"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43973,
+        "isCaseOwner": false,
+        "name": "York County Sheriffs Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 107991,
+        "investigatingAgencyIdentityId": 164093
+      },
+      "physicalDescription": {
+        "id": 195142,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "long and wavy",
+        "bodyHairDescription": "N/A",
+        "facialHairDescription": "N/A",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 101723,
+          "identityId": 92301,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Scar on left eye\nMole on left jaw"
+        }
+      ],
+      "images": [
+        {
+          "id": 229833,
+          "identityId": 215734,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-10T19:40:16.837",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 279,
+              "width": 279,
+              "storageKey": "fbb3f214a4994137b33eda66beca9bdc",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215734/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "d27efe201b9f491c92bfeeb795d8f668",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215734/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215734/Download"
+        },
+        {
+          "id": 229755,
+          "identityId": 215665,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Sara Yvonne Hancock Griffin",
+          "isPublic": true,
+          "createdDateTime": "2025-02-07T16:19:20.713",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 438,
+              "width": 287,
+              "storageKey": "db60dd777363461f865e9c3a742b7c1c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215665/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "159a0a47d394498caf95e9381a0ed221",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215665/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/215665/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 115708,
+        "defaultImageIdentityId": 215734
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
     }
   ]
 }
