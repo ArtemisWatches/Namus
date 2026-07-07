@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T10:46:51.081080+00:00",
+  "generated_at": "2026-07-07T09:51:26.596295+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1916,
+  "count": 1937,
   "cases": [
     {
       "id": 64643,
@@ -581520,6 +581520,4686 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137553/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137553/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 137614,
+      "idFormatted": "UP137614",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-30T22:53:38.973",
+      "modifiedDateTime": "2025-02-06T22:37:51.183",
+      "caseIdentification": {
+        "id": 50500,
+        "caseNumber": "ME 20-1129"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70086,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 50,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74448,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-10-31",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Unidentified human remains found in Dos Hermanos Ranch in Webb County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53505,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45767,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49406,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57568,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 20-1129"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137614/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137614/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137652,
+      "idFormatted": "UP137652",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-31T15:24:10.34",
+      "modifiedDateTime": "2025-02-06T22:35:01.04",
+      "caseIdentification": {
+        "id": 50501,
+        "caseNumber": "ME 21-0077"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70092,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 35,
+        "estimatedAgeTo": 55,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74447,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2021-01-18",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified human remains found on the Tierrita Blancas Ranch in Webb County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53506,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45768,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49407,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57567,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 21-0077"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137652/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137652/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137668,
+      "idFormatted": "UP137668",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-31T17:22:01.85",
+      "modifiedDateTime": "2025-02-06T22:30:16.15",
+      "caseIdentification": {
+        "id": 50510,
+        "caseNumber": "ME 21-0175"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70110,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 50,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74446,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2021-02-08",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Unidentified human remains found on the Clark Ranch in Webb County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53519,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55738,
+          "identityId": 47171,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "unerpants \"Leopoldo\" brand",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55739,
+          "identityId": 47172,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "one sock \"Puma\" brand",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55746,
+          "identityId": 47179,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Dotcom\" denim jeans size 30",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55747,
+          "identityId": 47180,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Marc Anthony\" size S grey sweater",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55749,
+          "identityId": 47182,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Tommy Hilfiger\" jacket",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55741,
+          "identityId": 47174,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "two shoes \"Randall/Hiker\" brand",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45778,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49416,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57566,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 21-0175"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137668/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137668/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137671,
+      "idFormatted": "UP137671",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-31T18:12:41.077",
+      "modifiedDateTime": "2025-02-06T22:28:35.963",
+      "caseIdentification": {
+        "id": 50511,
+        "caseNumber": "ME 20-1035"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70114,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 60,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74445,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-10-07",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Human remains found on the Briscoe ranch in Webb County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53520,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55753,
+          "identityId": 47186,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "hooded jacket \"London Fog\" brand size L 14-16",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45779,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49418,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57565,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 20-1035"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137671/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137671/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137687,
+      "idFormatted": "UP137687",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-31T22:19:52.103",
+      "modifiedDateTime": "2025-02-06T22:24:36.557",
+      "caseIdentification": {
+        "id": 50513,
+        "caseNumber": "ME 23-0661"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70121,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 60,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74444,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2023-07-06",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified human remains found on the Nicolson Ranch in Webb County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53522,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45786,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49420,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57564,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 23-0661"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137687/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137687/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137815,
+      "idFormatted": "UP137815",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T14:42:51.82",
+      "modifiedDateTime": "2025-02-21T18:32:53.72",
+      "caseIdentification": {
+        "id": 50517,
+        "caseNumber": "ME 23-0207"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70136,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 60,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74372,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2023-03-03",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found in the Nicolson ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53526,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45793,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49425,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57521,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 23-0207",
+          "dateReported": "2023-03-03"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137815/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137815/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137816,
+      "idFormatted": "UP137816",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T14:49:24.29",
+      "modifiedDateTime": "2025-03-04T20:59:31.53",
+      "caseIdentification": {
+        "id": 50519,
+        "caseNumber": "24052"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70135,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74373,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-08-17",
+        "address": {
+          "city": "Winter Park",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 330,
+            "name": "Grand County",
+            "displayName": "Grand"
+          },
+          "countyId": 0,
+          "zipCode": "80482"
+        },
+        "description": "Open area",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was found by mushroom hunters in a very moist and wet area.  The area was covered with thick loam, shaded, swampy, with moss, ferns, and downed trees.  Found at the scene was a cranium with mandible nearby.  Both had intact teeth.  Three feet from cranium, found were three vertebrae. Additional vertebrae were located along with a right clavicle.   Twenty feet from vertebrae a right femur was found.  A section of a long bone was also located.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.8916537,
+            "lon": -105.7630624
+          },
+          "formattedAddress": "Winter Park, CO 80482, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53527,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45794,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49426,
+          "isCaseOwner": false,
+          "name": "Fraser Winter Park Police Department",
+          "city": "Winter Park",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 330,
+            "name": "Grand County",
+            "localizedName": "Grand"
+          },
+          "countyDisplayName": "Grand",
+          "selection": {
+            "id": 57522,
+            "agency": {
+              "id": 79367,
+              "name": "Fraser Winter Park Police Department",
+              "street1": "79050 U.S. 40",
+              "city": "Winter Park",
+              "county": {
+                "id": 330,
+                "name": "Grand County",
+                "localizedName": "Grand"
+              },
+              "zipCode": "80482",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "9707227779",
+              "email": "gtrainor@wpgov.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.wpgov.com"
+            }
+          },
+          "caseNumber": "24W003869",
+          "dateReported": "2024-08-17"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137816/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137816/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 137849,
+      "idFormatted": "UP137849",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T18:41:43.19",
+      "modifiedDateTime": "2025-02-21T16:54:57.96",
+      "caseIdentification": {
+        "id": 50527,
+        "caseNumber": "ME 22-0053"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70143,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 35,
+        "heightFrom": 63,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74379,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-01-14",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the De Leon Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53530,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45798,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49429,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57694,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 22-0053"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137849/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137849/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137843,
+      "idFormatted": "UP137843",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T18:07:27.8",
+      "modifiedDateTime": "2025-02-21T16:31:24.473",
+      "caseIdentification": {
+        "id": 50525,
+        "caseNumber": "ME 22-0730"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70139,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 30,
+        "heightFrom": 58,
+        "heightTo": 65,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74375,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-06-21",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the DD Hachar Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53528,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55780,
+          "identityId": 47203,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "black pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55781,
+          "identityId": 47204,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "black shoes",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45796,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49427,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57691,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 22-0730"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137843/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137843/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137846,
+      "idFormatted": "UP137846",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T18:22:38.457",
+      "modifiedDateTime": "2025-02-21T18:31:50.423",
+      "caseIdentification": {
+        "id": 50526,
+        "caseNumber": "ME 22-1051"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70141,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 50,
+        "heightFrom": 58,
+        "heightTo": 65,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74377,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-09-08",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the La Santa Cruz Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53529,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45797,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49428,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57698,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 22-1051"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137846/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137846/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137865,
+      "idFormatted": "UP137865",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T20:31:56.64",
+      "modifiedDateTime": "2025-02-21T16:23:47.497",
+      "caseIdentification": {
+        "id": 50531,
+        "caseNumber": "ME 21-1468"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70147,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 45,
+        "heightFrom": 65,
+        "heightTo": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74383,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2021-12-27",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the Bella Vista Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53532,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45800,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49431,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57690,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 21-1468"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137865/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137865/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137867,
+      "idFormatted": "UP137867",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-03T20:57:11.47",
+      "modifiedDateTime": "2025-02-21T16:51:13.003",
+      "caseIdentification": {
+        "id": 50532,
+        "caseNumber": "ME 21-1190"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70149,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 50,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74385,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2021-10-04",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the Bertoni Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53533,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45801,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49432,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57693,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 21-1190"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137867/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137867/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137915,
+      "idFormatted": "UP137915",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T15:48:44.48",
+      "modifiedDateTime": "2025-02-21T16:47:01.25",
+      "caseIdentification": {
+        "id": 50542,
+        "caseNumber": "ME 20-1030"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70166,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 50,
+        "heightFrom": 68,
+        "heightTo": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74401,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-10-03",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the Briscoe Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53542,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55790,
+          "identityId": 47213,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "ball cap with embroidered \"23\"",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55788,
+          "identityId": 47211,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Red Ape\" purple fleece pants size 3X",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55789,
+          "identityId": 47212,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "two adidas shoes with laces",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45809,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49440,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57536,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 20-1030",
+          "dateReported": "2020-10-03"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137915/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137915/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137910,
+      "idFormatted": "UP137910",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T14:34:29.55",
+      "modifiedDateTime": "2025-04-23T14:38:55.437",
+      "caseIdentification": {
+        "id": 50539,
+        "caseNumber": "25-02340/25-02409"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70161,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74430,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-29",
+        "agencyQAReviewed": "2025-01-29",
+        "address": {
+          "city": "New Britain",
+          "state": {
+            "id": 21,
+            "name": "Connecticut",
+            "displayName": "CT"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 370,
+            "name": "Hartford County",
+            "displayName": "Hartford"
+          },
+          "countyId": 0,
+          "zipCode": "06051"
+        },
+        "description": "Wooded area near Stanley and South Street",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "A skull and femur were found on 1/29/25. On 1/30/25 another femur (now have right and left femurs) were found in close proximity to the bones that were found on 1/29/25) and a rib. Per Anthropologist, the femurs match.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.66515769999999,
+            "lon": -72.76291259999999
+          },
+          "formattedAddress": "New Britain, CT 06051, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53539,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [
+        {
+          "id": 25620,
+          "identityId": 20260,
+          "noteType": "Circumstances",
+          "isPublic": true,
+          "description": "Samples were tested against each other and confirmed to be from the same person."
+        }
+      ],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45806,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 16981,
+          "identityId": 14292,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Missing upper teeth, premortem healing."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49437,
+          "isCaseOwner": false,
+          "name": "New Britain Police Department",
+          "city": "New Britain",
+          "state": {
+            "id": 21,
+            "name": "Connecticut",
+            "localizedName": "CT"
+          },
+          "stateDisplayName": "CT",
+          "county": {
+            "id": 370,
+            "name": "Hartford County",
+            "localizedName": "Hartford"
+          },
+          "countyDisplayName": "Hartford",
+          "selection": {
+            "id": 57533,
+            "agency": {
+              "id": 40100,
+              "name": "New Britain Police Department",
+              "street1": "10 Chestnut Street",
+              "city": "New Britain",
+              "county": {
+                "id": 370,
+                "name": "Hartford County",
+                "localizedName": "Hartford"
+              },
+              "zipCode": "06051",
+              "state": {
+                "id": 21,
+                "name": "Connecticut",
+                "localizedName": "CT"
+              },
+              "phone": "8608263000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://pd.newbritainct.gov/"
+            }
+          },
+          "caseNumber": "2500006492",
+          "dateReported": "2025-01-29"
+        },
+        {
+          "id": 49454,
+          "isCaseOwner": false,
+          "name": "Connecticut Office of Chief Medical Examiner",
+          "city": "Farmington",
+          "state": {
+            "id": 21,
+            "name": "Connecticut",
+            "localizedName": "CT"
+          },
+          "stateDisplayName": "CT",
+          "county": {
+            "id": 370,
+            "name": "Hartford County",
+            "localizedName": "Hartford"
+          },
+          "countyDisplayName": "Hartford",
+          "selection": {
+            "id": 57551,
+            "agency": {
+              "id": 4664,
+              "name": "Connecticut Office of Chief Medical Examiner",
+              "street1": "11 Shuttle Rd",
+              "city": "Farmington",
+              "county": {
+                "id": 370,
+                "name": "Hartford County",
+                "localizedName": "Hartford"
+              },
+              "zipCode": "06032",
+              "state": {
+                "id": 21,
+                "name": "Connecticut",
+                "localizedName": "CT"
+              },
+              "phone": "8606793980",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://portal.ct.gov/ocme"
+            }
+          },
+          "caseNumber": "25-02340/25-02409"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23178,
+        "investigatingAgencyIdentityId": 49454
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137910/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137910/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Connecticut"
+    },
+    {
+      "id": 137914,
+      "idFormatted": "UP137914",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T15:37:32.317",
+      "modifiedDateTime": "2025-02-21T17:18:46.367",
+      "caseIdentification": {
+        "id": 50541,
+        "caseNumber": "ME 20-1258"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70164,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "heightFrom": 60,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74399,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-12-01",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "displayName": "Webb"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "found on the Triple S Ranch in Webb county",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.8174487,
+            "lon": -99.0128926
+          },
+          "formattedAddress": "Webb County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53541,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55784,
+          "identityId": 47207,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "green longsleeve shirt size XL",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55785,
+          "identityId": 47208,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Genuine Dickies\" brand size XL black Tshirt",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55786,
+          "identityId": 47209,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Realtree\" tshirt size XL",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55787,
+          "identityId": 47210,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Nike\" size 10 shoe with laces",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45808,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49439,
+          "isCaseOwner": false,
+          "name": "Webb County Medical Examiner's Office",
+          "city": "Laredo",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2829,
+            "name": "Webb County",
+            "localizedName": "Webb"
+          },
+          "countyDisplayName": "Webb",
+          "selection": {
+            "id": 57696,
+            "contact": {
+              "id": 312436,
+              "firstName": "Heidi",
+              "lastName": "Jasso",
+              "jobTitle": "MDI",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45643,
+              "name": "Webb County Medical Examiner's Office",
+              "street1": "US-59 & State Representative Henry Cuellar Roadway, Laredo, TX 78045",
+              "city": "Laredo",
+              "county": {
+                "id": 2829,
+                "name": "Webb County",
+                "localizedName": "Webb"
+              },
+              "zipCode": "78045",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9565234980",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.webbcountytx.gov/MedicalExaminer/"
+            }
+          },
+          "caseNumber": "ME 20-1258"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137914/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137914/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 137921,
+      "idFormatted": "UP137921",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T16:44:54.853",
+      "modifiedDateTime": "2025-02-13T17:46:08.877",
+      "caseIdentification": {
+        "id": 50547,
+        "caseNumber": "2024-19304"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70173,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 21,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfBirthFrom": 1964,
+        "estimatedYearOfBirthTo": 2003,
+        "heightFrom": 66,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 100,
+        "weightTo": 120,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 74407,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-10",
+        "address": {
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0,
+          "zipCode": "90034"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "This decomposed male was found deceased in a crawlspace of an apartment building",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.0324632,
+            "lon": -118.395863
+          },
+          "formattedAddress": "Los Angeles, CA 90034, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53545,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55798,
+          "identityId": 47221,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Light color shirt- Brand \"Stafford Essentials Sleepwear\" Size XLT\nBoxer briefs- Brand \"Calvin Klein\"\nSocks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45814,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Black with some gray\nShort and Coarse",
+        "facialHairDescription": "Remnants of black and gray facial hair seen",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49443,
+          "isCaseOwner": false,
+          "name": "Los Angeles Police Department-Pacific Division",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 57539,
+            "agency": {
+              "id": 63824,
+              "name": "Los Angeles Police Department-Pacific Division",
+              "street1": "12312 Culver Boulevard",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90066",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "3104826334",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lapdonline.org/pacific_community_police_station"
+            }
+          },
+          "caseNumber": "24121000001877"
+        },
+        {
+          "id": 49507,
+          "isCaseOwner": false,
+          "name": "Los Angeles County Medical Examiner",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 57635,
+            "agency": {
+              "id": 43449,
+              "name": "Los Angeles County Medical Examiner",
+              "street1": "1104 North Mission Road",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90033",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "3233430512",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://me.lacounty.gov/"
+            }
+          },
+          "caseNumber": "2024-19304"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23206,
+        "investigatingAgencyIdentityId": 49507
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137921/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137921/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 137946,
+      "idFormatted": "UP137946",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T21:12:28.79",
+      "modifiedDateTime": "2026-05-04T18:05:38.4",
+      "caseIdentification": {
+        "id": 50553,
+        "caseNumber": "ME-24-2377"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70185,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74420,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-15",
+        "address": {
+          "city": "Lake Havasu City",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "displayName": "Mohave"
+          },
+          "countyId": 0,
+          "zipCode": "86404"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skull discovered in the Sacramento Wash, north of the I-40 and northeast of Topock, AZ",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.6476577,
+            "lon": -114.2865991
+          },
+          "formattedAddress": "Lake Havasu City, AZ 86404, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53553,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45820,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49449,
+          "isCaseOwner": false,
+          "name": "Mohave County Sheriff's Office",
+          "city": "Kingman",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57545,
+            "contact": {
+              "id": 314287,
+              "firstName": "Chaun",
+              "lastName": "Williams",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43691,
+              "name": "Mohave County Sheriff's Office",
+              "street1": "600 West Beale Street",
+              "city": "Kingman",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86401",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "8005224312",
+              "email": "mcso@mohavecounty.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "24-047331",
+          "dateReported": "2024-12-15"
+        },
+        {
+          "id": 49504,
+          "isCaseOwner": false,
+          "name": "Mohave County Medical Examiner",
+          "city": "Lake Havasu City",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57632,
+            "agency": {
+              "id": 43693,
+              "name": "Mohave County Medical Examiner",
+              "street1": "1145 Aviation Drive #101",
+              "city": "Lake Havasu City",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86404",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "9285055888",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "ME-24-2377"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23201,
+        "investigatingAgencyIdentityId": 49504
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137946/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137946/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 137947,
+      "idFormatted": "UP137947",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T21:21:44.39",
+      "modifiedDateTime": "2026-05-04T18:06:14.713",
+      "caseIdentification": {
+        "id": 50554,
+        "caseNumber": "ME-25-0087"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70187,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74422,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-12",
+        "address": {
+          "city": "Yucca",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "displayName": "Mohave"
+          },
+          "countyId": 0,
+          "zipCode": "86438"
+        },
+        "description": "near Camelback Road",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skull and several skeletal remains discovered by hunters in the area of Camelback Road",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.8722245,
+            "lon": -114.1494117
+          },
+          "formattedAddress": "Yucca, AZ 86438, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53554,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45821,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49450,
+          "isCaseOwner": false,
+          "name": "Mohave County Sheriff's Office",
+          "city": "Kingman",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57546,
+            "contact": {
+              "id": 314287,
+              "firstName": "Chaun",
+              "lastName": "Williams",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43691,
+              "name": "Mohave County Sheriff's Office",
+              "street1": "600 West Beale Street",
+              "city": "Kingman",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86401",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "8005224312",
+              "email": "mcso@mohavecounty.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-001410",
+          "dateReported": "2025-01-12"
+        },
+        {
+          "id": 49505,
+          "isCaseOwner": false,
+          "name": "Mohave County Medical Examiner",
+          "city": "Lake Havasu City",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57633,
+            "agency": {
+              "id": 43693,
+              "name": "Mohave County Medical Examiner",
+              "street1": "1145 Aviation Drive #101",
+              "city": "Lake Havasu City",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86404",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "9285055888",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "ME-25-0087"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23202,
+        "investigatingAgencyIdentityId": 49505
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137947/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137947/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 137948,
+      "idFormatted": "UP137948",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T21:29:25.177",
+      "modifiedDateTime": "2026-01-09T15:31:12.913",
+      "caseIdentification": {
+        "id": 52355,
+        "caseNumber": "ME-24-2301"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70188,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74424,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-02",
+        "address": {
+          "city": "Lake Havasu City",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "displayName": "Mohave"
+          },
+          "countyId": 0,
+          "zipCode": "86404"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skull discovered by hunters in the area",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.6476577,
+            "lon": -114.2865991
+          },
+          "formattedAddress": "Lake Havasu City, AZ 86404, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53555,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45822,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49451,
+          "isCaseOwner": false,
+          "name": "Mohave County Sheriff's Office",
+          "city": "Kingman",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57547,
+            "contact": {
+              "id": 314287,
+              "firstName": "Chaun",
+              "lastName": "Williams",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43691,
+              "name": "Mohave County Sheriff's Office",
+              "street1": "600 West Beale Street",
+              "city": "Kingman",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86401",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "8005224312",
+              "email": "mcso@mohavecounty.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "24-045548",
+          "dateReported": "2024-12-02"
+        },
+        {
+          "id": 49500,
+          "isCaseOwner": false,
+          "name": "Mohave County Medical Examiner",
+          "city": "Lake Havasu City",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 57627,
+            "agency": {
+              "id": 43693,
+              "name": "Mohave County Medical Examiner",
+              "street1": "1145 Aviation Drive #101",
+              "city": "Lake Havasu City",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86404",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "9285055888",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "ME-24-2377"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23197,
+        "investigatingAgencyIdentityId": 49500
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137948/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137948/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 137955,
+      "idFormatted": "UP137955",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T23:21:36.043",
+      "modifiedDateTime": "2025-07-21T15:42:07.6",
+      "caseIdentification": {
+        "id": 50556,
+        "caseNumber": "2024-16699"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70189,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 6,
+          "name": "Late Teen/Young Adult",
+          "localizedName": "Late Teen/Young Adult"
+        },
+        "heightFrom": 66,
+        "heightTo": 75,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74427,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-30",
+        "address": {
+          "city": "Newbury",
+          "state": {
+            "id": 41,
+            "name": "Massachusetts",
+            "displayName": "MA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1283,
+            "name": "Essex County",
+            "displayName": "Essex"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "A bystander was walking by the water line on Plum Island and discovered 1 bone resting atop of the sand. The bystander contacted Fish and wildlife refuge center, located on the island. No known missing persons reported in the surrounding area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.7649497,
+            "lon": -70.8714528
+          },
+          "formattedAddress": "Newbury, MA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53556,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45823,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49452,
+          "isCaseOwner": false,
+          "name": "Massachusetts Office of Chief Medical Examiner - Boston",
+          "city": "Boston",
+          "state": {
+            "id": 41,
+            "name": "Massachusetts",
+            "localizedName": "MA"
+          },
+          "stateDisplayName": "MA",
+          "county": {
+            "id": 1291,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 57552,
+            "agency": {
+              "id": 40052,
+              "name": "Massachusetts Office of Chief Medical Examiner - Boston",
+              "street1": "720 Albany Street",
+              "city": "Boston",
+              "county": {
+                "id": 1291,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "02118",
+              "state": {
+                "id": 41,
+                "name": "Massachusetts",
+                "localizedName": "MA"
+              },
+              "phone": "6172676767",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.mass.gov/orgs/office-of-the-chief-medical-examiner"
+            }
+          },
+          "caseNumber": "2024-16699",
+          "dateReported": "2024-11-30"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23175,
+        "investigatingAgencyIdentityId": 49452
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137955/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137955/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Massachusetts"
+    },
+    {
+      "id": 138033,
+      "idFormatted": "UP138033",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-05T21:31:11.577",
+      "modifiedDateTime": "2025-04-18T15:13:57.763",
+      "caseIdentification": {
+        "id": 50560,
+        "caseNumber": "2022-03319"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70192,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75431,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-11-03",
+        "address": {
+          "city": "Miami",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "displayName": "Miami-Dade"
+          },
+          "countyId": 0,
+          "zipCode": "33135"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was found in a state of decomposition inside a residence.  No trauma was reported, and foul play is not suspected.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 25.7686714,
+            "lon": -80.2349196
+          },
+          "formattedAddress": "Miami, FL 33135, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53558,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45826,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49455,
+          "isCaseOwner": false,
+          "name": "Miami Police Department",
+          "city": "Miami",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "localizedName": "Miami-Dade"
+          },
+          "countyDisplayName": "Miami-Dade",
+          "selection": {
+            "id": 57554,
+            "agency": {
+              "id": 44144,
+              "name": "Miami Police Department",
+              "street1": "400 N.W. 2nd Avenue",
+              "city": "Miami",
+              "county": {
+                "id": 423,
+                "name": "Miami-Dade County",
+                "localizedName": "Miami-Dade"
+              },
+              "zipCode": "33128",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3056036640",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2211030077475",
+          "dateReported": "2022-11-03"
+        },
+        {
+          "id": 49922,
+          "isCaseOwner": false,
+          "name": "District 11 Miami-Dade County Medical Examiners Office",
+          "city": "Miami",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "localizedName": "Miami-Dade"
+          },
+          "countyDisplayName": "Miami-Dade",
+          "selection": {
+            "id": 58743,
+            "agency": {
+              "id": 6102,
+              "name": "District 11 Miami-Dade County Medical Examiners Office",
+              "street1": "1851 NW 10 Avenue",
+              "city": "Miami",
+              "county": {
+                "id": 423,
+                "name": "Miami-Dade County",
+                "localizedName": "Miami-Dade"
+              },
+              "zipCode": "33136",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3055452400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.miamidade.gov/global/medicalexaminer/home.page"
+            }
+          },
+          "caseNumber": "2022-03319"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23785,
+        "investigatingAgencyIdentityId": 49922
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138033/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138033/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
     }
   ]
 }

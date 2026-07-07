@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T08:44:19.335069+00:00",
+  "generated_at": "2026-07-07T09:51:26.596295+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 207,
+  "count": 208,
   "cases": [
     {
       "id": 334,
@@ -56409,6 +56409,270 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136596/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136596/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 137609,
+      "idFormatted": "UP137609",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-01-30T21:58:52.363",
+      "modifiedDateTime": "2025-02-14T16:14:25.563",
+      "caseIdentification": {
+        "id": 50498,
+        "caseNumber": "001-1962"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70082,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedAgeTo": 1,
+        "estimatedYearOfDeathFrom": 1962,
+        "estimatedYearOfBirthFrom": 1961,
+        "estimatedYearOfBirthTo": 1961,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightFrom": 15,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 9,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74323,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1962-04-18",
+        "address": {
+          "city": "Ellensburg",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3039,
+            "name": "Kittitas County",
+            "displayName": "Kittitas"
+          },
+          "countyId": 0,
+          "zipCode": "98926"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "2–3-day old female found in Ellensburg, WA, 98926.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 46.9965144,
+            "lon": -120.5478474
+          },
+          "formattedAddress": "Ellensburg, WA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53503,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45765,
+        "hairColor": {
+          "id": 15,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "leftEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "rightEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49404,
+          "isCaseOwner": false,
+          "name": "Kittitas County Coroner's Office",
+          "city": "Ellensburg",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3039,
+            "name": "Kittitas County",
+            "localizedName": "Kittitas"
+          },
+          "countyDisplayName": "Kittitas",
+          "selection": {
+            "id": 57493,
+            "contact": {
+              "id": 130366,
+              "firstName": "Cori",
+              "lastName": "McKean",
+              "jobTitle": "Coroner",
+              "roleId": 10,
+              "role": "Coroner",
+              "email": "cori.mckean@co.kittitas.wa.us",
+              "isPublicEmail": true,
+              "phone1": "5099338200",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37647,
+              "name": "Kittitas County Coroner's Office",
+              "street1": "507 North Nanum Street, Suite 113",
+              "city": "Ellensburg",
+              "county": {
+                "id": 3039,
+                "name": "Kittitas County",
+                "localizedName": "Kittitas"
+              },
+              "zipCode": "98926",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5099338200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.kittitas.wa.us/coroner/default.aspx"
+            }
+          },
+          "caseNumber": "001-1962",
+          "dateReported": "1962-04-18"
+        },
+        {
+          "id": 49515,
+          "isCaseOwner": false,
+          "name": "Kittitas County Coroner's Office",
+          "city": "Ellensburg",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3039,
+            "name": "Kittitas County",
+            "localizedName": "Kittitas"
+          },
+          "countyDisplayName": "Kittitas",
+          "selection": {
+            "id": 57644,
+            "agency": {
+              "id": 37647,
+              "name": "Kittitas County Coroner's Office",
+              "street1": "507 North Nanum Street, Suite 113",
+              "city": "Ellensburg",
+              "county": {
+                "id": 3039,
+                "name": "Kittitas County",
+                "localizedName": "Kittitas"
+              },
+              "zipCode": "98926",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5099338200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.kittitas.wa.us/coroner/default.aspx"
+            }
+          },
+          "caseNumber": "001-1962"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23212,
+        "investigatingAgencyIdentityId": 49515
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137609/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137609/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
     }
   ]
 }

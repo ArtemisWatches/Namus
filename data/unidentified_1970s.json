@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T09:26:19.366712+00:00",
+  "generated_at": "2026-07-07T09:51:26.596295+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 952,
+  "count": 954,
   "cases": [
     {
       "id": 103,
@@ -274377,6 +274377,693 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136135/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/136135/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 137918,
+      "idFormatted": "UP137918",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-04T16:21:58.43",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 50544,
+        "caseNumber": "79-1632"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70170,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 140,
+        "weightTo": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 74405,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-12-18",
+        "address": {
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "displayName": "King"
+          },
+          "countyId": 0,
+          "zipCode": "98119"
+        },
+        "description": "1140 Elliott Ave W",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found lying face-up, fully clothed, in a vacant, gutted, two-story brick structure at 1140 Elliott Avenue West, Seattle, Washington. Evidence in vicinity suggests this individual may have been living at this location.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.6384586,
+            "lon": -122.3674079
+          },
+          "formattedAddress": "Seattle, WA 98119, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53544,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55791,
+          "identityId": 47214,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Green sweater with red and white stripes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55792,
+          "identityId": 47215,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Green and white striped shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55793,
+          "identityId": 47216,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of green pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55794,
+          "identityId": 47217,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of brown herringbone pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55795,
+          "identityId": 47218,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of red socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55796,
+          "identityId": 47219,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown coat with pile lining",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55797,
+          "identityId": 47220,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Green coat with quilted lining",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45812,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Medium length, tightly curled",
+        "facialHairDescription": "Full beard and mustache with black and gray hair",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49442,
+          "isCaseOwner": false,
+          "name": "Seattle Police Department",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57538,
+            "agency": {
+              "id": 45435,
+              "name": "Seattle Police Department",
+              "street1": "610 5th Avenue",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2066255011",
+              "email": "spdmpu@seattle.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.seattle.gov/police"
+            }
+          },
+          "caseNumber": "79-470959",
+          "dateReported": "1979-12-18"
+        },
+        {
+          "id": 49508,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57636,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "79-1632"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23207,
+        "investigatingAgencyIdentityId": 49508
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137918/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137918/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 138037,
+      "idFormatted": "UP138037",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-05T21:41:51.017",
+      "modifiedDateTime": "2026-04-01T22:22:55.053",
+      "caseIdentification": {
+        "id": 50561,
+        "caseNumber": "1977-07016"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70193,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 114,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74435,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-05-06",
+        "address": {
+          "city": "Portales",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1879,
+            "name": "Roosevelt County",
+            "displayName": "Roosevelt"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was a pedestrian walking south in the Northbound lane of US 70 at the Junction of State Road 467 North of Portales when struck.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.1861922,
+            "lon": -103.3343978
+          },
+          "formattedAddress": "Portales, NM 88130, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53559,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55801,
+          "identityId": 47224,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "White felt cowboy hat size 6-3/4, 100% wool.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55807,
+          "identityId": 47229,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Brown stitched leather-like belt with a silvery metal buckle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55802,
+          "identityId": 47225,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "K-mart brand size M 38-40 Men's white and yellow T-Shirt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55804,
+          "identityId": 47226,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "K-Mart Brand size M 34-36 jockey-type underwear color gray.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55805,
+          "identityId": 47227,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown well worn leather-like jacket with a green lining with the label Penny's genuine steer hide size 18.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55806,
+          "identityId": 47228,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue-green and white checkered long sleeved men's shirt with the label, Towncraft, Penny's Size small. 14-14-1/2.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55808,
+          "identityId": 47230,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Thin Levi blue jeans with a Maverick Blue Bell Label.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55799,
+          "identityId": 47222,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown to red tooled cowboy boots",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55800,
+          "identityId": 47223,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Blue thin knit dress socks.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45828,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Short going gray to black.",
+        "facialHairDescription": "Mustache, long sideburns down to the chin.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49456,
+          "isCaseOwner": false,
+          "name": "Roosevelt County Sheriff's Office",
+          "city": "Portales",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1879,
+            "name": "Roosevelt County",
+            "localizedName": "Roosevelt"
+          },
+          "countyDisplayName": "Roosevelt",
+          "selection": {
+            "id": 57555,
+            "agency": {
+              "id": 66152,
+              "name": "Roosevelt County Sheriff's Office",
+              "street1": "1700 North Boston Avenue",
+              "city": "Portales",
+              "county": {
+                "id": 1879,
+                "name": "Roosevelt County",
+                "localizedName": "Roosevelt"
+              },
+              "zipCode": "88130",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5753564408",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.rooseveltcounty.com/?page_id=848"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138037/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138037/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
     }
   ]
 }

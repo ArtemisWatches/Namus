@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T10:46:35.998991+00:00",
+  "generated_at": "2026-07-07T09:51:11.991015+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1251,
+  "count": 1252,
   "cases": [
     {
       "id": 1,
@@ -366020,6 +366020,238 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138179/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
+    },
+    {
+      "id": 138773,
+      "idFormatted": "MP138773",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-18T11:47:01.52",
+      "modifiedDateTime": "2025-03-14T15:02:15.677",
+      "subjectIdentification": {
+        "id": 226250,
+        "firstName": "Vincent",
+        "lastName": "Marchese",
+        "currentMinAge": 99,
+        "currentMaxAge": 99,
+        "computedMissingMinAge": 45,
+        "computedMissingMaxAge": 45
+      },
+      "subjectDescription": {
+        "id": 199696,
+        "heightFrom": 64,
+        "heightTo": 65,
+        "weightFrom": 145,
+        "weightTo": 155,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 235173,
+        "circumstancesOfDisappearance": "Missing left for work on 07/09/1972 and never showed up for work. On July 21, 1972 missing persons vehicle was located in NYC unoccupied and was impounded by NYPD for safekeeping,"
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 122461,
+          "identityId": 112347,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Reported was not aware of clothing description"
+        }
+      ],
+      "sighting": {
+        "id": 273011,
+        "date": "1972-07-09",
+        "address": {
+          "city": "Uniondale",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1919,
+            "name": "Nassau County",
+            "displayName": "Nassau"
+          },
+          "countyId": 0,
+          "zipCode": "11553"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7033646,
+            "lon": -73.5888575
+          },
+          "formattedAddress": "Uniondale, NY 11553, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 35678,
+          "vehicleMake": "Oldsmobile",
+          "vehicleYear": 1971,
+          "vehicleColor": "Brown and White",
+          "tagState": "New York",
+          "tagNumber": "EU7446",
+          "comment": "Vehicle was recovered on July 21, 1972 in NYC and returned to MP wife."
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 164559,
+          "isCaseOwner": false,
+          "name": "Nassau County Police Department",
+          "city": "Mineola",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1919,
+            "name": "Nassau County",
+            "localizedName": "Nassau"
+          },
+          "countyDisplayName": "Nassau",
+          "selection": {
+            "id": 188972,
+            "contact": {
+              "id": 171872,
+              "firstName": "Kerri-Ann",
+              "lastName": "Hoovert",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44054,
+              "name": "Nassau County Police Department",
+              "street1": "1490 Franklin Ave",
+              "city": "Mineola",
+              "county": {
+                "id": 1919,
+                "name": "Nassau County",
+                "localizedName": "Nassau"
+              },
+              "zipCode": "11501",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "5165738800",
+              "email": "FMPMissingPersons@pdcn.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.pdcn.org"
+            }
+          },
+          "caseNumber": "MP-1644-1972",
+          "dateReported": "1972-07-23"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 44054,
+        "isCaseOwner": false,
+        "name": "Nassau County Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 108403,
+        "investigatingAgencyIdentityId": 164559
+      },
+      "physicalDescription": {
+        "id": 195713,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "straight",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 101876,
+          "identityId": 92425,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Love Mom right arm"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/138773/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138773/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138773/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }
