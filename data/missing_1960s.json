@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "generated_at": "2026-07-08T08:36:31.269873+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 261,
+  "count": 262,
   "cases": [
     {
       "id": 498,
@@ -76538,6 +76538,281 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/126183/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/126183/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Montana"
+    },
+    {
+      "id": 138874,
+      "idFormatted": "MP138874",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-19T18:58:58.197",
+      "modifiedDateTime": "2025-05-14T16:10:05.973",
+      "subjectIdentification": {
+        "id": 226359,
+        "firstName": "Jeannetta",
+        "middleName": "Ruth",
+        "lastName": "LaBelle",
+        "currentMinAge": 97,
+        "currentMaxAge": 97,
+        "computedMissingMinAge": 39,
+        "computedMissingMaxAge": 39
+      },
+      "subjectDescription": {
+        "id": 199780,
+        "heightFrom": 65,
+        "weightFrom": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 102496
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 235384,
+        "circumstancesOfDisappearance": "Jeannetta was swept downstream during a creek flood in Ojai, CA on 1/25/1969."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 273219,
+        "date": "1969-01-25",
+        "address": {
+          "city": "Ojai",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 302,
+            "name": "Ventura County",
+            "displayName": "Ventura"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.4480495,
+            "lon": -119.242889
+          },
+          "formattedAddress": "Ojai, CA 93023, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 164644,
+          "isCaseOwner": false,
+          "name": "Ventura County Sheriff's Office-Major Crimes Investigations",
+          "city": "Camarillo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 302,
+            "name": "Ventura County",
+            "localizedName": "Ventura"
+          },
+          "countyDisplayName": "Ventura",
+          "selection": {
+            "id": 189093,
+            "contact": {
+              "id": 287686,
+              "firstName": "Araseli",
+              "lastName": "Ruiz-Acevedo",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43367,
+              "name": "Ventura County Sheriff's Office-Major Crimes Investigations",
+              "street1": "5177 Camino Ruiz",
+              "city": "Camarillo",
+              "county": {
+                "id": 302,
+                "name": "Ventura County",
+                "localizedName": "Ventura"
+              },
+              "zipCode": "93012",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8053838704",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.venturasheriff.org/"
+            }
+          },
+          "caseNumber": "69-1180"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43367,
+        "isCaseOwner": false,
+        "name": "Ventura County Sheriff's Office-Major Crimes Investigations"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 108536,
+        "investigatingAgencyIdentityId": 164644
+      },
+      "physicalDescription": {
+        "id": 195799,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 5,
+          "name": "Green",
+          "localizedName": "Green"
+        },
+        "rightEyeColor": {
+          "id": 5,
+          "name": "Green",
+          "localizedName": "Green"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 101894,
+          "identityId": 92441,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Horizontal scar on leg"
+        }
+      ],
+      "images": [
+        {
+          "id": 230251,
+          "identityId": 216083,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-19T19:02:00.07",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 583,
+              "width": 501,
+              "storageKey": "6b785031d51e48878b717140b9a38f1a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216083/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 103,
+              "storageKey": "fb0584560bde4f8ea60a3d9d1392777b",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216083/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216083/Download"
+        },
+        {
+          "id": 230267,
+          "identityId": 216097,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-19T21:26:27.803",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2501,
+              "width": 1902,
+              "storageKey": "ba243bda0d434e809f576b35b39fb456",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216097/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "e39b0fee332b4f999f1f46b0b81591d8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216097/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/216097/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 115916,
+        "defaultImageIdentityId": 216097
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

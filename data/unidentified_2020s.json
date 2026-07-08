@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T09:51:26.596295+00:00",
+  "generated_at": "2026-07-08T08:36:45.094646+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1937,
+  "count": 1943,
   "cases": [
     {
       "id": 64643,
@@ -586200,6 +586200,2020 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138033/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138033/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 138095,
+      "idFormatted": "UP138095",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-06T19:23:06.087",
+      "modifiedDateTime": "2025-09-02T21:31:11.193",
+      "caseIdentification": {
+        "id": 50565,
+        "caseNumber": "24-3144"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70353,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2014,
+        "estimatedYearOfDeathTo": 2022,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74611,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-09-04",
+        "address": {
+          "city": "Artesa",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Isolated cranium found by humanitarian group in remote desert area south east of Artesa on the Tohono O'odham Nation. No personal effects recovered",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8995221,
+            "lon": -111.8523443
+          },
+          "formattedAddress": "Artesa, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53564,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45830,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 123893,
+          "identityId": 111667,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-02-24T22:33:12.157",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 893,
+              "width": 652,
+              "storageKey": "e4902d1c835e4fc19084090e140ab95a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138095/Images/111667/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 88,
+              "storageKey": "e14791397fa64a07a0b6f2c6779b148b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138095/Images/111667/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138095/Images/111667/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25646,
+        "defaultImageIdentityId": 111667
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49459,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57560,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "240904105"
+        },
+        {
+          "id": 49460,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57561,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3144"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23179,
+        "investigatingAgencyIdentityId": 49460
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138095/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138095/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 138161,
+      "idFormatted": "UP138161",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T08:18:23.09",
+      "modifiedDateTime": "2025-02-13T17:34:29.207",
+      "caseIdentification": {
+        "id": 50570,
+        "caseNumber": "2024-3180"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70203,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74451,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-14",
+        "address": {
+          "city": "Kahuku",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "displayName": "HI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "displayName": "Honolulu"
+          },
+          "countyId": 0,
+          "zipCode": "96731"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 11/14/24, a left femur bone was discovered during excavation at a construction site.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 21.6764151,
+            "lon": -157.9473954
+          },
+          "formattedAddress": "Kahuku, HI 96731, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53569,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45835,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49463,
+          "isCaseOwner": false,
+          "name": "Department of the Medical Examiner",
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "localizedName": "HI"
+          },
+          "stateDisplayName": "HI",
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "localizedName": "Honolulu"
+          },
+          "countyDisplayName": "Honolulu",
+          "selection": {
+            "id": 57569,
+            "contact": {
+              "id": 41406,
+              "firstName": "Whitney",
+              "lastName": "Kodama",
+              "jobTitle": "Supervising Medical Death Investigator IV",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 47349,
+              "name": "Department of the Medical Examiner",
+              "street1": "835 Iwilei Road",
+              "city": "Honolulu",
+              "county": {
+                "id": 609,
+                "name": "Honolulu County",
+                "localizedName": "Honolulu"
+              },
+              "zipCode": "96817",
+              "state": {
+                "id": 44,
+                "name": "Hawaii",
+                "localizedName": "HI"
+              },
+              "phone": "8087683090",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.honolulu.gov/med"
+            }
+          },
+          "caseNumber": "2024-3180",
+          "dateReported": "2024-11-15"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23204,
+        "investigatingAgencyIdentityId": 49463
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138161/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138161/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
+    },
+    {
+      "id": 138167,
+      "idFormatted": "UP138167",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T14:17:51.023",
+      "modifiedDateTime": "2026-07-06T16:40:22.977",
+      "caseIdentification": {
+        "id": 50572,
+        "caseNumber": "24-0649"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70213,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 2018,
+        "estimatedYearOfDeathTo": 2023,
+        "estimatedYearOfBirthFrom": 1958,
+        "estimatedYearOfBirthTo": 1993,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 6,
+          "name": "Years",
+          "localizedName": "Years"
+        },
+        "heightFrom": 56,
+        "heightTo": 63,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75482,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-09",
+        "agencyQAReviewed": "2025-02-07",
+        "address": {
+          "city": "New Cumberland",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2376,
+            "name": "York County",
+            "displayName": "York"
+          },
+          "countyId": 0,
+          "zipCode": "17070"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains discovered behind a local business. Please note, the map feature indicates the New Cumberland, PA city center, not the exact location of where the remains were located.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.2323122,
+            "lon": -76.8846956
+          },
+          "formattedAddress": "New Cumberland, PA 17070, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53575,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [
+        {
+          "id": 25455,
+          "identityId": 20169,
+          "noteType": "Circumstances",
+          "isPublic": true,
+          "description": "Mercyhurst Forensic Anthropology Lab conducted the recovery and analysis of the remains."
+        }
+      ],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55817,
+          "identityId": 47239,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Decedent was wearing multiple layers of clothing. \n\nTwo jackets: black outer jacket with brand name \"Coogi\" and black inner jacket brand name \"ZEROXPOSUR\".  Size large black \"Nike\" brand t-shirt. Two bras: black sports bra with a size 34B bra underneath with underwire and padding. Two pairs of pants: outer pants black with elastic waistband and elastic hems are the end of the pant legs. Inner pants were grey with a dark blue elastic, adjustable waistband. Knee-high socks were present.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55823,
+          "identityId": 47241,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Black eyeglass frames--missing lenses. Found in a jacket pocket.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55822,
+          "identityId": 47240,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Single Nike brand multicolored \"tie-dye\" sneakers found several feet down an embankment along I83. Shoe size 4.5 youth",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55814,
+          "identityId": 47236,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "3 silver tone rings: one plain band, one with 3 white stones, and a bypass ring with filigree details",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55818,
+          "identityId": 47237,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "black, plastic choker necklace on cervical vertebrae",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55816,
+          "identityId": 47238,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "rose gold toned \"Fossil\" brand watch on left forearm",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45837,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 123746,
+          "identityId": 111530,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Coogi brand jacket",
+          "isPublic": true,
+          "createdDateTime": "2025-02-10T15:32:07.087",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2740,
+              "width": 3350,
+              "storageKey": "904c3a9755fe4b9d81133b23c63bf97f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111530/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 98,
+              "width": 120,
+              "storageKey": "872ab7c0209148dd86ac5ac5b721f4ae",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111530/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111530/Download"
+        },
+        {
+          "id": 123744,
+          "identityId": 111531,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "ZEROXPOSUR jacket",
+          "isPublic": true,
+          "createdDateTime": "2025-02-10T15:32:09.007",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2972,
+              "width": 2972,
+              "storageKey": "93603cf7a11240d3b6c2250ddd7270d0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111531/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "6608ff4a5920461099f3f87c3cd1561d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111531/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111531/Download"
+        },
+        {
+          "id": 123694,
+          "identityId": 111497,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Nike brand tie-dye colored sneaker. Youth size 4.5",
+          "isPublic": true,
+          "createdDateTime": "2025-02-07T15:04:12.647",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "670ff3f1d3e44a7baa484f3fb35bc3cb",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111497/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "9b41e449f65e4d6c9055256bd4ab6f60",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111497/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111497/Download"
+        },
+        {
+          "id": 123696,
+          "identityId": 111499,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "3 silver tone rings found in decedent's fingers",
+          "isPublic": true,
+          "createdDateTime": "2025-02-07T15:05:23.993",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "7f659b2059e34a48a5edb6ea8bd83f06",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111499/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "069c4496cd47456c8e915e4365f83119",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111499/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111499/Download"
+        },
+        {
+          "id": 123697,
+          "identityId": 111500,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "Black plastic choker necklace, brown and orange hair ties, rose gold toned \"fossil\" brand watch, and 3 silver tone rings-- all found on the remains.",
+          "isPublic": true,
+          "createdDateTime": "2025-02-07T15:06:58.103",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "5500bec9871e408abb5e40e334e9ca9b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111500/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "75aa5bd91eb9455aa88c8ed023e4db02",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111500/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111500/Download"
+        },
+        {
+          "id": 123737,
+          "identityId": 111528,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "silver toned bypass ring",
+          "isPublic": true,
+          "createdDateTime": "2025-02-10T15:29:45.647",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2260,
+              "width": 2260,
+              "storageKey": "892f24539bf8466196fd8277249b7809",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111528/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "c67b052e5b8c41349298de9d2e21bd29",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111528/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111528/Download"
+        },
+        {
+          "id": 123740,
+          "identityId": 111529,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Black glasses frames-- missing lenses",
+          "isPublic": true,
+          "createdDateTime": "2025-02-10T15:29:46.897",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1648,
+              "width": 4244,
+              "storageKey": "1cbc5d9bdf7c4119abeaee325f5c5c0b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111529/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 47,
+              "width": 120,
+              "storageKey": "d968b72ce3f644f3a8f5e698603b5f8c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111529/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/111529/Download"
+        },
+        {
+          "id": 126885,
+          "identityId": 114141,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Skeletal Composite by NamUs Forensic Artist Eve Grant - Front View Bandana",
+          "isPublic": true,
+          "createdDateTime": "2025-06-24T14:31:05.293",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 7200,
+              "width": 5400,
+              "storageKey": "c21ca60140504ae7aae862e6931a5f8c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114141/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "4d172238617d44e9b456b04ad284d259",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114141/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114141/Download"
+        },
+        {
+          "id": 126883,
+          "identityId": 114142,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Skeletal Composite by NamUs Forensic Artist Eve Grant - Front View Braids",
+          "isPublic": true,
+          "createdDateTime": "2025-06-24T14:31:58.23",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 7200,
+              "width": 5400,
+              "storageKey": "1700971f830a4679aa277561177b0b63",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114142/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "4d2a2bc2f6a04645af8b879a404dada3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114142/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114142/Download"
+        },
+        {
+          "id": 126884,
+          "identityId": 114143,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Skeletal Composite by NamUs Forensic Artist Eve Grant - Profile View",
+          "isPublic": true,
+          "createdDateTime": "2025-06-24T14:32:23.887",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 5009,
+              "width": 6084,
+              "storageKey": "e78b9d389a44488da8d185109f95606c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114143/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 99,
+              "width": 120,
+              "storageKey": "f22e97a3af914c0f9acb0c5f9d42aaf0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114143/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/114143/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25946,
+        "defaultImageIdentityId": 114142
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49465,
+          "isCaseOwner": false,
+          "name": "York County Coroners Office",
+          "city": "York",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2376,
+            "name": "York County",
+            "localizedName": "York"
+          },
+          "countyDisplayName": "York",
+          "selection": {
+            "id": 62364,
+            "agency": {
+              "id": 30569,
+              "name": "York County Coroners Office",
+              "street1": "3400 Concord Road",
+              "street2": "Ste 100, P.O. Box 20790",
+              "city": "York",
+              "county": {
+                "id": 2376,
+                "name": "York County",
+                "localizedName": "York"
+              },
+              "zipCode": "17402",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "7178407617",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://yorkcountypa.gov/380/Coroner"
+            }
+          },
+          "caseNumber": "24-0649",
+          "dateReported": "2024-12-09"
+        },
+        {
+          "id": 49470,
+          "isCaseOwner": false,
+          "name": "Fairview Township Police Department",
+          "city": "New Cumberland",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2376,
+            "name": "York County",
+            "localizedName": "York"
+          },
+          "countyDisplayName": "York",
+          "selection": {
+            "id": 62517,
+            "agency": {
+              "id": 80392,
+              "name": "Fairview Township Police Department",
+              "street1": "599 Lewisberry Road",
+              "city": "New Cumberland",
+              "county": {
+                "id": 2376,
+                "name": "York County",
+                "localizedName": "York"
+              },
+              "zipCode": "17070",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "7179015267",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://york.crimewatchpa.com/fairviewtwppd/42144"
+            }
+          },
+          "caseNumber": "52-24-09824"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23182,
+        "investigatingAgencyIdentityId": 49465
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138167/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 138398,
+      "idFormatted": "UP138398",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-11T15:34:59.007",
+      "modifiedDateTime": "2025-08-28T19:58:12.297",
+      "caseIdentification": {
+        "id": 50583,
+        "caseNumber": "2419568"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70227,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 68,
+        "heightTo": 69,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74480,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-23",
+        "address": {
+          "city": "Fort Worth",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2809,
+            "name": "Tarrant County",
+            "displayName": "Tarrant"
+          },
+          "countyId": 0,
+          "zipCode": "76116"
+        },
+        "description": "1300 Green Oaks Rd.",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased in a creek bed next to a parking lot, by an individual looking for items in the creek.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.717251,
+            "lon": -97.4435441
+          },
+          "formattedAddress": "Fort Worth, TX 76116, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53583,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45852,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49478,
+          "isCaseOwner": false,
+          "name": "Tarrant County Medical Examiner's Office",
+          "city": "Fort Worth",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2809,
+            "name": "Tarrant County",
+            "localizedName": "Tarrant"
+          },
+          "countyDisplayName": "Tarrant",
+          "selection": {
+            "id": 57603,
+            "agency": {
+              "id": 35260,
+              "name": "Tarrant County Medical Examiner's Office",
+              "street1": "200 Feliks Gwozdz Plaza",
+              "city": "Fort Worth",
+              "county": {
+                "id": 2809,
+                "name": "Tarrant County",
+                "localizedName": "Tarrant"
+              },
+              "zipCode": "76104",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8179205700",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://access.tarrantcounty.com/en/medical-examiner.html"
+            }
+          },
+          "caseNumber": "2419568"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138398/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138398/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 138400,
+      "idFormatted": "UP138400",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-11T15:44:08.53",
+      "modifiedDateTime": "2025-11-10T16:45:26.64",
+      "caseIdentification": {
+        "id": 50584,
+        "caseNumber": "2418834"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71012,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 15,
+          "name": "Adult - Pre 90",
+          "localizedName": "Adult - Pre 90"
+        },
+        "heightFrom": 65,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74484,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-08",
+        "address": {
+          "city": "Denton",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2651,
+            "name": "Denton County",
+            "displayName": "Denton"
+          },
+          "countyId": 0,
+          "zipCode": "76201"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased inside an abandoned private residence.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.2167226,
+            "lon": -97.14132219999999
+          },
+          "formattedAddress": "Denton, TX 76201, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53584,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55841,
+          "identityId": 47254,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Apparent black knee brace on left leg, around ankle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45853,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125392,
+          "identityId": 113025,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Artist rendering",
+          "isPublic": true,
+          "createdDateTime": "2025-05-12T16:40:51.617",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3571,
+              "width": 6000,
+              "storageKey": "af67b97b150c492ab83d2e0874b495f7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113025/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 71,
+              "width": 120,
+              "storageKey": "d769dc3e40fe4dd28d0c47987c466873",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113025/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113025/Download"
+        },
+        {
+          "id": 125393,
+          "identityId": 113026,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Artist rendering with beard",
+          "isPublic": true,
+          "createdDateTime": "2025-05-12T16:42:40.087",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3571,
+              "width": 6000,
+              "storageKey": "1e97f543267c4943af0b9286329d94f6",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113026/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 71,
+              "width": 120,
+              "storageKey": "31a475b5d84c449083a87a91728b2c2c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113026/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/113026/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25840,
+        "defaultImageIdentityId": 113026
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49480,
+          "isCaseOwner": false,
+          "name": "Tarrant County Medical Examiner's Office",
+          "city": "Fort Worth",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2809,
+            "name": "Tarrant County",
+            "localizedName": "Tarrant"
+          },
+          "countyDisplayName": "Tarrant",
+          "selection": {
+            "id": 57602,
+            "agency": {
+              "id": 35260,
+              "name": "Tarrant County Medical Examiner's Office",
+              "street1": "200 Feliks Gwozdz Plaza",
+              "city": "Fort Worth",
+              "county": {
+                "id": 2809,
+                "name": "Tarrant County",
+                "localizedName": "Tarrant"
+              },
+              "zipCode": "76104",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8179205700",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://access.tarrantcounty.com/en/medical-examiner.html"
+            }
+          },
+          "caseNumber": "2418834"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138400/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 138419,
+      "idFormatted": "UP138419",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-11T18:48:36.417",
+      "modifiedDateTime": "2026-05-08T16:42:50.95",
+      "caseIdentification": {
+        "id": 50589,
+        "caseNumber": "Q25-02284"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71089,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 65,
+        "heightFrom": 56,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 195,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74492,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-18",
+        "address": {
+          "city": "Queens",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1930,
+            "name": "Queens County",
+            "displayName": "Queens"
+          },
+          "countyId": 0,
+          "zipCode": "11432"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found unresponsive on the F train at the 179th Street station.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7154518,
+            "lon": -73.7919103
+          },
+          "formattedAddress": "Jamaica, NY 11432, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53590,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55854,
+          "identityId": 47261,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "White colored metal rings (2) and a white colored metal hoop earring (1)",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55855,
+          "identityId": 47262,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "White colored metal chain with multiple keys and carabiners and key chains.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55850,
+          "identityId": 47255,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black Pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55853,
+          "identityId": 47256,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55845,
+          "identityId": 47257,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Bra",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55851,
+          "identityId": 47258,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Dark shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55849,
+          "identityId": 47259,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White underwear",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55852,
+          "identityId": 47260,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Gray shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45859,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "wavy, approximately 8\"",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 123771,
+          "identityId": 111555,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-11T18:48:52.4",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 354,
+              "width": 492,
+              "storageKey": "315b098c8caf42b69e507952706766fb",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111555/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 86,
+              "width": 120,
+              "storageKey": "a7df5c27e67745598588cc04fd14bf3e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111555/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111555/Download"
+        },
+        {
+          "id": 123772,
+          "identityId": 111556,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-11T18:48:53.293",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 395,
+              "width": 316,
+              "storageKey": "441bcc3084cf4d059ff3d1d83de13af9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111556/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "3a144414f8b642c6a18a12b3b724ac1f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111556/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/111556/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25621,
+        "defaultImageIdentityId": 111556
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49483,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 57594,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "Q25-02284"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23188,
+        "investigatingAgencyIdentityId": 49483
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }

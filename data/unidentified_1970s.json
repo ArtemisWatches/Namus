@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T09:51:26.596295+00:00",
+  "generated_at": "2026-07-08T08:36:45.094646+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 954,
+  "count": 960,
   "cases": [
     {
       "id": 103,
@@ -275063,6 +275063,2051 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138037/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138037/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138109,
+      "idFormatted": "UP138109",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-06T21:55:57.393",
+      "modifiedDateTime": "2026-02-18T22:36:41.807",
+      "caseIdentification": {
+        "id": 50593,
+        "caseNumber": "1975-01565"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72184,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 21,
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77458,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-03-25",
+        "address": {
+          "city": "Tucumcari",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1867,
+            "name": "Guadalupe County",
+            "displayName": "Guadalupe"
+          },
+          "countyId": 0,
+          "zipCode": "88401"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found on a ranch by a ranch hand working on the Bidegain Ranch",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.171723,
+            "lon": -103.7249662
+          },
+          "formattedAddress": "Tucumcari, NM 88401, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54821,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57734,
+          "identityId": 48671,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "White and brown knitted scarf",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55810,
+          "identityId": 47232,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Levi Denim Jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55811,
+          "identityId": 47233,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White T-shirt with lettering that says \"Super Jobs in the Air Force\". The writing is on a blue and white cloud like outline.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55812,
+          "identityId": 47234,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Levi pants that are men's style.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55813,
+          "identityId": 47235,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown Loafer style Shoes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57733,
+          "identityId": 48670,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Yellow metal wire clip earrings, somewhat resembling safety pins.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47089,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Straight, naturally brown hair dyed blonde, approximately 2 inches from scalp. Measures 29cm in length (roughly shoulder length)",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "eyeDescription": "Blue/grey or possibly Hazel"
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17451,
+          "identityId": 14649,
+          "physicalFeature": {
+            "id": 5,
+            "name": "Piercing",
+            "localizedName": "Piercing",
+            "ordinal": 5
+          },
+          "description": "Ears are pierced"
+        },
+        {
+          "id": 17452,
+          "identityId": 14642,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "posterior midline at the base of the neck is a very faint, slightly hyperpigmented, circular, irregular scar measuring 1.2 x. 1 cm"
+        },
+        {
+          "id": 17445,
+          "identityId": 14643,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "lateral aspect if the midportion of the right thigh is a slightly elevated puckered, blanched, well-healed linear scar measuring 15 x 0.9 cm"
+        },
+        {
+          "id": 17446,
+          "identityId": 14644,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "lateral aspect of the proximal left arm is a blanched, well-healed slightly depressed circular vaccination scar"
+        },
+        {
+          "id": 17447,
+          "identityId": 14645,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "left inner arm where the arm bends is a transverse, well-healed, slightly elevated and slightly hyperpigmented linear scar measuring 1.5 x 0.4 cm"
+        },
+        {
+          "id": 17448,
+          "identityId": 14646,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "at the base of the left lateral aspect of the neck is a slightly elevated brown mole measuring 0.6 x 0.5 cm"
+        },
+        {
+          "id": 17449,
+          "identityId": 14647,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "at the base of the neck at the midline beneath the scar, is a brown slightly elevated mole measuring 0.4 cm in diameter"
+        },
+        {
+          "id": 17450,
+          "identityId": 14648,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "in the left bend of the arm are two slightly elevated moles measuring 0.4 x 0.3 cm"
+        }
+      ],
+      "images": [
+        {
+          "id": 130350,
+          "identityId": 116796,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-22T16:58:20.527",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 270,
+              "width": 315,
+              "storageKey": "883c7966ed6d468895db0ed7573f3e8c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116796/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 103,
+              "width": 120,
+              "storageKey": "346374d20ca44c6c899b806c62d0863d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116796/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116796/Download"
+        },
+        {
+          "id": 130349,
+          "identityId": 116798,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-22T18:36:05.01",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 270,
+              "width": 389,
+              "storageKey": "9b1d6070562b4adfbe0c81fd9b66759d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116798/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 83,
+              "width": 120,
+              "storageKey": "89169f1ef0e045b2aeef4931263e0dea",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116798/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/116798/Download"
+        },
+        {
+          "id": 132072,
+          "identityId": 119154,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Facial Approximation",
+          "isPublic": true,
+          "createdDateTime": "2026-02-06T19:53:55.283",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1000,
+              "width": 800,
+              "storageKey": "9d55c0d9be0642868c51f6d05cecfbe8",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119154/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "fdfa2d98aacf4114b26284a5848b8ddd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119154/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119154/Download"
+        },
+        {
+          "id": 132070,
+          "identityId": 119152,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-02-06T19:53:52.237",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1000,
+              "width": 800,
+              "storageKey": "514bf2aa5b244ca78fe4f796b1d8d284",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119152/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "5d1a252d03374da5a19d5a50ed120fa7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119152/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119152/Download"
+        },
+        {
+          "id": 132071,
+          "identityId": 119153,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-02-06T19:53:53.613",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1000,
+              "width": 800,
+              "storageKey": "b3608a7ccff147b2a381cdc3e7e60c72",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119153/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "6b113b3ac4c945f0b782911127c5d742",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119153/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/119153/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26409,
+        "defaultImageIdentityId": 119154
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51356,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Santa Rosa",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1867,
+            "name": "Guadalupe County",
+            "localizedName": "Guadalupe"
+          },
+          "countyDisplayName": "Guadalupe",
+          "selection": {
+            "id": 61404,
+            "agency": {
+              "id": 63545,
+              "name": "New Mexico State Police",
+              "street1": "2302 Historic Route 66",
+              "city": "Santa Rosa",
+              "county": {
+                "id": 1867,
+                "name": "Guadalupe County",
+                "localizedName": "Guadalupe"
+              },
+              "zipCode": "88435",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5754723388",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 51408,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 61512,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1975-01565"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138109/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138113,
+      "idFormatted": "UP138113",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-06T22:46:28.57",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 50568,
+        "caseNumber": "1977-07018"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71093,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 99,
+        "heightFrom": 67,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74463,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-05-22",
+        "address": {
+          "city": "Cuba",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1882,
+            "name": "Sandoval County",
+            "displayName": "Sandoval"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Local rock hunter was looking for rocks when found skeleton remains in arroyo.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.0222403,
+            "lon": -106.9583721
+          },
+          "formattedAddress": "Cuba, NM 87013, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53568,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45834,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17158,
+          "identityId": 14422,
+          "physicalFeature": {
+            "id": 3,
+            "name": "Deformity",
+            "localizedName": "Deformity",
+            "ordinal": 3
+          },
+          "description": "Could have an arched or hunched back"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49471,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Cuba",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1882,
+            "name": "Sandoval County",
+            "localizedName": "Sandoval"
+          },
+          "countyDisplayName": "Sandoval",
+          "selection": {
+            "id": 59199,
+            "agency": {
+              "id": 80649,
+              "name": "New Mexico State Police",
+              "street1": "6402 U.S. 550",
+              "city": "Cuba",
+              "county": {
+                "id": 1882,
+                "name": "Sandoval County",
+                "localizedName": "Sandoval"
+              },
+              "zipCode": "87013",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5752893443",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dps.nm.gov/nmsp/uniform-bureau-and-district-offices/"
+            }
+          }
+        },
+        {
+          "id": 50204,
+          "isCaseOwner": false,
+          "name": "Zia Pueblo Police Department",
+          "city": "Zia Pueblo",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1882,
+            "name": "Sandoval County",
+            "localizedName": "Sandoval"
+          },
+          "countyDisplayName": "Sandoval",
+          "selection": {
+            "id": 59182,
+            "agency": {
+              "id": 60645,
+              "name": "Zia Pueblo Police Department",
+              "street1": "135 Capitol Square Drive",
+              "city": "Zia Pueblo",
+              "county": {
+                "id": 1882,
+                "name": "Sandoval County",
+                "localizedName": "Sandoval"
+              },
+              "zipCode": "87053",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058673304",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50210,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 59193,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1977-07018"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23998,
+        "investigatingAgencyIdentityId": 50210
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138113/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138113/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138198,
+      "idFormatted": "UP138198",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T20:50:19.583",
+      "modifiedDateTime": "2026-07-07T17:58:07.15",
+      "caseIdentification": {
+        "id": 50576,
+        "caseNumber": "1977-07035"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70214,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74465,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-08-19",
+        "address": {
+          "city": "Truth or Consequences",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1884,
+            "name": "Sierra County",
+            "displayName": "Sierra"
+          },
+          "countyId": 0,
+          "zipCode": "87901"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Two subjects had reported to LE they believed they found remains in a wash 1 1/4 Miles East of Lake Caballo.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.1284047,
+            "lon": -107.2528069
+          },
+          "formattedAddress": "Truth or Consequences, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53577,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45840,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49472,
+          "isCaseOwner": false,
+          "name": "Sierra County Sheriff's Office",
+          "city": "Truth or Consequences",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1884,
+            "name": "Sierra County",
+            "localizedName": "Sierra"
+          },
+          "countyDisplayName": "Sierra",
+          "selection": {
+            "id": 57578,
+            "agency": {
+              "id": 64887,
+              "name": "Sierra County Sheriff's Office",
+              "street1": "2501 South Broadway",
+              "city": "Truth or Consequences",
+              "county": {
+                "id": 1884,
+                "name": "Sierra County",
+                "localizedName": "Sierra"
+              },
+              "zipCode": "87901",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5758949150",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sierraco.org/department/sheriff/"
+            }
+          }
+        },
+        {
+          "id": 52818,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 64019,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1977-07035"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138198/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138198/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138201,
+      "idFormatted": "UP138201",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T21:29:23.817",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 50578,
+        "caseNumber": "1977-07047"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71734,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 35,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74502,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-09-21",
+        "address": {
+          "city": "McKinley County",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "displayName": "McKinley"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Subject stepped in front of a semi on the highway.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.71524720000001,
+            "lon": -108.2377519
+          },
+          "formattedAddress": "McKinley County, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53579,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57269,
+          "identityId": 48313,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown coat",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57270,
+          "identityId": 48314,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Red Blouse",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57271,
+          "identityId": 48315,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown Pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45842,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49474,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "localizedName": "McKinley"
+          },
+          "countyDisplayName": "McKinley",
+          "selection": {
+            "id": 57580,
+            "agency": {
+              "id": 61983,
+              "name": "New Mexico State Police",
+              "street1": "4200 East Highway 66",
+              "city": "Gallup",
+              "county": {
+                "id": 1874,
+                "name": "McKinley County",
+                "localizedName": "McKinley"
+              },
+              "zipCode": "87301",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058639353",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sp.nm.gov/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138201/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138201/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138199,
+      "idFormatted": "UP138199",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T21:09:00.957",
+      "modifiedDateTime": "2026-07-06T20:55:09.01",
+      "caseIdentification": {
+        "id": 50577,
+        "caseNumber": "1977-07042"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70215,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 69,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 153,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76685,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-09-17",
+        "address": {
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "displayName": "Bernalillo"
+          },
+          "countyId": 0,
+          "zipCode": "87102"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Subject was crossing Broadway Street from West to East when struck by an automobile.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.0848894,
+            "lon": -106.6468148
+          },
+          "formattedAddress": "Albuquerque, NM 87102, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53578,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57157,
+          "identityId": 47244,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A pair of well-worn green trousers with a string used as a belt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57152,
+          "identityId": 47245,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A pair of well-worn grey trousers.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57153,
+          "identityId": 47246,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White long-sleeved men's shirt with the label \" Doorwood, non-wilt collar\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57156,
+          "identityId": 47248,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Tan leather-like jacket labeled \"Fingerhut, size 46, made in USA.\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57151,
+          "identityId": 48234,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A pair of blue trousers",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57155,
+          "identityId": 47247,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "A pair of brown knit socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57154,
+          "identityId": 48235,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "A white ace-bandage style wrap on the left foot.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46772,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Grey to brown hair that is approximately 2 cm long.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17308,
+          "identityId": 14552,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the outside of the upper left arm is a blue-black ink tattoo of an eagle approximately 15 x 7 cm in size."
+        }
+      ],
+      "images": [
+        {
+          "id": 127598,
+          "identityId": 115086,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-07-22T17:34:55.127",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 298,
+              "width": 258,
+              "storageKey": "a1618e51e0c740c2ba86ad119662776c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138199/Images/115086/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 104,
+              "storageKey": "e30efef0cf634281a61c9dd638aaa7c9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138199/Images/115086/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138199/Images/115086/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26001,
+        "defaultImageIdentityId": 115086
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49473,
+          "isCaseOwner": false,
+          "name": "Albuquerque Police Department",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 57579,
+            "agency": {
+              "id": 43584,
+              "name": "Albuquerque Police Department",
+              "street1": "400 Roma Avenue NW",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87102",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5057682020",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.cabq.gov/police"
+            }
+          }
+        },
+        {
+          "id": 50827,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60552,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1977-07042"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24509,
+        "investigatingAgencyIdentityId": 50827
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138199/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138199/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138202,
+      "idFormatted": "UP138202",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-07T21:57:25.617",
+      "modifiedDateTime": "2026-07-07T17:58:44.997",
+      "caseIdentification": {
+        "id": 50579,
+        "caseNumber": "1977-07052"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71223,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 25,
+        "estimatedYearOfDeathFrom": 1977,
+        "estimatedYearOfBirthFrom": 1952,
+        "estimatedYearOfBirthTo": 1959,
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Jack",
+        "possibleMiddleName": "V",
+        "possibleLastName": "Doss",
+        "weightFrom": 158,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76038,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-10-20",
+        "address": {
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "displayName": "Bernalillo"
+          },
+          "countyId": 0,
+          "zipCode": "87121"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Pedestrian struck by a train",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.1128064,
+            "lon": -106.8650395
+          },
+          "formattedAddress": "Albuquerque, NM 87121, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54234,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56585,
+          "identityId": 47779,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Thin leather belt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56589,
+          "identityId": 47775,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A dark green, knit, V-neck sweater with grey and white ribbed sweater borders. The name \"Jack Doss\" on sewn in label.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56582,
+          "identityId": 47776,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Dark brown knit socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56584,
+          "identityId": 47778,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A Brother brand size 17 light brown, green, orange, black, and white checked flannel long sleeve shirt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56588,
+          "identityId": 47780,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown, corduroy fabric men's trousers. \"J.V.\" and \"Doss\" sewn into the waistband",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56583,
+          "identityId": 47777,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "A pair of Wolverine brand brown leather lace-up ankle-high boots with BeeBee soles",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46483,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Thick, curly, red-brown hair approximately 17 cm in length.",
+        "facialHairDescription": "Full sideburns, partial chin beard, and sparse mustache.",
+        "leftEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        },
+        "rightEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49475,
+          "isCaseOwner": false,
+          "name": "Bernalillo County Sheriff's Department",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 57581,
+            "agency": {
+              "id": 40062,
+              "name": "Bernalillo County Sheriff's Department",
+              "street1": "401 Roma NW",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87102",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5054687100",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.bernalillocountysheriff.com/bernalillo-county-sheriff/default.aspx"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138202/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138202/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
     }
   ]

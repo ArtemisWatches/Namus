@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T09:51:11.991015+00:00",
+  "generated_at": "2026-07-08T08:36:31.269873+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1252,
+  "count": 1253,
   "cases": [
     {
       "id": 1,
@@ -366252,6 +366252,229 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138773/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138773/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 138891,
+      "idFormatted": "MP138891",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-19T21:39:53.57",
+      "modifiedDateTime": "2025-03-03T19:45:15.047",
+      "subjectIdentification": {
+        "id": 227030,
+        "firstName": "John",
+        "middleName": "Dewayne",
+        "lastName": "Burrell",
+        "currentMinAge": 88,
+        "currentMaxAge": 88,
+        "computedMissingMinAge": 35,
+        "computedMissingMaxAge": 35
+      },
+      "subjectDescription": {
+        "id": 199793,
+        "heightFrom": 67,
+        "heightTo": 72,
+        "weightFrom": 150,
+        "weightTo": 185,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 236265,
+        "circumstancesOfDisappearance": "Burrell left his location on November 4, 1972. Burrell traveled to McCurtain County Oklahoma with another individual. Burrell was reportedly last seen in a rural area west of Broken Bow, Oklahoma on December 12, 1973 and may have been taken to the Little River Bridge located two miles south Horatio Arkansas in Sevier County. Several searches of the river were conducted however Burrell was not located. No record of Burrell exists after December 12, 1973."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 273245,
+        "date": "1973-12-12",
+        "address": {
+          "city": "Horatio",
+          "state": {
+            "id": 7,
+            "name": "Arkansas",
+            "displayName": "AR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 237,
+            "name": "Sevier County",
+            "displayName": "Sevier"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.938417,
+            "lon": -94.35278100000001
+          },
+          "formattedAddress": "Horatio, AR, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 164654,
+          "isCaseOwner": false,
+          "name": "Oklahoma State Bureau of Investigations Southeast Regional Office",
+          "city": "Antlers",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2260,
+            "name": "Pushmataha County",
+            "localizedName": "Pushmataha"
+          },
+          "countyDisplayName": "Pushmataha",
+          "selection": {
+            "id": 189106,
+            "agency": {
+              "id": 80232,
+              "name": "Oklahoma State Bureau of Investigations Southeast Regional Office",
+              "street1": "206 Southwest C Street",
+              "city": "Antlers",
+              "county": {
+                "id": 2260,
+                "name": "Pushmataha County",
+                "localizedName": "Pushmataha"
+              },
+              "zipCode": "74523",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9184236672",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "CF73-025",
+          "dateReported": "1973-01-31"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 80232,
+        "isCaseOwner": false,
+        "name": "Oklahoma State Bureau of Investigations Southeast Regional Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 109006,
+        "investigatingAgencyIdentityId": 164654
+      },
+      "physicalDescription": {
+        "id": 195815,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Unknown",
+        "bodyHairDescription": "Unknown",
+        "facialHairDescription": "Unknown",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 230790,
+          "identityId": 216099,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-19T21:53:33.837",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 189,
+              "width": 161,
+              "storageKey": "2558d07bfff34256a165d481287af9aa",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/216099/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "5961e35cb889422e95c4da71f608b0a0",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/216099/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/216099/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 115919,
+        "defaultImageIdentityId": 216099
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arkansas"
     }
   ]
 }
