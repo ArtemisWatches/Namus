@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T08:36:45.094646+00:00",
+  "generated_at": "2026-07-09T09:48:47.749805+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1943,
+  "count": 1952,
   "cases": [
     {
       "id": 64643,
@@ -588214,6 +588214,2503 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138419/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 138539,
+      "idFormatted": "UP138539",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-13T13:46:39.68",
+      "modifiedDateTime": "2026-05-08T16:43:59.013",
+      "caseIdentification": {
+        "id": 50599,
+        "caseNumber": "M25-04189"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70845,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 50,
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 156,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74514,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-02",
+        "address": {
+          "city": "Manhattan",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "displayName": "New York"
+          },
+          "countyId": 0,
+          "zipCode": "10036"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found unresponsive on a subway car at 50th Street & 7th Avenue.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7602619,
+            "lon": -73.9932872
+          },
+          "formattedAddress": "New York, NY 10036, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53607,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55881,
+          "identityId": 47270,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Hoodie, waffle-texture, light green/beige",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55880,
+          "identityId": 47271,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Sweatpants, black",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55883,
+          "identityId": 47273,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "3 socks, gray",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55876,
+          "identityId": 47274,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long sleeve shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55882,
+          "identityId": 47275,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "T shirt, blue",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55879,
+          "identityId": 47272,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Sneakers, black",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45869,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Wavy, balding",
+        "facialHairDescription": "Beard with moustache",
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 123831,
+          "identityId": 111613,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-13T13:47:06.76",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 401,
+              "width": 332,
+              "storageKey": "865f5ad0bc804533a0a53c9c05f3fcd8",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111613/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "4f876cff370243a2af5d92088b089472",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111613/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111613/Download"
+        },
+        {
+          "id": 123832,
+          "identityId": 111614,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-02-13T13:47:07.353",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 381,
+              "width": 441,
+              "storageKey": "8bdde0b8e69a4b5089a930eb0fa60702",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111614/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 104,
+              "width": 120,
+              "storageKey": "bffd44e6a27048e1a76c25d4b5c0f80f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111614/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/111614/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25629,
+        "defaultImageIdentityId": 111613
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49494,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 57621,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "M25-04189"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23193,
+        "investigatingAgencyIdentityId": 49494
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138539/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 138577,
+      "idFormatted": "UP138577",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-13T20:14:26.837",
+      "modifiedDateTime": "2025-02-14T22:59:52.747",
+      "caseIdentification": {
+        "id": 50604,
+        "caseNumber": "1050"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70272,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74525,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-31",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2748,
+            "name": "Maverick County",
+            "displayName": "Maverick"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The remains were found at BUR Ranch in Maverick County, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 28.7410473,
+            "lon": -100.3497895
+          },
+          "formattedAddress": "Maverick County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53613,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45876,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49512,
+          "isCaseOwner": false,
+          "name": "Maverick County Sheriff's Department",
+          "city": "Eagle Pass",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2748,
+            "name": "Maverick County",
+            "localizedName": "Maverick"
+          },
+          "countyDisplayName": "Maverick",
+          "selection": {
+            "id": 57641,
+            "agency": {
+              "id": 44080,
+              "name": "Maverick County Sheriff's Department",
+              "street1": "1051 Balboa-Jones Boulevard",
+              "street2": "1051 Balboa-Jones Bl  Eagle Pass, TX 78852",
+              "city": "Eagle Pass",
+              "county": {
+                "id": 2748,
+                "name": "Maverick County",
+                "localizedName": "Maverick"
+              },
+              "zipCode": "78852",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8307732321",
+              "email": "sheriff@maverickcountysheriff.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.maverickcountysheriff.com/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138577/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138577/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 138582,
+      "idFormatted": "UP138582",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-13T21:35:20.103",
+      "modifiedDateTime": "2026-03-24T18:50:57.97",
+      "caseIdentification": {
+        "id": 50606,
+        "caseNumber": "24-3364"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70284,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2023,
+        "estimatedYearOfDeathTo": 2024,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74532,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-09-27",
+        "address": {
+          "city": "Lukeville",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Isolated cranium found in a remote desert area near US/Mexico Border by USBP. Individual may have had injury to their left cheek at some point during life.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8825681,
+            "lon": -112.8157127
+          },
+          "formattedAddress": "Lukeville, AZ 85341, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53615,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45877,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 123862,
+          "identityId": 111638,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-02-14T18:04:11.113",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 822,
+              "width": 989,
+              "storageKey": "b504feb8984e4c02ad898e1b7c595746",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138582/Images/111638/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 100,
+              "width": 120,
+              "storageKey": "0dd16b5b633541c0871d0ff8da28c716",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138582/Images/111638/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138582/Images/111638/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25636,
+        "defaultImageIdentityId": 111638
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49513,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57642,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3364"
+        },
+        {
+          "id": 49514,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57643,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "240928063"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23210,
+        "investigatingAgencyIdentityId": 49513
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138582/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138582/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 138776,
+      "idFormatted": "UP138776",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-18T14:40:24.793",
+      "modifiedDateTime": "2026-04-08T13:28:02.573",
+      "caseIdentification": {
+        "id": 50616,
+        "caseNumber": "ICF-2025-01024"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70317,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74564,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-09",
+        "address": {
+          "city": "SAN JUAN",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "displayName": "PR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "displayName": "All"
+          },
+          "countyId": 0,
+          "zipCode": "00923"
+        },
+        "description": "AVE 65 INFANTERIA KM. 1.5 FRENTE A PUESTO TOTAL RIO PIEDRAS",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "ACCIDENT WITH VEHICLE, NO HIT AND RUN",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 18.4140536,
+            "lon": -66.0374319
+          },
+          "formattedAddress": "San Juan, 00923, Puerto Rico"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53629,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45895,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        },
+        "rightEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49527,
+          "isCaseOwner": false,
+          "name": "Institute of Forensic Sciences of Puerto Rico",
+          "city": "San Juan",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "localizedName": "PR"
+          },
+          "stateDisplayName": "PR",
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "localizedName": "All"
+          },
+          "countyDisplayName": "All",
+          "selection": {
+            "id": 57660,
+            "contact": {
+              "id": 303634,
+              "firstName": "Damara",
+              "lastName": "Guevara-Morales",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45370,
+              "name": "Institute of Forensic Sciences of Puerto Rico",
+              "street1": "Maga St Corner Casia #54",
+              "street2": "Urb. Reparto Metropolitano",
+              "city": "San Juan",
+              "county": {
+                "id": 2377,
+                "name": "All",
+                "localizedName": "All"
+              },
+              "zipCode": "00922",
+              "state": {
+                "id": 36,
+                "name": "Puerto Rico",
+                "localizedName": "PR"
+              },
+              "phone": "7877650615",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.icf.pr.gov/"
+            }
+          },
+          "caseNumber": "ICF-2024-01024",
+          "dateReported": "2025-02-18"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23221,
+        "investigatingAgencyIdentityId": 49527
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138776/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138776/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Puerto%20Rico"
+    },
+    {
+      "id": 138809,
+      "idFormatted": "UP138809",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-18T21:07:23.703",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 50619,
+        "caseNumber": "2025-00052"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70927,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "estimatedAgeFrom": 15,
+        "estimatedAgeTo": 46,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77426,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-02",
+        "address": {
+          "city": "Santa Teresa",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "displayName": "Doña Ana"
+          },
+          "countyId": 0,
+          "zipCode": "88008"
+        },
+        "description": "31.87649, -106.71632",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.87649, -106.71632",
+        "circumstancesOfRecovery": "Border Patrol found remains.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8559384,
+            "lon": -106.6391577
+          },
+          "formattedAddress": "Santa Teresa, NM 88008, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54807,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45898,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17120,
+          "identityId": 14393,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Impacted right third molar"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49531,
+          "isCaseOwner": false,
+          "name": "Dona Ana County Sheriff's Office",
+          "city": "Las Cruces",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "localizedName": "Doña Ana"
+          },
+          "countyDisplayName": "Doña Ana",
+          "selection": {
+            "id": 61373,
+            "agency": {
+              "id": 45830,
+              "name": "Dona Ana County Sheriff's Office",
+              "street1": "845 North Motel Boulevard",
+              "city": "Las Cruces",
+              "county": {
+                "id": 1864,
+                "name": "Doña Ana County",
+                "localizedName": "Doña Ana"
+              },
+              "zipCode": "88007",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755251911",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-00000309"
+        },
+        {
+          "id": 50857,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60542,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "2025-00052"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24500,
+        "investigatingAgencyIdentityId": 50857
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138809/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138809/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138811,
+      "idFormatted": "UP138811",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-18T21:20:22.16",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 50620,
+        "caseNumber": "2025-00898"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72173,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 15,
+        "estimatedAgeTo": 99,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77427,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-30",
+        "address": {
+          "city": "Anthony",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "displayName": "Doña Ana"
+          },
+          "countyId": 0,
+          "zipCode": "88021"
+        },
+        "description": "31.851725, -106.744365",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.851725, -106.744365",
+        "circumstancesOfRecovery": "Battalion S&R group found remains, notified LE.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.0039897,
+            "lon": -106.6058257
+          },
+          "formattedAddress": "Anthony, NM 88021, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54009,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45899,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49532,
+          "isCaseOwner": false,
+          "name": "Dona Ana County Sheriff's Office",
+          "city": "Las Cruces",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "localizedName": "Doña Ana"
+          },
+          "countyDisplayName": "Doña Ana",
+          "selection": {
+            "id": 57667,
+            "agency": {
+              "id": 45830,
+              "name": "Dona Ana County Sheriff's Office",
+              "street1": "845 North Motel Boulevard",
+              "city": "Las Cruces",
+              "county": {
+                "id": 1864,
+                "name": "Doña Ana County",
+                "localizedName": "Doña Ana"
+              },
+              "zipCode": "88007",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755251911",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50856,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60541,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "2025-00898"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24499,
+        "investigatingAgencyIdentityId": 50856
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138811/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138811/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138814,
+      "idFormatted": "UP138814",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-18T21:50:30.083",
+      "modifiedDateTime": "2026-05-18T19:30:25.21",
+      "caseIdentification": {
+        "id": 50621,
+        "caseNumber": "2025-01004"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72174,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 52,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77428,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-02",
+        "address": {
+          "city": "Anthony",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "displayName": "Doña Ana"
+          },
+          "countyId": 0,
+          "zipCode": "88021"
+        },
+        "description": "32.01016, -106.56117",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.01016, -106.56117",
+        "circumstancesOfRecovery": "Remains found by ATV riders and reported to LE.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.0039897,
+            "lon": -106.6058257
+          },
+          "formattedAddress": "Anthony, NM 88021, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54808,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57720,
+          "identityId": 48658,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "black cell phone",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57717,
+          "identityId": 48657,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "light colored long sleeve shirt",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57721,
+          "identityId": 48660,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "blue cloth pants",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57719,
+          "identityId": 48659,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "pink cloth",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45900,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 129409,
+          "identityId": 116752,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-19T16:44:15.527",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "11d4b3cf62c84ea7bdf674e1bdd9c2ba",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116752/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "548d7027ba93415ab87e31e5b1f54bc6",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116752/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116752/Download"
+        },
+        {
+          "id": 129410,
+          "identityId": 116753,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-19T16:44:25.963",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "91738493a1c14a348dbb1bd60476b59e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116753/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "0e4d7584f5144e1599ec1438adafcaf1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116753/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116753/Download"
+        },
+        {
+          "id": 129411,
+          "identityId": 116754,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-19T16:44:35.307",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "9f8fa9fbe5ce4f3a8ed30f6d23a70f65",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116754/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "8870fa5872224d6c866ee6f5c209bde0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116754/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116754/Download"
+        },
+        {
+          "id": 129412,
+          "identityId": 116755,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-19T16:44:37.417",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1824,
+              "width": 1824,
+              "storageKey": "b988fed2841d4e7195c10b25d827b000",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116755/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "d8c447b7cac946d28fba14abd3ad0dbc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116755/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/116755/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49533,
+          "isCaseOwner": false,
+          "name": "Dona Ana County Sheriff's Office",
+          "city": "Las Cruces",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "localizedName": "Doña Ana"
+          },
+          "countyDisplayName": "Doña Ana",
+          "selection": {
+            "id": 61374,
+            "agency": {
+              "id": 45830,
+              "name": "Dona Ana County Sheriff's Office",
+              "street1": "845 North Motel Boulevard",
+              "city": "Las Cruces",
+              "county": {
+                "id": 1864,
+                "name": "Doña Ana County",
+                "localizedName": "Doña Ana"
+              },
+              "zipCode": "88007",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755251911",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-00006623"
+        },
+        {
+          "id": 50625,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60037,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "2025-01004"
+        },
+        {
+          "id": 51341,
+          "isCaseOwner": false,
+          "name": "Anthony Police Department",
+          "city": "Anthony",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "localizedName": "Doña Ana"
+          },
+          "countyDisplayName": "Doña Ana",
+          "selection": {
+            "id": 61375,
+            "agency": {
+              "id": 63517,
+              "name": "Anthony Police Department",
+              "street1": "820 Highway 478",
+              "street2": "PO Box 2663",
+              "city": "Anthony",
+              "county": {
+                "id": 1864,
+                "name": "Doña Ana County",
+                "localizedName": "Doña Ana"
+              },
+              "zipCode": "88021",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5758822769",
+              "email": "info@cityofanthonynm.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofanthonynm.com/departments/police-department/"
+            }
+          },
+          "caseNumber": "2025-00088"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24323,
+        "investigatingAgencyIdentityId": 50625
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138814/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138883,
+      "idFormatted": "UP138883",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-19T20:20:30.047",
+      "modifiedDateTime": "2026-05-11T15:42:54.963",
+      "caseIdentification": {
+        "id": 50626,
+        "caseNumber": "2025-01132"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72175,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 35,
+        "estimatedAgeTo": 71,
+        "heightFrom": 66,
+        "heightTo": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 180,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 77429,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-06",
+        "address": {
+          "city": "Lordsburg",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1869,
+            "name": "Hidalgo County",
+            "displayName": "Hidalgo"
+          },
+          "countyId": 0,
+          "zipCode": "88045"
+        },
+        "description": "32.25440, -108.94801",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.25440, -108.94801",
+        "circumstancesOfRecovery": "Two individuals, checking a water well on State Land a short distance from Steins, NM, mile 3 on Interstate 10, discovered the mummified remains of an individual in the corral around the water tank.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3503605,
+            "lon": -108.7086649
+          },
+          "formattedAddress": "Lordsburg, NM 88045, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54810,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45905,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49539,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Lordsburg",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1869,
+            "name": "Hidalgo County",
+            "localizedName": "Hidalgo"
+          },
+          "countyDisplayName": "Hidalgo",
+          "selection": {
+            "id": 57678,
+            "agency": {
+              "id": 60878,
+              "name": "New Mexico State Police",
+              "street1": "808 High Street",
+              "city": "Lordsburg",
+              "county": {
+                "id": 1869,
+                "name": "Hidalgo County",
+                "localizedName": "Hidalgo"
+              },
+              "zipCode": "88045",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755429563",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138883/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138883/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 138952,
+      "idFormatted": "UP138952",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-20T22:43:02.597",
+      "modifiedDateTime": "2026-05-13T22:47:40.403",
+      "caseIdentification": {
+        "id": 50637,
+        "caseNumber": "250114-1271"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70342,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 21,
+        "estimatedAgeTo": 65,
+        "estimatedYearOfDeathFrom": 1950,
+        "estimatedYearOfDeathTo": 2023,
+        "estimatedYearOfBirthFrom": 1885,
+        "estimatedYearOfBirthTo": 2002,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "possibleNicknames": "Golden Doe",
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74597,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-14",
+        "address": {
+          "city": "Mountlake Terrace",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3051,
+            "name": "Snohomish County",
+            "displayName": "Snohomish"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Cranium found in recently sold residence.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.7881528,
+            "lon": -122.3087405
+          },
+          "formattedAddress": "Mountlake Terrace, WA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53645,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45909,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 127745,
+          "identityId": 115225,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "by Natalie Murry",
+          "isPublic": true,
+          "createdDateTime": "2025-07-28T19:51:13.003",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 5370,
+              "width": 4419,
+              "storageKey": "b52ce52e05c3439299a0a69098433048",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138952/Images/115225/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "3c7d489e12084c85a1e3d27f9c674fb5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138952/Images/115225/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138952/Images/115225/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26014,
+        "defaultImageIdentityId": 115225
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49545,
+          "isCaseOwner": false,
+          "name": "Mountlake Terrace Police Department",
+          "city": "Mountlake Terrace",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3051,
+            "name": "Snohomish County",
+            "localizedName": "Snohomish"
+          },
+          "countyDisplayName": "Snohomish",
+          "selection": {
+            "id": 57689,
+            "agency": {
+              "id": 45703,
+              "name": "Mountlake Terrace Police Department",
+              "street1": "5906 232nd Street Southwest",
+              "city": "Mountlake Terrace",
+              "county": {
+                "id": 3051,
+                "name": "Snohomish County",
+                "localizedName": "Snohomish"
+              },
+              "zipCode": "98043",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "4256708260",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofmlt.com/182/Police"
+            }
+          },
+          "caseNumber": "2025-870",
+          "dateReported": "2025-01-14"
+        },
+        {
+          "id": 49705,
+          "isCaseOwner": false,
+          "name": "Snohomish County Medical Examiner's Office",
+          "city": "Everett",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3051,
+            "name": "Snohomish County",
+            "localizedName": "Snohomish"
+          },
+          "countyDisplayName": "Snohomish",
+          "selection": {
+            "id": 58153,
+            "agency": {
+              "id": 37812,
+              "name": "Snohomish County Medical Examiner's Office",
+              "street1": "9509 29th Avenue West",
+              "city": "Everett",
+              "county": {
+                "id": 3051,
+                "name": "Snohomish County",
+                "localizedName": "Snohomish"
+              },
+              "zipCode": "98204",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "4254386200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "250114-1271"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23438,
+        "investigatingAgencyIdentityId": 49705
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138952/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138952/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
     }
   ]
 }

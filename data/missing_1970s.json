@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T08:36:31.269873+00:00",
+  "generated_at": "2026-07-09T09:48:33.079372+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1253,
+  "count": 1254,
   "cases": [
     {
       "id": 1,
@@ -366475,6 +366475,300 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138891/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arkansas"
+    },
+    {
+      "id": 139693,
+      "idFormatted": "MP139693",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-06T17:51:24.793",
+      "modifiedDateTime": "2025-05-21T19:34:25.353",
+      "subjectIdentification": {
+        "id": 227238,
+        "firstName": "Gene",
+        "middleName": "Isaac",
+        "lastName": "Stees",
+        "currentMinAge": 94,
+        "currentMaxAge": 94,
+        "computedMissingMinAge": 38,
+        "computedMissingMaxAge": 38
+      },
+      "subjectDescription": {
+        "id": 200514,
+        "heightFrom": 67,
+        "weightFrom": 163,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 236817,
+        "circumstancesOfDisappearance": "Gene Isaac Stees was last known to be in Columbus, Ohio."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 283459,
+        "date": "1970-02-21",
+        "address": {
+          "city": "Columbus",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2133,
+            "name": "Franklin County",
+            "displayName": "Franklin"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.9625112,
+            "lon": -83.0032218
+          },
+          "formattedAddress": "Columbus, OH, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 165270,
+          "isCaseOwner": false,
+          "name": "United States Marshals Service",
+          "city": "Cleveland",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2126,
+            "name": "Cuyahoga County",
+            "localizedName": "Cuyahoga"
+          },
+          "countyDisplayName": "Cuyahoga",
+          "selection": {
+            "id": 189976,
+            "contact": {
+              "id": 319872,
+              "firstName": "Vincent",
+              "lastName": "Piccoli",
+              "jobTitle": "CIDUSM",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44170,
+              "name": "United States Marshals Service",
+              "street1": "801 West Superior Avenue",
+              "street2": "Suite 12-100",
+              "city": "Cleveland",
+              "county": {
+                "id": 2126,
+                "name": "Cuyahoga County",
+                "localizedName": "Cuyahoga"
+              },
+              "zipCode": "44113",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 165271,
+          "isCaseOwner": false,
+          "name": "Cuyahoga County Sheriff's Department",
+          "city": "Cleveland",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2126,
+            "name": "Cuyahoga County",
+            "localizedName": "Cuyahoga"
+          },
+          "countyDisplayName": "Cuyahoga",
+          "selection": {
+            "id": 190292,
+            "agency": {
+              "id": 47705,
+              "name": "Cuyahoga County Sheriff's Department",
+              "street1": "1215 West 3rd Street",
+              "city": "Cleveland",
+              "county": {
+                "id": 2126,
+                "name": "Cuyahoga County",
+                "localizedName": "Cuyahoga"
+              },
+              "zipCode": "44113",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "2164436000",
+              "email": "shcuy@cuyahogacounty.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://cuyahogacounty.gov/sheriff"
+            }
+          },
+          "caseNumber": "2025-0729",
+          "dateReported": "2025-03-06"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 47705,
+        "isCaseOwner": false,
+        "name": "Cuyahoga County Sheriff's Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 109189,
+        "investigatingAgencyIdentityId": 165271
+      },
+      "physicalDescription": {
+        "id": 196513,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 102076,
+          "identityId": 92569,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Scar on right eye"
+        }
+      ],
+      "images": [
+        {
+          "id": 230918,
+          "identityId": 216606,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Open source photo",
+          "isPublic": true,
+          "createdDateTime": "2025-03-06T18:05:40.383",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 366,
+              "width": 372,
+              "storageKey": "6dbf83f1fb8e4adba28ca4bdfbca1759",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/216606/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 118,
+              "width": 120,
+              "storageKey": "08d3aecb44cc44658b71ebeb46150eda",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/216606/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/216606/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 116220,
+        "defaultImageIdentityId": 216606
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
     }
   ]
 }
