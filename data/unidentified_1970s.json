@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T08:36:45.094646+00:00",
+  "generated_at": "2026-07-10T09:43:58.398373+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 960,
+  "count": 964,
   "cases": [
     {
       "id": 103,
@@ -277109,6 +277109,1314 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138202/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/138202/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 139294,
+      "idFormatted": "UP139294",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-27T17:50:08.193",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 50668,
+        "caseNumber": "78-774"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70421,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 60,
+        "heightFrom": 65,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74688,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-06-13",
+        "address": {
+          "city": "Auburn",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "displayName": "King"
+          },
+          "countyId": 0,
+          "zipCode": "98002"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent found near 37th Avenue NE and the Burlington Northern Railway tracks.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.2945159,
+            "lon": -122.2192679
+          },
+          "formattedAddress": "Auburn, WA 98002, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53682,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55974,
+          "identityId": 47341,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Pair of black leather over ankle shoes with tie closures",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55971,
+          "identityId": 47337,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue nylon jacket with a gray pile lining and snap front closure",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55970,
+          "identityId": 47338,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans with Wrangler snap and label. 33 in waist and 29 in in-seam",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55972,
+          "identityId": 47339,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of black socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55973,
+          "identityId": 47340,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of green socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55975,
+          "identityId": 47342,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Tan, gray, and orange plaid jacket with a pile collar and quilted lining. Label is \"Sir Jack\" and size 38",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 55976,
+          "identityId": 47343,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Red, white, black, orange, and blue striped piece of knit material ~6x1 ft",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45947,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49596,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57820,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "78-774"
+        },
+        {
+          "id": 49597,
+          "isCaseOwner": false,
+          "name": "Auburn Police Department",
+          "city": "Auburn",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57821,
+            "agency": {
+              "id": 47410,
+              "name": "Auburn Police Department",
+              "street1": "340 East Main Street, Suite 201",
+              "city": "Auburn",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98002",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2539313080",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.auburnwa.gov/city_hall/police"
+            }
+          },
+          "caseNumber": "78-2465"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23359,
+        "investigatingAgencyIdentityId": 49596
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139294/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139294/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 139292,
+      "idFormatted": "UP139292",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-27T17:15:44.973",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 50667,
+        "caseNumber": "75-12523"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70419,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 176,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74686,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-08-10",
+        "address": {
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "displayName": "King"
+          },
+          "countyId": 0,
+          "zipCode": "98104"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent found in a vacant lot North of Washington Street and on the East side of 5th Avenue lying in blackberry bushes. Evidence of wine drinking was observed at the scene.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.6015566,
+            "lon": -122.3323351
+          },
+          "formattedAddress": "Seattle, WA 98104, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53681,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55967,
+          "identityId": 47335,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Brown leather belt with metallic buckle",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55963,
+          "identityId": 47331,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Gray and brown shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55964,
+          "identityId": 47332,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Green army-type jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55965,
+          "identityId": 47333,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown slacks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55966,
+          "identityId": 47334,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pair of brown socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55968,
+          "identityId": 47336,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Pair of brown leather shoes with lace fastenings",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45946,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49595,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57817,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "75-12523",
+          "dateReported": "1975-08-10"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23360,
+        "investigatingAgencyIdentityId": 49595
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139292/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139292/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 139299,
+      "idFormatted": "UP139299",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-27T19:16:39.26",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 50669,
+        "caseNumber": "72-1526"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70422,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74697,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1972-06-21",
+        "address": {
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "displayName": "King"
+          },
+          "countyId": 0,
+          "zipCode": "98121"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent found in the back seat of a burnt automobile in a rear parking lot. Fire was due to undetermined causes. Automobile was a 1959 Chrysler  WA license plate AQV 4784.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.6152474,
+            "lon": -122.3497446
+          },
+          "formattedAddress": "Seattle, WA 98121, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53683,
+        "conditionOfRemains": {
+          "id": 5,
+          "name": "Not recognizable - Charred/burned",
+          "localizedName": "Not recognizable - Charred/burned"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45948,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        },
+        "rightEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49599,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57831,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "72-1526"
+        },
+        {
+          "id": 49600,
+          "isCaseOwner": false,
+          "name": "Seattle Police Department",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57832,
+            "agency": {
+              "id": 45435,
+              "name": "Seattle Police Department",
+              "street1": "610 5th Avenue",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2066255011",
+              "email": "spdmpu@seattle.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.seattle.gov/police"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23358,
+        "investigatingAgencyIdentityId": 49599
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139299/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139299/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 139301,
+      "idFormatted": "UP139301",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-02-27T19:51:31.253",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 50670,
+        "caseNumber": "70-0214"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70430,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 70,
+        "estimatedYearOfDeathFrom": 1970,
+        "estimatedYearOfBirthFrom": 1900,
+        "estimatedYearOfBirthTo": 1920,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 170,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74701,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1970-01-22",
+        "address": {
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "displayName": "King"
+          },
+          "countyId": 0,
+          "zipCode": "98101"
+        },
+        "description": "North side of Pier #56",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "This decedent was found floating face-down under the north side of Pier #56.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.6084921,
+            "lon": -122.336407
+          },
+          "formattedAddress": "Seattle, WA 98101, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53684,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 55979,
+          "identityId": 47344,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Black belt with buckle displaying the initial \"S\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55980,
+          "identityId": 47345,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Gray socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55981,
+          "identityId": 47346,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Red and blue garters",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55982,
+          "identityId": 47347,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pale blue shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55983,
+          "identityId": 47348,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black trousers",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55985,
+          "identityId": 47350,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Grayish-brown jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55986,
+          "identityId": 47351,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Gray sweater with green, white, and black design",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55987,
+          "identityId": 47352,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White shorts",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55988,
+          "identityId": 47353,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White t-shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55989,
+          "identityId": 47354,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Glasses with white metal frame and adhesive tape wrapped around the arm portion",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 55984,
+          "identityId": 47349,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Black shoes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45949,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49601,
+          "isCaseOwner": false,
+          "name": "Seattle Police Department",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57838,
+            "agency": {
+              "id": 45435,
+              "name": "Seattle Police Department",
+              "street1": "610 5th Avenue",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2066255011",
+              "email": "spdmpu@seattle.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.seattle.gov/police"
+            }
+          }
+        },
+        {
+          "id": 49650,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 57976,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "70-0214"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23357,
+        "investigatingAgencyIdentityId": 49650
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139301/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139301/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
     }
   ]
 }
