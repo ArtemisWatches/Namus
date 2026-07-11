@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T10:46:51.081080+00:00",
+  "generated_at": "2026-07-11T08:03:29.069692+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1940s",
-  "count": 23,
+  "count": 25,
   "cases": [
     {
       "id": 12778,
@@ -5582,6 +5582,419 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137223/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/137223/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 139716,
+      "idFormatted": "UP139716",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-06T19:53:02.233",
+      "modifiedDateTime": "2025-03-07T16:29:20.593",
+      "caseIdentification": {
+        "id": 50716,
+        "caseNumber": "45-12-26"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70502,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedYearOfDeathFrom": 1945,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74773,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1945-12-30",
+        "address": {
+          "city": "Easttown Township",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2324,
+            "name": "Chester County",
+            "displayName": "Chester"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Male infant found in Devon Creek on 12/30/1945. Estimated date of birth & death is listed as 12/28/1945.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.0258692,
+            "lon": -75.44612560000002
+          },
+          "formattedAddress": "Easttown Township, PA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53714,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45981,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49634,
+          "isCaseOwner": false,
+          "name": "Chester County Coroners Office",
+          "city": "West Chester",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2324,
+            "name": "Chester County",
+            "localizedName": "Chester"
+          },
+          "countyDisplayName": "Chester",
+          "selection": {
+            "id": 57979,
+            "contact": {
+              "id": 145438,
+              "firstName": "Jesse",
+              "lastName": "Poole-Gulick",
+              "jobTitle": "First Deputy Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29352,
+              "name": "Chester County Coroners Office",
+              "street1": "601 Westtown Road, Suite 090",
+              "street2": "Suite 090",
+              "city": "West Chester",
+              "county": {
+                "id": 2324,
+                "name": "Chester County",
+                "localizedName": "Chester"
+              },
+              "zipCode": "19382",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "6103446165",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.chesco.org/209/Coroner"
+            }
+          },
+          "caseNumber": "45-12-26"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23337,
+        "investigatingAgencyIdentityId": 49634
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139716/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139716/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 139738,
+      "idFormatted": "UP139738",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-06T21:26:08.927",
+      "modifiedDateTime": "2025-03-07T16:32:19.623",
+      "caseIdentification": {
+        "id": 50719,
+        "caseNumber": "47-09-24"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70505,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1947,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74778,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1947-09-25",
+        "address": {
+          "city": "Schuylkill Township",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2324,
+            "name": "Chester County",
+            "displayName": "Chester"
+          },
+          "countyId": 0
+        },
+        "description": "Valley Forge General Hospital",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "unknown",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.1121415,
+            "lon": -75.4927278
+          },
+          "formattedAddress": "Schuylkill Township, PA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53716,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45983,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49636,
+          "isCaseOwner": false,
+          "name": "Chester County Coroners Office",
+          "city": "West Chester",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2324,
+            "name": "Chester County",
+            "localizedName": "Chester"
+          },
+          "countyDisplayName": "Chester",
+          "selection": {
+            "id": 57980,
+            "contact": {
+              "id": 145438,
+              "firstName": "Jesse",
+              "lastName": "Poole-Gulick",
+              "jobTitle": "First Deputy Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29352,
+              "name": "Chester County Coroners Office",
+              "street1": "601 Westtown Road, Suite 090",
+              "street2": "Suite 090",
+              "city": "West Chester",
+              "county": {
+                "id": 2324,
+                "name": "Chester County",
+                "localizedName": "Chester"
+              },
+              "zipCode": "19382",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "6103446165",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.chesco.org/209/Coroner"
+            }
+          },
+          "caseNumber": "47-09-24"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23336,
+        "investigatingAgencyIdentityId": 49636
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139738/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139738/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }

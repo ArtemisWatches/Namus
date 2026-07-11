@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T09:43:58.398373+00:00",
+  "generated_at": "2026-07-11T08:03:29.069692+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1957,
+  "count": 1962,
   "cases": [
     {
       "id": 64643,
@@ -592497,6 +592497,1450 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139226/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139226/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 139512,
+      "idFormatted": "UP139512",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-03T20:30:52.89",
+      "modifiedDateTime": "2026-01-05T17:30:55.503",
+      "caseIdentification": {
+        "id": 50702,
+        "caseNumber": "24-05020"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70469,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfBirthFrom": 1964,
+        "estimatedYearOfBirthTo": 1984,
+        "heightFrom": 63,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 143,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74734,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-03",
+        "address": {
+          "city": "Courtland",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 280,
+            "name": "Sacramento County",
+            "displayName": "Sacramento"
+          },
+          "countyId": 0
+        },
+        "description": "Outdoors, Embankment",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "38.357152, -121.526308",
+        "circumstancesOfRecovery": "The decedent was an unidentified female who was found on the shore of the Sacramento River in Courtland. On the evening of 11/03/24, California Fish and Wildlife were surveying the river when they located the decedent on the shore. Her legs were submerged, and her upper torso was on shore.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.3315337,
+            "lon": -121.5701857
+          },
+          "formattedAddress": "Courtland, CA 95615, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53700,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56026,
+          "identityId": 47383,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Jeans\" size XL denim overalls, \"Body Form\" size 36C black bra, black sweatshirt, a \"Choice\" blue shirt, and a black jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45965,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Short gray hair",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17022,
+          "identityId": 14318,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Very distinct front upper teeth"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49614,
+          "isCaseOwner": false,
+          "name": "Sacramento County Sheriff's Office",
+          "city": "Sacramento",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 280,
+            "name": "Sacramento County",
+            "localizedName": "Sacramento"
+          },
+          "countyDisplayName": "Sacramento",
+          "selection": {
+            "id": 57873,
+            "agency": {
+              "id": 43961,
+              "name": "Sacramento County Sheriff's Office",
+              "street1": "4500 Orange Grove Avenue",
+              "city": "Sacramento",
+              "county": {
+                "id": 280,
+                "name": "Sacramento County",
+                "localizedName": "Sacramento"
+              },
+              "zipCode": "95841",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9168745115",
+              "email": "info@sacsheriff.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "sacsheriff.com"
+            }
+          },
+          "caseNumber": "24-353131",
+          "dateReported": "2024-11-03"
+        },
+        {
+          "id": 50022,
+          "isCaseOwner": false,
+          "name": "Sacramento County Coroner",
+          "city": "Sacramento",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 280,
+            "name": "Sacramento County",
+            "localizedName": "Sacramento"
+          },
+          "countyDisplayName": "Sacramento",
+          "selection": {
+            "id": 58887,
+            "agency": {
+              "id": 43979,
+              "name": "Sacramento County Coroner",
+              "street1": "4800 Broadway Suite 100",
+              "city": "Sacramento",
+              "county": {
+                "id": 280,
+                "name": "Sacramento County",
+                "localizedName": "Sacramento"
+              },
+              "zipCode": "95820",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9168749248",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://coroner.saccounty.gov/Pages/default.aspx"
+            }
+          },
+          "caseNumber": "24-05020"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23858,
+        "investigatingAgencyIdentityId": 50022
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139512/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139512/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 139492,
+      "idFormatted": "UP139492",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-03T16:11:30.853",
+      "modifiedDateTime": "2025-12-05T20:05:41.917",
+      "caseIdentification": {
+        "id": 50697,
+        "caseNumber": "20250086"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70461,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 60,
+        "estimatedAgeTo": 99,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74725,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-29",
+        "address": {
+          "city": "Hillside",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "displayName": "NJ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1855,
+            "name": "Union County",
+            "displayName": "Union"
+          },
+          "countyId": 0,
+          "zipCode": "07205"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The remains were found near an underpass off the Garden State Parkway.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.69506200000001,
+            "lon": -74.22380199999999
+          },
+          "formattedAddress": "Hillside, NJ 07205, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53695,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56017,
+          "identityId": 47375,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56018,
+          "identityId": 47376,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Cell phone",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45959,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Black and gray head hair.",
+        "facialHairDescription": "Black and gray beard",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17021,
+          "identityId": 14317,
+          "physicalFeature": {
+            "id": 1,
+            "name": "Amputation",
+            "localizedName": "Amputation",
+            "ordinal": 1
+          },
+          "description": "All 5 toes on his right foot were amputated."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49609,
+          "isCaseOwner": false,
+          "name": "Union County Medical Examiner Office",
+          "city": "Westfield",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "localizedName": "NJ"
+          },
+          "stateDisplayName": "NJ",
+          "county": {
+            "id": 1855,
+            "name": "Union County",
+            "localizedName": "Union"
+          },
+          "countyDisplayName": "Union",
+          "selection": {
+            "id": 57866,
+            "contact": {
+              "id": 263823,
+              "firstName": "Junaid",
+              "lastName": "Shaikh",
+              "jobTitle": "Medical Examiner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 22665,
+              "name": "Union County Medical Examiner Office",
+              "street1": "300 N Ave E",
+              "city": "Westfield",
+              "county": {
+                "id": 1855,
+                "name": "Union County",
+                "localizedName": "Union"
+              },
+              "zipCode": "07090",
+              "state": {
+                "id": 56,
+                "name": "New Jersey",
+                "localizedName": "NJ"
+              },
+              "phone": "9086549893",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "20250086",
+          "dateReported": "2025-01-29"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23314,
+        "investigatingAgencyIdentityId": 49609
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139492/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139492/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Jersey"
+    },
+    {
+      "id": 139494,
+      "idFormatted": "UP139494",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-03T16:42:53.58",
+      "modifiedDateTime": "2026-02-16T13:50:26.443",
+      "caseIdentification": {
+        "id": 50698,
+        "caseNumber": "ME24-14656/B25-985"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70463,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 137,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 74727,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-24",
+        "address": {
+          "city": "Dunn",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "displayName": "NC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2033,
+            "name": "Sampson County",
+            "displayName": "Sampson"
+          },
+          "countyId": 0
+        },
+        "description": "235 Thornton Road",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "One of two individuals found in a white van.  The driver of van was identified, but this individual was in passenger seat w/o any form of identification and no one that found them, knew of him either.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.9197548,
+            "lon": -78.3842227
+          },
+          "formattedAddress": "Sampson County, NC, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53696,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45960,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124059,
+          "identityId": 111825,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-03T16:48:32.163",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 768,
+              "width": 576,
+              "storageKey": "ae0f693c5d824d39af8a354ca228340e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111825/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "b262866a41424bb1a98f6786fd39e7c7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111825/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111825/Download"
+        },
+        {
+          "id": 124060,
+          "identityId": 111826,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-03T16:49:15.053",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "db2fa3e9f8074d19bf299e33238e24f7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111826/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "8db1ca6bc958430492ff6255a8a4185b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111826/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/111826/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25670,
+        "defaultImageIdentityId": 111825
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49610,
+          "isCaseOwner": false,
+          "name": "Sampson County Sheriff's Office",
+          "city": "Clinton",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "localizedName": "NC"
+          },
+          "stateDisplayName": "NC",
+          "county": {
+            "id": 2033,
+            "name": "Sampson County",
+            "localizedName": "Sampson"
+          },
+          "countyDisplayName": "Sampson",
+          "selection": {
+            "id": 57869,
+            "contact": {
+              "id": 184120,
+              "firstName": "Marcus",
+              "lastName": "Smith",
+              "jobTitle": "Lieutenant (Administration Division)",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 63299,
+              "name": "Sampson County Sheriff's Office",
+              "street1": "112 Fontana Street",
+              "city": "Clinton",
+              "county": {
+                "id": 2033,
+                "name": "Sampson County",
+                "localizedName": "Sampson"
+              },
+              "zipCode": "28328",
+              "state": {
+                "id": 6,
+                "name": "North Carolina",
+                "localizedName": "NC"
+              },
+              "email": "sheriff@sampsonsheriff.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2024-9335",
+          "dateReported": "2024-12-24"
+        },
+        {
+          "id": 49615,
+          "isCaseOwner": false,
+          "name": "North Carolina Office of the Chief Medical Examiner",
+          "city": "Raleigh",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "localizedName": "NC"
+          },
+          "stateDisplayName": "NC",
+          "county": {
+            "id": 2043,
+            "name": "Wake County",
+            "localizedName": "Wake"
+          },
+          "countyDisplayName": "Wake",
+          "selection": {
+            "id": 57879,
+            "agency": {
+              "id": 24508,
+              "name": "North Carolina Office of the Chief Medical Examiner",
+              "street1": "4312 District Drive",
+              "street2": "3025 Mail Service Center",
+              "city": "Raleigh",
+              "county": {
+                "id": 2043,
+                "name": "Wake County",
+                "localizedName": "Wake"
+              },
+              "zipCode": "27699",
+              "state": {
+                "id": 6,
+                "name": "North Carolina",
+                "localizedName": "NC"
+              },
+              "phone": "9197439000",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ocme.dhhs.nc.gov/"
+            }
+          },
+          "caseNumber": "ME24-14656/B25-985"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23315,
+        "investigatingAgencyIdentityId": 49615
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139494/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Carolina"
+    },
+    {
+      "id": 139565,
+      "idFormatted": "UP139565",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-04T17:35:59.987",
+      "modifiedDateTime": "2026-03-24T18:51:56.203",
+      "caseIdentification": {
+        "id": 50709,
+        "caseNumber": "25-0019"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70481,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2000,
+        "estimatedYearOfDeathTo": 2015,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74747,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-03",
+        "address": {
+          "city": "Ajo",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "description": "Cheriono Wash within Organ Pipe Cactus national Monument",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.09973, -112.88289",
+        "circumstancesOfRecovery": "Several shards of likely mated femora found in the remote desert.  At least four other partial remains cases have been found within four kilometers of these femora and cannot be excluded as being additional portions of decedent at this time.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3717248,
+            "lon": -112.8607099
+          },
+          "formattedAddress": "Ajo, AZ 85321, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53706,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 45973,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124081,
+          "identityId": 111846,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Red marker indicates the approximate location  of recovery.",
+          "isPublic": true,
+          "createdDateTime": "2025-03-04T17:49:00.567",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 960,
+              "width": 1395,
+              "storageKey": "d24819e920db4d8eab232c1b548e1e06",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139565/Images/111846/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 83,
+              "width": 120,
+              "storageKey": "cd58eca1636041049c6d09e9ec152710",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139565/Images/111846/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139565/Images/111846/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25682,
+        "defaultImageIdentityId": 111846
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49623,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57890,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "25 01 03 127"
+        },
+        {
+          "id": 49625,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 57904,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-0019"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23321,
+        "investigatingAgencyIdentityId": 49625
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139565/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139565/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 139603,
+      "idFormatted": "UP139603",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-05T13:46:38.113",
+      "modifiedDateTime": "2026-05-05T17:38:35.657",
+      "caseIdentification": {
+        "id": 50710,
+        "caseNumber": "K25-06152"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70973,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "heightFrom": 51,
+        "heightTo": 60,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 83,
+        "weightTo": 120,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 74755,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-18",
+        "address": {
+          "city": "Brooklyn",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1913,
+            "name": "Kings County",
+            "displayName": "Kings"
+          },
+          "countyId": 0,
+          "zipCode": "11219"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased in an abandoned building in Brooklyn near 67th Street.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.6310753,
+            "lon": -73.9976946
+          },
+          "formattedAddress": "Brooklyn, NY 11219, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53709,
+        "conditionOfRemains": {
+          "id": 5,
+          "name": "Not recognizable - Charred/burned",
+          "localizedName": "Not recognizable - Charred/burned"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56032,
+          "identityId": 47387,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Dark denim pants with plastic button and elastic band",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56031,
+          "identityId": 47386,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Metal chain necklace (see image)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 45975,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124090,
+          "identityId": 111854,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-05T13:47:22.817",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 536,
+              "width": 580,
+              "storageKey": "0294063730844634997243443054320a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/111854/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 111,
+              "width": 120,
+              "storageKey": "c4d502e3541040b49c326cc1e4f300b2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/111854/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/111854/Download"
+        },
+        {
+          "id": 125626,
+          "identityId": 113248,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction completed by Chris Doogan",
+          "isPublic": true,
+          "createdDateTime": "2025-05-19T16:18:58.527",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1400,
+              "width": 1050,
+              "storageKey": "f820975e9e2442b5a1d858e98e844146",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113248/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "a5dd7ff248be4908a88133623325be20",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113248/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113248/Download"
+        },
+        {
+          "id": 125627,
+          "identityId": 113249,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Artist composite completed by Joe Mullins.",
+          "isPublic": true,
+          "createdDateTime": "2025-05-19T16:19:57.857",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1400,
+              "width": 1050,
+              "storageKey": "7db11bf519fb4aac89688d337f701bd7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113249/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "569bda86d84d4d55a8d64fe101e155d2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113249/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/113249/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26636,
+        "defaultImageIdentityId": 113249
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49628,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 57909,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "K25-06152"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23326,
+        "investigatingAgencyIdentityId": 49628
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }
