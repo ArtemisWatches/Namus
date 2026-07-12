@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T08:03:29.069692+00:00",
+  "generated_at": "2026-07-12T08:24:55.233526+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1962,
+  "count": 1965,
   "cases": [
     {
       "id": 64643,
@@ -593941,6 +593941,691 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139603/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 139972,
+      "idFormatted": "UP139972",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-11T16:43:46.9",
+      "modifiedDateTime": "2025-08-13T18:51:28.41",
+      "caseIdentification": {
+        "id": 50739,
+        "caseNumber": "24-1537F"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70532,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 64,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74852,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-06-17",
+        "address": {
+          "city": "Rosenberg",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2668,
+            "name": "Fort Bend County",
+            "displayName": "Fort Bend"
+          },
+          "countyId": 0,
+          "zipCode": "77471"
+        },
+        "description": "8100 Block Us Highway 90 A West",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found on the side of the road.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 29.543368,
+            "lon": -95.8775964
+          },
+          "formattedAddress": "Rosenberg, TX 77471, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53741,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46007,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49670,
+          "isCaseOwner": false,
+          "name": "Fort Bend County Sheriff's Office",
+          "city": "Richmond",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2668,
+            "name": "Fort Bend County",
+            "localizedName": "Fort Bend"
+          },
+          "countyDisplayName": "Fort Bend",
+          "selection": {
+            "id": 58057,
+            "agency": {
+              "id": 43757,
+              "name": "Fort Bend County Sheriff's Office",
+              "street1": "1410 Williams Way Boulevard",
+              "city": "Richmond",
+              "county": {
+                "id": 2668,
+                "name": "Fort Bend County",
+                "localizedName": "Fort Bend"
+              },
+              "zipCode": "77469",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2813414665",
+              "email": "FBCSOPIO@fortbendcountytx.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fortbendcountytx.gov/government/departments/administration-of-justice/sheriff-s-office"
+            }
+          },
+          "dateReported": "2024-06-17"
+        },
+        {
+          "id": 51034,
+          "isCaseOwner": false,
+          "name": "Fort Bend County Medical Examiner's Office",
+          "city": "Rosenberg",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2668,
+            "name": "Fort Bend County",
+            "localizedName": "Fort Bend"
+          },
+          "countyDisplayName": "Fort Bend",
+          "selection": {
+            "id": 60800,
+            "agency": {
+              "id": 70679,
+              "name": "Fort Bend County Medical Examiner's Office",
+              "street1": "3840 Bamore Road",
+              "city": "Rosenberg",
+              "county": {
+                "id": 2668,
+                "name": "Fort Bend County",
+                "localizedName": "Fort Bend"
+              },
+              "zipCode": "77471",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8324714000",
+              "email": "FBMEO@fortbendcountytx.gob",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fortbendcountytx.gov/government/departments/medical-examiner-s-office"
+            }
+          },
+          "caseNumber": "24-1537F"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23401,
+        "investigatingAgencyIdentityId": 49670
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139972/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/139972/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 140019,
+      "idFormatted": "UP140019",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-12T13:06:45.257",
+      "modifiedDateTime": "2025-10-23T16:23:31.08",
+      "caseIdentification": {
+        "id": 50743,
+        "caseNumber": "B24-31201"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70541,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 80,
+        "heightFrom": 62,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74864,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-10-21",
+        "address": {
+          "city": "Bronx",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1892,
+            "name": "Bronx County",
+            "displayName": "Bronx"
+          },
+          "countyId": 0,
+          "zipCode": "10471"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased at a construction site. Likely deceased for years to decades.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.8971509,
+            "lon": -73.9065883
+          },
+          "formattedAddress": "Bronx, NY 10471, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54697,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46011,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17037,
+          "identityId": 14332,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Healed trauma at the nasal bridge, a lower right rib, the right hand, and the left distal tibia (near the ankle)."
+        }
+      ],
+      "images": [
+        {
+          "id": 124177,
+          "identityId": 111934,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 22,
+            "name": "OfficeLogo",
+            "localizedName": "Office Logo",
+            "ordinal": 220
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-12T13:07:01.667",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 334,
+              "width": 333,
+              "storageKey": "bf49193b988c445ab5be1c1a57cab518",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140019/Images/111934/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "36126de765b748fb8333c939234f32f7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140019/Images/111934/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140019/Images/111934/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25699,
+        "defaultImageIdentityId": 111934
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49677,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 58073,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "B24-31201"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23408,
+        "investigatingAgencyIdentityId": 49677
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140019/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140019/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 140159,
+      "idFormatted": "UP140159",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-14T12:47:28.247",
+      "modifiedDateTime": "2025-03-24T16:08:34.003",
+      "caseIdentification": {
+        "id": 50755,
+        "caseNumber": "25-0956"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70668,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 51,
+        "estimatedAgeTo": 78,
+        "heightFrom": 70,
+        "heightTo": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 74896,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-17",
+        "address": {
+          "city": "Philadelphia",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2360,
+            "name": "Philadelphia County",
+            "displayName": "Philadelphia"
+          },
+          "countyId": 0,
+          "zipCode": "19104"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains of an adult male found in a vacant property by homeowner during walk through.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.9583587,
+            "lon": -75.1953934
+          },
+          "formattedAddress": "Philadelphia, PA 19104, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53761,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46027,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49692,
+          "isCaseOwner": false,
+          "name": "Philadelphia Medical Examiner's Office",
+          "city": "Philadelphia",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2360,
+            "name": "Philadelphia County",
+            "localizedName": "Philadelphia"
+          },
+          "countyDisplayName": "Philadelphia",
+          "selection": {
+            "id": 58125,
+            "contact": {
+              "id": 64233,
+              "firstName": "Tiffany",
+              "lastName": "Adderley",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 30210,
+              "name": "Philadelphia Medical Examiner's Office",
+              "street1": "400 North Broad Street",
+              "city": "Philadelphia",
+              "county": {
+                "id": 2360,
+                "name": "Philadelphia County",
+                "localizedName": "Philadelphia"
+              },
+              "zipCode": "19130",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "2156857445",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.phila.gov/departments/medical-examiners-office/"
+            }
+          },
+          "caseNumber": "25-0956"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23431,
+        "investigatingAgencyIdentityId": 49692
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140159/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140159/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }
