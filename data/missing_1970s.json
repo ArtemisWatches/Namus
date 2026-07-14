@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T09:48:33.079372+00:00",
+  "generated_at": "2026-07-14T08:16:02.708274+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1254,
+  "count": 1255,
   "cases": [
     {
       "id": 1,
@@ -366769,6 +366769,317 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/139693/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 141800,
+      "idFormatted": "MP141800",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-10T02:29:59.503",
+      "modifiedDateTime": "2026-03-20T20:18:42.343",
+      "subjectIdentification": {
+        "id": 229548,
+        "firstName": "Ernest",
+        "middleName": "R",
+        "lastName": "Deangelis",
+        "currentMinAge": 78,
+        "currentMaxAge": 78,
+        "computedMissingMinAge": 28,
+        "computedMissingMaxAge": 28
+      },
+      "subjectDescription": {
+        "id": 202417,
+        "heightFrom": 71,
+        "weightFrom": 170,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 103642
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 239188,
+        "circumstancesOfDisappearance": "Party spoke with his mother and told her he would be back in a few hours.  He left the house, got in a car and was never seen again."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 123907,
+          "identityId": 113526,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Last seen wearing blue turtleneck sweater, dungarees, blue suede coat."
+        },
+        {
+          "id": 123908,
+          "identityId": 113527,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Subject wears grey, gold rimmed eyeglasses"
+        }
+      ],
+      "sighting": {
+        "id": 278773,
+        "date": "1976-12-15",
+        "address": {
+          "city": "Ipswich",
+          "state": {
+            "id": 41,
+            "name": "Massachusetts",
+            "displayName": "MA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1283,
+            "name": "Essex County",
+            "displayName": "Essex"
+          },
+          "countyId": 0,
+          "zipCode": "01938"
+        },
+        "missingFromTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.673911,
+            "lon": -70.83577919999999
+          },
+          "formattedAddress": "Ipswich, MA 01938, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 166927,
+          "isCaseOwner": false,
+          "name": "Ipswich Police Department",
+          "city": "Ipswich",
+          "state": {
+            "id": 41,
+            "name": "Massachusetts",
+            "localizedName": "MA"
+          },
+          "stateDisplayName": "MA",
+          "county": {
+            "id": 1283,
+            "name": "Essex County",
+            "localizedName": "Essex"
+          },
+          "countyDisplayName": "Essex",
+          "selection": {
+            "id": 192541,
+            "agency": {
+              "id": 80578,
+              "name": "Ipswich Police Department",
+              "street1": "15 Elm Street",
+              "city": "Ipswich",
+              "county": {
+                "id": 1283,
+                "name": "Essex County",
+                "localizedName": "Essex"
+              },
+              "zipCode": "01938",
+              "state": {
+                "id": 41,
+                "name": "Massachusetts",
+                "localizedName": "MA"
+              },
+              "phone": "9783564343",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://ipswichpolice.com/"
+            }
+          },
+          "caseNumber": "IPS-7-IV",
+          "dateReported": "1976-12-15"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 80578,
+        "isCaseOwner": false,
+        "name": "Ipswich Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 110637,
+        "investigatingAgencyIdentityId": 166927
+      },
+      "physicalDescription": {
+        "id": 198492,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "medium length strait",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 232987,
+          "identityId": 218349,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-21T16:22:43.487",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 516,
+              "width": 392,
+              "storageKey": "4c021a3e60794bd3b3bc63de88c305e6",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218349/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "63b754a57c6848c6a357d9cc0486eab6",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218349/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218349/Download"
+        },
+        {
+          "id": 232988,
+          "identityId": 218350,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-21T16:22:48.267",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 350,
+              "width": 350,
+              "storageKey": "018abb77c3e24ee29e57aa1909520601",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218350/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "cb39a2d18b354da096176b8cc18c599d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218350/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/218350/Download"
+        },
+        {
+          "id": 235612,
+          "identityId": 220763,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Deangelis pic",
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T13:25:20.063",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1904,
+              "width": 1367,
+              "storageKey": "624bee7f4859442999d88ca278d1b07e",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/220763/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 86,
+              "storageKey": "838ad860921f4157a798260771d06035",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/220763/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/220763/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119031,
+        "defaultImageIdentityId": 220763
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Massachusetts"
     }
   ]
 }

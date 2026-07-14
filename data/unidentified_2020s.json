@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T09:36:41.513739+00:00",
+  "generated_at": "2026-07-14T08:16:16.617328+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1973,
+  "count": 1980,
   "cases": [
     {
       "id": 64643,
@@ -596576,6 +596576,1887 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140792/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140792/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
+    },
+    {
+      "id": 140808,
+      "idFormatted": "UP140808",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-25T13:13:24.84",
+      "modifiedDateTime": "2025-03-25T21:21:26.237",
+      "caseIdentification": {
+        "id": 50823,
+        "caseNumber": "24-388"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70675,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2021,
+        "estimatedYearOfDeathTo": 2022,
+        "estimatedPostmortemInterval": 3,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 6,
+          "name": "Years",
+          "localizedName": "Years"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75072,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-09",
+        "address": {
+          "city": "Meadville",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2329,
+            "name": "Crawford County",
+            "displayName": "Crawford"
+          },
+          "countyId": 0,
+          "zipCode": "16335"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The body was discovered by individuals who were looking at the residence, as it was going up for tax sale in the near future.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.6414438,
+            "lon": -80.15144839999999
+          },
+          "formattedAddress": "Meadville, PA 16335, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53827,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46098,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49768,
+          "isCaseOwner": false,
+          "name": "Crawford County Coroners Office",
+          "city": "Meadville",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2329,
+            "name": "Crawford County",
+            "localizedName": "Crawford"
+          },
+          "countyDisplayName": "Crawford",
+          "selection": {
+            "id": 58294,
+            "contact": {
+              "id": 295592,
+              "firstName": "Eric",
+              "lastName": "Coston",
+              "jobTitle": "Crawford County Coroner",
+              "roleId": 10,
+              "role": "Coroner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29423,
+              "name": "Crawford County Coroners Office",
+              "street1": "632 Pine Street",
+              "city": "Meadville",
+              "county": {
+                "id": 2329,
+                "name": "Crawford County",
+                "localizedName": "Crawford"
+              },
+              "zipCode": "16335",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "8147634544",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.crawfordcountypa.net/coroner/Pages/home.aspx"
+            }
+          },
+          "caseNumber": "24-388",
+          "dateReported": "2024-12-09"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23516,
+        "investigatingAgencyIdentityId": 49768
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140808/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140808/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 140865,
+      "idFormatted": "UP140865",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-26T11:59:22.877",
+      "modifiedDateTime": "2025-12-04T18:39:03.823",
+      "caseIdentification": {
+        "id": 50834,
+        "caseNumber": "2024-06636"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70684,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75085,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-04",
+        "address": {
+          "city": "Brentwood",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "displayName": "Suffolk"
+          },
+          "countyId": 0,
+          "zipCode": "11717"
+        },
+        "description": "5th Avenue",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Remain located in a Sump with mattress and tarp nearby",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7754622,
+            "lon": -73.2411506
+          },
+          "formattedAddress": "Brentwood, NY 11717, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53833,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46103,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49783,
+          "isCaseOwner": false,
+          "name": "Suffolk County Police Department",
+          "city": "Yaphank",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 58327,
+            "contact": {
+              "id": 287691,
+              "firstName": "Andrew",
+              "lastName": "Hope",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43956,
+              "name": "Suffolk County Police Department",
+              "street1": "30 Yaphank Ave",
+              "city": "Yaphank",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11980",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318526110",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://suffolkpd.org/"
+            }
+          },
+          "caseNumber": "24C0675897",
+          "dateReported": "2024-11-04"
+        },
+        {
+          "id": 49784,
+          "isCaseOwner": false,
+          "name": "Suffolk County Medical Examiner's Office",
+          "city": "Hauppauge",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 58328,
+            "agency": {
+              "id": 43955,
+              "name": "Suffolk County Medical Examiner's Office",
+              "street1": "725 Veterans Memorial Highway, Bldg. #487",
+              "city": "Hauppauge",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11788",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318535555",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.suffolkcountyny.gov/Departments/Medical-Examiner"
+            }
+          },
+          "caseNumber": "2024-06636"
+        },
+        {
+          "id": 51776,
+          "isCaseOwner": false,
+          "name": "Suffolk County Police Department",
+          "city": "Yaphank",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 62062,
+            "contact": {
+              "id": 295587,
+              "firstName": "Kenneth",
+              "lastName": "Buckheit",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43956,
+              "name": "Suffolk County Police Department",
+              "street1": "30 Yaphank Ave",
+              "city": "Yaphank",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11980",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318526110",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://suffolkpd.org/"
+            }
+          }
+        },
+        {
+          "id": 51777,
+          "isCaseOwner": false,
+          "name": "Suffolk County District Attorneys Office",
+          "city": "Smithtown",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 62063,
+            "contact": {
+              "id": 338542,
+              "firstName": "Nicholas",
+              "lastName": "Santomartino",
+              "jobTitle": "Deputy Bureau Chief",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 80278,
+              "name": "Suffolk County District Attorneys Office",
+              "street1": "725 Veterans Memorial Highway",
+              "city": "Smithtown",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11788",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318523185",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.suffolkcountyny.gov/da"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23529,
+        "investigatingAgencyIdentityId": 49784
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140865/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140865/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 140918,
+      "idFormatted": "UP140918",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-26T19:32:15.73",
+      "modifiedDateTime": "2026-03-04T18:25:40.533",
+      "caseIdentification": {
+        "id": 50842,
+        "caseNumber": "25-0226"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70696,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75121,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-26",
+        "address": {
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "displayName": "Brevard"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Unknown.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 28.263933,
+            "lon": -80.7214417
+          },
+          "formattedAddress": "Brevard County, FL, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53843,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46111,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49791,
+          "isCaseOwner": false,
+          "name": "Brevard County Sheriff's Office",
+          "city": "Titusville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "localizedName": "Brevard"
+          },
+          "countyDisplayName": "Brevard",
+          "selection": {
+            "id": 58368,
+            "agency": {
+              "id": 46303,
+              "name": "Brevard County Sheriff's Office",
+              "street1": "700 Park Ave.",
+              "city": "Titusville",
+              "county": {
+                "id": 385,
+                "name": "Brevard County",
+                "localizedName": "Brevard"
+              },
+              "zipCode": "32780",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3216338419",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-0226",
+          "dateReported": "2025-03-26"
+        },
+        {
+          "id": 49796,
+          "isCaseOwner": false,
+          "name": "District 18  Medical Examiners Office - Brevard",
+          "city": "Rockledge",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "localizedName": "Brevard"
+          },
+          "countyDisplayName": "Brevard",
+          "selection": {
+            "id": 58383,
+            "agency": {
+              "id": 5424,
+              "name": "District 18  Medical Examiners Office - Brevard",
+              "street1": "1750 Cedar Street",
+              "city": "Rockledge",
+              "county": {
+                "id": 385,
+                "name": "Brevard County",
+                "localizedName": "Brevard"
+              },
+              "zipCode": "32955",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3216331981",
+              "jurisdiction": {
+                "id": 5,
+                "name": "Other",
+                "localizedName": "Other"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-0226"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23557,
+        "investigatingAgencyIdentityId": 49796
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140918/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140918/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 140932,
+      "idFormatted": "UP140932",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-26T21:17:12.997",
+      "modifiedDateTime": "2025-05-16T12:48:00.54",
+      "caseIdentification": {
+        "id": 50844,
+        "caseNumber": "M25-07705"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70699,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 60,
+        "heightFrom": 69,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 183,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75119,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-03",
+        "address": {
+          "city": "Manhattan",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "displayName": "New York"
+          },
+          "countyId": 0,
+          "zipCode": "10016"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found unresponsive in subway station and brought to emergency department. Tentative names of Edward Vargas and Eric Cruz, but these names have not been verified and family has not been notified.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.74727,
+            "lon": -73.9800645
+          },
+          "formattedAddress": "New York, NY 10016, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53845,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46114,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Wavy, balding",
+        "facialHairDescription": "Moustache and beard present (partially gray)",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124431,
+          "identityId": 112166,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-26T21:17:30.153",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 362,
+              "width": 265,
+              "storageKey": "0e631a97f90a4f468bf466654cad5798",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112166/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 88,
+              "storageKey": "26716ca2ff7d4edf96d2bd7a09181382",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112166/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112166/Download"
+        },
+        {
+          "id": 124432,
+          "identityId": 112167,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-03-26T21:17:31.167",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 406,
+              "width": 460,
+              "storageKey": "99f20612fdd349db8b32f41e6107137c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112167/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 106,
+              "width": 120,
+              "storageKey": "702b9d9d94c34cf9aea82fca73310e4e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112167/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/112167/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25735,
+        "defaultImageIdentityId": 112166
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49793,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 58377,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "M25-07705"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23552,
+        "investigatingAgencyIdentityId": 49793
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140932/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 140985,
+      "idFormatted": "UP140985",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-27T18:49:01.02",
+      "modifiedDateTime": "2025-05-16T12:49:01.697",
+      "caseIdentification": {
+        "id": 50847,
+        "caseNumber": "25-00483"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70704,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 69,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Carlos",
+        "weightFrom": 150,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75148,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-09",
+        "address": {
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "displayName": "MD"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "displayName": "Baltimore"
+          },
+          "countyId": 0,
+          "zipCode": "21224"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found decomposed in the room that he rents. Landlord only knows him by \"Carlos\". Landlord stated decedent is believed to be from El Salvador.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.2713976,
+            "lon": -76.5603828
+          },
+          "formattedAddress": "Highlandtown, MD 21224, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53849,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56209,
+          "identityId": 47505,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black underwear",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46118,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Long, straight",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49800,
+          "isCaseOwner": false,
+          "name": "Baltimore Police Department - Headquarters",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 58411,
+            "agency": {
+              "id": 45628,
+              "name": "Baltimore Police Department - Headquarters",
+              "street1": "601 East Fayette Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21202",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "email": "HomicideTips@baltimorepolice.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.baltimorepolice.org/"
+            }
+          },
+          "caseNumber": "250102449",
+          "dateReported": "2025-01-09"
+        },
+        {
+          "id": 49802,
+          "isCaseOwner": false,
+          "name": "Maryland Office of the Chief Medical Examiner",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 58414,
+            "agency": {
+              "id": 43731,
+              "name": "Maryland Office of the Chief Medical Examiner",
+              "street1": "900 W. Baltimore Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21223",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "phone": "4103333250",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://health.maryland.gov/ocme/Pages/Home.aspx"
+            }
+          },
+          "caseNumber": "25-00483"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23581,
+        "investigatingAgencyIdentityId": 49802
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140985/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140985/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Maryland"
+    },
+    {
+      "id": 141203,
+      "idFormatted": "UP141203",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-31T21:45:06.643",
+      "modifiedDateTime": "2025-09-02T21:42:39.307",
+      "caseIdentification": {
+        "id": 50858,
+        "caseNumber": "24-3983"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70716,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2018,
+        "estimatedYearOfDeathTo": 2023,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75218,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-15",
+        "address": {
+          "city": "N of Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Skeletal elements discovered in a remote desert location by a private citizen. (USBP)",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.9120215,
+            "lon": -111.881234
+          },
+          "formattedAddress": "Sells, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53859,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46125,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124517,
+          "identityId": 112242,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Location where the individual was discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-03-31T21:49:35.02",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 462,
+              "width": 370,
+              "storageKey": "69d3c38ad6014465bb39983c1912b311",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141203/Images/112242/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "c6dcabbe34674158b3189516d700c321",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141203/Images/112242/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141203/Images/112242/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25740,
+        "defaultImageIdentityId": 112242
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49814,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58500,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3983"
+        },
+        {
+          "id": 49815,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58501,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "241115113"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23744,
+        "investigatingAgencyIdentityId": 49814
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141203/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141203/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 141202,
+      "idFormatted": "UP141202",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-03-31T21:34:38.377",
+      "modifiedDateTime": "2025-09-02T21:39:52.477",
+      "caseIdentification": {
+        "id": 50857,
+        "caseNumber": "24-3799"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70714,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2016,
+        "estimatedYearOfDeathTo": 2023,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75216,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-04",
+        "address": {
+          "city": "NW of Lukeville",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.9823844, -112.863095",
+        "circumstancesOfRecovery": "Incomplete remains discovered in a remote desert location. (USBP)",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8825681,
+            "lon": -112.8157127
+          },
+          "formattedAddress": "Lukeville, AZ 85341, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53858,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46124,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124516,
+          "identityId": 112241,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Location where the decedent was discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-03-31T21:38:06.893",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 465,
+              "width": 433,
+              "storageKey": "7ff604cc2bd044d9b0ec94ba55a40429",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/112241/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 112,
+              "storageKey": "47e45de6b15544cbabfbcadab8fa7d0a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/112241/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/112241/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25739,
+        "defaultImageIdentityId": 112241
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49812,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58498,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3799"
+        },
+        {
+          "id": 49813,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58499,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "NP24337723"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23743,
+        "investigatingAgencyIdentityId": 49812
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
     }
   ]
 }

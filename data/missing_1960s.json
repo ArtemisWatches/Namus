@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T08:36:31.269873+00:00",
+  "generated_at": "2026-07-14T08:16:02.708274+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 262,
+  "count": 263,
   "cases": [
     {
       "id": 498,
@@ -76813,6 +76813,264 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/138874/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 141809,
+      "idFormatted": "MP141809",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-10T06:09:39.867",
+      "modifiedDateTime": "2025-04-23T12:10:51.683",
+      "subjectIdentification": {
+        "id": 229562,
+        "firstName": "Marilyn",
+        "middleName": "Joyce",
+        "lastName": "Pittwood",
+        "nicknames": "Marilyn Mitchell",
+        "currentMinAge": 82,
+        "currentMaxAge": 82,
+        "computedMissingMinAge": 21,
+        "computedMissingMaxAge": 21
+      },
+      "subjectDescription": {
+        "id": 202426,
+        "heightFrom": 64,
+        "weightFrom": 125,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 239201,
+        "circumstancesOfDisappearance": "Marilyn Pittwood was last seen on November 11, 1965. She was last seen in Pueblo, CO."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 124183,
+          "identityId": 113503,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Western clothing: green western pants and black western shirt."
+        }
+      ],
+      "sighting": {
+        "id": 278793,
+        "date": "1965-11-11",
+        "address": {
+          "city": "Pueblo",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 356,
+            "name": "Pueblo County",
+            "displayName": "Pueblo"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.2705996,
+            "lon": -104.6101033
+          },
+          "formattedAddress": "Pueblo, CO, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 167430,
+          "isCaseOwner": false,
+          "name": "Pueblo Police Department",
+          "city": "Pueblo",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 356,
+            "name": "Pueblo County",
+            "localizedName": "Pueblo"
+          },
+          "countyDisplayName": "Pueblo",
+          "selection": {
+            "id": 192988,
+            "agency": {
+              "id": 43843,
+              "name": "Pueblo Police Department",
+              "street1": "200 South Main Street",
+              "city": "Pueblo",
+              "county": {
+                "id": 356,
+                "name": "Pueblo County",
+                "localizedName": "Pueblo"
+              },
+              "zipCode": "81003",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "7195532538",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pueblo.us/102/Police-Department"
+            }
+          },
+          "caseNumber": "65-7471",
+          "dateReported": "1965-11-11"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43843,
+        "isCaseOwner": false,
+        "name": "Pueblo Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 111123,
+        "investigatingAgencyIdentityId": 167430
+      },
+      "physicalDescription": {
+        "id": 199019,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 232560,
+          "identityId": 218016,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-10T06:11:25.133",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 725,
+              "width": 575,
+              "storageKey": "db7fa3c7841a4736ab64005eec8bfc5d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218016/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 95,
+              "storageKey": "63d9b490b9e74ef3b6b21e45ea029ca7",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218016/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218016/Download"
+        },
+        {
+          "id": 232561,
+          "identityId": 218017,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-10T06:12:52.197",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 383,
+              "width": 277,
+              "storageKey": "31cc8b1aa35a44d6bbd55d37d3e67e7c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218017/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 87,
+              "storageKey": "9272e4c34a6e4ca698e182e08809f361",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218017/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/218017/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 117025,
+        "defaultImageIdentityId": 218016
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
     }
   ]
 }
