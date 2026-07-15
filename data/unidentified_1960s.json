@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T09:36:41.513739+00:00",
+  "generated_at": "2026-07-15T08:22:45.407598+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 221,
+  "count": 222,
   "cases": [
     {
       "id": 334,
@@ -59649,6 +59649,289 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140307/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/140307/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 141700,
+      "idFormatted": "UP141700",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-08T17:00:03.223",
+      "modifiedDateTime": "2025-04-09T12:13:13.157",
+      "caseIdentification": {
+        "id": 50904,
+        "caseNumber": "SS-01607-66"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70785,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 65,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75334,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1966-05-12",
+        "address": {
+          "city": "Saratoga Springs",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1934,
+            "name": "Saratoga County",
+            "displayName": "Saratoga"
+          },
+          "countyId": 0,
+          "zipCode": "12866"
+        },
+        "description": "Lake Ave.",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Human Remains found in the area of Lake Ave. discovered by a dog walker",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.08337059999999,
+            "lon": -73.7849756
+          },
+          "formattedAddress": "Saratoga Springs, NY, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53898,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56259,
+          "identityId": 47530,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Tin of tooth pasted",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56261,
+          "identityId": 47532,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Felt Hat",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56263,
+          "identityId": 47534,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Misc fragments of clothing",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56260,
+          "identityId": 47531,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Eyeglasses with case",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56262,
+          "identityId": 47533,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Oxford Brown Shoes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46167,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17091,
+          "identityId": 14371,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Lacked numerous teeth"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49868,
+          "isCaseOwner": false,
+          "name": "Saratoga Springs Police Department",
+          "city": "Saratoga Springs",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1934,
+            "name": "Saratoga County",
+            "localizedName": "Saratoga"
+          },
+          "countyDisplayName": "Saratoga",
+          "selection": {
+            "id": 58658,
+            "agency": {
+              "id": 71075,
+              "name": "Saratoga Springs Police Department",
+              "street1": "5 Lake Avenue",
+              "city": "Saratoga Springs",
+              "county": {
+                "id": 1934,
+                "name": "Saratoga County",
+                "localizedName": "Saratoga"
+              },
+              "zipCode": "12866",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "5185841800",
+              "email": "PIO@saratogapolice.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.saratoga-springs.org/150/Police-Department"
+            }
+          },
+          "caseNumber": "SS-01607-66",
+          "dateReported": "1966-05-12"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23732,
+        "investigatingAgencyIdentityId": 49868
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141700/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141700/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }

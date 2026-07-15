@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T08:16:02.708274+00:00",
+  "generated_at": "2026-07-15T08:22:33.095205+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1255,
+  "count": 1258,
   "cases": [
     {
       "id": 1,
@@ -367080,6 +367080,715 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/141800/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Massachusetts"
+    },
+    {
+      "id": 142456,
+      "idFormatted": "MP142456",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-22T17:15:54.053",
+      "modifiedDateTime": "2025-09-19T18:16:18.577",
+      "subjectIdentification": {
+        "id": 230282,
+        "firstName": "Scott",
+        "middleName": "Orville",
+        "lastName": "Musser",
+        "currentMinAge": 68,
+        "currentMaxAge": 68,
+        "computedMissingMinAge": 20,
+        "computedMissingMaxAge": 20
+      },
+      "subjectDescription": {
+        "id": 202994,
+        "heightFrom": 71,
+        "weightFrom": 160,
+        "weightTo": 165,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 103880
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 240033,
+        "circumstancesOfDisappearance": "Scott was last seen at a grocery store in Eustis, FL (Unincorporated Lake County) on 03/17/1978. Scott didn't arrive at work that day and has not been seen since. The circumstances surrounding Scott's disappearance are suspicious in nature."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 279979,
+        "date": "1978-03-17",
+        "address": {
+          "city": "Eustis",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 414,
+            "name": "Lake County",
+            "displayName": "Lake"
+          },
+          "countyId": 0,
+          "zipCode": "32736"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 28.8527675,
+            "lon": -81.6853534
+          },
+          "formattedAddress": "Eustis, FL, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 167417,
+          "isCaseOwner": false,
+          "name": "Lake County Sheriff's Office",
+          "city": "Tavares",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 414,
+            "name": "Lake County",
+            "localizedName": "Lake"
+          },
+          "countyDisplayName": "Lake",
+          "selection": {
+            "id": 192972,
+            "contact": {
+              "id": 254737,
+              "firstName": "Zachary",
+              "lastName": "Williams",
+              "jobTitle": "Corporal",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "email": "zachary.williams@lcso.org",
+              "isPublicEmail": true,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44208,
+              "name": "Lake County Sheriff's Office",
+              "street1": "360 West Ruby Street",
+              "city": "Tavares",
+              "county": {
+                "id": 414,
+                "name": "Lake County",
+                "localizedName": "Lake"
+              },
+              "zipCode": "32778",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3523439529",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.lcso.org/"
+            }
+          },
+          "caseNumber": "250043938",
+          "dateReported": "2025-04-22"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 44208,
+        "isCaseOwner": false,
+        "name": "Lake County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 111036,
+        "investigatingAgencyIdentityId": 167417
+      },
+      "physicalDescription": {
+        "id": 199000,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 233029,
+          "identityId": 218409,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T23:45:02.753",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 89,
+              "width": 89,
+              "storageKey": "06620de7430c424f9e7ab38846d28cf5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218409/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "e06882ae899646cbb13a1f5d50a72ed4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218409/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218409/Download"
+        },
+        {
+          "id": 233031,
+          "identityId": 218411,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T23:47:15.803",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 134,
+              "width": 134,
+              "storageKey": "f1c70a833fc146f3a5832b8f35461dd9",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218411/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "0c81c07441964c8cbccfe2e0e5af3e47",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218411/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218411/Download"
+        },
+        {
+          "id": 233004,
+          "identityId": 218389,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Newspaper article.",
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T17:31:50.337",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 722,
+              "width": 452,
+              "storageKey": "2ec990b2847e4b0fbc1481b163a68a19",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218389/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 75,
+              "storageKey": "5da4b9616ef44f1083926a6f5261f46f",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218389/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218389/Download"
+        },
+        {
+          "id": 233003,
+          "identityId": 218388,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Photograph provided by family.",
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T17:31:43.85",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 431,
+              "width": 182,
+              "storageKey": "237362f71d2a4bfaaa687bd46a48b4aa",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218388/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 51,
+              "storageKey": "76fa912e31694962ac81514b91bbca61",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218388/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/218388/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 117275,
+        "defaultImageIdentityId": 218409
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/142456/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 142527,
+      "idFormatted": "MP142527",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-23T18:50:03.977",
+      "modifiedDateTime": "2025-05-30T14:26:17.39",
+      "subjectIdentification": {
+        "id": 231361,
+        "firstName": "Norvin",
+        "middleName": "Gene",
+        "lastName": "Lefebvre",
+        "currentMinAge": 97,
+        "currentMaxAge": 97,
+        "computedMissingMinAge": 42,
+        "computedMissingMaxAge": 42
+      },
+      "subjectDescription": {
+        "id": 204057,
+        "heightFrom": 70,
+        "weightFrom": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 103908
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 241188,
+        "circumstancesOfDisappearance": "Last known to be checking fishing lines on Grand Marais Bay with his 14 year old son. He and his son never returned home. His son's body was located in May of 1973."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 284381,
+        "date": "1971-10-31",
+        "address": {
+          "city": "Grand Marais",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1294,
+            "name": "Alger County",
+            "displayName": "Alger"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 46.671789,
+            "lon": -85.9841234
+          },
+          "formattedAddress": "Grand Marais, MI, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 167475,
+          "isCaseOwner": false,
+          "name": "Michigan State Police - Neguanee Post",
+          "city": "Negaunee",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1344,
+            "name": "Marquette County",
+            "localizedName": "Marquette"
+          },
+          "countyDisplayName": "Marquette",
+          "selection": {
+            "id": 193049,
+            "contact": {
+              "id": 317370,
+              "firstName": "Nichole",
+              "lastName": "Dyson",
+              "jobTitle": "Detective Sergeant",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 57718,
+              "name": "Michigan State Police - Neguanee Post",
+              "street1": "180 US Highway 41",
+              "city": "Negaunee",
+              "county": {
+                "id": 1344,
+                "name": "Marquette County",
+                "localizedName": "Marquette"
+              },
+              "zipCode": "49866",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "9064759922",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "91-769-91",
+          "dateReported": "1971-11-01"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 57718,
+        "isCaseOwner": false,
+        "name": "Michigan State Police - Neguanee Post"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 112661,
+        "investigatingAgencyIdentityId": 167475
+      },
+      "physicalDescription": {
+        "id": 200077,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/142527/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/142527/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/142527/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 142585,
+      "idFormatted": "MP142585",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-24T17:18:46.33",
+      "modifiedDateTime": "2026-05-06T23:55:56.4",
+      "subjectIdentification": {
+        "id": 231435,
+        "firstName": "Daniel",
+        "middleName": "Lee",
+        "lastName": "Sullivan",
+        "currentMinAge": 72,
+        "currentMaxAge": 72,
+        "computedMissingMinAge": 18,
+        "computedMissingMaxAge": 18
+      },
+      "subjectDescription": {
+        "id": 204108,
+        "heightFrom": 69,
+        "weightFrom": 150,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 241501,
+        "circumstancesOfDisappearance": "On 5/19/89, Daniel Lee Sullivan was reported missing to the Sunnyvale Department of Public Safety through an official with the Salvation Army. The Salvation Army had been contacted by the missing person's family in request of an investigation into his whereabouts. The Salvation Army official responded to the missing person's last known address in Sunnyvale which he was said to have shared with his parents. A new resident answered the door and stated they had lived at the home for approximately ten years. They were familiar with the family name because they sometimes received mail for the former residents. Neighbors of missing person's family reported suspicious circumstances. They indicated the missing person actually went missing sometime in or around 1972. He left his belongings at the residence and had not been seen again by neighbors."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 280639,
+        "date": "1972-01-01",
+        "address": {
+          "city": "Sunnyvale",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 289,
+            "name": "Santa Clara County",
+            "displayName": "Santa Clara"
+          },
+          "countyId": 0,
+          "zipCode": "94087"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.3492097,
+            "lon": -122.0326019
+          },
+          "formattedAddress": "Sunnyvale, CA 94087, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 167521,
+          "isCaseOwner": false,
+          "name": "Sunnyvale Department of Public Safety",
+          "city": "Sunnyvale",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 289,
+            "name": "Santa Clara County",
+            "localizedName": "Santa Clara"
+          },
+          "countyDisplayName": "Santa Clara",
+          "selection": {
+            "id": 193098,
+            "agency": {
+              "id": 45421,
+              "name": "Sunnyvale Department of Public Safety",
+              "street1": "700 All America Way",
+              "city": "Sunnyvale",
+              "county": {
+                "id": 289,
+                "name": "Santa Clara County",
+                "localizedName": "Santa Clara"
+              },
+              "zipCode": "94086",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "4087307180",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://sunnyvale.ca.gov/government/safety/default.htm"
+            }
+          },
+          "caseNumber": "CR89-23595",
+          "dateReported": "1989-05-19"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 45421,
+        "isCaseOwner": false,
+        "name": "Sunnyvale Department of Public Safety"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 111267,
+        "investigatingAgencyIdentityId": 167521
+      },
+      "physicalDescription": {
+        "id": 200130,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T08:16:16.617328+00:00",
+  "generated_at": "2026-07-15T08:22:45.407598+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 976,
+  "count": 978,
   "cases": [
     {
       "id": 103,
@@ -281333,6 +281333,564 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141275/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141275/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 141325,
+      "idFormatted": "UP141325",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-02T18:09:28.867",
+      "modifiedDateTime": "2025-04-03T17:39:03.717",
+      "caseIdentification": {
+        "id": 50870,
+        "caseNumber": "1979-02869"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70744,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 19,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75254,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-10-23",
+        "address": {
+          "city": "Miami",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "displayName": "Miami-Dade"
+          },
+          "countyId": 0
+        },
+        "description": "Vacant Field: NW 83rd Street & NW 14th Avenue",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Full term infant found in vacant field by a passerby, He was wrapped in a newspaper which had been placed in a green plastic bag and left at the base of a large tree.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 25.7616798,
+            "lon": -80.1917902
+          },
+          "formattedAddress": "Miami, FL, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53870,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46137,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49834,
+          "isCaseOwner": false,
+          "name": "District 11 Miami-Dade County Medical Examiners Office",
+          "city": "Miami",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "localizedName": "Miami-Dade"
+          },
+          "countyDisplayName": "Miami-Dade",
+          "selection": {
+            "id": 58537,
+            "contact": {
+              "id": 324253,
+              "firstName": "Naomi",
+              "lastName": "Jacobs",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 6102,
+              "name": "District 11 Miami-Dade County Medical Examiners Office",
+              "street1": "1851 NW 10 Avenue",
+              "city": "Miami",
+              "county": {
+                "id": 423,
+                "name": "Miami-Dade County",
+                "localizedName": "Miami-Dade"
+              },
+              "zipCode": "33136",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3055452400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.miamidade.gov/global/medicalexaminer/home.page"
+            }
+          },
+          "caseNumber": "1979-02869",
+          "dateReported": "2025-04-02"
+        },
+        {
+          "id": 49835,
+          "isCaseOwner": false,
+          "name": "Miami-Dade Sheriff's Office - Homicide Bureau",
+          "city": "Doral",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 423,
+            "name": "Miami-Dade County",
+            "localizedName": "Miami-Dade"
+          },
+          "countyDisplayName": "Miami-Dade",
+          "selection": {
+            "id": 58538,
+            "contact": {
+              "id": 111322,
+              "firstName": "Jonathan",
+              "lastName": "Grossman",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 66091,
+              "name": "Miami-Dade Sheriff's Office - Homicide Bureau",
+              "street1": "9105 NW 25 Street",
+              "city": "Doral",
+              "county": {
+                "id": 423,
+                "name": "Miami-Dade County",
+                "localizedName": "Miami-Dade"
+              },
+              "zipCode": "33172",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3054712400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "PSD#311269-Z",
+          "dateReported": "2025-04-02"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23700,
+        "investigatingAgencyIdentityId": 49834
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141325/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141325/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 141405,
+      "idFormatted": "UP141405",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-03T14:36:21.933",
+      "modifiedDateTime": "2025-07-18T14:54:03.067",
+      "caseIdentification": {
+        "id": 50878,
+        "caseNumber": "M76-03721"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70749,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 40,
+        "estimatedYearOfDeathFrom": 1976,
+        "estimatedYearOfBirthFrom": 1936,
+        "estimatedYearOfBirthTo": 1956,
+        "heightFrom": 68,
+        "heightTo": 69,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 150,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76614,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-05-10",
+        "address": {
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "displayName": "New York"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unknown male recovered from the East River near the Manhattan Bridge. Had likely been in the water a few weeks.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7685167,
+            "lon": -73.98219379999999
+          },
+          "formattedAddress": "Manhattan, New York, NY, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53872,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56237,
+          "identityId": 47514,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "2 keys within the pants pocket\nA piece of paper with writing: \"ELERIST 308\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56245,
+          "identityId": 47515,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue/dark colored air force jacket\nTan wool sweater\nFlowered shirt\nMaroon/dark colored pants\nMaroon/dark colored socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56236,
+          "identityId": 47516,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Tan suede ankle high boots/shoes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56233,
+          "identityId": 47513,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Yellow metal chain with a religious medallion",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46140,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Dark brown/black hair (no indication of length)",
+        "facialHairDescription": "Beard",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124537,
+          "identityId": 112262,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 22,
+            "name": "OfficeLogo",
+            "localizedName": "Office Logo",
+            "ordinal": 220
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-03T14:38:03.167",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 334,
+              "width": 333,
+              "storageKey": "1cae42a4d2c44431a5fe35994d099bd0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/112262/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "17429b4a110b48f8beef6a66f56e9628",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/112262/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/112262/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25744,
+        "defaultImageIdentityId": 112262
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49837,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 58567,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "M76-03721"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23695,
+        "investigatingAgencyIdentityId": 49837
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }

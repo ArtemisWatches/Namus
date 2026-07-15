@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T08:16:16.617328+00:00",
+  "generated_at": "2026-07-15T08:22:45.407598+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 1980,
+  "count": 1990,
   "cases": [
     {
       "id": 64643,
@@ -598457,6 +598457,2979 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141202/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 141313,
+      "idFormatted": "UP141313",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-02T15:25:20.17",
+      "modifiedDateTime": "2025-04-02T16:31:19.583",
+      "caseIdentification": {
+        "id": 50869,
+        "caseNumber": "25-0112"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70739,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75252,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-10",
+        "address": {
+          "city": "Melbourne",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "displayName": "Brevard"
+          },
+          "countyId": 0,
+          "zipCode": "32904"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found by a land clearing crew hired to cut down the surrounding brush. They report that they clear this lot approximately every two years.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.966866,
+            "lon": -80.7879407
+          },
+          "formattedAddress": "Melbourne, FL 32904, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53869,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46136,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49829,
+          "isCaseOwner": false,
+          "name": "Brevard County Sheriff's Office",
+          "city": "Titusville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "localizedName": "Brevard"
+          },
+          "countyDisplayName": "Brevard",
+          "selection": {
+            "id": 58530,
+            "contact": {
+              "id": 324880,
+              "firstName": "Vince",
+              "lastName": "Bustillo",
+              "jobTitle": "Agent",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 46303,
+              "name": "Brevard County Sheriff's Office",
+              "street1": "700 Park Ave.",
+              "city": "Titusville",
+              "county": {
+                "id": 385,
+                "name": "Brevard County",
+                "localizedName": "Brevard"
+              },
+              "zipCode": "32780",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3216338419",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-00044958",
+          "dateReported": "2025-02-10"
+        },
+        {
+          "id": 49830,
+          "isCaseOwner": false,
+          "name": "District 18  Medical Examiners Office - Brevard",
+          "city": "Rockledge",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 385,
+            "name": "Brevard County",
+            "localizedName": "Brevard"
+          },
+          "countyDisplayName": "Brevard",
+          "selection": {
+            "id": 58533,
+            "agency": {
+              "id": 5424,
+              "name": "District 18  Medical Examiners Office - Brevard",
+              "street1": "1750 Cedar Street",
+              "city": "Rockledge",
+              "county": {
+                "id": 385,
+                "name": "Brevard County",
+                "localizedName": "Brevard"
+              },
+              "zipCode": "32955",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3216331981",
+              "jurisdiction": {
+                "id": 5,
+                "name": "Other",
+                "localizedName": "Other"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-0112"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23679,
+        "investigatingAgencyIdentityId": 49830
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141313/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141313/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 141408,
+      "idFormatted": "UP141408",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-03T14:54:22.18",
+      "modifiedDateTime": "2026-06-29T13:05:26.487",
+      "caseIdentification": {
+        "id": 53146,
+        "caseNumber": "ME2025-01651"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71101,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 33,
+        "estimatedAgeTo": 55,
+        "estimatedYearOfDeathFrom": 2025,
+        "estimatedYearOfBirthFrom": 1970,
+        "estimatedYearOfBirthTo": 1992,
+        "heightFrom": 59,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75280,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-19",
+        "address": {
+          "city": "Chicago",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "displayName": "IL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 672,
+            "name": "Cook County",
+            "displayName": "Cook"
+          },
+          "countyId": 0,
+          "zipCode": "60606"
+        },
+        "description": "1526 S Canal St,",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On March 19th, 2025 at 0030 Chicago Police Department notified the Institute of the death of an unknown individual The incident occurred outside located in the 1500 block of S Canal St, Chicago, IL 60606.  CPD and EMS were called after an unknown bystander flagged down the police and brought them to the decedent. Decedent was found lying supine outside in late stages of decomposition.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.8817767,
+            "lon": -87.6371461
+          },
+          "formattedAddress": "Chicago, IL 60606, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54421,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56608,
+          "identityId": 47796,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "2 black socks\nBlue denim pants\nPurple tshirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57634,
+          "identityId": 47797,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "White metal ring with a yellow/brown/orange center stone and 2 halos of smaller possibly clear stones located near the left hand.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46497,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Long black hair located on the skull",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 28909,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 126222,
+          "identityId": 113817,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-09T16:07:55.897",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "ea24432b403742a69a880e041299e119",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/113817/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "65218baab2894752aaea374073ae61e6",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/113817/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/113817/Download"
+        },
+        {
+          "id": 129054,
+          "identityId": 116421,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-09T18:58:06.847",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 250,
+              "width": 375,
+              "storageKey": "f6b00bdbdc1041e38a1a00f220ad6682",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116421/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "b7477ccc93d04eee892ba27e032fe230",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116421/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116421/Download"
+        },
+        {
+          "id": 129055,
+          "identityId": 116422,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-09T18:58:14.707",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 250,
+              "width": 375,
+              "storageKey": "91e3036529cc4a5d8e7f10a3f104d9bf",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116422/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "9fd22fd8638143cebd8a79d42071eeed",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116422/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116422/Download"
+        },
+        {
+          "id": 129056,
+          "identityId": 116423,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-09T18:58:21.643",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 250,
+              "width": 375,
+              "storageKey": "cd4851ade1eb44aeabedeef56e2e225d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116423/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "cdedff6894674a85a1a6d5aa46999fae",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116423/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116423/Download"
+        },
+        {
+          "id": 129057,
+          "identityId": 116424,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-09T18:58:28.517",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 250,
+              "width": 375,
+              "storageKey": "9fc30130bcb6403fb007d707021de006",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116424/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "580152eca98b4ac3a0cbb2e071a2ff3e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116424/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/116424/Download"
+        },
+        {
+          "id": 130285,
+          "identityId": 117596,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-06T20:41:35.597",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 199,
+              "width": 164,
+              "storageKey": "6ae4078a223d4025b47178e07d32c7f7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/117596/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "bff8b20ff3024538a75ad138bff26573",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/117596/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/117596/Download"
+        },
+        {
+          "id": 132865,
+          "identityId": 119873,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Forensic Art: Sketch/Composite",
+          "isPublic": true,
+          "createdDateTime": "2026-03-17T13:19:22.82",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 7075,
+              "width": 5400,
+              "storageKey": "821184dc366c42058de78a8aadde9aaa",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/119873/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 92,
+              "storageKey": "43bdcc678d6c4093804cbceabfa09f7a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/119873/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/119873/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26483,
+        "defaultImageIdentityId": 119873
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49838,
+          "isCaseOwner": false,
+          "name": "Chicago Police Department - Area Three",
+          "city": "Chicago",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 672,
+            "name": "Cook County",
+            "localizedName": "Cook"
+          },
+          "countyDisplayName": "Cook",
+          "selection": {
+            "id": 58571,
+            "agency": {
+              "id": 74598,
+              "name": "Chicago Police Department - Area Three",
+              "street1": "1718 South State Street",
+              "city": "Chicago",
+              "county": {
+                "id": 672,
+                "name": "Cook County",
+                "localizedName": "Cook"
+              },
+              "zipCode": "60616",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "3127448261",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "JJ186821",
+          "dateReported": "2025-03-19"
+        },
+        {
+          "id": 50217,
+          "isCaseOwner": false,
+          "name": "Cook County Medical Examiner's Office",
+          "city": "Chicago",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 672,
+            "name": "Cook County",
+            "localizedName": "Cook"
+          },
+          "countyDisplayName": "Cook",
+          "selection": {
+            "id": 59217,
+            "agency": {
+              "id": 8798,
+              "name": "Cook County Medical Examiner's Office",
+              "street1": "2121 West Harrison",
+              "city": "Chicago",
+              "county": {
+                "id": 672,
+                "name": "Cook County",
+                "localizedName": "Cook"
+              },
+              "zipCode": "60612",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "3129974500",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "ME2025-01651"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24016,
+        "investigatingAgencyIdentityId": 50217
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141408/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
+    },
+    {
+      "id": 141509,
+      "idFormatted": "UP141509",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-04T20:38:55.05",
+      "modifiedDateTime": "2025-09-02T21:38:25.397",
+      "caseIdentification": {
+        "id": 50892,
+        "caseNumber": "24-3766"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70767,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 2021,
+        "estimatedYearOfDeathTo": 2024,
+        "estimatedYearOfBirthFrom": 1961,
+        "estimatedYearOfBirthTo": 1999,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75297,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-01",
+        "address": {
+          "city": "SW of Amado",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "displayName": "Santa Cruz"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.665556, -111.122500",
+        "circumstancesOfRecovery": "Individual was discovered by hunters in a remote desert area. (USBP)",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.70786579999999,
+            "lon": -111.0645359
+          },
+          "formattedAddress": "Amado, AZ 85645, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53882,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46155,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124552,
+          "identityId": 112277,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Location where individual was discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-04-04T21:17:27.173",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 937,
+              "width": 913,
+              "storageKey": "95d24f4e35004e4b8688823e51f0d740",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141509/Images/112277/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 117,
+              "storageKey": "72b52a4ffe7b4fe69636fb15eeaf1d93",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141509/Images/112277/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141509/Images/112277/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25749,
+        "defaultImageIdentityId": 112277
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49850,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58598,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3766"
+        },
+        {
+          "id": 49851,
+          "isCaseOwner": false,
+          "name": "Santa Cruz County Sheriff's Office",
+          "city": "Nogales",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "localizedName": "Santa Cruz"
+          },
+          "countyDisplayName": "Santa Cruz",
+          "selection": {
+            "id": 58599,
+            "agency": {
+              "id": 48457,
+              "name": "Santa Cruz County Sheriff's Office",
+              "street1": "2170 North Congress Drive",
+              "city": "Nogales",
+              "county": {
+                "id": 169,
+                "name": "Santa Cruz County",
+                "localizedName": "Santa Cruz"
+              },
+              "zipCode": "85621",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207617869",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://santacruzsheriff.org/"
+            }
+          },
+          "caseNumber": "241101003"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23710,
+        "investigatingAgencyIdentityId": 49850
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141509/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141509/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 141619,
+      "idFormatted": "UP141619",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-07T13:34:28.083",
+      "modifiedDateTime": "2026-01-12T17:37:57.523",
+      "caseIdentification": {
+        "id": 52385,
+        "caseNumber": "A25-185"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70772,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedYearOfDeathFrom": 2025,
+        "heightFrom": 18,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76752,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-27",
+        "address": {
+          "city": "Manchester",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "displayName": "NH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1831,
+            "name": "Hillsborough County",
+            "displayName": "Hillsborough"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Term or late preterm infant recovered from Pine Island Pond, found in approximately 3 feet of water.  Findings suggest a relatively brief interval from birth to death.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.9956397,
+            "lon": -71.4547891
+          },
+          "formattedAddress": "Manchester, NH, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53887,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46159,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "rightEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49857,
+          "isCaseOwner": false,
+          "name": "New Hampshire Office of Chief Medical Examiner",
+          "city": "Concord",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1832,
+            "name": "Merrimack County",
+            "localizedName": "Merrimack"
+          },
+          "countyDisplayName": "Merrimack",
+          "selection": {
+            "id": 58620,
+            "agency": {
+              "id": 21730,
+              "name": "New Hampshire Office of Chief Medical Examiner",
+              "street1": "246 Pleasant Street",
+              "street2": "Ste 218",
+              "city": "Concord",
+              "county": {
+                "id": 1832,
+                "name": "Merrimack County",
+                "localizedName": "Merrimack"
+              },
+              "zipCode": "03301",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6032711235",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "A25-185",
+          "dateReported": "2025-03-27"
+        },
+        {
+          "id": 49858,
+          "isCaseOwner": false,
+          "name": "Manchester Police Department",
+          "city": "Manchester",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1831,
+            "name": "Hillsborough County",
+            "localizedName": "Hillsborough"
+          },
+          "countyDisplayName": "Hillsborough",
+          "selection": {
+            "id": 58619,
+            "agency": {
+              "id": 44161,
+              "name": "Manchester Police Department",
+              "street1": "405 Valley St",
+              "city": "Manchester",
+              "county": {
+                "id": 1831,
+                "name": "Hillsborough County",
+                "localizedName": "Hillsborough"
+              },
+              "zipCode": "03103",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6036688711",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.manchesternh.gov/Departments/Police/Detective-Squad"
+            }
+          },
+          "caseNumber": "25-004353",
+          "dateReported": "2025-03-27"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23717,
+        "investigatingAgencyIdentityId": 49857
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141619/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141619/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
+    },
+    {
+      "id": 141648,
+      "idFormatted": "UP141648",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-07T20:13:02.877",
+      "modifiedDateTime": "2025-04-10T15:54:23.647",
+      "caseIdentification": {
+        "id": 50898,
+        "caseNumber": "2025-0772"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70775,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75321,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-16",
+        "address": {
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "displayName": "HI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "displayName": "Honolulu"
+          },
+          "countyId": 0,
+          "zipCode": "96819"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 3/16/25, a right humerus, lumbar vertebra (probably L2), left innominate (os coxa/hip bone) and left femur were discovered in Kalihi stream.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 21.3644294,
+            "lon": -157.8689014
+          },
+          "formattedAddress": "Honolulu, HI 96819, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53892,
+        "allPartsRecovered": false,
+        "headNotRecovered": true,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46161,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49864,
+          "isCaseOwner": false,
+          "name": "Department of the Medical Examiner",
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "localizedName": "HI"
+          },
+          "stateDisplayName": "HI",
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "localizedName": "Honolulu"
+          },
+          "countyDisplayName": "Honolulu",
+          "selection": {
+            "id": 58651,
+            "contact": {
+              "id": 307017,
+              "firstName": "McKenna",
+              "lastName": "Bonn-Savage",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 47349,
+              "name": "Department of the Medical Examiner",
+              "street1": "835 Iwilei Road",
+              "city": "Honolulu",
+              "county": {
+                "id": 609,
+                "name": "Honolulu County",
+                "localizedName": "Honolulu"
+              },
+              "zipCode": "96817",
+              "state": {
+                "id": 44,
+                "name": "Hawaii",
+                "localizedName": "HI"
+              },
+              "phone": "8087683090",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.honolulu.gov/med"
+            }
+          },
+          "caseNumber": "2025-0772",
+          "dateReported": "2025-03-16"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23746,
+        "investigatingAgencyIdentityId": 49864
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141648/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141648/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
+    },
+    {
+      "id": 141662,
+      "idFormatted": "UP141662",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-07T22:50:45.983",
+      "modifiedDateTime": "2026-04-15T16:15:41.767",
+      "caseIdentification": {
+        "id": 50899,
+        "caseNumber": "24-4071"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70788,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 35,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfBirthFrom": 1989,
+        "estimatedYearOfBirthTo": 2004,
+        "heightFrom": 67,
+        "heightTo": 71,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75338,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-24",
+        "address": {
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Mostly complete skeletal remains found by USBP in remote desert area. Minimal personal effects recovered.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.057499,
+            "lon": -111.6660725
+          },
+          "formattedAddress": "Pima County, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53902,
+        "torsoNotRecovered": false,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56292,
+          "identityId": 47558,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans (Braccio brand)",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56293,
+          "identityId": 47559,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black long sleeve shirt",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56290,
+          "identityId": 47556,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "White and red Nike shoes size 8 (US)",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56291,
+          "identityId": 47557,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "White metal cross chain necklace",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46162,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124627,
+          "identityId": 112346,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-04-08T22:18:22.157",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 990,
+              "width": 979,
+              "storageKey": "b636f288aeae42ce870545719c7341e0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112346/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 119,
+              "storageKey": "de5aa371dc1447c58a3c318abd4b7591",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112346/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112346/Download"
+        },
+        {
+          "id": 124698,
+          "identityId": 112409,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Size 8 (US) white Nike shoes",
+          "isPublic": true,
+          "createdDateTime": "2025-04-15T16:59:32.107",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1506,
+              "width": 3727,
+              "storageKey": "3f826ab7e9244404ae1d59f1a799523b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112409/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 48,
+              "width": 120,
+              "storageKey": "cd304571b1314cd3a3d8ee3680cbf46a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112409/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112409/Download"
+        },
+        {
+          "id": 124703,
+          "identityId": 112414,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "Cross chain found with remains",
+          "isPublic": true,
+          "createdDateTime": "2025-04-15T22:26:11.527",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2204,
+              "width": 1549,
+              "storageKey": "ef7a7d9abd3e43689209d6a746bd935f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112414/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 84,
+              "storageKey": "9bf7c4d8293c43ad91046d0228e1fffc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112414/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112414/Download"
+        },
+        {
+          "id": 124704,
+          "identityId": 112415,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "Close up of white metal cross",
+          "isPublic": true,
+          "createdDateTime": "2025-04-15T22:26:15.12",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2006,
+              "width": 1809,
+              "storageKey": "bfe2bca09a9640afaaf7ebe1b4db155f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112415/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 108,
+              "storageKey": "7419197483c842fb94832ac1d56b8454",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112415/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/112415/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25770,
+        "defaultImageIdentityId": 112414
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49870,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58660,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4071"
+        },
+        {
+          "id": 49871,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58661,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241124254"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23734,
+        "investigatingAgencyIdentityId": 49870
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141662/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 141663,
+      "idFormatted": "UP141663",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-07T22:52:54.873",
+      "modifiedDateTime": "2026-01-27T17:13:46.403",
+      "caseIdentification": {
+        "id": 50900,
+        "caseNumber": "24-3986"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70827,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 50,
+        "estimatedYearOfDeathFrom": 2014,
+        "estimatedYearOfDeathTo": 2022,
+        "estimatedYearOfBirthFrom": 1964,
+        "estimatedYearOfBirthTo": 1997,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75387,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-17",
+        "address": {
+          "city": "Arivaca",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Incomplete skeletal remains discovered by hikers in desert area northwest of Arivaca, AZ",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.5773351,
+            "lon": -111.3314522
+          },
+          "formattedAddress": "Arivaca, AZ 85601, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53922,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56338,
+          "identityId": 47589,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Grey sweatshirt, size small, \"hopebridge\" logo",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56337,
+          "identityId": 47588,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Asics brand shoe, size unknown",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46163,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124802,
+          "identityId": 112498,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "\"hopebridge\" logo on Size Small greay sweatshirt",
+          "isPublic": true,
+          "createdDateTime": "2025-04-21T18:37:53.6",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1683,
+              "width": 2885,
+              "storageKey": "482aadc96dc5468da5ec769e24b59059",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112498/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 70,
+              "width": 120,
+              "storageKey": "4aa2a18543da4dff838a079d6fca2b5e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112498/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112498/Download"
+        },
+        {
+          "id": 124801,
+          "identityId": 112497,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Asics shoe",
+          "isPublic": true,
+          "createdDateTime": "2025-04-21T18:37:49.113",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1682,
+              "width": 2706,
+              "storageKey": "f66da591f7d64011963a917d3c57c519",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112497/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 75,
+              "width": 120,
+              "storageKey": "0c8fafab72eb4bd4abeee76a52e6a7c7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112497/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112497/Download"
+        },
+        {
+          "id": 124689,
+          "identityId": 112403,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-04-14T21:18:30.417",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 791,
+              "width": 642,
+              "storageKey": "e036341fa0094310aacd2bda93f6bbec",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112403/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 97,
+              "storageKey": "870f1af6abd34f8e9b49a6fba5bec8da",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112403/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/112403/Download"
+        },
+        {
+          "id": 131766,
+          "identityId": 118826,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "facial approximation done by Dean Mabalot",
+          "isPublic": true,
+          "createdDateTime": "2026-01-22T20:20:17.507",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 922,
+              "width": 1086,
+              "storageKey": "adbbfc516495492d8ed7707c1d3abf94",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/118826/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 102,
+              "width": 120,
+              "storageKey": "3f377dd7760e40ab8d1fe6c8c1d29ac7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/118826/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/118826/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26363,
+        "defaultImageIdentityId": 118826
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49901,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58709,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-3986"
+        },
+        {
+          "id": 49902,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58710,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241117137"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23766,
+        "investigatingAgencyIdentityId": 49901
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141663/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 141692,
+      "idFormatted": "UP141692",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-08T15:21:00.703",
+      "modifiedDateTime": "2026-02-01T13:29:52.903",
+      "caseIdentification": {
+        "id": 51084,
+        "caseNumber": "25-03503"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71046,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 43,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 21,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75330,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-09",
+        "address": {
+          "city": "Wayne",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains discovered in wooded area behind place of business",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.2814269,
+            "lon": -83.3863214
+          },
+          "formattedAddress": "Wayne, MI 48184, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53896,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46165,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49866,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 58698,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-035003"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141692/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141692/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 141693,
+      "idFormatted": "UP141693",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-08T15:30:13.117",
+      "modifiedDateTime": "2025-05-14T13:42:59.807",
+      "caseIdentification": {
+        "id": 50903,
+        "caseNumber": "25-03876"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71047,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 48,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 37,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75332,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-17",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48238"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Remains found on the back porch of a home, in the city of Detroit",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.3997016,
+            "lon": -83.13809549999999
+          },
+          "formattedAddress": "Detroit, MI 48238, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53897,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46166,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49867,
+          "isCaseOwner": false,
+          "name": "Detroit Police Department",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 58655,
+            "contact": {
+              "id": 15979,
+              "firstName": "Shannon",
+              "lastName": "Jones",
+              "jobTitle": "Master Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "3135962260",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43331,
+              "name": "Detroit Police Department",
+              "street1": "1301 3rd St",
+              "street2": "5th Floor",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48226",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3135961800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 49894,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 58699,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-03876"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141693/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141693/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 141709,
+      "idFormatted": "UP141709",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-08T20:25:19.47",
+      "modifiedDateTime": "2025-04-09T12:55:56.287",
+      "caseIdentification": {
+        "id": 50905,
+        "caseNumber": "2024-2194"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70787,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75337,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-07-07",
+        "address": {
+          "city": "Charleston",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "displayName": "SC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2392,
+            "name": "Charleston County",
+            "displayName": "Charleston"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Boaters came across the bone on Parrott Island in the Charleston Harbor. Human Left ulna.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7833163,
+            "lon": -79.9319664
+          },
+          "formattedAddress": "Charleston, SC, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53901,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46168,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49869,
+          "isCaseOwner": false,
+          "name": "Charleston County Coroner's Office",
+          "city": "North Charleston",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "localizedName": "SC"
+          },
+          "stateDisplayName": "SC",
+          "county": {
+            "id": 2392,
+            "name": "Charleston County",
+            "localizedName": "Charleston"
+          },
+          "countyDisplayName": "Charleston",
+          "selection": {
+            "id": 58662,
+            "contact": {
+              "id": 175009,
+              "firstName": "Kelley",
+              "lastName": "Nevill",
+              "jobTitle": "Deputy Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43374,
+              "name": "Charleston County Coroner's Office",
+              "street1": "4000 Salt Pointe Pwky",
+              "city": "North Charleston",
+              "county": {
+                "id": 2392,
+                "name": "Charleston County",
+                "localizedName": "Charleston"
+              },
+              "zipCode": "29405",
+              "state": {
+                "id": 5,
+                "name": "South Carolina",
+                "localizedName": "SC"
+              },
+              "phone": "8437464030",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.charlestoncounty.org/departments/coroner/index.php"
+            }
+          },
+          "caseNumber": "2024-2194"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23735,
+        "investigatingAgencyIdentityId": 49869
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141709/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141709/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
     }
   ]
 }
