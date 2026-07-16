@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T08:16:02.708274+00:00",
+  "generated_at": "2026-07-16T08:21:27.311662+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 263,
+  "count": 264,
   "cases": [
     {
       "id": 498,
@@ -77071,6 +77071,222 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/141809/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 143151,
+      "idFormatted": "MP143151",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-04T16:29:58.003",
+      "modifiedDateTime": "2026-01-21T20:23:19.11",
+      "subjectIdentification": {
+        "id": 232094,
+        "firstName": "Venita",
+        "lastName": "Holzman",
+        "currentMinAge": 85,
+        "currentMaxAge": 85,
+        "computedMissingMinAge": 22,
+        "computedMissingMaxAge": 22
+      },
+      "subjectDescription": {
+        "id": 204642,
+        "heightFrom": 67,
+        "weightFrom": 120,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 104173
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 242079,
+        "circumstancesOfDisappearance": "Missing person disappeared after working her shift at the Flamingo Hotel in 1963."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 283465,
+        "date": "1963-01-01",
+        "address": {
+          "city": "Las Vegas",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1811,
+            "name": "Clark County",
+            "displayName": "Clark"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.171563,
+            "lon": -115.1391009
+          },
+          "formattedAddress": "Las Vegas, NV, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 168836,
+          "isCaseOwner": false,
+          "name": "Las Vegas Metropolitan Police Department",
+          "city": "Las Vegas",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1811,
+            "name": "Clark County",
+            "localizedName": "Clark"
+          },
+          "countyDisplayName": "Clark",
+          "selection": {
+            "id": 194701,
+            "agency": {
+              "id": 43440,
+              "name": "Las Vegas Metropolitan Police Department",
+              "street1": "400 South Martin Luther King Boulevard",
+              "city": "Las Vegas",
+              "county": {
+                "id": 1811,
+                "name": "Clark County",
+                "localizedName": "Clark"
+              },
+              "zipCode": "89106",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7028282907",
+              "email": "missingpersonscoldcase@LVMPD.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.lvmpd.com"
+            }
+          },
+          "caseNumber": "121030002624"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43440,
+        "isCaseOwner": false,
+        "name": "Las Vegas Metropolitan Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 112344,
+        "investigatingAgencyIdentityId": 168836
+      },
+      "physicalDescription": {
+        "id": 200669,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 5,
+          "name": "Green",
+          "localizedName": "Green"
+        },
+        "rightEyeColor": {
+          "id": 5,
+          "name": "Green",
+          "localizedName": "Green"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 235950,
+          "identityId": 221047,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-12T18:28:19.527",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 293,
+              "width": 238,
+              "storageKey": "be589aa967734f479e146c7ab06581c1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/221047/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 97,
+              "storageKey": "b916224b32b64ae6a2a7fc2855e2fc26",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/221047/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/221047/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119204,
+        "defaultImageIdentityId": 221047
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
     }
   ]
 }
