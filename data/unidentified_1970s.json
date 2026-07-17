@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T08:22:45.407598+00:00",
+  "generated_at": "2026-07-17T08:17:42.608740+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 978,
+  "count": 979,
   "cases": [
     {
       "id": 103,
@@ -281891,6 +281891,302 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/141405/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 142599,
+      "idFormatted": "UP142599",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-24T20:46:51.197",
+      "modifiedDateTime": "2025-08-29T23:15:09.197",
+      "caseIdentification": {
+        "id": 50981,
+        "caseNumber": "78-1022"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70899,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 66,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "possibleFirstName": "John",
+        "possibleMiddleName": "Doe",
+        "weightFrom": 130,
+        "weightTo": 140,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75562,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-04-07",
+        "address": {
+          "city": "Marysville",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 304,
+            "name": "Yuba County",
+            "displayName": "Yuba"
+          },
+          "countyId": 0,
+          "zipCode": "95901"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Body had been found at the Rose Ranch in District 10 (2166 West Onstott Highway). The body had been located between mattresses in a detached garage on Rose Ranch. The decedent gave an appearance of being approximately 40 years of age, unknown if Hispanic, Indian or Caucasian. Black hair, shoulder length. \n\nLying next to the decedents R leg was a small can of \"OFF\" bug repellant. Near the L leg was a \"Laura Scutters\" potato chip bag.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.1457253,
+            "lon": -121.5913547
+          },
+          "formattedAddress": "Marysville, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54233,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56350,
+          "identityId": 47597,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Appears silver in color, belt buckle with two crossing firearms.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56351,
+          "identityId": 47598,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Appears to be light in color pants, with small vertical stripes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57603,
+          "identityId": 47599,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Appears to be a dark colored collared shirt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56353,
+          "identityId": 47600,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue socks located on the body",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46254,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Black , medium in lenth",
+        "bodyHairDescription": "Black or dark brown",
+        "leftEyeColor": {
+          "id": 10,
+          "name": "Missing Eye",
+          "localizedName": "Missing Eye"
+        },
+        "rightEyeColor": {
+          "id": 10,
+          "name": "Missing Eye",
+          "localizedName": "Missing Eye"
+        },
+        "eyeDescription": "Eyes are no longer present"
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125092,
+          "identityId": 112758,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Belt buckle",
+          "isPublic": true,
+          "createdDateTime": "2025-04-28T19:48:36.413",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1060,
+              "width": 1324,
+              "storageKey": "66070c130dd34c5b8b6c4294cb6bb8fb",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142599/Images/112758/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 96,
+              "width": 120,
+              "storageKey": "e13f8716f59947d282a563ff47c2dcf1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142599/Images/112758/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142599/Images/112758/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25899,
+        "defaultImageIdentityId": 112758
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50007,
+          "isCaseOwner": false,
+          "name": "Yuba County Sheriff-Coroner Department",
+          "city": "Marysville",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 304,
+            "name": "Yuba County",
+            "localizedName": "Yuba"
+          },
+          "countyDisplayName": "Yuba",
+          "selection": {
+            "id": 58886,
+            "agency": {
+              "id": 45807,
+              "name": "Yuba County Sheriff-Coroner Department",
+              "street1": "720 Yuba Street",
+              "city": "Marysville",
+              "county": {
+                "id": 304,
+                "name": "Yuba County",
+                "localizedName": "Yuba"
+              },
+              "zipCode": "95901",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5307495116",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.yuba.org/departments/sheriff-coroner/index.php"
+            }
+          },
+          "caseNumber": "78-1022"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23857,
+        "investigatingAgencyIdentityId": 50007
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142599/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142599/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

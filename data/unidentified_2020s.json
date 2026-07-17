@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T08:21:40.632849+00:00",
+  "generated_at": "2026-07-17T08:17:42.608740+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2001,
+  "count": 2019,
   "cases": [
     {
       "id": 64643,
@@ -604716,6 +604716,5583 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142188/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142188/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 142221,
+      "idFormatted": "UP142221",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-17T18:54:57.943",
+      "modifiedDateTime": "2026-04-24T16:42:21.447",
+      "caseIdentification": {
+        "id": 50942,
+        "caseNumber": "A24-364"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70857,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 50,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75437,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-10-30",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2697,
+            "name": "Hidalgo County",
+            "displayName": "Hidalgo"
+          },
+          "countyId": 0,
+          "zipCode": "78539"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Body was discovered in 490 Brush line in Edinburg Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 26.268255,
+            "lon": -98.1884949
+          },
+          "formattedAddress": "Edinburg, TX 78539, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53962,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56302,
+          "identityId": 47566,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Decedent came with multiple articles of clothing including Note: multiple items were on and near the body.\n\nShirt/Top:\n\n① Purple V-neck top. Brand: Danskin Now. Size: Small fitted\n\n② Orange short sleeve shirt (no brand, no size)\n\n\n\nPants/Bottom:\n\nBlack & probable blue “AND1” shorts w/embroidered basketball player in blue on lower left side. Size: “XXL/XXG” 118/201\n\n\n\nShoes:\n\nBlack & white “Sportline” tennis shoes (Size: unk)\n\n\n\nOther Items:\n\n① Black Polo zip-up jacket, size: XL\n\n② Black “Xersion” pullover sweater, size: unknown\n\n③ Purple w/ white mesh hand bag",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46222,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Light Brown with pink hair tie",
+        "bodyHairDescription": "N/A",
+        "facialHairDescription": "N/A",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49942,
+          "isCaseOwner": false,
+          "name": "Hidalgo County Sheriff's Office",
+          "city": "Edinburg",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2697,
+            "name": "Hidalgo County",
+            "localizedName": "Hidalgo"
+          },
+          "countyDisplayName": "Hidalgo",
+          "selection": {
+            "id": 58779,
+            "agency": {
+              "id": 42149,
+              "name": "Hidalgo County Sheriff's Office",
+              "street1": "711 El Cibolo Road",
+              "city": "Edinburg",
+              "county": {
+                "id": 2697,
+                "name": "Hidalgo County",
+                "localizedName": "Hidalgo"
+              },
+              "zipCode": "78541",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9563838114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.hidalgocounty.us/209/Sheriff"
+            }
+          },
+          "caseNumber": "24-93768",
+          "dateReported": "2024-10-30"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142221/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142221/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142230,
+      "idFormatted": "UP142230",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-17T20:05:35.997",
+      "modifiedDateTime": "2025-12-08T17:49:49.14",
+      "caseIdentification": {
+        "id": 50944,
+        "caseNumber": "IFS-24-16594"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70858,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 119,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75439,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-09-26",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75235"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent struck by vehicle while attempting to cross the road.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.8296623,
+            "lon": -96.8511814
+          },
+          "formattedAddress": "Dallas, TX 75235, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53964,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46223,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124754,
+          "identityId": 112454,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T20:27:14.733",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 694,
+              "width": 518,
+              "storageKey": "9fdb658348804dc9b56e510f6349e3d7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142230/Images/112454/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "d9cbc19b2da5475cbbce6dd0aa902949",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142230/Images/112454/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142230/Images/112454/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25782,
+        "defaultImageIdentityId": 112454
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49949,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 58787,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "1475422024",
+          "dateReported": "2024-09-26"
+        },
+        {
+          "id": 50115,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59036,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-24-16594"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142230/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142230/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142210,
+      "idFormatted": "UP142210",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-17T16:57:24.423",
+      "modifiedDateTime": "2025-06-30T17:23:04.543",
+      "caseIdentification": {
+        "id": 51262,
+        "caseNumber": "IFS-24-12439"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71266,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 55,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfBirthFrom": 1969,
+        "estimatedYearOfBirthTo": 1984,
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 163,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75430,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-07-13",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75230"
+        },
+        "description": "6752 Shady Brook Lane",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unknown female found in an abandoned parking lot.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.9005121,
+            "lon": -96.78687939999999
+          },
+          "formattedAddress": "Dallas, TX 75230, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53959,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56300,
+          "identityId": 47564,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Grey Tshirt, Black Athletic Works brand leggings (size XXL), white socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56301,
+          "identityId": 47565,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Yellow and white metal hoop earrings (each ear), a blue rubber bracelet (L wrist), 3 beaded bracelets (L wrist), and cloth anklet (R ankle)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46219,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Long and slightly wavy.",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17140,
+          "identityId": 14407,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Property of Blake"
+        },
+        {
+          "id": 17147,
+          "identityId": 14408,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Calvin (from Calvin and Hobbes) with \"Jacob\""
+        },
+        {
+          "id": 17144,
+          "identityId": 14410,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Jack Janet 3-6-2012"
+        },
+        {
+          "id": 17145,
+          "identityId": 14411,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Gargoyle with wings"
+        },
+        {
+          "id": 17146,
+          "identityId": 14412,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Candy"
+        }
+      ],
+      "images": [
+        {
+          "id": 124733,
+          "identityId": 112442,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T17:14:49",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 3300,
+              "width": 2550,
+              "storageKey": "7946e7bf68734f7fb8fbadb50741766c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112442/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "9687795104544fb7afb1ec8a5da80e6d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112442/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112442/Download"
+        },
+        {
+          "id": 124727,
+          "identityId": 112436,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T17:14:02.39",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 1639,
+              "storageKey": "c96235d976484c29ab59bc4830f52d56",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112436/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 60,
+              "storageKey": "cc2f9bc10de0482e8c00507e25060eba",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112436/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112436/Download"
+        },
+        {
+          "id": 124729,
+          "identityId": 112438,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T17:14:11.983",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1188,
+              "width": 1615,
+              "storageKey": "77728c018c844653ab27739084668c73",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112438/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 88,
+              "width": 120,
+              "storageKey": "dbd8fdca4c33427382310b068e81329e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112438/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112438/Download"
+        },
+        {
+          "id": 124730,
+          "identityId": 112439,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T17:14:19.593",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 2550,
+              "storageKey": "0438c86c32ef4a6cbab80089cced8d3e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112439/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "a2eb6a4912f54c56bfe11f179bed798a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112439/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112439/Download"
+        },
+        {
+          "id": 124731,
+          "identityId": 112440,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-17T17:14:26.31",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 2550,
+              "storageKey": "8666ab98a63841b59bbbbee20a92e10c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112440/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "697d33c759d048e8b5b06baaa6156a30",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112440/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/112440/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25778,
+        "defaultImageIdentityId": 112442
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49940,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 58776,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "1073582024",
+          "dateReported": "2024-07-13"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23932,
+        "investigatingAgencyIdentityId": 49940
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142210/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142245,
+      "idFormatted": "UP142245",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T00:32:32.383",
+      "modifiedDateTime": "2026-03-06T14:52:40.623",
+      "caseIdentification": {
+        "id": 50945,
+        "caseNumber": "25-00248"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70861,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleNicknames": "Mike Angi",
+        "weightFrom": 195,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75444,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-31",
+        "address": {
+          "city": "Jacksonville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 395,
+            "name": "Duval County",
+            "displayName": "Duval"
+          },
+          "countyId": 0,
+          "zipCode": "32226"
+        },
+        "description": "17847 Main Street North",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Responding officers located the decedent unresponsive and he was pronounced deceased at the scene.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 30.4573359,
+            "lon": -81.49379929999999
+          },
+          "formattedAddress": "Jacksonville, FL 32226, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53967,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56304,
+          "identityId": 47568,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Person Behind Me Suicide Prevention & Depression Awareness T-Shirt (Size large)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56307,
+          "identityId": 47569,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Murica Mens Boxer Briefs Red White and Blue Print American Spirit\" (Size large)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46227,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Short mohawk style haircut",
+        "bodyHairDescription": "Short to minimal body hair",
+        "facialHairDescription": "Stubble",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 28872,
+        "noKnownInformation": true,
+        "comment": "No significant identifiable features such as tattoos, etc"
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 129946,
+          "identityId": 117266,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Computer assisted facial reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-10-14T21:11:08.857",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 2550,
+              "storageKey": "2d5faea7eee94c0fa2c45d6a0c7493ea",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142245/Images/117266/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "0560cda4239e44a9a991073ca1a38b30",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142245/Images/117266/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142245/Images/117266/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26204,
+        "defaultImageIdentityId": 117266
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49961,
+          "isCaseOwner": false,
+          "name": "Jacksonville Sheriff's Office",
+          "city": "Jacksonville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 395,
+            "name": "Duval County",
+            "localizedName": "Duval"
+          },
+          "countyDisplayName": "Duval",
+          "selection": {
+            "id": 58802,
+            "agency": {
+              "id": 43723,
+              "name": "Jacksonville Sheriff's Office",
+              "street1": "501 East Bay Street",
+              "city": "Jacksonville",
+              "county": {
+                "id": 395,
+                "name": "Duval County",
+                "localizedName": "Duval"
+              },
+              "zipCode": "32202",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9046300500",
+              "email": "JSOCrimeTips@jaxsheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jaxsheriff.org/"
+            }
+          },
+          "caseNumber": "25-061538",
+          "dateReported": "2025-01-31"
+        },
+        {
+          "id": 49962,
+          "isCaseOwner": false,
+          "name": "District 3 & 4 Medical Examiners Office",
+          "city": "Jacksonville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 395,
+            "name": "Duval County",
+            "localizedName": "Duval"
+          },
+          "countyDisplayName": "Duval",
+          "selection": {
+            "id": 63055,
+            "contact": {
+              "id": 262748,
+              "firstName": "Kelsea",
+              "lastName": "Conway",
+              "jobTitle": "Forensic Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 5588,
+              "name": "District 3 & 4 Medical Examiners Office",
+              "street1": "4368 North Davis Street",
+              "city": "Jacksonville",
+              "county": {
+                "id": 395,
+                "name": "Duval County",
+                "localizedName": "Duval"
+              },
+              "zipCode": "32209",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9042554000",
+              "jurisdiction": {
+                "id": 5,
+                "name": "Other",
+                "localizedName": "Other"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jacksonville.gov/departments/finance/liaison-agencies/medical-examiner"
+            }
+          },
+          "caseNumber": "25-00248",
+          "dateReported": "2025-01-31"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23812,
+        "investigatingAgencyIdentityId": 49962
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142245/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142245/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 142274,
+      "idFormatted": "UP142274",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T14:50:07.277",
+      "modifiedDateTime": "2025-07-01T15:46:43.347",
+      "caseIdentification": {
+        "id": 50946,
+        "caseNumber": "2025-00647"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70869,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 61,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75563,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-06",
+        "address": {
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0,
+          "zipCode": "89523"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in a campsite/tent near the Tom Cooke  hiking trail.  The tent/campsite had been seen by numerous people for months.  The  decedent was possibly a transient.  A broken bike (blue and red) in color found near the camp.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.5444839,
+            "lon": -119.950926
+          },
+          "formattedAddress": "Reno, NV 89523, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53968,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56308,
+          "identityId": 47570,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Beanie-style hat \"George\" brand",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56309,
+          "identityId": 47571,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Shorts \"RENO Athletics\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56313,
+          "identityId": 47574,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Sleeveless Shirt.  \"Zen As F#ck\" Size Large",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56314,
+          "identityId": 47575,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long sleeve shirt.  Blue.  \"Spreading Health Wealth & Wisdom.\"  Est 1967.\nDuck Makers Association Parish Nation brand shirt.  Size XL",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56315,
+          "identityId": 47576,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Jacket- Flannel style blue and grey.  Amazon Essentials size Large",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46228,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17105,
+          "identityId": 14382,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Left upper arm tattoo with the letters \"PINE\" \nUnknown if there were more letters"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49963,
+          "isCaseOwner": false,
+          "name": "Washoe County Regional Medical Examiner's Office",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 58803,
+            "agency": {
+              "id": 43600,
+              "name": "Washoe County Regional Medical Examiner's Office",
+              "street1": "990 East 9th Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89512",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757856114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.washoecounty.us/coroner/index.php"
+            }
+          },
+          "caseNumber": "2025-00647",
+          "dateReported": "2025-02-06"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23861,
+        "investigatingAgencyIdentityId": 49963
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142274/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142274/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 142278,
+      "idFormatted": "UP142278",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T16:24:28.497",
+      "modifiedDateTime": "2025-05-09T19:12:40.963",
+      "caseIdentification": {
+        "id": 50947,
+        "caseNumber": "IFS-24-18553"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70864,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 15,
+          "name": "Adult - Pre 90",
+          "localizedName": "Adult - Pre 90"
+        },
+        "heightFrom": 63,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75454,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-02",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75238"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found in the woods.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.8821116,
+            "lon": -96.7119409
+          },
+          "formattedAddress": "Dallas, TX 75238, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53969,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56310,
+          "identityId": 47572,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans (size 36/30), black belt with white metal buckle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56311,
+          "identityId": 47573,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Green/tan graphic T-shirt",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46229,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49964,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 58804,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "1664332024",
+          "dateReported": "2024-11-02"
+        },
+        {
+          "id": 50116,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59037,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-24-18553"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142278/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142278/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142289,
+      "idFormatted": "UP142289",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T19:27:18.867",
+      "modifiedDateTime": "2025-11-20T21:24:45.45",
+      "caseIdentification": {
+        "id": 51997,
+        "caseNumber": "IFS-24-19575"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70865,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 19,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75457,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-21",
+        "address": {
+          "city": "Red Oak",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2660,
+            "name": "Ellis County",
+            "displayName": "Ellis"
+          },
+          "countyId": 0,
+          "zipCode": "75154"
+        },
+        "description": "1300 block of St. Andrews Dr",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Apparent full-term neonate found in a garbage truck after trash pickup.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.5332101,
+            "lon": -96.8153
+          },
+          "formattedAddress": "Red Oak, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53970,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46230,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49971,
+          "isCaseOwner": false,
+          "name": "Ellis County Sheriff's Office",
+          "city": "Waxahachie, TX 75165",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2660,
+            "name": "Ellis County",
+            "localizedName": "Ellis"
+          },
+          "countyDisplayName": "Ellis",
+          "selection": {
+            "id": 58816,
+            "agency": {
+              "id": 48134,
+              "name": "Ellis County Sheriff's Office",
+              "street1": "300 South Jackson Street, Waxahachie, TX 75165",
+              "city": "Waxahachie, TX 75165",
+              "county": {
+                "id": 2660,
+                "name": "Ellis County",
+                "localizedName": "Ellis"
+              },
+              "zipCode": "75165",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9728254901",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://elliscountysheriff.com/"
+            }
+          },
+          "caseNumber": "24022202",
+          "dateReported": "2024-11-21"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142289/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142289/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142293,
+      "idFormatted": "UP142293",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T20:00:01.433",
+      "modifiedDateTime": "2025-05-09T19:13:38.137",
+      "caseIdentification": {
+        "id": 50949,
+        "caseNumber": "IFS-24-21646"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70866,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 69,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 90,
+        "weightTo": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75459,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-31",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0
+        },
+        "description": "Boat ramp at White Rock Lake",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent found floating in White Rock Lake.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7766642,
+            "lon": -96.79698789999999
+          },
+          "formattedAddress": "Dallas, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53971,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46231,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49972,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 58817,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "1947002024",
+          "dateReported": "2024-12-31"
+        },
+        {
+          "id": 50117,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59038,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-24-21646"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142293/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142293/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142300,
+      "idFormatted": "UP142300",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-18T21:27:28.553",
+      "modifiedDateTime": "2025-09-03T16:05:54.767",
+      "caseIdentification": {
+        "id": 50952,
+        "caseNumber": "2025-00101 LYO"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70871,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 66,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75466,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-07",
+        "address": {
+          "city": "Fernley",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1819,
+            "name": "Lyon County",
+            "displayName": "Lyon"
+          },
+          "countyId": 0,
+          "zipCode": "89408"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found by a passerby who was walking on a nature trail in Fernley, Nevada.  The area was a wooded area on the south side of Farm District Road, approximately 120 feet from the pavement and approximately one half mile from the intersection of Farm District Road and US Highway 50A.  Found wearing a blue zip up windbreaker type jacket, khaki Dickies pants and brown tennis shoes.  Pall Mall cigarette carton , Twisted Tea, and water bottles found nearby.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.612941,
+            "lon": -119.0925356
+          },
+          "formattedAddress": "Fernley, NV 89408, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53973,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56316,
+          "identityId": 47577,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pants.  Sweatpants.  Starter brand size medium",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56317,
+          "identityId": 47578,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long sleeve shirt.  Faded Glory brand.  Size XL.  Dark Navy blue",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56318,
+          "identityId": 47579,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Knit beanie hat",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56319,
+          "identityId": 47580,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "windbreaker type jacket.  Blue./ XL",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56320,
+          "identityId": 47581,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Jacket.  George brand. XL",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56321,
+          "identityId": 47582,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Khaki pants. Dickies brand.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56322,
+          "identityId": 47583,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "George brand underwear",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56323,
+          "identityId": 47584,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown tennis shoes with white/black soles and black laces",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46235,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "facialHairDescription": "Grey white beard and mustache.",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124772,
+          "identityId": 112471,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-18T21:52:54.917",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1328,
+              "width": 3226,
+              "storageKey": "d46e356e8ea54d0ca1d3f1df8be85477",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112471/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 49,
+              "width": 120,
+              "storageKey": "0f4e1d3270af46a88db5fddb513599ae",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112471/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112471/Download"
+        },
+        {
+          "id": 124773,
+          "identityId": 112472,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Shoes",
+          "isPublic": true,
+          "createdDateTime": "2025-04-18T21:53:46.26",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3371,
+              "width": 1012,
+              "storageKey": "058f585d7fc6447daec38e51beed0733",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112472/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 36,
+              "storageKey": "105c2e8a043747b4af926e36411b88af",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112472/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112472/Download"
+        },
+        {
+          "id": 124774,
+          "identityId": 112473,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "jacket",
+          "isPublic": true,
+          "createdDateTime": "2025-04-18T21:54:44.337",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2898,
+              "width": 1932,
+              "storageKey": "2f2956a7252d491181e0f97d3526a37c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112473/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 80,
+              "storageKey": "a7b2407166534378bf1c4bb864df0072",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112473/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/112473/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25818,
+        "defaultImageIdentityId": 112473
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49974,
+          "isCaseOwner": false,
+          "name": "Lyon County Sheriff's Office",
+          "city": "Yerington",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1819,
+            "name": "Lyon County",
+            "localizedName": "Lyon"
+          },
+          "countyDisplayName": "Lyon",
+          "selection": {
+            "id": 58819,
+            "agency": {
+              "id": 46237,
+              "name": "Lyon County Sheriff's Office",
+              "street1": "911 Harvey Way #1",
+              "city": "Yerington",
+              "county": {
+                "id": 1819,
+                "name": "Lyon County",
+                "localizedName": "Lyon"
+              },
+              "zipCode": "89447",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7754636600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.lyon-county.org/17/Sheriff"
+            }
+          },
+          "caseNumber": "2025-00101 LYO",
+          "dateReported": "2025-01-07"
+        },
+        {
+          "id": 50024,
+          "isCaseOwner": false,
+          "name": "Washoe County Regional Medical Examiner's Office",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 58889,
+            "agency": {
+              "id": 43600,
+              "name": "Washoe County Regional Medical Examiner's Office",
+              "street1": "990 East 9th Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89512",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757856114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.washoecounty.us/coroner/index.php"
+            }
+          },
+          "caseNumber": "2025-00101 LYO"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23860,
+        "investigatingAgencyIdentityId": 50024
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142300/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 142420,
+      "idFormatted": "UP142420",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-21T21:25:40.393",
+      "modifiedDateTime": "2026-01-12T19:00:09.287",
+      "caseIdentification": {
+        "id": 50958,
+        "caseNumber": "24-4454"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70881,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2014,
+        "estimatedYearOfDeathTo": 2022,
+        "heightFrom": 64,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75479,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-21",
+        "address": {
+          "city": "Ajo",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Incomplete skeletal remains discovered southwest of Ajo, AZ in remote desert area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3717248,
+            "lon": -112.8607099
+          },
+          "formattedAddress": "Ajo, AZ 85321, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53980,
+        "allPartsRecovered": false,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46239,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124817,
+          "identityId": 112511,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-04-21T21:33:01.913",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 817,
+              "width": 579,
+              "storageKey": "3511db137bac4906b1d0424e8138a2fc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142420/Images/112511/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 85,
+              "storageKey": "15d4f910e308412dbca66f95a1c36fbc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142420/Images/112511/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142420/Images/112511/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25788,
+        "defaultImageIdentityId": 112511
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49990,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58884,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4454"
+        },
+        {
+          "id": 49991,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58844,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241225121"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23836,
+        "investigatingAgencyIdentityId": 49990
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142420/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142420/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 142450,
+      "idFormatted": "UP142450",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-22T14:57:08.823",
+      "modifiedDateTime": "2025-11-03T22:07:13.96",
+      "caseIdentification": {
+        "id": 50964,
+        "caseNumber": "M25-11241"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71376,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "heightFrom": 62,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 155,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75484,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-04-05",
+        "address": {
+          "city": "Manhattan",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "displayName": "New York"
+          },
+          "countyId": 0,
+          "zipCode": "10014"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found unresponsive in L train subway station (8th Avenue & 14th Street).",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7366138,
+            "lon": -74.0094471
+          },
+          "formattedAddress": "New York, NY 10014, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53983,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46241,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Coarse, curly, approximately 3.5\"",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124822,
+          "identityId": 112516,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T14:58:33.837",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 390,
+              "width": 596,
+              "storageKey": "e2651da2a19740e3b491c2f1c9293b91",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112516/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 79,
+              "width": 120,
+              "storageKey": "148375be8d0f446fbd493b5c9f100ba9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112516/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112516/Download"
+        },
+        {
+          "id": 124823,
+          "identityId": 112517,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-22T14:58:38.117",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 391,
+              "width": 346,
+              "storageKey": "9e8516e83e3747e5886b373fa6456a2a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112517/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 106,
+              "storageKey": "ef97ac8d7850468db2d0543045453e68",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112517/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/112517/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25791,
+        "defaultImageIdentityId": 112517
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 49992,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 58845,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "M25-11241"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23837,
+        "investigatingAgencyIdentityId": 49992
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142450/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 142534,
+      "idFormatted": "UP142534",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-23T19:54:22.657",
+      "modifiedDateTime": "2025-10-15T17:37:44.923",
+      "caseIdentification": {
+        "id": 50976,
+        "caseNumber": "24-0676"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70896,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 60,
+        "estimatedAgeTo": 70,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfBirthFrom": 1954,
+        "estimatedYearOfBirthTo": 1964,
+        "estimatedPostmortemInterval": 4,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 63,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75518,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-07-31",
+        "address": {
+          "city": "Vallejo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 294,
+            "name": "Solano County",
+            "displayName": "Solano"
+          },
+          "countyId": 0,
+          "zipCode": "94590"
+        },
+        "description": "415 Santa Clara Street",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent, believed to be a transient living in the area, was found deceased inside the parking garage located at 415 Santa Clara Street in Vallejo.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.1052454,
+            "lon": -122.2483726
+          },
+          "formattedAddress": "Vallejo, CA 94590, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53990,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46251,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Long gray-black",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50000,
+          "isCaseOwner": false,
+          "name": "Vallejo Police Department",
+          "city": "Vallejo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 294,
+            "name": "Solano County",
+            "localizedName": "Solano"
+          },
+          "countyDisplayName": "Solano",
+          "selection": {
+            "id": 58856,
+            "agency": {
+              "id": 53776,
+              "name": "Vallejo Police Department",
+              "street1": "111 Amador Street",
+              "city": "Vallejo",
+              "county": {
+                "id": 294,
+                "name": "Solano County",
+                "localizedName": "Solano"
+              },
+              "zipCode": "94590",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7076484321",
+              "email": "VallejoPD@cityofvallejo.net",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.ci.vallejo.ca.us/city_hall/departments___divisions/police"
+            }
+          },
+          "caseNumber": "24-07738",
+          "dateReported": "2024-07-31"
+        },
+        {
+          "id": 50021,
+          "isCaseOwner": false,
+          "name": "Solano County Sheriff's Office- Coroner Division",
+          "city": "Fairfield",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 294,
+            "name": "Solano County",
+            "localizedName": "Solano"
+          },
+          "countyDisplayName": "Solano",
+          "selection": {
+            "id": 58885,
+            "agency": {
+              "id": 3723,
+              "name": "Solano County Sheriff's Office- Coroner Division",
+              "street1": "520 Clay Street",
+              "city": "Fairfield",
+              "county": {
+                "id": 294,
+                "name": "Solano County",
+                "localizedName": "Solano"
+              },
+              "zipCode": "94533",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7077847500",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.solanocounty.com/depts/sheriff/coroner/default.asp"
+            }
+          },
+          "caseNumber": "24-0676"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23854,
+        "investigatingAgencyIdentityId": 50021
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142534/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142534/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 142568,
+      "idFormatted": "UP142568",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-24T11:56:14.6",
+      "modifiedDateTime": "2026-06-02T10:44:33.883",
+      "caseIdentification": {
+        "id": 50979,
+        "caseNumber": "250314-929"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71197,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 35,
+        "estimatedAgeTo": 55,
+        "heightFrom": 64,
+        "heightTo": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75522,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-14",
+        "address": {
+          "city": "Knoxville",
+          "state": {
+            "id": 25,
+            "name": "Tennessee",
+            "displayName": "TN"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2541,
+            "name": "Knox County",
+            "displayName": "Knox"
+          },
+          "countyId": 0,
+          "zipCode": "37912"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found behind a motel located at exit 108 on I-75 in Knoxville. A landscaping crew was clearing the area and found partial skeletal remains. The area is known to flood and create a marsh-like environment.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.0091467,
+            "lon": -83.97971729999999
+          },
+          "formattedAddress": "Knoxville, TN 37912, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53991,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56414,
+          "identityId": 47648,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Blue backpack, unknown brand",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56413,
+          "identityId": 47647,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Red long-sleeve shirt, unknown adult size, Northwest brand",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56415,
+          "identityId": 47649,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "Two white metal chain necklaces",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46252,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125299,
+          "identityId": 112941,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-07T12:33:21.623",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3346,
+              "width": 4080,
+              "storageKey": "1d8c8782fd014e758d826a6359b54e20",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112941/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 98,
+              "width": 120,
+              "storageKey": "6c0c9da454144bd4b5197928ea6bc40d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112941/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112941/Download"
+        },
+        {
+          "id": 125300,
+          "identityId": 112942,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-07T12:33:38.703",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2755,
+              "width": 4745,
+              "storageKey": "91daff02ab0840c0aa8e8d2d3d9d2426",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112942/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 70,
+              "width": 120,
+              "storageKey": "ae0d64201f264a409d78a2a8b0bf6b3d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112942/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112942/Download"
+        },
+        {
+          "id": 125301,
+          "identityId": 112943,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-07T12:33:40.517",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2163,
+              "width": 4733,
+              "storageKey": "7c56294d9cc14363819af4047d3baf83",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112943/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 55,
+              "width": 120,
+              "storageKey": "8e1bd08164d64e109fb5f5ff8318194f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112943/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112943/Download"
+        },
+        {
+          "id": 125302,
+          "identityId": 112944,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-07T12:34:37.11",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3672,
+              "width": 3176,
+              "storageKey": "76e741bacddf40afa2e8bd375a7aa7db",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112944/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 104,
+              "storageKey": "85286038d3c6432b8b09da67ad876083",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112944/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/112944/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50003,
+          "isCaseOwner": false,
+          "name": "Knox County Regional Forensic Center",
+          "city": "Knoxville",
+          "state": {
+            "id": 25,
+            "name": "Tennessee",
+            "localizedName": "TN"
+          },
+          "stateDisplayName": "TN",
+          "county": {
+            "id": 2541,
+            "name": "Knox County",
+            "localizedName": "Knox"
+          },
+          "countyDisplayName": "Knox",
+          "selection": {
+            "id": 58861,
+            "contact": {
+              "id": 92872,
+              "firstName": "Megan",
+              "lastName": "Sharpe",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 32170,
+              "name": "Knox County Regional Forensic Center",
+              "street1": "2761 Sullins Street",
+              "city": "Knoxville",
+              "county": {
+                "id": 2541,
+                "name": "Knox County",
+                "localizedName": "Knox"
+              },
+              "zipCode": "37919",
+              "state": {
+                "id": 25,
+                "name": "Tennessee",
+                "localizedName": "TN"
+              },
+              "phone": "8652158000",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.knoxcounty.org/rfc/"
+            }
+          },
+          "caseNumber": "250314-929",
+          "dateReported": "2025-03-14"
+        },
+        {
+          "id": 50004,
+          "isCaseOwner": false,
+          "name": "Knoxville Police Department",
+          "city": "Knoxville",
+          "state": {
+            "id": 25,
+            "name": "Tennessee",
+            "localizedName": "TN"
+          },
+          "stateDisplayName": "TN",
+          "county": {
+            "id": 2541,
+            "name": "Knox County",
+            "localizedName": "Knox"
+          },
+          "countyDisplayName": "Knox",
+          "selection": {
+            "id": 58862,
+            "contact": {
+              "id": 293402,
+              "firstName": "Jonathon",
+              "lastName": "Clabough",
+              "jobTitle": "Police Officer",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43750,
+              "name": "Knoxville Police Department",
+              "street1": "1650 Huron Street",
+              "city": "Knoxville",
+              "county": {
+                "id": 2541,
+                "name": "Knox County",
+                "localizedName": "Knox"
+              },
+              "zipCode": "37917",
+              "state": {
+                "id": 25,
+                "name": "Tennessee",
+                "localizedName": "TN"
+              },
+              "phone": "8652157000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://knoxvilletnpolice.gov/"
+            }
+          },
+          "caseNumber": "25-008162",
+          "dateReported": "2025-03-14"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23846,
+        "investigatingAgencyIdentityId": 50003
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142568/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Tennessee"
+    },
+    {
+      "id": 142637,
+      "idFormatted": "UP142637",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-25T14:16:49.257",
+      "modifiedDateTime": "2025-10-01T00:53:21.983",
+      "caseIdentification": {
+        "id": 50984,
+        "caseNumber": "250405-616SCC"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70905,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 65,
+        "heightTo": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75749,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-04-05",
+        "address": {
+          "city": "East St. Louis",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "displayName": "IL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 743,
+            "name": "St. Clair County",
+            "displayName": "St. Clair"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified remains located on April 5, 2025, inside an abandoned out-of-service police vehicle located in the 500 block of North 20th Street, East St. Louis, Illinois.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.624514,
+            "lon": -90.1506465
+          },
+          "formattedAddress": "East St Louis, IL, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53998,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56367,
+          "identityId": 47614,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Green lighter found in pants pocket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56363,
+          "identityId": 47610,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "T-shirt: indeterminate brand, size, color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56364,
+          "identityId": 47611,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Belt: indeterminate brand, size, color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56365,
+          "identityId": 47612,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pants: dark color, Copper & Oak brand, indeterminate size",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56366,
+          "identityId": 47613,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Shoes: Nike Air, light color, size 12",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46260,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "facialHairDescription": "Apparent curly beard hair",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 124990,
+          "identityId": 112672,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Shoe",
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T14:25:58.367",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2224,
+              "width": 4608,
+              "storageKey": "a05675476a9742b384d1e0cd349b6e70",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142637/Images/112672/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 58,
+              "width": 120,
+              "storageKey": "3283efde64fd4fc188478add7cabfa03",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142637/Images/112672/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142637/Images/112672/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25809,
+        "defaultImageIdentityId": 112672
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50011,
+          "isCaseOwner": false,
+          "name": "Saint Clair County Coroner's Office",
+          "city": "Belleville",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 743,
+            "name": "St. Clair County",
+            "localizedName": "St. Clair"
+          },
+          "countyDisplayName": "St. Clair",
+          "selection": {
+            "id": 59804,
+            "agency": {
+              "id": 9925,
+              "name": "Saint Clair County Coroner's Office",
+              "street1": "10 Public Square",
+              "city": "Belleville",
+              "county": {
+                "id": 743,
+                "name": "St. Clair County",
+                "localizedName": "St. Clair"
+              },
+              "zipCode": "62220",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "6182334442",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "250405-616SCC",
+          "dateReported": "2025-04-05"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142637/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142637/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
+    },
+    {
+      "id": 142641,
+      "idFormatted": "UP142641",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-25T15:13:32.697",
+      "modifiedDateTime": "2026-05-19T01:05:57.957",
+      "caseIdentification": {
+        "id": 52411,
+        "caseNumber": "12-25-0332"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70909,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 62,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 133,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75536,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-03",
+        "address": {
+          "city": "New Brunswick",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "displayName": "NJ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1847,
+            "name": "Middlesex County",
+            "displayName": "Middlesex"
+          },
+          "countyId": 0,
+          "zipCode": "08901"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased inside a van parked outside of a business located at 2 Oak Street, New Brunswick, NJ, 08902.  The van was not operational and it appeared that he had been living in it.  Moderately decomposed when found.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.4861552,
+            "lon": -74.45185
+          },
+          "formattedAddress": "New Brunswick, NJ 08901, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 53999,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56368,
+          "identityId": 47615,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Was found wearing 2 black socks, blue sweatpants, brown pants with a black belt, gray sneakers, a black jacket, a gray sweater, a blue sweater, a gray sweatshirt, a blue T-shirt, and a gray T-shirt.  He was also wearing a wristwatch with a black band and a camouflage design on the dial.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46263,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "facialHairDescription": "Gray with some brown - mustache and goatee.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125099,
+          "identityId": 112763,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-29T00:42:32.08",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4640,
+              "width": 4640,
+              "storageKey": "67e0d0d6af7a4107b1591ae6e651df36",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112763/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "3c6b4404e22847feaa43f9e91bcf144e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112763/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112763/Download"
+        },
+        {
+          "id": 124994,
+          "identityId": 112676,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Photo of the Van that he was found inside of.",
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T15:30:05.737",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "77626e43df544e9a9c6b2389f4e0a635",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112676/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0c7e05ab5e9443fd9a0787606dec2264",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112676/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112676/Download"
+        },
+        {
+          "id": 124995,
+          "identityId": 112677,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Wristwatch",
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T15:41:11.537",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2824,
+              "width": 6960,
+              "storageKey": "3c4ba4098fd745238797f7972a95b7cc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112677/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 49,
+              "width": 120,
+              "storageKey": "f42ee8b6d5214469b29d9e4a9f93761c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112677/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/112677/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25819,
+        "defaultImageIdentityId": 112763
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50012,
+          "isCaseOwner": false,
+          "name": "New Jersey State Police Missing Persons Unit",
+          "city": "West Trenton",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "localizedName": "NJ"
+          },
+          "stateDisplayName": "NJ",
+          "county": {
+            "id": 1846,
+            "name": "Mercer County",
+            "localizedName": "Mercer"
+          },
+          "countyDisplayName": "Mercer",
+          "selection": {
+            "id": 58873,
+            "contact": {
+              "id": 228551,
+              "firstName": "Meredith",
+              "lastName": "Gamel",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40109,
+              "name": "New Jersey State Police Missing Persons Unit",
+              "street1": "PO Box 7068",
+              "city": "West Trenton",
+              "county": {
+                "id": 1846,
+                "name": "Mercer County",
+                "localizedName": "Mercer"
+              },
+              "zipCode": "08628",
+              "state": {
+                "id": 56,
+                "name": "New Jersey",
+                "localizedName": "NJ"
+              },
+              "phone": "6098822000",
+              "email": "missingp@gw.njsp.org",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.njsp.org/division/investigations/missing-persons.shtml"
+            }
+          }
+        },
+        {
+          "id": 50013,
+          "isCaseOwner": false,
+          "name": "Middlesex Regional Medical Examiner's Office",
+          "city": "North Brunswick Township",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "localizedName": "NJ"
+          },
+          "stateDisplayName": "NJ",
+          "county": {
+            "id": 1847,
+            "name": "Middlesex County",
+            "localizedName": "Middlesex"
+          },
+          "countyDisplayName": "Middlesex",
+          "selection": {
+            "id": 58874,
+            "agency": {
+              "id": 22384,
+              "name": "Middlesex Regional Medical Examiner's Office",
+              "street1": "1490 Livingston Avenue",
+              "city": "North Brunswick Township",
+              "county": {
+                "id": 1847,
+                "name": "Middlesex County",
+                "localizedName": "Middlesex"
+              },
+              "zipCode": "08902",
+              "state": {
+                "id": 56,
+                "name": "New Jersey",
+                "localizedName": "NJ"
+              },
+              "phone": "7327453190",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.middlesexcountynj.gov/government/departments/department-of-public-safety-and-health/office-of-the-county-medical-examiner"
+            }
+          },
+          "caseNumber": "12-25-0332"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23850,
+        "investigatingAgencyIdentityId": 50013
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142641/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Jersey"
+    },
+    {
+      "id": 142645,
+      "idFormatted": "UP142645",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-25T16:24:47.29",
+      "modifiedDateTime": "2025-12-08T17:49:31.53",
+      "caseIdentification": {
+        "id": 50986,
+        "caseNumber": "IFS-25-00347"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70912,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 113,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75538,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-01-06",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75229"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was found in a tent at a transient camp.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.8964174,
+            "lon": -96.8619045
+          },
+          "formattedAddress": "Dallas, TX 75229, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54000,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56369,
+          "identityId": 47616,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown zip-up jacket, a white long-sleeved thermal shirt, black denim pants, a brown belt with a white metal buckle, grey sweatpants, black brief underwear, and black socks.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46265,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "facialHairDescription": "Beard and mustache (black/grey)",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17109,
+          "identityId": 14385,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "There are scars measuring up to 1.5 cm on the dorsal right forearm and dorsal right wrist. There are scars measuring up to 1 cm on the dorsal left forearm and dorsal left wrist. There is a 3.5 cm hyperpigmented patch of skin/scar on the anteromedial aspect of the left thigh."
+        },
+        {
+          "id": 17107,
+          "identityId": 14384,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Tattoo of an eagle on the right back upper arm, a tattoo of a human figure wearing a hat on the right front forearm, tattoo on the back of the right hand, tattoo of Jesus Christ on the left back upper arm, tattoo of a woman figure on left front forearm."
+        }
+      ],
+      "images": [
+        {
+          "id": 126221,
+          "identityId": 113816,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Rendering by Texas Rangers Forensic Artist",
+          "isPublic": true,
+          "createdDateTime": "2025-06-09T14:57:09.073",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3238,
+              "width": 2400,
+              "storageKey": "110d35182234452ca7fffd93358010fc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142645/Images/113816/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 89,
+              "storageKey": "63cb0b7116cc44309a515b2436079674",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142645/Images/113816/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142645/Images/113816/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25900,
+        "defaultImageIdentityId": 113816
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50014,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 58875,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "26972025",
+          "dateReported": "2025-01-06"
+        },
+        {
+          "id": 50122,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59446,
+            "contact": {
+              "id": 290430,
+              "firstName": "Meryle",
+              "lastName": "St Louis",
+              "jobTitle": "Deputy Chief Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-00347"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23945,
+        "investigatingAgencyIdentityId": 50122
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142645/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142645/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142652,
+      "idFormatted": "UP142652",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-25T17:52:16.053",
+      "modifiedDateTime": "2025-06-13T18:14:09.503",
+      "caseIdentification": {
+        "id": 50987,
+        "caseNumber": "IFS-25-03462"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70914,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 150,
+        "weightTo": 160,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75541,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-02",
+        "address": {
+          "city": "Killeen",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2603,
+            "name": "Bell County",
+            "displayName": "Bell"
+          },
+          "countyId": 0,
+          "zipCode": "76543"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unknown male found decomposing in a creek bed.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.148223,
+            "lon": -97.6765157
+          },
+          "formattedAddress": "Killeen, TX 76543, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54001,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56370,
+          "identityId": 47617,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "beige/navy plaid button down shirt (brand: US Polo Association 3XL)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56371,
+          "identityId": 47618,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "black silicone bracelet with black and yellow text (\"Jeremiah 29:11\" and bible verse) on right hand",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46267,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Short, straight",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50015,
+          "isCaseOwner": false,
+          "name": "Killeen Police Department",
+          "city": "Killeen",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2603,
+            "name": "Bell County",
+            "localizedName": "Bell"
+          },
+          "countyDisplayName": "Bell",
+          "selection": {
+            "id": 58876,
+            "agency": {
+              "id": 43599,
+              "name": "Killeen Police Department",
+              "street1": "3304 Community Blvd",
+              "city": "Killeen",
+              "county": {
+                "id": 2603,
+                "name": "Bell County",
+                "localizedName": "Bell"
+              },
+              "zipCode": "76542",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2545018860",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.killeentexas.gov/index.php?section=224"
+            }
+          },
+          "caseNumber": "25002502",
+          "dateReported": "2025-03-02"
+        },
+        {
+          "id": 50123,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59044,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-03462"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23946,
+        "investigatingAgencyIdentityId": 50123
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142652/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142652/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 142665,
+      "idFormatted": "UP142665",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-25T22:23:37.05",
+      "modifiedDateTime": "2026-01-07T20:55:10.457",
+      "caseIdentification": {
+        "id": 50992,
+        "caseNumber": "2025-00496"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70920,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 50,
+        "estimatedYearOfDeathFrom": 2025,
+        "estimatedYearOfBirthFrom": 1975,
+        "estimatedYearOfBirthTo": 1985,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 123,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75549,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-09",
+        "address": {
+          "city": "Chula Vista",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "91915"
+        },
+        "description": "Lower Otay Reservoir",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 02/09/2025 a fisherman at the Otay Lake Reservoir in Chula Vista located the decedent unresponsive in the water and called 911. Chula Vista Police Officers responded and confirmed the death upon contact due to obvious postmortem changes. There were no identification papers located with or near the decedent. Postmortem interval is estimated to be approximately 1-2 weeks.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.6277588,
+            "lon": -116.9499191
+          },
+          "formattedAddress": "Chula Vista, CA 91915, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54004,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [
+        {
+          "id": 25631,
+          "identityId": 20268,
+          "noteType": "Circumstances",
+          "isPublic": true,
+          "description": "On 02/09/2025 a fisherman at the Otay Lake Reservoir in Chula Vista located the decedent unresponsive in the water and called 911. Chula Vista Police Officers responded and confirmed the death upon contact due to obvious postmortem changes. There were no identification papers located with or near the decedent."
+        }
+      ],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56377,
+          "identityId": 47623,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "1 red \"Daffy Duck\" T-shirt, 1 grey underwear (size M), 1 blue jean with black belt and metal buckle (size 31x34), 2 dark socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56375,
+          "identityId": 47622,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Four (50) Mexican peso notes, one (20) Mexican peso note",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46271,
+        "hairColor": {
+          "id": 15,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125053,
+          "identityId": 112723,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T23:26:04.173",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2624,
+              "width": 3936,
+              "storageKey": "7e549ae6aa6c49d3bb5c3e98966f5e4f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112723/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "2ae276b97ffb4285ac127a328f2cbcb9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112723/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112723/Download"
+        },
+        {
+          "id": 125055,
+          "identityId": 112725,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T23:26:28.72",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2624,
+              "width": 3936,
+              "storageKey": "691af92608de4ce2bc1957574595815f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112725/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "97b1d4c3c46348d0b9e06209be78c733",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112725/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112725/Download"
+        },
+        {
+          "id": 125054,
+          "identityId": 112724,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-04-25T23:26:17.47",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2624,
+              "width": 3936,
+              "storageKey": "9f44bf2baac44245a89b0f7e314d4084",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112724/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "fbb7156135844822abae522adaa966ae",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112724/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/112724/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50018,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 58879,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "2025-00496"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23852,
+        "investigatingAgencyIdentityId": 50018
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
