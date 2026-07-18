@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T08:17:42.608740+00:00",
+  "generated_at": "2026-07-18T07:59:35.960963+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2019,
+  "count": 2027,
   "cases": [
     {
       "id": 64643,
@@ -610293,6 +610293,2328 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142665/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 142880,
+      "idFormatted": "UP142880",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-29T22:21:53.307",
+      "modifiedDateTime": "2026-01-12T20:33:51.36",
+      "caseIdentification": {
+        "id": 52146,
+        "caseNumber": "2025-06596"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72471,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 90,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75580,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-04-18",
+        "address": {
+          "city": "Long Beach",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0,
+          "zipCode": "90803"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Partial skeletal remains were found on Junipero Beach in Long Beach on 4/18/2025. The decedent's sex and race/ethnicity are unknown. They are probably over 40 years old. No jewelry, clothing, nor personal items were found with the remains.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7523035,
+            "lon": -118.1298234
+          },
+          "formattedAddress": "Long Beach, CA 90803, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54022,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46282,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50034,
+          "isCaseOwner": false,
+          "name": "Los Angeles County Medical Examiner",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 58915,
+            "contact": {
+              "id": 3389,
+              "firstName": "Betsy",
+              "lastName": "Magdaleno",
+              "jobTitle": "Medical Examiner Investigator, Identifications",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43449,
+              "name": "Los Angeles County Medical Examiner",
+              "street1": "1104 North Mission Road",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90033",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "3233430512",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://me.lacounty.gov/"
+            }
+          },
+          "caseNumber": "2025-06596"
+        },
+        {
+          "id": 50035,
+          "isCaseOwner": false,
+          "name": "Long Beach Police Department",
+          "city": "Long Beach",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 58916,
+            "agency": {
+              "id": 45630,
+              "name": "Long Beach Police Department",
+              "street1": "400 West Broadway",
+              "city": "Long Beach",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90802",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5625707260",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-0017526"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23871,
+        "investigatingAgencyIdentityId": 50034
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142880/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142880/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 142922,
+      "idFormatted": "UP142922",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-30T15:50:20.417",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 51010,
+        "caseNumber": "24-3701"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70947,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "heightFrom": 60,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75606,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-07",
+        "address": {
+          "city": "Yacolt",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "displayName": "Skamania"
+          },
+          "countyId": 0,
+          "zipCode": "98675"
+        },
+        "description": "Gifford Pinchot Natural Forest",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Partial left os coxa and partial right humerus found in the same vicinity as UP142924, Meadow Creek, east of Cold Creek Campground.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.8650087,
+            "lon": -122.4065652
+          },
+          "formattedAddress": "Yacolt, WA 98675, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54040,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46283,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50037,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 58922,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "24-3701"
+        },
+        {
+          "id": 50038,
+          "isCaseOwner": false,
+          "name": "Office of the Clark County Medical Examiner",
+          "city": "Vancouver",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3026,
+            "name": "Clark County",
+            "localizedName": "Clark"
+          },
+          "countyDisplayName": "Clark",
+          "selection": {
+            "id": 58923,
+            "agency": {
+              "id": 37425,
+              "name": "Office of the Clark County Medical Examiner",
+              "street1": "900 West 13th Street",
+              "city": "Vancouver",
+              "county": {
+                "id": 3026,
+                "name": "Clark County",
+                "localizedName": "Clark"
+              },
+              "zipCode": "98660",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5643978405",
+              "email": "medical.examiner@clark.wa.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://clark.wa.gov/medical-examiner"
+            }
+          },
+          "caseNumber": "2024-3523"
+        },
+        {
+          "id": 50039,
+          "isCaseOwner": false,
+          "name": "Skamania County Sheriff's Office",
+          "city": "Stevenson",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "localizedName": "Skamania"
+          },
+          "countyDisplayName": "Skamania",
+          "selection": {
+            "id": 58928,
+            "agency": {
+              "id": 39934,
+              "name": "Skamania County Sheriff's Office",
+              "street1": "200 Vancouver Avenue",
+              "city": "Stevenson",
+              "county": {
+                "id": 3050,
+                "name": "Skamania County",
+                "localizedName": "Skamania"
+              },
+              "zipCode": "98648",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5094279490",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://skamaniasheriff.com/"
+            }
+          },
+          "caseNumber": "24-06389"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23886,
+        "investigatingAgencyIdentityId": 50039
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142922/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142922/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 142924,
+      "idFormatted": "UP142924",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-30T16:23:53.733",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 51011,
+        "caseNumber": "24-2817"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70948,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75605,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-09-06",
+        "address": {
+          "city": "Yacolt",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "displayName": "Skamania"
+          },
+          "countyId": 0,
+          "zipCode": "98675"
+        },
+        "description": "Gifford Pinchot Natural Forest",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Cranium recovered in a wooded area near Meadow Creek, east of the Cold Creek Campground. Found in the same vicinity as UP142922.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.8650087,
+            "lon": -122.4065652
+          },
+          "formattedAddress": "Yacolt, WA 98675, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54025,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46284,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50040,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 58926,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "24-2817"
+        },
+        {
+          "id": 50041,
+          "isCaseOwner": false,
+          "name": "Office of the Clark County Medical Examiner",
+          "city": "Vancouver",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3026,
+            "name": "Clark County",
+            "localizedName": "Clark"
+          },
+          "countyDisplayName": "Clark",
+          "selection": {
+            "id": 58927,
+            "agency": {
+              "id": 37425,
+              "name": "Office of the Clark County Medical Examiner",
+              "street1": "900 West 13th Street",
+              "city": "Vancouver",
+              "county": {
+                "id": 3026,
+                "name": "Clark County",
+                "localizedName": "Clark"
+              },
+              "zipCode": "98660",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5643978405",
+              "email": "medical.examiner@clark.wa.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://clark.wa.gov/medical-examiner"
+            }
+          },
+          "caseNumber": "2024-3030"
+        },
+        {
+          "id": 50057,
+          "isCaseOwner": false,
+          "name": "Skamania County Sheriff's Office",
+          "city": "Stevenson",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "localizedName": "Skamania"
+          },
+          "countyDisplayName": "Skamania",
+          "selection": {
+            "id": 58947,
+            "agency": {
+              "id": 39934,
+              "name": "Skamania County Sheriff's Office",
+              "street1": "200 Vancouver Avenue",
+              "city": "Stevenson",
+              "county": {
+                "id": 3050,
+                "name": "Skamania County",
+                "localizedName": "Skamania"
+              },
+              "zipCode": "98648",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5094279490",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://skamaniasheriff.com/"
+            }
+          },
+          "caseNumber": "24-06389"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23887,
+        "investigatingAgencyIdentityId": 50057
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142924/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142924/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 142929,
+      "idFormatted": "UP142929",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-30T17:28:59.93",
+      "modifiedDateTime": "2026-02-23T17:43:33.073",
+      "caseIdentification": {
+        "id": 51013,
+        "caseNumber": "24-3700"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70950,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75611,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-09-04",
+        "address": {
+          "city": "Carson",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "displayName": "Skamania"
+          },
+          "countyId": 0,
+          "zipCode": "98610"
+        },
+        "description": "Gifford Pinchot Natural Forest",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "An os coxa was found in the Big Lava Bed, located in the Gifford Pinchot Natural Forest.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.7255968,
+            "lon": -121.8188307
+          },
+          "formattedAddress": "Carson, WA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54027,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46286,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50044,
+          "isCaseOwner": false,
+          "name": "King County Medical Examiner's Office",
+          "city": "Seattle",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3037,
+            "name": "King County",
+            "localizedName": "King"
+          },
+          "countyDisplayName": "King",
+          "selection": {
+            "id": 58931,
+            "agency": {
+              "id": 47538,
+              "name": "King County Medical Examiner's Office",
+              "street1": "325 9th Avenue",
+              "street2": "HMC Box 359792",
+              "city": "Seattle",
+              "county": {
+                "id": 3037,
+                "name": "King County",
+                "localizedName": "King"
+              },
+              "zipCode": "98104",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "2067313232",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kingcounty.gov/depts/health/examiner.aspx"
+            }
+          },
+          "caseNumber": "24-3700"
+        },
+        {
+          "id": 50045,
+          "isCaseOwner": false,
+          "name": "Office of the Clark County Medical Examiner",
+          "city": "Vancouver",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3026,
+            "name": "Clark County",
+            "localizedName": "Clark"
+          },
+          "countyDisplayName": "Clark",
+          "selection": {
+            "id": 58932,
+            "agency": {
+              "id": 37425,
+              "name": "Office of the Clark County Medical Examiner",
+              "street1": "900 West 13th Street",
+              "city": "Vancouver",
+              "county": {
+                "id": 3026,
+                "name": "Clark County",
+                "localizedName": "Clark"
+              },
+              "zipCode": "98660",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5643978405",
+              "email": "medical.examiner@clark.wa.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://clark.wa.gov/medical-examiner"
+            }
+          },
+          "caseNumber": "2024-2843"
+        },
+        {
+          "id": 50046,
+          "isCaseOwner": false,
+          "name": "Skamania County Sheriff's Office",
+          "city": "Stevenson",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3050,
+            "name": "Skamania County",
+            "localizedName": "Skamania"
+          },
+          "countyDisplayName": "Skamania",
+          "selection": {
+            "id": 58933,
+            "agency": {
+              "id": 39934,
+              "name": "Skamania County Sheriff's Office",
+              "street1": "200 Vancouver Avenue",
+              "city": "Stevenson",
+              "county": {
+                "id": 3050,
+                "name": "Skamania County",
+                "localizedName": "Skamania"
+              },
+              "zipCode": "98648",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5094279490",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://skamaniasheriff.com/"
+            }
+          },
+          "caseNumber": "24-05619"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23890,
+        "investigatingAgencyIdentityId": 50046
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142929/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142929/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 142939,
+      "idFormatted": "UP142939",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-04-30T21:10:13.487",
+      "modifiedDateTime": "2025-09-02T21:49:07.607",
+      "caseIdentification": {
+        "id": 51015,
+        "caseNumber": "24-4091"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70954,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 50,
+        "estimatedYearOfDeathFrom": 2019,
+        "estimatedYearOfDeathTo": 2024,
+        "estimatedYearOfBirthFrom": 1969,
+        "estimatedYearOfBirthTo": 2006,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75593,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-26",
+        "address": {
+          "city": "S of Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "32.11504, -110.99491",
+        "circumstancesOfRecovery": "Discovered by a private citizen in a wash near I-19.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.2539787,
+            "lon": -110.9741769
+          },
+          "formattedAddress": "Tucson, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54030,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46288,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17131,
+          "identityId": 14399,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Had some dark fillings in upper molars. A left upper premolar next to the canine was missing except for the root - this would have left a gap in the decedent's mouth between the canine and the other premolar.\nThis individual had broken their nose at some point in life."
+        }
+      ],
+      "images": [
+        {
+          "id": 125215,
+          "identityId": 112862,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Location individual was discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-04-30T21:29:37.363",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 402,
+              "width": 467,
+              "storageKey": "81dda3e9123f444d9ffc1654ad12ef29",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142939/Images/112862/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 103,
+              "width": 120,
+              "storageKey": "47d2980211af4f76b29009d1d033b585",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142939/Images/112862/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142939/Images/112862/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25823,
+        "defaultImageIdentityId": 112862
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50049,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58938,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4091"
+        },
+        {
+          "id": 50050,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58939,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "241126163"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23875,
+        "investigatingAgencyIdentityId": 50049
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142939/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142939/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 142993,
+      "idFormatted": "UP142993",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-01T19:09:50.653",
+      "modifiedDateTime": "2025-09-02T22:47:07.903",
+      "caseIdentification": {
+        "id": 51017,
+        "caseNumber": "24-4359"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70957,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75596,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-18",
+        "address": {
+          "city": "N of Amado",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "31.74761, -111.04926",
+        "circumstancesOfRecovery": "Remains were discovered north of Amado, AZ in a remote desert location by USBP.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.057499,
+            "lon": -111.6660725
+          },
+          "formattedAddress": "Pima County, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54031,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46290,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125235,
+          "identityId": 112880,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Map where individual was discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-05-01T19:20:42.557",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 343,
+              "width": 343,
+              "storageKey": "57a12669906b49af821aea67ec347a86",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142993/Images/112880/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "97425beead904a608c751df8b9e234b4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142993/Images/112880/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142993/Images/112880/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25829,
+        "defaultImageIdentityId": 112880
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50054,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58943,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4359"
+        },
+        {
+          "id": 50055,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58944,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241218109"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23881,
+        "investigatingAgencyIdentityId": 50054
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142993/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142993/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 143053,
+      "idFormatted": "UP143053",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-02T16:16:32.107",
+      "modifiedDateTime": "2026-07-14T16:52:56.35",
+      "caseIdentification": {
+        "id": 51169,
+        "caseNumber": "ML25-1729"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70962,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 128,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75603,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-01",
+        "address": {
+          "city": "Houston",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2690,
+            "name": "Harris County",
+            "displayName": "Harris"
+          },
+          "countyId": 0,
+          "zipCode": "77084"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was transported to Memorial Hermann Hospital in the Texas Medical Center, where she later died.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 29.8296506,
+            "lon": -95.6668306
+          },
+          "formattedAddress": "Houston, TX 77084, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54037,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56404,
+          "identityId": 47638,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Exact clothing is unknown due to hospital stay but the decedent was reported to have been clothed in all dark clothing and no shoes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46294,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "short, natural style",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17136,
+          "identityId": 14403,
+          "physicalFeature": {
+            "id": 5,
+            "name": "Piercing",
+            "localizedName": "Piercing",
+            "ordinal": 5
+          },
+          "description": "-pierced ears (1x)"
+        },
+        {
+          "id": 17133,
+          "identityId": 14401,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "No observable tattoos."
+        }
+      ],
+      "images": [
+        {
+          "id": 125257,
+          "identityId": 112899,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-02T19:24:50.883",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4512,
+              "width": 3008,
+              "storageKey": "3f2167a9b1354be1b21038ea895db02a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/112899/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 80,
+              "storageKey": "ec5d6fd12c5343ed9b1484290c7acbec",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/112899/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/112899/Download"
+        },
+        {
+          "id": 125826,
+          "identityId": 113446,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "forensic artist rendering",
+          "isPublic": true,
+          "createdDateTime": "2025-05-21T19:57:00.23",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 8159,
+              "width": 6040,
+              "storageKey": "1dd505c8251f40fab8b0f6c169d10257",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/113446/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 89,
+              "storageKey": "301a557b65724e378520f03f72b40429",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/113446/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/113446/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25861,
+        "defaultImageIdentityId": 113446
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50063,
+          "isCaseOwner": false,
+          "name": "Harris County Institute of Forensic Sciences",
+          "city": "Houston",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2690,
+            "name": "Harris County",
+            "localizedName": "Harris"
+          },
+          "countyDisplayName": "Harris",
+          "selection": {
+            "id": 58953,
+            "agency": {
+              "id": 33932,
+              "name": "Harris County Institute of Forensic Sciences",
+              "street1": "1861 Old Spanish Trail",
+              "city": "Houston",
+              "county": {
+                "id": 2690,
+                "name": "Harris County",
+                "localizedName": "Harris"
+              },
+              "zipCode": "77030",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8329275000",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://ifs.harriscountytx.gov/Pages/default.aspx"
+            }
+          },
+          "caseNumber": "ML25-1729",
+          "dateReported": "2025-05-01"
+        },
+        {
+          "id": 50064,
+          "isCaseOwner": false,
+          "name": "Harris County Sheriff's Office",
+          "city": "Houston",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2690,
+            "name": "Harris County",
+            "localizedName": "Harris"
+          },
+          "countyDisplayName": "Harris",
+          "selection": {
+            "id": 58954,
+            "agency": {
+              "id": 43187,
+              "name": "Harris County Sheriff's Office",
+              "street1": "1200 Baker",
+              "city": "Houston",
+              "county": {
+                "id": 2690,
+                "name": "Harris County",
+                "localizedName": "Harris"
+              },
+              "zipCode": "77002",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "7132216000",
+              "email": "Sheriff.Gonzalez@sheriff.hctx.net",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.harriscountyso.org/"
+            }
+          },
+          "caseNumber": "2505-00009",
+          "dateReported": "2025-05-01"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23906,
+        "investigatingAgencyIdentityId": 50063
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143053/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 143082,
+      "idFormatted": "UP143082",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-02T22:46:02.573",
+      "modifiedDateTime": "2025-09-02T22:00:52.577",
+      "caseIdentification": {
+        "id": 51027,
+        "caseNumber": "24-4458"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 70967,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75620,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-25",
+        "address": {
+          "city": "SW of Ajo",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.24879, -113.07680",
+        "circumstancesOfRecovery": "Remains were discovered by private citizens in a remote desert area. This case might be associated with other remains discovered nearby. USBP",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3717248,
+            "lon": -112.8607099
+          },
+          "formattedAddress": "Ajo, AZ 85321, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54043,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46298,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125268,
+          "identityId": 112910,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Location where the remains were discovered",
+          "isPublic": true,
+          "createdDateTime": "2025-05-02T22:51:22.497",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 345,
+              "width": 348,
+              "storageKey": "de0d32524b344d778247220b8e261035",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143082/Images/112910/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 119,
+              "width": 120,
+              "storageKey": "5d57d300f496428dab73bc8221e6aca6",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143082/Images/112910/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143082/Images/112910/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25832,
+        "defaultImageIdentityId": 112910
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50069,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58962,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4458"
+        },
+        {
+          "id": 50070,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 58963,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241225125"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23894,
+        "investigatingAgencyIdentityId": 50069
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143082/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143082/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
     }
   ]
 }
