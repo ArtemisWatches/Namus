@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T08:26:20.979653+00:00",
+  "generated_at": "2026-07-20T09:23:51.370144+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2035,
+  "count": 2044,
   "cases": [
     {
       "id": 64643,
@@ -615128,6 +615128,2268 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143482/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143482/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 143615,
+      "idFormatted": "UP143615",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-12T09:58:33.28",
+      "modifiedDateTime": "2026-06-29T13:03:53.113",
+      "caseIdentification": {
+        "id": 53145,
+        "caseNumber": "ME2025-01142"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71007,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "heightFrom": 72,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75748,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-02-20",
+        "address": {
+          "city": "Chicago",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "displayName": "IL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 672,
+            "name": "Cook County",
+            "displayName": "Cook"
+          },
+          "countyId": 0,
+          "zipCode": "60619"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 02/202025 at 1614 hours, Chicago Police  contacted the Forensic Institute to report the death of an unknown individual. The incident occurred in the 7800 block of South Eberhart Avenue, Chicago, Illinois 60619. A maintenance employee for the building went to check on a unit for potential repairs. The unit was reported to be abandoned.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.7458012,
+            "lon": -87.60876379999999
+          },
+          "formattedAddress": "Chicago, IL 60619, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54068,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57036,
+          "identityId": 48144,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Blue \"durag\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57038,
+          "identityId": 48142,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Gray and red striped long sleeve hooded shirt\nBrown pants, Bullhead brand, size 30/30",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57039,
+          "identityId": 48143,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "2 blue athletic shoes, Fila brand, \"A-High Fade\" hightop, size 8.5\n2 black socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46696,
+        "hairColor": {
+          "id": 14,
+          "name": "Bald",
+          "localizedName": "Bald"
+        },
+        "headHairDescription": "Shaved head",
+        "facialHairDescription": "Small black mustache and beard",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 127179,
+          "identityId": 114714,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Stock image of decedents shoes in same colorway",
+          "isPublic": true,
+          "createdDateTime": "2025-07-08T14:54:50.14",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1072,
+              "width": 1440,
+              "storageKey": "44ea641808b347548bec572aeb1afe92",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143615/Images/114714/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 89,
+              "width": 120,
+              "storageKey": "9e61bee672a646cab3bd06a3e446cc40",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143615/Images/114714/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143615/Images/114714/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50127,
+          "isCaseOwner": false,
+          "name": "Chicago Police Department - 2nd District",
+          "city": "Chicago",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 672,
+            "name": "Cook County",
+            "localizedName": "Cook"
+          },
+          "countyDisplayName": "Cook",
+          "selection": {
+            "id": 59049,
+            "agency": {
+              "id": 55615,
+              "name": "Chicago Police Department - 2nd District",
+              "street1": "5101 South Wentworh Avenue",
+              "city": "Chicago",
+              "county": {
+                "id": 672,
+                "name": "Cook County",
+                "localizedName": "Cook"
+              },
+              "zipCode": "60609",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "3127478366",
+              "email": "CAPS002District@chicagopolice.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://home.chicagopolice.org/community/districts/2nd-district-wentworth/"
+            }
+          },
+          "caseNumber": "JJ155910",
+          "dateReported": "2025-02-20"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143615/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143615/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
+    },
+    {
+      "id": 143654,
+      "idFormatted": "UP143654",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-12T19:05:09.857",
+      "modifiedDateTime": "2025-12-23T17:37:07.877",
+      "caseIdentification": {
+        "id": 51071,
+        "caseNumber": "ME-25-0880"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72762,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 45,
+        "heightFrom": 68,
+        "heightTo": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75707,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-04-27",
+        "address": {
+          "city": "Golden Valley",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "displayName": "Mohave"
+          },
+          "countyId": 0,
+          "zipCode": "86413"
+        },
+        "description": "Intersection desert area of Milky Way and Chino",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Multiple skeletal remains, including skull, found by person walking the area",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.2233311,
+            "lon": -114.2230108
+          },
+          "formattedAddress": "Golden Valley, AZ 86413, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54090,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46335,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50143,
+          "isCaseOwner": false,
+          "name": "Mohave County Sheriff's Office",
+          "city": "Kingman",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 59075,
+            "contact": {
+              "id": 314287,
+              "firstName": "Chaun",
+              "lastName": "Williams",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43691,
+              "name": "Mohave County Sheriff's Office",
+              "street1": "600 West Beale Street",
+              "city": "Kingman",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86401",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "8005224312",
+              "email": "mcso@mohavecounty.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "DR-25-015093",
+          "dateReported": "2025-04-27"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23972,
+        "investigatingAgencyIdentityId": 50143
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143654/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143654/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 143651,
+      "idFormatted": "UP143651",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-12T18:38:02",
+      "modifiedDateTime": "2025-05-13T21:51:18.64",
+      "caseIdentification": {
+        "id": 51070,
+        "caseNumber": "ME-25-0965"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71025,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 68,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75704,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-09",
+        "address": {
+          "city": "Scenic",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "displayName": "Mohave"
+          },
+          "countyId": 0,
+          "zipCode": "86432"
+        },
+        "description": "36.514 N, -113.5953",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "36.514, -113.5953",
+        "circumstancesOfRecovery": "Found by hiker in a rock outcrop off the shoulder of Hwy 91, between mile markers 4 and 5.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.7815498,
+            "lon": -114.0035057
+          },
+          "formattedAddress": "Scenic, AZ 86432, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54088,
+        "conditionOfRemains": {
+          "id": 4,
+          "name": "Not recognizable - Insect/animal activity",
+          "localizedName": "Not recognizable - Insect/animal activity"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46334,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50142,
+          "isCaseOwner": false,
+          "name": "Mohave County Sheriff's Office",
+          "city": "Kingman",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 165,
+            "name": "Mohave County",
+            "localizedName": "Mohave"
+          },
+          "countyDisplayName": "Mohave",
+          "selection": {
+            "id": 59074,
+            "contact": {
+              "id": 314287,
+              "firstName": "Chaun",
+              "lastName": "Williams",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43691,
+              "name": "Mohave County Sheriff's Office",
+              "street1": "600 West Beale Street",
+              "city": "Kingman",
+              "county": {
+                "id": 165,
+                "name": "Mohave County",
+                "localizedName": "Mohave"
+              },
+              "zipCode": "86401",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "8005224312",
+              "email": "mcso@mohavecounty.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "DR-25-016678",
+          "dateReported": "2025-05-09"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23973,
+        "investigatingAgencyIdentityId": 50142
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143651/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143651/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 143662,
+      "idFormatted": "UP143662",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-12T20:14:24.997",
+      "modifiedDateTime": "2025-05-27T17:57:02.343",
+      "caseIdentification": {
+        "id": 51073,
+        "caseNumber": "25-04540"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71030,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 37,
+        "estimatedAgeTo": 70,
+        "estimatedPostmortemInterval": 5,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 6,
+          "name": "Years",
+          "localizedName": "Years"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75710,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-04-19",
+        "address": {
+          "city": "Gila Bend",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "displayName": "Maricopa"
+          },
+          "countyId": 0,
+          "zipCode": "85337"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "N 32 33.933 W 112 20.920",
+        "circumstancesOfRecovery": "Unidentified skeletal remains (partial remains- cranium/right and left ossa coxae/ right humerus only, found in the desert area of Gila Bend. This is a known migrant crossing area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.9478236,
+            "lon": -112.7168305
+          },
+          "formattedAddress": "Gila Bend, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54092,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46337,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125398,
+          "identityId": 113031,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-12T20:20:46.797",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3276,
+              "width": 2526,
+              "storageKey": "2b45ef4024d346229821902c18ca126c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143662/Images/113031/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "85b5e3355d4e4c31ba5df6c4680a7b52",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143662/Images/113031/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143662/Images/113031/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25841,
+        "defaultImageIdentityId": 113031
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50145,
+          "isCaseOwner": false,
+          "name": "Maricopa County Office of the Medical Examiner",
+          "city": "Phoenix",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "localizedName": "Maricopa"
+          },
+          "countyDisplayName": "Maricopa",
+          "selection": {
+            "id": 59100,
+            "contact": {
+              "id": 5163,
+              "firstName": "Christen",
+              "lastName": "Eggers",
+              "jobTitle": "Sr. Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40067,
+              "name": "Maricopa County Office of the Medical Examiner",
+              "street1": "701 West Jefferson Street",
+              "city": "Phoenix",
+              "county": {
+                "id": 164,
+                "name": "Maricopa County",
+                "localizedName": "Maricopa"
+              },
+              "zipCode": "85007",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "6025063322",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.maricopa.gov/468/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-04540"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23971,
+        "investigatingAgencyIdentityId": 50145
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143662/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143662/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 143663,
+      "idFormatted": "UP143663",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-12T20:26:54.303",
+      "modifiedDateTime": "2026-06-09T13:35:23.983",
+      "caseIdentification": {
+        "id": 52651,
+        "caseNumber": "2507573"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73193,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 51,
+        "estimatedAgeTo": 83,
+        "estimatedYearOfDeathFrom": 2025,
+        "estimatedYearOfBirthFrom": 1942,
+        "estimatedYearOfBirthTo": 1974,
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 153,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75712,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-05",
+        "address": {
+          "city": "Fort Worth",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2809,
+            "name": "Tarrant County",
+            "displayName": "Tarrant"
+          },
+          "countyId": 0,
+          "zipCode": "76135"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was found on the side of the road by passerby's",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.8447037,
+            "lon": -97.47059349999999
+          },
+          "formattedAddress": "Fort Worth, TX 76135, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55489,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58563,
+          "identityId": 49301,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans, brown leather belt, maroon \"Real Essentials\" t-shirt, grey boxers with black waistband, black socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58562,
+          "identityId": 49302,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "One black high top \"Fila\" athletic shoe",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58561,
+          "identityId": 49303,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Visa \"Cash App\" debit card with the name \"Rosa Espinoza\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58565,
+          "identityId": 49304,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Red rope/cording, miscellaneous tools, pen multi-tool, pen, grocery sack, ball, battery, two metal cups",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47736,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Medium length, partially gray and black",
+        "facialHairDescription": "Brown, slightly gray, mustache",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17700,
+          "identityId": 14846,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Right upper central incisor partial crown - silver around edge of tooth. Missing three lower central teeth."
+        }
+      ],
+      "images": [
+        {
+          "id": 125399,
+          "identityId": 113032,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Face photo",
+          "isPublic": true,
+          "createdDateTime": "2025-05-12T20:28:26.913",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4069,
+              "width": 2713,
+              "storageKey": "be9091ccdc2e41bb8d65f2213b1c5f6a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143663/Images/113032/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 80,
+              "storageKey": "3a9aa9e6ccc145d89bb1cff73edf86f0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143663/Images/113032/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143663/Images/113032/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25842,
+        "defaultImageIdentityId": 113032
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50146,
+          "isCaseOwner": false,
+          "name": "Tarrant County Medical Examiner's Office",
+          "city": "Fort Worth",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2809,
+            "name": "Tarrant County",
+            "localizedName": "Tarrant"
+          },
+          "countyDisplayName": "Tarrant",
+          "selection": {
+            "id": 59078,
+            "agency": {
+              "id": 35260,
+              "name": "Tarrant County Medical Examiner's Office",
+              "street1": "200 Feliks Gwozdz Plaza",
+              "city": "Fort Worth",
+              "county": {
+                "id": 2809,
+                "name": "Tarrant County",
+                "localizedName": "Tarrant"
+              },
+              "zipCode": "76104",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "8179205700",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://access.tarrantcounty.com/en/medical-examiner.html"
+            }
+          },
+          "caseNumber": "2507573",
+          "dateReported": "2025-05-12"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143663/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143663/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 143719,
+      "idFormatted": "UP143719",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-13T18:34:07.027",
+      "modifiedDateTime": "2025-07-02T16:52:13.647",
+      "caseIdentification": {
+        "id": 51079,
+        "caseNumber": "ICF-2025-03235"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71038,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75727,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-03",
+        "address": {
+          "city": "San Sebastián",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "displayName": "PR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "displayName": "All"
+          },
+          "countyId": 0,
+          "zipCode": "00685"
+        },
+        "description": "URB. PEPINO, CALLE B #11",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "NEIGHBOR HADN'T SEEN THE DECEASED IN A WHILE AND THE HOUSE HAD A BAD SMELL COMING OFF IT.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 18.3161884,
+            "lon": -66.9749731
+          },
+          "formattedAddress": "San Sebastián, 00685, Puerto Rico"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54100,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46343,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50156,
+          "isCaseOwner": false,
+          "name": "Institute of Forensic Sciences of Puerto Rico",
+          "city": "San Juan",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "localizedName": "PR"
+          },
+          "stateDisplayName": "PR",
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "localizedName": "All"
+          },
+          "countyDisplayName": "All",
+          "selection": {
+            "id": 59093,
+            "contact": {
+              "id": 303634,
+              "firstName": "Damara",
+              "lastName": "Guevara-Morales",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45370,
+              "name": "Institute of Forensic Sciences of Puerto Rico",
+              "street1": "Maga St Corner Casia #54",
+              "street2": "Urb. Reparto Metropolitano",
+              "city": "San Juan",
+              "county": {
+                "id": 2377,
+                "name": "All",
+                "localizedName": "All"
+              },
+              "zipCode": "00922",
+              "state": {
+                "id": 36,
+                "name": "Puerto Rico",
+                "localizedName": "PR"
+              },
+              "phone": "7877650615",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.icf.pr.gov/"
+            }
+          },
+          "caseNumber": "ICF-2025-03235",
+          "dateReported": "2025-05-13"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23976,
+        "investigatingAgencyIdentityId": 50156
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143719/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143719/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Puerto%20Rico"
+    },
+    {
+      "id": 143784,
+      "idFormatted": "UP143784",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-14T13:37:39.503",
+      "modifiedDateTime": "2026-04-24T18:34:02.923",
+      "caseIdentification": {
+        "id": 51083,
+        "caseNumber": "A22-142"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71045,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75738,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-04-22",
+        "address": {
+          "city": "Edinburg",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2697,
+            "name": "Hidalgo County",
+            "displayName": "Hidalgo"
+          },
+          "countyId": 0,
+          "zipCode": "78539"
+        },
+        "description": "413 N 14th Avenue",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in Hidalgo County Sheriff's Office Evidence Area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 26.268255,
+            "lon": -98.1884949
+          },
+          "formattedAddress": "Edinburg, TX 78539, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54105,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46349,
+        "hairColor": {
+          "id": 15,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "headHairDescription": "NO HAIR",
+        "bodyHairDescription": "N/A",
+        "facialHairDescription": "N/A",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50161,
+          "isCaseOwner": false,
+          "name": "Hidalgo County Sheriff's Office",
+          "city": "Edinburg",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2697,
+            "name": "Hidalgo County",
+            "localizedName": "Hidalgo"
+          },
+          "countyDisplayName": "Hidalgo",
+          "selection": {
+            "id": 59102,
+            "agency": {
+              "id": 42149,
+              "name": "Hidalgo County Sheriff's Office",
+              "street1": "711 El Cibolo Road",
+              "city": "Edinburg",
+              "county": {
+                "id": 2697,
+                "name": "Hidalgo County",
+                "localizedName": "Hidalgo"
+              },
+              "zipCode": "78541",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9563838114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.hidalgocounty.us/209/Sheriff"
+            }
+          },
+          "caseNumber": "22-15010",
+          "dateReported": "2022-04-22"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143784/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143784/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 143813,
+      "idFormatted": "UP143813",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-14T18:31:19.383",
+      "modifiedDateTime": "2026-05-08T03:49:09.21",
+      "caseIdentification": {
+        "id": 51087,
+        "caseNumber": "ME 25-02675"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71048,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 68,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 219,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75750,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-01",
+        "address": {
+          "city": "Austin",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2816,
+            "name": "Travis County",
+            "displayName": "Travis"
+          },
+          "countyId": 0,
+          "zipCode": "78701"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Per Austin Police Department, the decedent is an unidentified male approximately 24-45 years of age of either Hispanic or Middle Eastern origin whose last known responsive date/time was unknown. On 05/01/2025 at 1237hrs a bystander was walking down the Shoal Creek Trail towards Pease Park and reportedly observed the decedent lying off the trail unresponsive. When LE and EMS arrived, the decedent was observed supine at the edge of the creek near a bridge pillion with his feet near the creek's edge. The decedent was pronounced due to obvious signs of death on 05/01/2025 at 1304hrs.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 30.2729209,
+            "lon": -97.74438630000002
+          },
+          "formattedAddress": "Austin, TX 78701, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54107,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56458,
+          "identityId": 47681,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-\tT-Shirt\n\tColor: Black (plain)\n\tBrand: Goodfellow\n\tSize: XXL",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56461,
+          "identityId": 47682,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-\tPants (Denim Jeans)\nColor: Grey\nBrand: Flag & Anthem\nSize: 38/30\nBrown Belt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56462,
+          "identityId": 47683,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-\tUnderwear (Boxer Briefs)\nColor: Black\nBrand: Goodfellow\nSize: L",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56463,
+          "identityId": 47684,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "- Socks\nColor: Black\nBrand: Columbia",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56464,
+          "identityId": 47685,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "- Shoes (Like New)\nColor: Black and White\nBrand: Adidas\nSize: 10.5",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46351,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Short black hair.",
+        "facialHairDescription": "Full beard, trimmed short and medium; black hair with grey in sideburns",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50163,
+          "isCaseOwner": false,
+          "name": "Travis County Medical Examiners Office",
+          "city": "Austin",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2816,
+            "name": "Travis County",
+            "localizedName": "Travis"
+          },
+          "countyDisplayName": "Travis",
+          "selection": {
+            "id": 59107,
+            "agency": {
+              "id": 35462,
+              "name": "Travis County Medical Examiners Office",
+              "street1": "7723 Springdale Road",
+              "city": "Austin",
+              "county": {
+                "id": 2816,
+                "name": "Travis County",
+                "localizedName": "Travis"
+              },
+              "zipCode": "78724",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "5128549599",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.traviscountytx.gov/medical-examiner"
+            }
+          },
+          "caseNumber": "ME 25-02675"
+        },
+        {
+          "id": 50164,
+          "isCaseOwner": false,
+          "name": "Austin Police Department",
+          "city": "Austin",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2816,
+            "name": "Travis County",
+            "localizedName": "Travis"
+          },
+          "countyDisplayName": "Travis",
+          "selection": {
+            "id": 61187,
+            "agency": {
+              "id": 40045,
+              "name": "Austin Police Department",
+              "street1": "715 East 8th Street",
+              "city": "Austin",
+              "county": {
+                "id": 2816,
+                "name": "Travis County",
+                "localizedName": "Travis"
+              },
+              "zipCode": "78748",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "5129745250",
+              "email": "apdmissingpersons@austintexas.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.austintexas.gov/department/police"
+            }
+          },
+          "caseNumber": "APD 25-1210682"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143813/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143813/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 143866,
+      "idFormatted": "UP143866",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-15T17:11:28.947",
+      "modifiedDateTime": "2025-05-16T16:54:47.47",
+      "caseIdentification": {
+        "id": 51097,
+        "caseNumber": "2023-01088"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71055,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 71,
+        "heightTo": 77,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75752,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2023-02-14",
+        "address": {
+          "city": "West Babylon",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "displayName": "Suffolk"
+          },
+          "countyId": 0,
+          "zipCode": "11704"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in an embankment/wooded area.  Off Sunrise Highway.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7181416,
+            "lon": -73.3531852
+          },
+          "formattedAddress": "Babylon, NY 11704, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54112,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56471,
+          "identityId": 47689,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Nike DriFit Hat, grey",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56469,
+          "identityId": 47690,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Nike Running Long Sleeve Shirt, Size L, Black",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56470,
+          "identityId": 47691,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "2 black fabric sneakers, NIke Size 12, men",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46356,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125473,
+          "identityId": 113103,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Photo facial reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-15T17:13:54.683",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1340,
+              "width": 1020,
+              "storageKey": "d577074bdd924739a54dc08b607b7232",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/113103/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "1d9e065d60aa4f9bbce6017c9fa68095",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/113103/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/113103/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25848,
+        "defaultImageIdentityId": 113103
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50174,
+          "isCaseOwner": false,
+          "name": "Suffolk County Police Department",
+          "city": "Yaphank",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 59127,
+            "agency": {
+              "id": 43956,
+              "name": "Suffolk County Police Department",
+              "street1": "30 Yaphank Ave",
+              "city": "Yaphank",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11980",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318526110",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://suffolkpd.org/"
+            }
+          }
+        },
+        {
+          "id": 50183,
+          "isCaseOwner": false,
+          "name": "Suffolk County Medical Examiner's Office",
+          "city": "Hauppauge",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1941,
+            "name": "Suffolk County",
+            "localizedName": "Suffolk"
+          },
+          "countyDisplayName": "Suffolk",
+          "selection": {
+            "id": 59146,
+            "agency": {
+              "id": 43955,
+              "name": "Suffolk County Medical Examiner's Office",
+              "street1": "725 Veterans Memorial Highway, Bldg. #487",
+              "city": "Hauppauge",
+              "county": {
+                "id": 1941,
+                "name": "Suffolk County",
+                "localizedName": "Suffolk"
+              },
+              "zipCode": "11788",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "6318535555",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.suffolkcountyny.gov/Departments/Medical-Examiner"
+            }
+          },
+          "caseNumber": "2023-01088"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23983,
+        "investigatingAgencyIdentityId": 50183
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }

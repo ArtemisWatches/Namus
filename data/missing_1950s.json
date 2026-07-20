@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T09:31:29.083125+00:00",
+  "generated_at": "2026-07-20T09:23:37.202922+00:00",
   "case_type": "MissingPersons",
   "decade": "1950s",
-  "count": 80,
+  "count": 81,
   "cases": [
     {
       "id": 1379,
@@ -23110,6 +23110,313 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/132927/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
+    },
+    {
+      "id": 144957,
+      "idFormatted": "MP144957",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-03T18:24:13.037",
+      "modifiedDateTime": "2026-07-16T19:49:30.687",
+      "subjectIdentification": {
+        "id": 235135,
+        "firstName": "George",
+        "middleName": "Allen",
+        "lastName": "Simpson",
+        "currentMinAge": 102,
+        "currentMaxAge": 102,
+        "computedMissingMinAge": 27,
+        "computedMissingMaxAge": 27
+      },
+      "subjectDescription": {
+        "id": 221276,
+        "heightFrom": 70,
+        "weightFrom": 145,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 104821
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 250840,
+        "circumstancesOfDisappearance": "George was the co-pilot of a Douglas C-47 Skytrain (DC-3) with tail number N41748 when it crashed on the southeast slope of Mt. Crillon sometime after 1147 hours when it last gave its position. Wreckage was located from the air on 01-13-1952 but was not visible the next day due to being buried in an avalanche or new storm."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 286773,
+        "date": "1952-01-12",
+        "address": {
+          "city": "Juneau",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "displayName": "AK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 134,
+            "name": "Juneau Borough",
+            "displayName": "Juneau"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 58.30049329999999,
+            "lon": -134.4201306
+          },
+          "formattedAddress": "Juneau, AK, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 170352,
+          "isCaseOwner": false,
+          "name": "Alaska State Troopers",
+          "city": "Anchorage",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 126,
+            "name": "Anchorage Borough",
+            "localizedName": "Anchorage"
+          },
+          "countyDisplayName": "Anchorage",
+          "selection": {
+            "id": 196381,
+            "contact": {
+              "id": 21038,
+              "firstName": "Malia",
+              "lastName": "Miller",
+              "jobTitle": "Missing Persons Clearinghouse Manager",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40118,
+              "name": "Alaska State Troopers",
+              "street1": "5700 East Tudor Road",
+              "city": "Anchorage",
+              "county": {
+                "id": 126,
+                "name": "Anchorage Borough",
+                "localizedName": "Anchorage"
+              },
+              "zipCode": "99507",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9072695511",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "AK25053104",
+          "dateReported": "1952-01-12"
+        },
+        {
+          "id": 170935,
+          "isCaseOwner": false,
+          "name": "National Park Service - Glacier Bay",
+          "city": "Gustavus",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 133,
+            "name": "Hoonah–Angoon Census Area",
+            "localizedName": "Hoonah–Angoon"
+          },
+          "countyDisplayName": "Hoonah–Angoon",
+          "selection": {
+            "id": 197202,
+            "agency": {
+              "id": 80067,
+              "name": "National Park Service - Glacier Bay",
+              "street1": "1 Park Road",
+              "city": "Gustavus",
+              "county": {
+                "id": 133,
+                "name": "Hoonah–Angoon Census Area",
+                "localizedName": "Hoonah–Angoon"
+              },
+              "zipCode": "99826",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9076972230",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nps.gov/glba/contacts.htm"
+            }
+          },
+          "caseNumber": "NPA24233556"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40118,
+        "isCaseOwner": false,
+        "name": "Alaska State Troopers"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 112830,
+        "investigatingAgencyIdentityId": 170352
+      },
+      "physicalDescription": {
+        "id": 203215,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 108487,
+          "identityId": 93516,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Two scars on right shoulder (one is 2\")"
+        },
+        {
+          "id": 108488,
+          "identityId": 98374,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Freckles"
+        }
+      ],
+      "images": [
+        {
+          "id": 235635,
+          "identityId": 220783,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T18:26:41.367",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 238,
+              "width": 147,
+              "storageKey": "51f878dc4dcb4da9a7377b37dd137d5e",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/220783/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 74,
+              "storageKey": "df3853d35bcf40488ba04aa6b79106cf",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/220783/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/220783/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119042,
+        "defaultImageIdentityId": 220783
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
     }
   ]
