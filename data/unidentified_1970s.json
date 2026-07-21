@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T09:23:51.370144+00:00",
+  "generated_at": "2026-07-21T08:36:20.572969+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 985,
+  "count": 987,
   "cases": [
     {
       "id": 103,
@@ -283508,6 +283508,901 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143934/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143934/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 144093,
+      "idFormatted": "UP144093",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-19T20:07:44.287",
+      "modifiedDateTime": "2026-07-17T18:01:58.483",
+      "caseIdentification": {
+        "id": 51109,
+        "caseNumber": "1979-01082"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71073,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 132,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76253,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-01-14",
+        "address": {
+          "city": "Zuni",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "displayName": "McKinley"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "The deceased had been seen walking along the highway when he was struck on highway \"UMR + 53 at Zuni Teacherage\".",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.0694767,
+            "lon": -108.8484168
+          },
+          "formattedAddress": "Zuni, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54124,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56727,
+          "identityId": 47900,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "A blue and white handkerchief",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56728,
+          "identityId": 47901,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A size medium dark blue long-sleeved heavy jacket with a brown and white fur collar, with a zippered front. The interior is quilted orange with a tag saying \"Jacket, flying\" and label number RN48331",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56745,
+          "identityId": 47914,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A white, blue, green, and gold plain cotton button-up shirt with an Arrow label. Size small 14 - 14 1/2.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56746,
+          "identityId": 47915,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long, dark blue denim jeans with a brown leather belt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56747,
+          "identityId": 47916,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "An XL size light blue flannel zippered long sleeve hooded jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56751,
+          "identityId": 47917,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Low top lace up light brown leather boots with white corrugated soles",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56749,
+          "identityId": 47918,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "In the right ear is a yellow/gold metal star earring",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56750,
+          "identityId": 47919,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "This individual was carrying:\n3 lemons\nA Snickers bar\nTwo professional photos of a late teen/early 20s girl\nMatches\nA comb",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46571,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Straight black hair measuring about 20 cm in length.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17211,
+          "identityId": 14468,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the back of the right hand is a tattoo in dark blue/black ink of an arc with an intersecting line with the word \"LOVE\" underneath."
+        },
+        {
+          "id": 17212,
+          "identityId": 14469,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the center chest is a tattoo in dark blue/black ink of a cross made of dots"
+        },
+        {
+          "id": 17213,
+          "identityId": 14470,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the back of the left lower arm is a tattoo in blue/black ink of the word \"PEACE\""
+        },
+        {
+          "id": 17214,
+          "identityId": 14471,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the back of the left hand is a dark blue/black ink tattoo of a small peace sign"
+        },
+        {
+          "id": 17215,
+          "identityId": 14472,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the back of the left hand is a dark blue/black ink tattoo of the letter \"J\""
+        }
+      ],
+      "images": [
+        {
+          "id": 126504,
+          "identityId": 114080,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-18T13:31:19.05",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 300,
+              "width": 355,
+              "storageKey": "d5d9ed0543124f35aab1cb8f83882109",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114080/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 101,
+              "width": 120,
+              "storageKey": "3af19ebaaf1b4f14b7a53faa654beef3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114080/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114080/Download"
+        },
+        {
+          "id": 126505,
+          "identityId": 114081,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-18T13:31:28.02",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 342,
+              "width": 440,
+              "storageKey": "95bc185d904947789bcfeea353d83779",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114081/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 93,
+              "width": 120,
+              "storageKey": "9e761c8cf7fd46fc87a348ed5ee37152",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114081/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114081/Download"
+        },
+        {
+          "id": 126506,
+          "identityId": 114082,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-18T13:31:44.003",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 532,
+              "width": 463,
+              "storageKey": "feebaa9faaf64af2bff33ebc1fe1b6a7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114082/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 104,
+              "storageKey": "0a2a30b5479548c0a6180aea6f756c40",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114082/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/114082/Download"
+        },
+        {
+          "id": 130300,
+          "identityId": 117610,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-10T16:40:44.21",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 853,
+              "width": 1280,
+              "storageKey": "c1c055c56a434239857d2b36f5ca43f5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117610/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "e0dc3f3fa85c4d27abfece9acd7525b8",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117610/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117610/Download"
+        },
+        {
+          "id": 130301,
+          "identityId": 117611,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-10T16:40:45.1",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1280,
+              "width": 853,
+              "storageKey": "2d7a0757f384415dad850c18296fa086",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117611/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 80,
+              "storageKey": "195af1d9afe54cfca198b1ecfa44a5f7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117611/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117611/Download"
+        },
+        {
+          "id": 130302,
+          "identityId": 117612,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-10T16:40:45.817",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 853,
+              "width": 1280,
+              "storageKey": "307334f82ca04d97b523abce923ff165",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117612/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "bb19262d298340fea38c89751373021c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117612/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/117612/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50187,
+          "isCaseOwner": false,
+          "name": "Zuni Tribal Police Department",
+          "city": "Zuni",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "localizedName": "McKinley"
+          },
+          "countyDisplayName": "McKinley",
+          "selection": {
+            "id": 59155,
+            "agency": {
+              "id": 48199,
+              "name": "Zuni Tribal Police Department",
+              "street1": "1209 NM-53",
+              "city": "Zuni",
+              "county": {
+                "id": 1874,
+                "name": "McKinley County",
+                "localizedName": "McKinley"
+              },
+              "zipCode": "87327",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5057824493",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50191,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 59163,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1979-01082"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144093/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 144264,
+      "idFormatted": "UP144264",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-21T20:03:56.927",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 51122,
+        "caseNumber": "1979-01505"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71096,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 63,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 143,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75818,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-02-23",
+        "address": {
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "displayName": "McKinley"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Found in an arroyo approximately 40 yards W of the Esquire Lounge.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.5263073,
+            "lon": -108.7420186
+          },
+          "formattedAddress": "Gallup, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54143,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56489,
+          "identityId": 47699,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "light brown cotton-like pullover top",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57272,
+          "identityId": 48316,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56490,
+          "identityId": 47700,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "black high topped socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46384,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50209,
+          "isCaseOwner": false,
+          "name": "Gallup Police Department",
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "localizedName": "McKinley"
+          },
+          "countyDisplayName": "McKinley",
+          "selection": {
+            "id": 59188,
+            "agency": {
+              "id": 45746,
+              "name": "Gallup Police Department",
+              "street1": "451 Boardman Drive",
+              "city": "Gallup",
+              "county": {
+                "id": 1874,
+                "name": "McKinley County",
+                "localizedName": "McKinley"
+              },
+              "zipCode": "87301",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058639365",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.gallupnm.gov/217/Police"
+            }
+          }
+        },
+        {
+          "id": 50876,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60568,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1979-01505"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24516,
+        "investigatingAgencyIdentityId": 50876
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144264/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144264/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
     }
   ]

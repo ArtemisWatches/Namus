@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T09:23:51.370144+00:00",
+  "generated_at": "2026-07-21T08:36:20.572969+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2044,
+  "count": 2050,
   "cases": [
     {
       "id": 64643,
@@ -617390,6 +617390,1542 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/143866/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 144087,
+      "idFormatted": "UP144087",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-19T19:34:54.173",
+      "modifiedDateTime": "2025-05-19T21:22:46.313",
+      "caseIdentification": {
+        "id": 51107,
+        "caseNumber": "IFS-25-07633"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71068,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 62,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 93,
+        "weightTo": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75787,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-15",
+        "address": {
+          "city": "Hutchins",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75141"
+        },
+        "description": "905 Dowdy Ferry Rd",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified human remains found in a creek in Hutchins, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.64022380000001,
+            "lon": -96.71729069999999
+          },
+          "formattedAddress": "Hutchins, TX 75141, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54122,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46368,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17154,
+          "identityId": 14418,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Tattoos are identified on the lateral right arm, anterior right arm, and anterior right leg.  A possible tattoo is on the posterior right forearm."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50186,
+          "isCaseOwner": false,
+          "name": "Hutchins Police Department",
+          "city": "Hutchins",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59153,
+            "agency": {
+              "id": 49052,
+              "name": "Hutchins Police Department",
+              "street1": "205 West Hickman Street, Hutchins, TX 75141",
+              "city": "Hutchins",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75141",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9722252225",
+              "email": "HPDCID@hutchinspd.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://cityofhutchins.org/police.html"
+            }
+          },
+          "caseNumber": "2500015658",
+          "dateReported": "2025-05-15"
+        },
+        {
+          "id": 50192,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59164,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-07633"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144087/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144087/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 144096,
+      "idFormatted": "UP144096",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-19T20:19:05.587",
+      "modifiedDateTime": "2026-03-09T16:25:17.727",
+      "caseIdentification": {
+        "id": 51110,
+        "caseNumber": "IFS-25-06904"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71075,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "heightFrom": 73,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 232,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75785,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-02",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0
+        },
+        "description": "Baylor University Medical Center at Dallas",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified deceased male recovered in a ditch in Dallas, Texas.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7766642,
+            "lon": -96.79698789999999
+          },
+          "formattedAddress": "Dallas, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55501,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46371,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125824,
+          "identityId": 113444,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Rendering by TX Rangers Forensic Artist",
+          "isPublic": true,
+          "createdDateTime": "2025-05-21T16:34:55.227",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 2583,
+              "storageKey": "2a190bd959044d968a1a9ed31cf2d8a5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144096/Images/113444/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "ab6dc5e9b0c54bb1a2e8dcd574152f01",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144096/Images/113444/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144096/Images/113444/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25860,
+        "defaultImageIdentityId": 113444
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50188,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 59162,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-06904",
+          "dateReported": "2025-05-02"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23987,
+        "investigatingAgencyIdentityId": 50188
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144096/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144096/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 144100,
+      "idFormatted": "UP144100",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-19T20:36:29.167",
+      "modifiedDateTime": "2025-09-02T21:55:51.857",
+      "caseIdentification": {
+        "id": 51111,
+        "caseNumber": "24-4456"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71077,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2020,
+        "estimatedYearOfDeathTo": 2024,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75850,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-21",
+        "address": {
+          "city": "Ajo",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Isolated cranium found in remote desert area southwest of Ajo, AZ by humanitarian group.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3717248,
+            "lon": -112.8607099
+          },
+          "formattedAddress": "Ajo, AZ 85321, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54127,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46372,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125730,
+          "identityId": 113352,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2025-05-19T20:40:12.543",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 695,
+              "width": 547,
+              "storageKey": "c51725bd5b4b4b1f85a3571a448c5ec5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144100/Images/113352/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "f11e30a500f0407b89f3c143df6dfc16",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144100/Images/113352/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144100/Images/113352/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25854,
+        "defaultImageIdentityId": 113352
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50189,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 59160,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "24-4456"
+        },
+        {
+          "id": 50190,
+          "isCaseOwner": false,
+          "name": "Pima County Sheriff's Department",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 59161,
+            "agency": {
+              "id": 43282,
+              "name": "Pima County Sheriff's Department",
+              "street1": "1750 East Benson Highway",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203514600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pimasheriff.org/"
+            }
+          },
+          "caseNumber": "241225123"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23986,
+        "investigatingAgencyIdentityId": 50189
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144100/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144100/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 144221,
+      "idFormatted": "UP144221",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-21T10:09:16.353",
+      "modifiedDateTime": "2026-03-25T13:35:43.747",
+      "caseIdentification": {
+        "id": 51117,
+        "caseNumber": "07-24-2491"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71086,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 142,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 75808,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-12-29",
+        "address": {
+          "city": "Newark",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "displayName": "NJ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1842,
+            "name": "Essex County",
+            "displayName": "Essex"
+          },
+          "countyId": 0,
+          "zipCode": "07104"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "FOUND OUTSIDE ON SIDEWALK",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7758541,
+            "lon": -74.16509909999999
+          },
+          "formattedAddress": "Newark, NJ 07104, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54139,
+        "allPartsRecovered": false,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46378,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17720,
+          "identityId": 14864,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Large vertical scar on the lower abdomen"
+        }
+      ],
+      "images": [
+        {
+          "id": 125802,
+          "identityId": 113422,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-21T10:12:08.12",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3712,
+              "width": 5568,
+              "storageKey": "f5d6ae07367c4cb9ba677f4dee1d22df",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/113422/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "a365d19be0ae45d18997b0f024c4b841",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/113422/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/113422/Download"
+        },
+        {
+          "id": 133201,
+          "identityId": 120197,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 8,
+            "name": "ScarsAndMarks",
+            "localizedName": "Scars and marks",
+            "ordinal": 80
+          },
+          "caption": "Large vertical scar on the lower abdomen",
+          "isPublic": true,
+          "createdDateTime": "2026-03-25T13:35:17.137",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3712,
+              "width": 4483,
+              "storageKey": "2735ff91928b4790a804275844299659",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/120197/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 99,
+              "width": 120,
+              "storageKey": "f750c8981b82402cacbacc735f494cf2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/120197/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/120197/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25858,
+        "defaultImageIdentityId": 113422
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50201,
+          "isCaseOwner": false,
+          "name": "Northern Regional Medical Examiner's Office",
+          "city": "Newark",
+          "state": {
+            "id": 56,
+            "name": "New Jersey",
+            "localizedName": "NJ"
+          },
+          "stateDisplayName": "NJ",
+          "county": {
+            "id": 1842,
+            "name": "Essex County",
+            "localizedName": "Essex"
+          },
+          "countyDisplayName": "Essex",
+          "selection": {
+            "id": 59185,
+            "agency": {
+              "id": 22154,
+              "name": "Northern Regional Medical Examiner's Office",
+              "street1": "325 Norfolk St",
+              "city": "Newark",
+              "county": {
+                "id": 1842,
+                "name": "Essex County",
+                "localizedName": "Essex"
+              },
+              "zipCode": "07103",
+              "state": {
+                "id": 56,
+                "name": "New Jersey",
+                "localizedName": "NJ"
+              },
+              "phone": "9736484500",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://ocsme.nj.gov/NRMEO"
+            }
+          },
+          "caseNumber": "07-24-2491"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23995,
+        "investigatingAgencyIdentityId": 50201
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144221/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Jersey"
+    },
+    {
+      "id": 144229,
+      "idFormatted": "UP144229",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-21T14:56:35.987",
+      "modifiedDateTime": "2026-06-04T17:08:38.857",
+      "caseIdentification": {
+        "id": 51118,
+        "caseNumber": "ME25-6044/B25-2056"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71797,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 7,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 30,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75816,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-17",
+        "address": {
+          "city": "Chapel Hill",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "displayName": "NC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2019,
+            "name": "Orange County",
+            "displayName": "Orange"
+          },
+          "countyId": 0,
+          "zipCode": "27516"
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "On 5/17, a woman walking her dog in a wooded area near the above stated coordinates came across a human skull and called 911. LE arrived on scene and began search of the scene. LE plan to bring cadaver dogs to continue search of the area on 5/19. Near bones, are scattered clothing and two plastic bags tied shut with a phone charger. No other personal property in area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.9131996,
+            "lon": -79.0558445
+          },
+          "formattedAddress": "Chapel Hill, NC, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54140,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46379,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50202,
+          "isCaseOwner": false,
+          "name": "Orange County Sheriff's Office",
+          "city": "Hillsborough",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "localizedName": "NC"
+          },
+          "stateDisplayName": "NC",
+          "county": {
+            "id": 2019,
+            "name": "Orange County",
+            "localizedName": "Orange"
+          },
+          "countyDisplayName": "Orange",
+          "selection": {
+            "id": 59177,
+            "agency": {
+              "id": 43601,
+              "name": "Orange County Sheriff's Office",
+              "street1": "106 East Margaret Lane",
+              "city": "Hillsborough",
+              "county": {
+                "id": 2019,
+                "name": "Orange County",
+                "localizedName": "Orange"
+              },
+              "zipCode": "27278",
+              "state": {
+                "id": 6,
+                "name": "North Carolina",
+                "localizedName": "NC"
+              },
+              "phone": "9196443050",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ocsonc.com/"
+            }
+          },
+          "caseNumber": "25-03237",
+          "dateReported": "2025-05-17"
+        },
+        {
+          "id": 50208,
+          "isCaseOwner": false,
+          "name": "North Carolina Office of the Chief Medical Examiner",
+          "city": "Raleigh",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "localizedName": "NC"
+          },
+          "stateDisplayName": "NC",
+          "county": {
+            "id": 2043,
+            "name": "Wake County",
+            "localizedName": "Wake"
+          },
+          "countyDisplayName": "Wake",
+          "selection": {
+            "id": 59187,
+            "agency": {
+              "id": 24508,
+              "name": "North Carolina Office of the Chief Medical Examiner",
+              "street1": "4312 District Drive",
+              "street2": "3025 Mail Service Center",
+              "city": "Raleigh",
+              "county": {
+                "id": 2043,
+                "name": "Wake County",
+                "localizedName": "Wake"
+              },
+              "zipCode": "27699",
+              "state": {
+                "id": 6,
+                "name": "North Carolina",
+                "localizedName": "NC"
+              },
+              "phone": "9197439000",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ocme.dhhs.nc.gov/"
+            }
+          },
+          "caseNumber": "ME25-6044/B25-2056"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23997,
+        "investigatingAgencyIdentityId": 50208
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144229/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144229/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Carolina"
+    },
+    {
+      "id": 144239,
+      "idFormatted": "UP144239",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-21T17:08:00.89",
+      "modifiedDateTime": "2026-05-18T18:11:31.68",
+      "caseIdentification": {
+        "id": 51121,
+        "caseNumber": "24-14932"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71095,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 60,
+        "estimatedAgeTo": 69,
+        "heightFrom": 63,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75814,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-11-20",
+        "address": {
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "displayName": "MD"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "displayName": "Baltimore"
+          },
+          "countyId": 0,
+          "zipCode": "21211"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decomposed remains found in a wooded area by a park worker.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.3289463,
+            "lon": -76.63838319999999
+          },
+          "formattedAddress": "Baltimore, MD 21211, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54142,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56488,
+          "identityId": 47698,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White tank top (brand and size unknown)\nPlaid boxer shorts (Size XL) \nBlack \"Roca Wear\" underpants (size unknown)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46383,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "A mass of scalp hair (black, short) was partially attached to the skull. Two woven braids were present with the remaining hair.",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50205,
+          "isCaseOwner": false,
+          "name": "Baltimore Police Department - Headquarters",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 59183,
+            "agency": {
+              "id": 45628,
+              "name": "Baltimore Police Department - Headquarters",
+              "street1": "601 East Fayette Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21202",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "email": "HomicideTips@baltimorepolice.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.baltimorepolice.org/"
+            }
+          },
+          "caseNumber": "241106266",
+          "dateReported": "2024-11-20"
+        },
+        {
+          "id": 50207,
+          "isCaseOwner": false,
+          "name": "Maryland Office of the Chief Medical Examiner",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 59186,
+            "agency": {
+              "id": 43731,
+              "name": "Maryland Office of the Chief Medical Examiner",
+              "street1": "900 W. Baltimore Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21223",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "phone": "4103333250",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://health.maryland.gov/ocme/Pages/Home.aspx"
+            }
+          },
+          "caseNumber": "24-14932"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 23996,
+        "investigatingAgencyIdentityId": 50207
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144239/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144239/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Maryland"
     }
   ]
 }

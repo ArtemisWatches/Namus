@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T08:22:33.095205+00:00",
+  "generated_at": "2026-07-21T08:36:09.159331+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1258,
+  "count": 1259,
   "cases": [
     {
       "id": 1,
@@ -367788,6 +367788,202 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/142585/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145527,
+      "idFormatted": "MP145527",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-11T20:14:54.207",
+      "modifiedDateTime": "2025-09-17T23:29:42.487",
+      "subjectIdentification": {
+        "id": 236263,
+        "firstName": "Erma",
+        "middleName": "Lou",
+        "lastName": "Struthers",
+        "currentMinAge": 91,
+        "currentMaxAge": 91,
+        "computedMissingMinAge": 37,
+        "computedMissingMaxAge": 37
+      },
+      "subjectDescription": {
+        "id": 207690,
+        "heightFrom": 67,
+        "weightFrom": 165,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 246773,
+        "circumstancesOfDisappearance": "Erma was last seen at St. James park in San Jose, California."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 288668,
+        "date": "1972-05-01",
+        "address": {
+          "city": "San Jose",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 289,
+            "name": "Santa Clara County",
+            "displayName": "Santa Clara"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.33874,
+            "lon": -121.8852525
+          },
+          "formattedAddress": "San Jose, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 170706,
+          "isCaseOwner": false,
+          "name": "Placer County Sheriff's Office",
+          "city": "Auburn",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "localizedName": "Placer"
+          },
+          "countyDisplayName": "Placer",
+          "selection": {
+            "id": 197500,
+            "agency": {
+              "id": 43987,
+              "name": "Placer County Sheriff's Office",
+              "street1": "2929 Richardson Drive",
+              "city": "Auburn",
+              "county": {
+                "id": 277,
+                "name": "Placer County",
+                "localizedName": "Placer"
+              },
+              "zipCode": "95603",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5308897800",
+              "email": "pcsoadmin@placer.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.placer.ca.gov/1680/Sheriffs-Office"
+            }
+          },
+          "caseNumber": "SO100006700"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43987,
+        "isCaseOwner": false,
+        "name": "Placer County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 113184,
+        "investigatingAgencyIdentityId": 170706
+      },
+      "physicalDescription": {
+        "id": 204089,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Shoulder Length Hair",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 103474,
+          "identityId": 93596,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Birthmark (mole) back, right side"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
