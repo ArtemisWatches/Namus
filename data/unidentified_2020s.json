@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T08:36:20.572969+00:00",
+  "generated_at": "2026-07-22T08:36:08.812307+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2050,
+  "count": 2057,
   "cases": [
     {
       "id": 64643,
@@ -618926,6 +618926,2014 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144239/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144239/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Maryland"
+    },
+    {
+      "id": 144461,
+      "idFormatted": "UP144461",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-26T02:35:15.203",
+      "modifiedDateTime": "2026-01-30T13:12:43.74",
+      "caseIdentification": {
+        "id": 51128,
+        "caseNumber": "25-0261"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71108,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 35,
+        "estimatedAgeTo": 70,
+        "heightFrom": 70,
+        "heightTo": 76,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75833,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-02",
+        "address": {
+          "city": "Queen Valley",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 168,
+            "name": "Pinal County",
+            "displayName": "Pinal"
+          },
+          "countyId": 0,
+          "zipCode": "85118"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "33.25855, -111.25173",
+        "circumstancesOfRecovery": "These partial skeletal remains were found in a desert area of Queen Valley, Arizona. The person was believed to be deceased since at least autumn of 2023.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.29866560000001,
+            "lon": -111.2895709
+          },
+          "formattedAddress": "Queen Valley, AZ 85118, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54147,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56494,
+          "identityId": 47702,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "T-shirt, green, no size visible; logo front and back for Zaxis Contracting LLC (company has been questioned)\nblue denim cutoff shorts (was size 36x30 jeans prior to being cut into shorts)\ndark boxer briefs (Legend brand)",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 56493,
+          "identityId": 47703,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "tennis shoes, men's size 13",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 57621,
+          "identityId": 47704,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "$68.19 USD found with remains\ntoy action figure of wrestler Scott Steiner found near remains (unk if associated to this decedent or dropped by an unassociated passerby on the walking trail)",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46388,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125947,
+          "identityId": 113561,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "shirt (Zaxis Contracting LLC)",
+          "isPublic": true,
+          "createdDateTime": "2025-05-26T02:55:54.503",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3514,
+              "width": 3456,
+              "storageKey": "589c91ae59694ad5bff50f73fdca2597",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113561/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 118,
+              "storageKey": "ae305b070edf4a818748bee00a5bdf8f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113561/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113561/Download"
+        },
+        {
+          "id": 125948,
+          "identityId": 113562,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-26T02:56:15.333",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1971,
+              "width": 4608,
+              "storageKey": "fd06ff8e10f045c4aacfe4de047f0677",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113562/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 51,
+              "width": 120,
+              "storageKey": "5402e4f7f08a49a0a2aaa920c4f6cfd2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113562/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113562/Download"
+        },
+        {
+          "id": 125949,
+          "identityId": 113563,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-26T02:56:30.177",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2479,
+              "width": 4608,
+              "storageKey": "4904c68f3c71403997cbf8a1a83cb051",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113563/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 65,
+              "width": 120,
+              "storageKey": "dc9c3ed09700463d982d25dbbd84cb79",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113563/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113563/Download"
+        },
+        {
+          "id": 125951,
+          "identityId": 113565,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-26T02:57:05.443",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3456,
+              "width": 4608,
+              "storageKey": "85cbf5d61ad24d8d9676c4818d5d8700",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113565/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "3736f6dace954b72b3b8c9720831b2b1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113565/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113565/Download"
+        },
+        {
+          "id": 125950,
+          "identityId": 113564,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-26T02:56:48.753",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3456,
+              "width": 3186,
+              "storageKey": "fba4cb72ac3a43c5be73bcbe168c9cdd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113564/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 111,
+              "storageKey": "85971de722d94a3ab46424a4740745ff",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113564/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/113564/Download"
+        },
+        {
+          "id": 128963,
+          "identityId": 116336,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "found nearby, unk if this belonged to decedent or dropped in the area by a passerby on the walking trail",
+          "isPublic": true,
+          "createdDateTime": "2025-09-05T14:43:09.333",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4000,
+              "width": 6000,
+              "storageKey": "769527fe649a4f12875b94524d295857",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/116336/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 80,
+              "width": 120,
+              "storageKey": "e4e345fbab064baea7807b398c3637d5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/116336/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/116336/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25868,
+        "defaultImageIdentityId": 113561
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50219,
+          "isCaseOwner": false,
+          "name": "Pinal County Sheriff's Office",
+          "city": "Florence",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 168,
+            "name": "Pinal County",
+            "localizedName": "Pinal"
+          },
+          "countyDisplayName": "Pinal",
+          "selection": {
+            "id": 59221,
+            "agency": {
+              "id": 47762,
+              "name": "Pinal County Sheriff's Office",
+              "street1": "971 North Jason Lopez Circle",
+              "street2": "Building C",
+              "city": "Florence",
+              "county": {
+                "id": 168,
+                "name": "Pinal County",
+                "localizedName": "Pinal"
+              },
+              "zipCode": "85132",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5208665111",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.pinalcountyaz.gov/Sheriff/Pages/home.aspx"
+            }
+          },
+          "caseNumber": "25-0302161",
+          "dateReported": "2025-03-02"
+        },
+        {
+          "id": 50234,
+          "isCaseOwner": false,
+          "name": "Pinal County Medical Examiner",
+          "city": "Florence",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 168,
+            "name": "Pinal County",
+            "localizedName": "Pinal"
+          },
+          "countyDisplayName": "Pinal",
+          "selection": {
+            "id": 59240,
+            "agency": {
+              "id": 43279,
+              "name": "Pinal County Medical Examiner",
+              "street1": "920 Bowling Road",
+              "city": "Florence",
+              "county": {
+                "id": 168,
+                "name": "Pinal County",
+                "localizedName": "Pinal"
+              },
+              "zipCode": "85132",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5208667260",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pinal.gov/634/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-0261"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24025,
+        "investigatingAgencyIdentityId": 50234
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144461/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 144534,
+      "idFormatted": "UP144534",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-27T15:52:26.957",
+      "modifiedDateTime": "2026-01-14T19:26:58.797",
+      "caseIdentification": {
+        "id": 51129,
+        "caseNumber": "25-05252"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71181,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 37,
+        "estimatedAgeTo": 72,
+        "estimatedYearOfDeathFrom": 1978,
+        "estimatedYearOfDeathTo": 2024,
+        "estimatedYearOfBirthFrom": 1906,
+        "estimatedYearOfBirthTo": 1987,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 6,
+          "name": "Years",
+          "localizedName": "Years"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76007,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-08",
+        "address": {
+          "city": "Phoenix",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "displayName": "Maricopa"
+          },
+          "countyId": 0,
+          "zipCode": "85008"
+        },
+        "description": "50th Street and Van Buren",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified skeletal remains found at 50th Street East Van Buren Street, Phoenix, AZ.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.4660406,
+            "lon": -112.0118669
+          },
+          "formattedAddress": "Phoenix, AZ 85008, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55280,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56499,
+          "identityId": 47707,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "WordicTrack brand shorts, unknown size. Unspecified colored.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46389,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 126165,
+          "identityId": 113765,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T19:52:26.813",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2315,
+              "width": 1990,
+              "storageKey": "cb3be183d9ba400192d13ba8a0a97335",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113765/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 103,
+              "storageKey": "af2259d6ab554656ba170127538f304b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113765/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113765/Download"
+        },
+        {
+          "id": 126166,
+          "identityId": 113766,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T19:52:52.86",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2315,
+              "width": 1990,
+              "storageKey": "53141e4cc25244738a3d3dcbdd8a8360",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113766/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 103,
+              "storageKey": "b381f660043f4ae987db6d6f83f3bf4c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113766/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/113766/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25885,
+        "defaultImageIdentityId": 113765
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50220,
+          "isCaseOwner": false,
+          "name": "Maricopa County Office of the Medical Examiner",
+          "city": "Phoenix",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "localizedName": "Maricopa"
+          },
+          "countyDisplayName": "Maricopa",
+          "selection": {
+            "id": 59241,
+            "contact": {
+              "id": 5163,
+              "firstName": "Christen",
+              "lastName": "Eggers",
+              "jobTitle": "Sr. Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40067,
+              "name": "Maricopa County Office of the Medical Examiner",
+              "street1": "701 West Jefferson Street",
+              "city": "Phoenix",
+              "county": {
+                "id": 164,
+                "name": "Maricopa County",
+                "localizedName": "Maricopa"
+              },
+              "zipCode": "85007",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "6025063322",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.maricopa.gov/468/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-05252"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24026,
+        "investigatingAgencyIdentityId": 50220
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144534/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 144541,
+      "idFormatted": "UP144541",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-27T18:12:15.817",
+      "modifiedDateTime": "2025-06-03T15:16:56.377",
+      "caseIdentification": {
+        "id": 51132,
+        "caseNumber": "18-20-4097"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71118,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75842,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-12-26",
+        "address": {
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "displayName": "KS"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "displayName": "Sedgwick"
+          },
+          "countyId": 0,
+          "zipCode": "67216"
+        },
+        "description": "2466 East MacArthur Rd.  (Chapin Park)",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "A human skull was recovered from the bank of the Arkansas River in Chapin Park, Wichita, Sedgwick County, Kansas. A survey was conducted in the immediate area as well as upstream and downstream in the river, since the scene suggested that the skull floated in the river for some time starting upstream from the area of the skull discovery.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.613743,
+            "lon": -97.31925419999999
+          },
+          "formattedAddress": "Wichita, KS 67216, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54151,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46392,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50226,
+          "isCaseOwner": false,
+          "name": "Wichita Police Department",
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "localizedName": "KS"
+          },
+          "stateDisplayName": "KS",
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "localizedName": "Sedgwick"
+          },
+          "countyDisplayName": "Sedgwick",
+          "selection": {
+            "id": 59230,
+            "agency": {
+              "id": 47448,
+              "name": "Wichita Police Department",
+              "street1": "455 North Main",
+              "city": "Wichita",
+              "county": {
+                "id": 1036,
+                "name": "Sedgwick County",
+                "localizedName": "Sedgwick"
+              },
+              "zipCode": "67202",
+              "state": {
+                "id": 4,
+                "name": "Kansas",
+                "localizedName": "KS"
+              },
+              "phone": "3162684407",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.wichita.gov/536/Police"
+            }
+          },
+          "caseNumber": "20C079423",
+          "dateReported": "2020-12-26"
+        },
+        {
+          "id": 50241,
+          "isCaseOwner": false,
+          "name": "Sedgwick County Regional Forensic Science Center",
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "localizedName": "KS"
+          },
+          "stateDisplayName": "KS",
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "localizedName": "Sedgwick"
+          },
+          "countyDisplayName": "Sedgwick",
+          "selection": {
+            "id": 59251,
+            "agency": {
+              "id": 12658,
+              "name": "Sedgwick County Regional Forensic Science Center",
+              "street1": "District 18",
+              "street2": "1109 North Minneapolis",
+              "city": "Wichita",
+              "county": {
+                "id": 1036,
+                "name": "Sedgwick County",
+                "localizedName": "Sedgwick"
+              },
+              "zipCode": "67214",
+              "state": {
+                "id": 4,
+                "name": "Kansas",
+                "localizedName": "KS"
+              },
+              "phone": "3166604800",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "18-20-4097"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24031,
+        "investigatingAgencyIdentityId": 50241
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144541/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144541/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Kansas"
+    },
+    {
+      "id": 144540,
+      "idFormatted": "UP144540",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-27T17:59:02.94",
+      "modifiedDateTime": "2025-06-03T15:15:44.36",
+      "caseIdentification": {
+        "id": 51131,
+        "caseNumber": "18-22-1042"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71117,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 100,
+        "estimatedYearOfDeathFrom": 2012,
+        "estimatedYearOfBirthFrom": 1912,
+        "estimatedYearOfBirthTo": 1972,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75924,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-04-03",
+        "address": {
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "displayName": "KS"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "displayName": "Sedgwick"
+          },
+          "countyId": 0,
+          "zipCode": "67220"
+        },
+        "description": "4110 E. 45th Street North",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "A human skull was found on the ground surface of a portion of the KOCH property located on E. 45th Street North, Wichita, KS. The location of the discovery was surrounded by tree lines on at least two sides. The ground surface was covered in moist reeds laying across the ground, suggesting the area had been flooded on a seasonal basis. Scatters of faunal bone were found across the site and documented.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.7645505,
+            "lon": -97.27607599999999
+          },
+          "formattedAddress": "Bel Aire, KS 67220, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54150,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46391,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50225,
+          "isCaseOwner": false,
+          "name": "Wichita Police Department",
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "localizedName": "KS"
+          },
+          "stateDisplayName": "KS",
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "localizedName": "Sedgwick"
+          },
+          "countyDisplayName": "Sedgwick",
+          "selection": {
+            "id": 59229,
+            "agency": {
+              "id": 47448,
+              "name": "Wichita Police Department",
+              "street1": "455 North Main",
+              "city": "Wichita",
+              "county": {
+                "id": 1036,
+                "name": "Sedgwick County",
+                "localizedName": "Sedgwick"
+              },
+              "zipCode": "67202",
+              "state": {
+                "id": 4,
+                "name": "Kansas",
+                "localizedName": "KS"
+              },
+              "phone": "3162684407",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.wichita.gov/536/Police"
+            }
+          },
+          "caseNumber": "22C019387",
+          "dateReported": "2022-04-03"
+        },
+        {
+          "id": 50275,
+          "isCaseOwner": false,
+          "name": "Sedgwick County Regional Forensic Science Center",
+          "city": "Wichita",
+          "state": {
+            "id": 4,
+            "name": "Kansas",
+            "localizedName": "KS"
+          },
+          "stateDisplayName": "KS",
+          "county": {
+            "id": 1036,
+            "name": "Sedgwick County",
+            "localizedName": "Sedgwick"
+          },
+          "countyDisplayName": "Sedgwick",
+          "selection": {
+            "id": 59299,
+            "agency": {
+              "id": 12658,
+              "name": "Sedgwick County Regional Forensic Science Center",
+              "street1": "District 18",
+              "street2": "1109 North Minneapolis",
+              "city": "Wichita",
+              "county": {
+                "id": 1036,
+                "name": "Sedgwick County",
+                "localizedName": "Sedgwick"
+              },
+              "zipCode": "67214",
+              "state": {
+                "id": 4,
+                "name": "Kansas",
+                "localizedName": "KS"
+              },
+              "phone": "3166604800",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "18-22-1042"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24049,
+        "investigatingAgencyIdentityId": 50275
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144540/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144540/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Kansas"
+    },
+    {
+      "id": 144608,
+      "idFormatted": "UP144608",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-28T18:26:22.29",
+      "modifiedDateTime": "2025-08-01T15:28:36.69",
+      "caseIdentification": {
+        "id": 51140,
+        "caseNumber": "1073"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71129,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 6,
+          "name": "Late Teen/Young Adult",
+          "localizedName": "Late Teen/Young Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75854,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-04-27",
+        "address": {
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2613,
+            "name": "Brooks County",
+            "displayName": "Brooks"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "gpsCoordinates": "27.13382, -98.09861",
+        "circumstancesOfRecovery": "Poco Grande Ranch",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 27.0273057,
+            "lon": -98.2212979
+          },
+          "formattedAddress": "Brooks County, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54160,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46396,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50236,
+          "isCaseOwner": false,
+          "name": "Brooks County Sheriff's Office",
+          "city": "Falfurrias",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2613,
+            "name": "Brooks County",
+            "localizedName": "Brooks"
+          },
+          "countyDisplayName": "Brooks",
+          "selection": {
+            "id": 59244,
+            "agency": {
+              "id": 42156,
+              "name": "Brooks County Sheriff's Office",
+              "street1": "701 East Rice Street",
+              "city": "Falfurrias",
+              "county": {
+                "id": 2613,
+                "name": "Brooks County",
+                "localizedName": "Brooks"
+              },
+              "zipCode": "78355",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "3613253696",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.co.brooks.tx.us/default.aspx?Brooks_County/Sheriff"
+            }
+          },
+          "caseNumber": "B240427-0001",
+          "dateReported": "2024-04-27"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144608/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144608/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 144738,
+      "idFormatted": "UP144738",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-30T19:15:03.287",
+      "modifiedDateTime": "2026-07-02T17:52:53.337",
+      "caseIdentification": {
+        "id": 51155,
+        "caseNumber": "2025-01093"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71145,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75893,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-26",
+        "address": {
+          "city": "Skwentna",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "displayName": "AK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 140,
+            "name": "Matanuska-Susitna Borough",
+            "displayName": "Matanuska-Susitna"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "61.95374, -150.93854",
+        "circumstancesOfRecovery": "Remains were found by a lake and recovered by AST.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 61.9659183,
+            "lon": -151.1872325
+          },
+          "formattedAddress": "Skwentna, AK 99667, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54174,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56515,
+          "identityId": 47717,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black/Dark Grey knit beanie",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56516,
+          "identityId": 47718,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "JBL speaker",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56517,
+          "identityId": 47719,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Cellphone",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56518,
+          "identityId": 47720,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Purple bic lighter",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56519,
+          "identityId": 47721,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Leatherman",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46416,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50256,
+          "isCaseOwner": false,
+          "name": "Alaska State Troopers - Palmer Post",
+          "city": "Palmer",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 140,
+            "name": "Matanuska-Susitna Borough",
+            "localizedName": "Matanuska-Susitna"
+          },
+          "countyDisplayName": "Matanuska-Susitna",
+          "selection": {
+            "id": 59277,
+            "agency": {
+              "id": 57683,
+              "name": "Alaska State Troopers - Palmer Post",
+              "street1": "453 South Valley Way",
+              "city": "Palmer",
+              "county": {
+                "id": 140,
+                "name": "Matanuska-Susitna Borough",
+                "localizedName": "Matanuska-Susitna"
+              },
+              "zipCode": "99654",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9077452131",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "AK25050102",
+          "dateReported": "2025-05-26"
+        },
+        {
+          "id": 50259,
+          "isCaseOwner": false,
+          "name": "Alaska Medical Examiner's Office",
+          "city": "Anchorage",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 126,
+            "name": "Anchorage Borough",
+            "localizedName": "Anchorage"
+          },
+          "countyDisplayName": "Anchorage",
+          "selection": {
+            "id": 59280,
+            "agency": {
+              "id": 1007,
+              "name": "Alaska Medical Examiner's Office",
+              "street1": "5455 Martin Luther King Jr. Avenue",
+              "city": "Anchorage",
+              "county": {
+                "id": 126,
+                "name": "Anchorage Borough",
+                "localizedName": "Anchorage"
+              },
+              "zipCode": "99507",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9073342200",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-01093"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24041,
+        "investigatingAgencyIdentityId": 50259
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144738/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144738/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
+    },
+    {
+      "id": 144848,
+      "idFormatted": "UP144848",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-02T15:17:15.177",
+      "modifiedDateTime": "2025-07-02T16:59:20.993",
+      "caseIdentification": {
+        "id": 51162,
+        "caseNumber": "ICF-2025-03621"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71155,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "possibleNicknames": "JOHN DOE 25-134",
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75904,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-18",
+        "address": {
+          "city": "San Juan",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "displayName": "PR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "displayName": "All"
+          },
+          "countyId": 0,
+          "zipCode": "00925"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "DOMINICAN NATIONAL, WAS FOUND WITH NO VITAL SIGNS IN THE MORNING BY ROOMATE.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 18.3978,
+            "lon": -66.05081419999999
+          },
+          "formattedAddress": "San Juan, 00925, Puerto Rico"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54180,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46423,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "SHORT WAVY WITH SOME GREY HAIRS",
+        "facialHairDescription": "STUBBLE PRESENT",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 126132,
+          "identityId": 113732,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "PHOTO ID",
+          "isPublic": true,
+          "createdDateTime": "2025-06-02T15:20:38.257",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 600,
+              "width": 480,
+              "storageKey": "445f236ad06a42ff8423f90396b2cd40",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144848/Images/113732/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "70eb48fb379f4104b2831bd851e90de4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144848/Images/113732/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144848/Images/113732/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25880,
+        "defaultImageIdentityId": 113732
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50263,
+          "isCaseOwner": false,
+          "name": "Institute of Forensic Sciences of Puerto Rico",
+          "city": "San Juan",
+          "state": {
+            "id": 36,
+            "name": "Puerto Rico",
+            "localizedName": "PR"
+          },
+          "stateDisplayName": "PR",
+          "county": {
+            "id": 2377,
+            "name": "All",
+            "localizedName": "All"
+          },
+          "countyDisplayName": "All",
+          "selection": {
+            "id": 59284,
+            "contact": {
+              "id": 303634,
+              "firstName": "Damara",
+              "lastName": "Guevara-Morales",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45370,
+              "name": "Institute of Forensic Sciences of Puerto Rico",
+              "street1": "Maga St Corner Casia #54",
+              "street2": "Urb. Reparto Metropolitano",
+              "city": "San Juan",
+              "county": {
+                "id": 2377,
+                "name": "All",
+                "localizedName": "All"
+              },
+              "zipCode": "00922",
+              "state": {
+                "id": 36,
+                "name": "Puerto Rico",
+                "localizedName": "PR"
+              },
+              "phone": "7877650615",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.icf.pr.gov/"
+            }
+          },
+          "caseNumber": "ICF-2025-03621",
+          "dateReported": "2025-06-02"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24042,
+        "investigatingAgencyIdentityId": 50263
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144848/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144848/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Puerto%20Rico"
     }
   ]
 }

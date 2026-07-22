@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T08:21:27.311662+00:00",
+  "generated_at": "2026-07-22T08:35:57.976980+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 264,
+  "count": 265,
   "cases": [
     {
       "id": 498,
@@ -77287,6 +77287,281 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/143151/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 146098,
+      "idFormatted": "MP146098",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-20T14:12:06.033",
+      "modifiedDateTime": "2026-01-21T16:13:51.157",
+      "subjectIdentification": {
+        "id": 236133,
+        "firstName": "Peter",
+        "middleName": "Bradstreet",
+        "lastName": "Brewster",
+        "currentMinAge": 89,
+        "currentMaxAge": 89,
+        "computedMissingMinAge": 30,
+        "computedMissingMaxAge": 30
+      },
+      "subjectDescription": {
+        "id": 208076,
+        "heightFrom": 72,
+        "heightTo": 74,
+        "weightFrom": 160,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 264230,
+        "circumstancesOfDisappearance": "His family reports that he left home on September 27, 1967."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 301109,
+        "date": "1967-09-27",
+        "address": {
+          "city": "Portsmouth",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "displayName": "NH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1833,
+            "name": "Rockingham County",
+            "displayName": "Rockingham"
+          },
+          "countyId": 0,
+          "zipCode": "03801"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.0702046,
+            "lon": -70.7546771
+          },
+          "formattedAddress": "Portsmouth, NH 03801, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 171033,
+          "isCaseOwner": false,
+          "name": "New Hampshire State Police",
+          "city": "Concord",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1832,
+            "name": "Merrimack County",
+            "localizedName": "Merrimack"
+          },
+          "countyDisplayName": "Merrimack",
+          "selection": {
+            "id": 205687,
+            "agency": {
+              "id": 43794,
+              "name": "New Hampshire State Police",
+              "street1": "Major Crime - Cold Case Unit",
+              "street2": "33 Hazen Drive",
+              "city": "Concord",
+              "county": {
+                "id": 1832,
+                "name": "Merrimack County",
+                "localizedName": "Merrimack"
+              },
+              "zipCode": "03305",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6032233856",
+              "email": "MCU@dos.nh.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "NOT PROVIDED"
+        },
+        {
+          "id": 178212,
+          "isCaseOwner": false,
+          "name": "Maine State Police Headquarters",
+          "city": "Augusta",
+          "state": {
+            "id": 38,
+            "name": "Maine",
+            "localizedName": "ME"
+          },
+          "stateDisplayName": "ME",
+          "county": {
+            "id": 1244,
+            "name": "Kennebec County",
+            "localizedName": "Kennebec"
+          },
+          "countyDisplayName": "Kennebec",
+          "selection": {
+            "id": 213015,
+            "agency": {
+              "id": 57765,
+              "name": "Maine State Police Headquarters",
+              "street1": "45 Commerce Drive",
+              "city": "Augusta",
+              "county": {
+                "id": 1244,
+                "name": "Kennebec County",
+                "localizedName": "Kennebec"
+              },
+              "zipCode": "04330",
+              "state": {
+                "id": 38,
+                "name": "Maine",
+                "localizedName": "ME"
+              },
+              "phone": "2076247076",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.maine.gov/dps/msp/about/contact"
+            }
+          },
+          "caseNumber": "25S052219"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 57765,
+        "isCaseOwner": false,
+        "name": "Maine State Police Headquarters"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 117335,
+        "investigatingAgencyIdentityId": 178212
+      },
+      "physicalDescription": {
+        "id": 203983,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 236220,
+          "identityId": 221298,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Peter Brewster",
+          "isPublic": true,
+          "createdDateTime": "2025-06-20T14:15:14.517",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 604,
+              "width": 480,
+              "storageKey": "3772c73669ff4405a952b3601741c767",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/221298/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 95,
+              "storageKey": "75c7e3fced114e4db2880479d6436ec5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/221298/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/221298/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119321,
+        "defaultImageIdentityId": 221298
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
     }
   ]
 }

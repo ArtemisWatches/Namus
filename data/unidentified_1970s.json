@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T08:36:20.572969+00:00",
+  "generated_at": "2026-07-22T08:36:08.812307+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 987,
+  "count": 989,
   "cases": [
     {
       "id": 103,
@@ -284404,6 +284404,927 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144264/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144264/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 144585,
+      "idFormatted": "UP144585",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-28T13:20:10.52",
+      "modifiedDateTime": "2026-04-30T23:53:26.677",
+      "caseIdentification": {
+        "id": 51137,
+        "caseNumber": "W25-0606"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71124,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 1970,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75844,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1970-04-25",
+        "address": {
+          "city": "Portage",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1331,
+            "name": "Kalamazoo County",
+            "displayName": "Kalamazoo"
+          },
+          "countyId": 0,
+          "zipCode": "49002"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found buried near a pond with cranium exposed on the surface.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.1805732,
+            "lon": -85.57150150000001
+          },
+          "formattedAddress": "Portage, MI 49002, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54158,
+        "torsoNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46393,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 125959,
+          "identityId": 113573,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:37.327",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2677,
+              "width": 4117,
+              "storageKey": "19e13ca6403640c1a98dc70fcf2596c5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113573/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 78,
+              "width": 120,
+              "storageKey": "b84c7fe25a984aa0b138812d4790e935",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113573/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113573/Download"
+        },
+        {
+          "id": 125960,
+          "identityId": 113574,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:39.513",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2709,
+              "storageKey": "7937d05e8e2843f2b925bf5783aea67c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113574/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "0632388a1d794ec8a899a27bc0359915",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113574/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113574/Download"
+        },
+        {
+          "id": 125961,
+          "identityId": 113575,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:41.387",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4149,
+              "width": 2687,
+              "storageKey": "888b289f6d3b4fa4bf50a467d115fd29",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113575/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "d3d48fa133544996a43392afee16f07d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113575/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113575/Download"
+        },
+        {
+          "id": 125962,
+          "identityId": 113576,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:43.293",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2698,
+              "storageKey": "d27cd47983f447efabc5f699e154f490",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113576/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "cdccf4d90f6c4fb7a0598dabd47e63fd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113576/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113576/Download"
+        },
+        {
+          "id": 125963,
+          "identityId": 113577,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:45.293",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2698,
+              "storageKey": "23013ba89e92421398e4ea4cb9da2395",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113577/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "a1f8509b111d4be4a765b82c20db2d34",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113577/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113577/Download"
+        },
+        {
+          "id": 125964,
+          "identityId": 113578,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:47.187",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4149,
+              "width": 2698,
+              "storageKey": "e466eecc09ed4a9084470c19fa81774b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113578/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "226a5c2c95334b55a764e190ecdc06eb",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113578/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113578/Download"
+        },
+        {
+          "id": 125965,
+          "identityId": 113579,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:49.107",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2719,
+              "storageKey": "f589541036c64f03a47b9449bc0d1509",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113579/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "37c8963a30ed457faf721fd73ae326d1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113579/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113579/Download"
+        },
+        {
+          "id": 125966,
+          "identityId": 113580,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:51.077",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4149,
+              "width": 2698,
+              "storageKey": "a596304cdfb1404582237e3c9cb0984f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113580/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "3becd3a20a264f46866581a7133a21cf",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113580/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113580/Download"
+        },
+        {
+          "id": 125967,
+          "identityId": 113581,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:52.887",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4074,
+              "width": 2698,
+              "storageKey": "cb6954ae5736480b826e29f774c7dbfd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113581/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "d0ebabe9ac584fc7812708e857d7eb30",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113581/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113581/Download"
+        },
+        {
+          "id": 125968,
+          "identityId": 113582,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:54.42",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4074,
+              "width": 2634,
+              "storageKey": "b5c729d6924a4cd78a3c4299e6ae502c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113582/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "651a3f632a5b4eb2980e160a97950a4d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113582/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113582/Download"
+        },
+        {
+          "id": 125969,
+          "identityId": 113583,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Clay reconstruction",
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:56.247",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4106,
+              "width": 2709,
+              "storageKey": "8ab277532836408ea2829ad147fdc4cc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113583/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "6197e0045c95459a97327d11cfcb847d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113583/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113583/Download"
+        },
+        {
+          "id": 125970,
+          "identityId": 113584,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:57.81",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2687,
+              "storageKey": "ab7a514b9b6c40f3beac85828d96c9c9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113584/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "0fe5ba44d83d45dba0d5524f597fa9cf",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113584/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113584/Download"
+        },
+        {
+          "id": 125971,
+          "identityId": 113585,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T16:59:59.623",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4149,
+              "width": 2709,
+              "storageKey": "1551dc01ed8f48cf94e0637e18ea4c85",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113585/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "0b5b536cc4ae4b5fad3ecce808dcdb0f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113585/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113585/Download"
+        },
+        {
+          "id": 125972,
+          "identityId": 113586,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T17:00:01.373",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2677,
+              "storageKey": "5fc661c8a8b04a48be000c351fbc95c1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113586/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "8f594c4a0f6249f0903ae9c1e2dba875",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113586/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113586/Download"
+        },
+        {
+          "id": 125973,
+          "identityId": 113587,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-05-28T17:00:03.187",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4138,
+              "width": 2688,
+              "storageKey": "2f0f1166beb741ebbb1ff076950d7c93",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113587/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "b152130f48a1430b9b466762cd8f78ed",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113587/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/113587/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25870,
+        "defaultImageIdentityId": 113574
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50229,
+          "isCaseOwner": false,
+          "name": "Portage Police Department",
+          "city": "Portage",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1331,
+            "name": "Kalamazoo County",
+            "localizedName": "Kalamazoo"
+          },
+          "countyDisplayName": "Kalamazoo",
+          "selection": {
+            "id": 59234,
+            "agency": {
+              "id": 58002,
+              "name": "Portage Police Department",
+              "street1": "7810 Shaver Road",
+              "city": "Portage",
+              "county": {
+                "id": 1331,
+                "name": "Kalamazoo County",
+                "localizedName": "Kalamazoo"
+              },
+              "zipCode": "49024",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "2693294567",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.portagemi.gov/324/Police-Division"
+            }
+          },
+          "caseNumber": "70-2425",
+          "dateReported": "1970-04-15"
+        },
+        {
+          "id": 50538,
+          "isCaseOwner": false,
+          "name": "Kalamazoo County Medical Examiner's Office",
+          "city": "Kalamazoo",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1331,
+            "name": "Kalamazoo County",
+            "localizedName": "Kalamazoo"
+          },
+          "countyDisplayName": "Kalamazoo",
+          "selection": {
+            "id": 59733,
+            "agency": {
+              "id": 16514,
+              "name": "Kalamazoo County Medical Examiner's Office",
+              "street1": "Homer Stryker M.D. School of Medicine",
+              "street2": "300 Portage Street",
+              "city": "Kalamazoo",
+              "county": {
+                "id": 1331,
+                "name": "Kalamazoo County",
+                "localizedName": "Kalamazoo"
+              },
+              "zipCode": "49008",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "2693376173",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.kalcounty.gov/329/Medical-Examiner"
+            }
+          },
+          "caseNumber": "W25-0606"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24225,
+        "investigatingAgencyIdentityId": 50538
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144585/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 144596,
+      "idFormatted": "UP144596",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-05-28T15:44:08.123",
+      "modifiedDateTime": "2026-06-11T13:02:49.9",
+      "caseIdentification": {
+        "id": 53033,
+        "caseNumber": "743203 / 7403203"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73848,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 64,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 75846,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-04-28",
+        "address": {
+          "city": "Eufaula",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2245,
+            "name": "McIntosh County",
+            "displayName": "McIntosh"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Skeletal remains on a farm near Lake Eufaula.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.2873206,
+            "lon": -95.58248460000002
+          },
+          "formattedAddress": "Eufaula, OK 74432, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54155,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46394,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50231,
+          "isCaseOwner": false,
+          "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+          "city": "Tulsa",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2268,
+            "name": "Tulsa County",
+            "localizedName": "Tulsa"
+          },
+          "countyDisplayName": "Tulsa",
+          "selection": {
+            "id": 59237,
+            "contact": {
+              "id": 1530,
+              "firstName": "Angela",
+              "lastName": "Berg",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28353,
+              "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+              "street1": "1627 Southwest Boulevard",
+              "city": "Tulsa",
+              "county": {
+                "id": 2268,
+                "name": "Tulsa County",
+                "localizedName": "Tulsa"
+              },
+              "zipCode": "74107",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9182953400",
+              "email": "unidentifiedpersons@ocme.ok.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ok.gov/ocme/"
+            }
+          },
+          "caseNumber": "743203 / 74-13",
+          "dateReported": "1974-04-28"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24022,
+        "investigatingAgencyIdentityId": 50231
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144596/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144596/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
     }
   ]
 }
