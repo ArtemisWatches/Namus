@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T08:21:40.632849+00:00",
+  "generated_at": "2026-07-23T08:37:21.223005+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1940s",
-  "count": 28,
+  "count": 29,
   "cases": [
     {
       "id": 12778,
@@ -6583,6 +6583,396 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142126/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/142126/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 144916,
+      "idFormatted": "UP144916",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-03T14:56:14.64",
+      "modifiedDateTime": "2025-06-11T14:29:31.51",
+      "caseIdentification": {
+        "id": 51171,
+        "caseNumber": "GC-43-043"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71164,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 35,
+        "heightFrom": 70,
+        "heightTo": 71,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightTo": 160,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 75961,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1943-03-19",
+        "address": {
+          "city": "Springfield",
+          "state": {
+            "id": 47,
+            "name": "Missouri",
+            "displayName": "MO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1583,
+            "name": "Greene County",
+            "displayName": "Greene"
+          },
+          "countyId": 0,
+          "zipCode": "65804"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unknown white male discovered deceased inside a stolen automobile parked inside a garage at a vacant house at 853 S. Kickapoo Ave. in Springfield, Mo.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.1565149,
+            "lon": -93.2483058
+          },
+          "formattedAddress": "Springfield, MO 65804, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54188,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46436,
+        "hairColor": {
+          "id": 15,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "headHairDescription": "Hair described only as \"dark\" in color, \"almost crinkly\" with a widow's peak.",
+        "leftEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "rightEyeColor": {
+          "id": 11,
+          "name": "Other",
+          "localizedName": "Other"
+        },
+        "eyeDescription": "Eyes described only as \"dark\" in color."
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17176,
+          "identityId": 14435,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Long irregular scar just behind front hair line possibly from an automobile accident and a scar on his back possibly from a lung operation."
+        },
+        {
+          "id": 17178,
+          "identityId": 14436,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "His arms and shoulders were well developed and he had a 32\" waist.  He had grease stains on his hands and may have been a mechanic or machine operator."
+        }
+      ],
+      "images": [
+        {
+          "id": 126141,
+          "identityId": 113741,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Photo of John Doe",
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T15:44:39.497",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 411,
+              "width": 275,
+              "storageKey": "790cd16ba5ea440788d07cdbc0aefd9f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113741/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 80,
+              "storageKey": "439f787642504feabbc423c206d7c537",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113741/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113741/Download"
+        },
+        {
+          "id": 126242,
+          "identityId": 113833,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-06-11T14:29:31.51",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 482,
+              "width": 386,
+              "storageKey": "b35a23c97703411f8f4d5895f268b6ec",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113833/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "09a58eb721c543bc8ebd5c277aad3c73",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113833/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113833/Download"
+        },
+        {
+          "id": 126151,
+          "identityId": 113751,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Newspaper article mentioning FBI fingerprint search.",
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T16:09:57.067",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3713,
+              "width": 1313,
+              "storageKey": "52aba93af6514856a4b3bc11482c17d3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113751/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 42,
+              "storageKey": "2ddacbcd431d4d5593af07e0725528b5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113751/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/113751/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25882,
+        "defaultImageIdentityId": 113741
+      },
+      "documents": [
+        {
+          "id": 24724,
+          "identityId": 23546,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Newspaper article.",
+          "isPublic": true,
+          "createdDateTime": "2025-06-03T15:54:09.597",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "John Doe Newspaper Article",
+            "fileExtension": "pdf",
+            "storageKey": "43858d83657649a099da111c2dfae637",
+            "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Documents/23546"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Documents/23546/Download"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 50279,
+          "isCaseOwner": false,
+          "name": "Springfield Police Department",
+          "city": "Springfield",
+          "state": {
+            "id": 47,
+            "name": "Missouri",
+            "localizedName": "MO"
+          },
+          "stateDisplayName": "MO",
+          "county": {
+            "id": 1583,
+            "name": "Greene County",
+            "localizedName": "Greene"
+          },
+          "countyDisplayName": "Greene",
+          "selection": {
+            "id": 59306,
+            "agency": {
+              "id": 43451,
+              "name": "Springfield Police Department",
+              "street1": "321 East Chestnut Expressway",
+              "city": "Springfield",
+              "county": {
+                "id": 1583,
+                "name": "Greene County",
+                "localizedName": "Greene"
+              },
+              "zipCode": "65802",
+              "state": {
+                "id": 47,
+                "name": "Missouri",
+                "localizedName": "MO"
+              },
+              "phone": "4178641810",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50304,
+          "isCaseOwner": false,
+          "name": "Greene County Medical Examiner's Office",
+          "city": "Springfield",
+          "state": {
+            "id": 47,
+            "name": "Missouri",
+            "localizedName": "MO"
+          },
+          "stateDisplayName": "MO",
+          "county": {
+            "id": 1583,
+            "name": "Greene County",
+            "localizedName": "Greene"
+          },
+          "countyDisplayName": "Greene",
+          "selection": {
+            "id": 59374,
+            "agency": {
+              "id": 58294,
+              "name": "Greene County Medical Examiner's Office",
+              "street1": "916 North Campbell Avenue",
+              "city": "Springfield",
+              "county": {
+                "id": 1583,
+                "name": "Greene County",
+                "localizedName": "Greene"
+              },
+              "zipCode": "65802",
+              "state": {
+                "id": 47,
+                "name": "Missouri",
+                "localizedName": "MO"
+              },
+              "phone": "4178684822",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://greenecountymo.gov/medical_examiner/"
+            }
+          },
+          "caseNumber": "GC-43-043"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24081,
+        "investigatingAgencyIdentityId": 50304
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Missouri"
     }
   ]
 }
