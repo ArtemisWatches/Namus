@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T08:37:21.223005+00:00",
+  "generated_at": "2026-07-24T08:33:51.260221+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 994,
+  "count": 1004,
   "cases": [
     {
       "id": 103,
@@ -286650,6 +286650,2335 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145349/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145349/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 145716,
+      "idFormatted": "UP145716",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-14T18:18:14.25",
+      "modifiedDateTime": "2025-06-16T21:55:54.12",
+      "caseIdentification": {
+        "id": 51280,
+        "caseNumber": "1978-02993"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71294,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 5,
+          "name": "Adolescent",
+          "localizedName": "Adolescent"
+        },
+        "estimatedAgeFrom": 14,
+        "estimatedAgeTo": 18,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76145,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-04-18",
+        "address": {
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "displayName": "McKinley"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Skull found by land owner about 14 miles north of the Buckhorn gas station on the right side of the highway.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.71524720000001,
+            "lon": -108.2377519
+          },
+          "formattedAddress": "McKinley County, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54277,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46533,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50422,
+          "isCaseOwner": false,
+          "name": "McKinley County Sheriff's Office",
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "localizedName": "McKinley"
+          },
+          "countyDisplayName": "McKinley",
+          "selection": {
+            "id": 59597,
+            "agency": {
+              "id": 40079,
+              "name": "McKinley County Sheriff's Office",
+              "street1": "300 B West Nizhoni Boulevard",
+              "city": "Gallup",
+              "county": {
+                "id": 1874,
+                "name": "McKinley County",
+                "localizedName": "McKinley"
+              },
+              "zipCode": "87301",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058631410",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.mckinley.nm.us/165/Sheriffs-Office"
+            }
+          }
+        },
+        {
+          "id": 50468,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 59652,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1978-02993"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24193,
+        "investigatingAgencyIdentityId": 50468
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145716/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145716/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 145713,
+      "idFormatted": "UP145713",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-14T14:46:19.38",
+      "modifiedDateTime": "2025-06-16T19:26:13.337",
+      "caseIdentification": {
+        "id": 51287,
+        "caseNumber": "1974-33155"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71290,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 65,
+        "estimatedAgeTo": 75,
+        "estimatedYearOfDeathFrom": 1974,
+        "estimatedYearOfBirthFrom": 1899,
+        "estimatedYearOfBirthTo": 1909,
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 147,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76141,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-03-12",
+        "address": {
+          "city": "Blythe",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92225"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 03/09/1974, the decedent was found unresponsive and down on the sidewalk in front of a hotel in Blythe. He was transported via ambulance to Palo Verde Hospital. He was admitted for \"possible severe cerebral vascular accident.\" His condition continued to decline and on 03/12/1974, his death was pronounced by hospital staff. He had no ID on his person.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6177725,
+            "lon": -114.5882607
+          },
+          "formattedAddress": "Blythe, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54275,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46530,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50420,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59629,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1974-33155"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24180,
+        "investigatingAgencyIdentityId": 50420
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145713/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145713/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145715,
+      "idFormatted": "UP145715",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-14T16:32:52.16",
+      "modifiedDateTime": "2025-09-22T20:13:57.987",
+      "caseIdentification": {
+        "id": 51279,
+        "caseNumber": "1975-02680"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71292,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightFrom": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 76143,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-09-01",
+        "address": {
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1889,
+            "name": "Valencia County",
+            "displayName": "Valencia"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found across train tracks. Was a presumed passenger fell from the train and was run over.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.6743674,
+            "lon": -106.6291304
+          },
+          "formattedAddress": "Valencia County, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54276,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56655,
+          "identityId": 47838,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A blue and light yellow striped button down shirt with a label reading \"Fashion-Aire Tapered and Tails Suburban Casuals Single Needle Washable size 15-15 1/2 Male\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56656,
+          "identityId": 47839,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Purple and light striped trousers with a black leatherlink belt and white metal belt buckle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 56715,
+          "identityId": 47840,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "The individual was carrying several items, likely for travel, which included:\n - A heavy wool blue and white striped sweater\n- A heavy, dark blue overcoat with fur collar\n- A light brown electric blanket\n- A brown/orange heavy wool blanket\n- Light blue trousers \n- A can of Ronson lighter fluid \n- A keychain with the inscription \"Cappy's Food Market, Amarillo, Texas 79109\"\n- A pair of dark tan socks\n- A pair of light yellow socks\n- Brown heavy leather tie shoes\n- A paperback book titled \"Comanche Moon\"\n- Several other small items like a razor, pocket knife, shoe laces, can opener, comb, nail clippers, and flint holder",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46532,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Brown with some graying",
+        "facialHairDescription": "Light brown mustache measuring 10 cm, with some brown & grey stubble across chin/cheeks",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17202,
+          "identityId": 14459,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "On the lower left lower abdomen is a linear horizontal scar about 15 cm long."
+        },
+        {
+          "id": 17196,
+          "identityId": 14453,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Right deltoid area, there is a dark blue/black tattoo of a heart with an arrow passing through it, with the words \"Tex loves Enid\""
+        },
+        {
+          "id": 17197,
+          "identityId": 14454,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the back of the right lower arm is a blue/black ink tattoo of an anchor and the word \"Martha\""
+        },
+        {
+          "id": 17198,
+          "identityId": 14455,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the right lower arm is a dark blue/black ink tattoo which begins with the letters \"B O\"; the remainder of the tattoo is indiscernible."
+        },
+        {
+          "id": 17199,
+          "identityId": 14456,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the left lateral deltoid area, there is a dark blue/black ink tattoo of a figure, the details of which are indescribable"
+        },
+        {
+          "id": 17200,
+          "identityId": 14457,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the left lower arm is a tattoo in dark blue/black ink of a banner with a star on top"
+        },
+        {
+          "id": 17201,
+          "identityId": 14458,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "On the lower left arm is a script tattoo in dark blue/black ink, the first line reads \"Sharon\" the second line is indiscernible."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50421,
+          "isCaseOwner": false,
+          "name": "Valencia County Sheriff's Office",
+          "city": "Los Lunas",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1889,
+            "name": "Valencia County",
+            "localizedName": "Valencia"
+          },
+          "countyDisplayName": "Valencia",
+          "selection": {
+            "id": 59596,
+            "agency": {
+              "id": 48074,
+              "name": "Valencia County Sheriff's Office",
+              "street1": "543 Luna Avenue",
+              "city": "Los Lunas",
+              "county": {
+                "id": 1889,
+                "name": "Valencia County",
+                "localizedName": "Valencia"
+              },
+              "zipCode": "87031",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058662400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50466,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 59650,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1975-02680"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24192,
+        "investigatingAgencyIdentityId": 50466
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145715/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145715/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 145743,
+      "idFormatted": "UP145743",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-15T08:10:20.643",
+      "modifiedDateTime": "2025-06-16T19:30:13.373",
+      "caseIdentification": {
+        "id": 51285,
+        "caseNumber": "1974-33211"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71301,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 40,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76156,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-03-21",
+        "address": {
+          "city": "Beaumont",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "85 ft s/o Desert Lawn Dr, .25 mi w/o San Timoteo Canyon Rd",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "In 08/1973, a child found a skull with teeth and fillings near the intersection of I-10 and the south side of Desert Lawn Dr, about 1/4 mi west of San Timeteo Canyon Rd in Beaumont. They took the skull home and kept it in the garage. On 03/21/1974, the skull was turned into LE who returned to the location where the skull was found. After a search, a shallow grave with mounding earth at one end and additional scattered remains were found.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.9294606,
+            "lon": -116.977248
+          },
+          "formattedAddress": "Beaumont, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54282,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46539,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50427,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59632,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1974-33211"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24181,
+        "investigatingAgencyIdentityId": 50427
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145743/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145743/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145746,
+      "idFormatted": "UP145746",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-15T10:47:31.027",
+      "modifiedDateTime": "2025-08-01T13:06:22.523",
+      "caseIdentification": {
+        "id": 51286,
+        "caseNumber": "1974-33532"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71303,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 55,
+        "estimatedYearOfDeathFrom": 1974,
+        "estimatedYearOfBirthFrom": 1919,
+        "estimatedYearOfBirthTo": 1929,
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 145,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76158,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-05-25",
+        "address": {
+          "city": "Mecca",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92254"
+        },
+        "description": "Railroad tracks and Hammond Rd",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 05/25/1974, a man was walking near the Southern Pacific Railroad tracks, when he found the decedent's decomposed remains. It appeared the decedent either attempted to get on or off an eastbound train when he either fell or was knocked under the train wheels.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.571692,
+            "lon": -116.0772244
+          },
+          "formattedAddress": "Mecca, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54283,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56676,
+          "identityId": 47858,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing three pairs of pants (light brown, dark green and yellow checked pants), brown plaid shirt, tan shirt, and brown cord jacket.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46540,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17208,
+          "identityId": 14465,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "He had no tattoos"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50428,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 60475,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1974-33532"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24467,
+        "investigatingAgencyIdentityId": 50428
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145746/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145746/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145748,
+      "idFormatted": "UP145748",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-15T14:47:19.2",
+      "modifiedDateTime": "2025-07-15T13:01:06.377",
+      "caseIdentification": {
+        "id": 51289,
+        "caseNumber": "1975-35203"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71305,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76160,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-05-26",
+        "address": {
+          "city": "Coachella",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92236"
+        },
+        "description": "125 ft e/o Dillon Rd, 300 ft s/o I-10",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 05/26/1975, a motorist stopped his vehicle to cool off approx. 100 yards w/o the Howard Johnson Restaurant (125 ft e/o Dillon Rd, 300 ft s/o I-100) in Coachella. He noted a foul odor and found the mummified skeletal remains of the decedent behind a tree.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6885095,
+            "lon": -116.1477598
+          },
+          "formattedAddress": "Coachella, CA 92236, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54284,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56677,
+          "identityId": 47859,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "He had a knife, nail clippers, handkerchief, 1 pair of black shoes, blue blanket, blue sweater, 1 piece of rope, comb, and 1 match book",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46542,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "bodyHairDescription": "Graying brown fine hair",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17209,
+          "identityId": 14466,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "He had a 1/4\" mole on the top of the left hand, in direct line from the left thumb to the wrist, and about one-inch proximal top to the base of the thumb"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50429,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59638,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1975-35203"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24183,
+        "investigatingAgencyIdentityId": 50429
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145748/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145748/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145772,
+      "idFormatted": "UP145772",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-16T02:18:45.573",
+      "modifiedDateTime": "2025-06-16T20:43:32.053",
+      "caseIdentification": {
+        "id": 51296,
+        "caseNumber": "1977-38739"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71320,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedYearOfDeathFrom": 1977,
+        "estimatedYearOfBirthFrom": 1922,
+        "estimatedYearOfBirthTo": 1922,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 5,
+          "name": "Months",
+          "localizedName": "Months"
+        },
+        "heightFrom": 62,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76176,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-05-27",
+        "address": {
+          "city": "Cathedral City",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92234"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 05/27/1977, a transient male exited the train on the Southern Pacific Railroad property. As he was walking through an open desert along the tamarack trees, on the south side of the railroad right of way, about .4 miles e/o the Date Palm overcrossing, he found the decedent mummified remains. LE was notified and responded to the scene (near mile post 596). No trauma was found. He appeared to have died from natural causes.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.82632359999999,
+            "lon": -116.4547962
+          },
+          "formattedAddress": "Cathedral City, CA 92234, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54291,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 56690,
+          "identityId": 47872,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "No shirt, empty pockets, gray and tan \"whip cord\" \"pin-stripe\" trousers, gray socks, two tone brown shoes",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46549,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50438,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59642,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1977-38739"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24184,
+        "investigatingAgencyIdentityId": 50438
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145772/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145772/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145773,
+      "idFormatted": "UP145773",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-16T02:36:34.513",
+      "modifiedDateTime": "2025-08-01T13:06:50.493",
+      "caseIdentification": {
+        "id": 51297,
+        "caseNumber": "1975-35104"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71322,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 24,
+        "estimatedAgeTo": 40,
+        "estimatedYearOfDeathFrom": 1974,
+        "estimatedYearOfDeathTo": 1975,
+        "estimatedYearOfBirthFrom": 1934,
+        "estimatedYearOfBirthTo": 1951,
+        "heightFrom": 72,
+        "heightTo": 76,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76178,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-05-03",
+        "address": {
+          "city": "Mecca",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 05/03/1975, severed human legs and hip joints were found partially buried near a campsite in Box Canyon in Mecca. The campsite was in an isolated hot desert area between Mecca and I-10.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.571692,
+            "lon": -116.0772244
+          },
+          "formattedAddress": "Mecca, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54292,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46550,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50439,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 60474,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1975-35104"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24468,
+        "investigatingAgencyIdentityId": 50439
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145773/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145773/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145777,
+      "idFormatted": "UP145777",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-16T04:41:07.083",
+      "modifiedDateTime": "2025-06-16T20:44:58.177",
+      "caseIdentification": {
+        "id": 51298,
+        "caseNumber": "1978-40081"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71324,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 40,
+        "estimatedYearOfDeathFrom": 1977,
+        "estimatedYearOfDeathTo": 1978,
+        "estimatedYearOfBirthFrom": 1937,
+        "estimatedYearOfBirthTo": 1953,
+        "heightFrom": 66,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76216,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-01-19",
+        "address": {
+          "city": "Desert Center",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92239"
+        },
+        "description": "Coxcomb Mtn. Range",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 01/18/1978, a man was hiking through the tope of Coxcomb Mountains north east of Desert Center when he found the scattered sun-bleached and weather-cracked skeletal remains of the decedent. Law Enforcement was notified on 01/19/1978 and responded to the scene. \n\nProbable Caucasian male with brown/blond hair, 90% chance he was 66.5-70\"\nPMI at least a year",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7133313,
+            "lon": -115.4004287
+          },
+          "formattedAddress": "Desert Center, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54293,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46551,
+        "hairColor": {
+          "id": 4,
+          "name": "Sandy",
+          "localizedName": "Sandy"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50440,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59644,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1978-40081"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24186,
+        "investigatingAgencyIdentityId": 50440
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145777/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145777/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 145846,
+      "idFormatted": "UP145846",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-16T19:22:29.673",
+      "modifiedDateTime": "2026-06-01T17:39:39.9",
+      "caseIdentification": {
+        "id": 51308,
+        "caseNumber": "1985-04532"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72188,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 35,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76227,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-02-23",
+        "address": {
+          "city": "Chaparral",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "displayName": "Doña Ana"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "A partial skull was turned over to the local authorities, which was then turned over to another agency. The skull remained in evidence storage for 8 years and was then turned over to the NM OMI.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.0513075,
+            "lon": -106.4288088
+          },
+          "formattedAddress": "Chaparral, NM 88081, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54301,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46559,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50452,
+          "isCaseOwner": false,
+          "name": "Dona Ana County Sheriff's Office",
+          "city": "Las Cruces",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1864,
+            "name": "Doña Ana County",
+            "localizedName": "Doña Ana"
+          },
+          "countyDisplayName": "Doña Ana",
+          "selection": {
+            "id": 59630,
+            "agency": {
+              "id": 45830,
+              "name": "Dona Ana County Sheriff's Office",
+              "street1": "845 North Motel Boulevard",
+              "city": "Las Cruces",
+              "county": {
+                "id": 1864,
+                "name": "Doña Ana County",
+                "localizedName": "Doña Ana"
+              },
+              "zipCode": "88007",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5755251911",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 50453,
+          "isCaseOwner": false,
+          "name": "El Paso County Sheriff's Office",
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "localizedName": "El Paso"
+          },
+          "countyDisplayName": "El Paso",
+          "selection": {
+            "id": 59631,
+            "agency": {
+              "id": 53745,
+              "name": "El Paso County Sheriff's Office",
+              "street1": "3850 Justice Drive",
+              "city": "El Paso",
+              "county": {
+                "id": 2659,
+                "name": "El Paso County",
+                "localizedName": "El Paso"
+              },
+              "zipCode": "79938",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9155382217",
+              "email": "rwiles@epcounty.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.epcounty.com/sheriff/"
+            }
+          }
+        },
+        {
+          "id": 50473,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 59657,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1985-04532"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24195,
+        "investigatingAgencyIdentityId": 50473
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145846/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145846/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T08:36:09.159331+00:00",
+  "generated_at": "2026-07-24T08:33:38.072573+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1259,
+  "count": 1261,
   "cases": [
     {
       "id": 1,
@@ -367984,6 +367984,634 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/145527/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 147035,
+      "idFormatted": "MP147035",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-02T19:31:35.13",
+      "modifiedDateTime": "2026-01-27T23:15:14.267",
+      "subjectIdentification": {
+        "id": 236828,
+        "firstName": "Gary",
+        "lastName": "Beauchamp",
+        "currentMinAge": 66,
+        "currentMaxAge": 66,
+        "computedMissingMinAge": 16,
+        "computedMissingMaxAge": 16
+      },
+      "subjectDescription": {
+        "id": 208849,
+        "heightFrom": 67,
+        "weightFrom": 80,
+        "weightTo": 100,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 108338
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 266081,
+        "circumstancesOfDisappearance": "Gary was last seen on October 9, 1976, wearing blue jeans and a brown t-shirt."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 126226,
+          "identityId": 115347,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans"
+        },
+        {
+          "id": 126227,
+          "identityId": 115348,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown t-shirt"
+        }
+      ],
+      "sighting": {
+        "id": 290380,
+        "date": "1976-10-09",
+        "address": {
+          "city": "Canton",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2184,
+            "name": "Stark County",
+            "displayName": "Stark"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.7973776,
+            "lon": -81.37699649999999
+          },
+          "formattedAddress": "Canton, OH, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 171516,
+          "isCaseOwner": false,
+          "name": "Ohio Bureau of Criminal Investigation",
+          "city": "London",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2157,
+            "name": "Madison County",
+            "localizedName": "Madison"
+          },
+          "countyDisplayName": "Madison",
+          "selection": {
+            "id": 198039,
+            "contact": {
+              "id": 14591,
+              "firstName": "Jennifer",
+              "lastName": "Lester",
+              "jobTitle": "Criminal Intelligence Analyst",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43246,
+              "name": "Ohio Bureau of Criminal Investigation",
+              "street1": "1560 State Route 56 Southwest",
+              "city": "London",
+              "county": {
+                "id": 2157,
+                "name": "Madison County",
+                "localizedName": "Madison"
+              },
+              "zipCode": "43140",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-2003",
+          "dateReported": "2025-07-02"
+        },
+        {
+          "id": 177602,
+          "isCaseOwner": false,
+          "name": "Stark County Sheriff's Office",
+          "city": "Canton",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2184,
+            "name": "Stark County",
+            "localizedName": "Stark"
+          },
+          "countyDisplayName": "Stark",
+          "selection": {
+            "id": 204823,
+            "agency": {
+              "id": 63567,
+              "name": "Stark County Sheriff's Office",
+              "street1": "4500 Atlantic Boulevard, N.E.",
+              "city": "Canton",
+              "county": {
+                "id": 2184,
+                "name": "Stark County",
+                "localizedName": "Stark"
+              },
+              "zipCode": "44705",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "3304303800",
+              "email": "strkshrf@raex.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.starkcountyohio.gov/sheriff"
+            }
+          },
+          "caseNumber": "82-1364",
+          "dateReported": "2025-08-25"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43246,
+        "isCaseOwner": false,
+        "name": "Ohio Bureau of Criminal Investigation"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 114197,
+        "investigatingAgencyIdentityId": 171516
+      },
+      "physicalDescription": {
+        "id": 204739,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Shoulder length hair",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 236619,
+          "identityId": 221662,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "News photo",
+          "isPublic": true,
+          "createdDateTime": "2025-07-02T19:34:26.273",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 514,
+              "width": 321,
+              "storageKey": "2628234057874de3b53cb49b4ee05059",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221662/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 75,
+              "storageKey": "c36a10d27a814a08a55fb62ac8fc0609",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221662/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221662/Download"
+        },
+        {
+          "id": 236620,
+          "identityId": 221663,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Family photo",
+          "isPublic": true,
+          "createdDateTime": "2025-07-02T19:34:50.32",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1440,
+              "width": 1080,
+              "storageKey": "34e57fda47a94d2cb0c685ce16c8048c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221663/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "edb3306012aa4832aed2539b2ebbaae0",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221663/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/221663/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119528,
+        "defaultImageIdentityId": 221662
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/147035/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 147098,
+      "idFormatted": "MP147098",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-03T17:04:03.907",
+      "modifiedDateTime": "2026-01-21T20:21:31.623",
+      "subjectIdentification": {
+        "id": 236868,
+        "firstName": "Marcelino",
+        "middleName": "Crasogino",
+        "lastName": "Serna",
+        "currentMinAge": 129,
+        "currentMaxAge": 129,
+        "computedMissingMinAge": 82,
+        "computedMissingMaxAge": 82
+      },
+      "subjectDescription": {
+        "id": 208693,
+        "heightFrom": 62,
+        "weightFrom": 125,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 105580
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 247634,
+        "circumstancesOfDisappearance": "On the morning of November 2, 1979, Marcelino Crasogio Serna’s family left for work early and returned around 6 PM to find the front door locked and a partially eaten banana on the kitchen table. Marcelino’s glasses, Bible, suitcase, and clothing were still in his room.\n\nMarcelino’s family searched for several hours and contacted local hospitals but was unable to find Marcelino. Marcelino had a history of walking away, usually found near Adams and Magnolia streets. He frequently walked the streets of Riverside, sometimes covering up to 10 miles a day, often walking to pay for utilities or visit the barber shop. Marcelino typically carried $300 on him and often stopped for coffee at Howard Johnson’s near Tyler and the 91 freeway. Police searched nearby fields next to the restaurant but did not locate him.\n\nFamily placed an ad in the paper requesting information. A woman responded, saying she saw an elderly man matching Marcelino’s description hitchhiking on December 3, 1979, near Arlington and Streeter. Another person reported seeing a man with a cane matching his description on December 7, 1979, near Van Buren and Magnolia."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 126297,
+          "identityId": 115405,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "He usually carried a wallet with his social security card, Medicare card, outdated charge card and miscellaneous photographs and papers."
+        },
+        {
+          "id": 126299,
+          "identityId": 115406,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "He carried a flat leather strap with a chrome ring containing his wallet, house keys, and fingernail clippers."
+        },
+        {
+          "id": 126300,
+          "identityId": 115362,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was last seen wearing a brown felt hat, gray button sweater, brown trousers, black or dark brown military type shoes and dentures."
+        }
+      ],
+      "sighting": {
+        "id": 290036,
+        "date": "1979-11-02",
+        "address": {
+          "city": "Riverside",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92505"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.913326,
+            "lon": -117.4908738
+          },
+          "formattedAddress": "Riverside, CA 92505, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 171547,
+          "isCaseOwner": false,
+          "name": "Riverside Police Department",
+          "city": "Riverside",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 198088,
+            "contact": {
+              "id": 293091,
+              "firstName": "Karla",
+              "lastName": "Beler",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 47844,
+              "name": "Riverside Police Department",
+              "street1": "10540 Magnolia Avenue",
+              "city": "Riverside",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92505",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9513542007",
+              "email": "RPDChiefOnline@riversideca.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversideca.gov/rpd/default.asp"
+            }
+          },
+          "caseNumber": "P3-79-333-023",
+          "dateReported": "1979-11-02"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 47844,
+        "isCaseOwner": false,
+        "name": "Riverside Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 113994,
+        "investigatingAgencyIdentityId": 171547
+      },
+      "physicalDescription": {
+        "id": 204589,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "cut short",
+        "bodyHairDescription": "bushy gray eyebrows",
+        "facialHairDescription": "clean shaven",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "eyeDescription": "glasses were left a home"
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 103585,
+          "identityId": 93796,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "walked with a shuffle \nlong ear lobes\nlarge hands\nlarge nose"
+        }
+      ],
+      "images": [
+        {
+          "id": 236640,
+          "identityId": 221682,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Photo of Marcelino Serna",
+          "isPublic": true,
+          "createdDateTime": "2025-07-03T17:23:00.973",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 678,
+              "width": 772,
+              "storageKey": "e6537597c5894758bf50b3a198741d96",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/221682/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 105,
+              "width": 120,
+              "storageKey": "364cb461690842919e742efb849e6aec",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/221682/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/221682/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119541,
+        "defaultImageIdentityId": 221682
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T08:37:21.223005+00:00",
+  "generated_at": "2026-07-24T08:33:51.260221+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 231,
+  "count": 232,
   "cases": [
     {
       "id": 334,
@@ -61726,6 +61726,206 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144920/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144920/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 145707,
+      "idFormatted": "UP145707",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-06-14T08:55:58.46",
+      "modifiedDateTime": "2025-06-16T19:15:42.467",
+      "caseIdentification": {
+        "id": 51277,
+        "caseNumber": "1964-18284"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71288,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 75,
+        "estimatedYearOfDeathFrom": 1964,
+        "estimatedYearOfBirthFrom": 1889,
+        "estimatedYearOfBirthTo": 1909,
+        "estimatedPostmortemInterval": 3,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 130,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76139,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1964-07-03",
+        "address": {
+          "city": "Thermal",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0,
+          "zipCode": "92274"
+        },
+        "description": "E/O Hwy 111 at the continuation of Ave 56",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 07/03/1964, an unknown informant reported they found the decedent decomposed in a transient encampment east of Hwy 111 and the railroad tracks, at the continuation of Avenue 56, in Thermal. When deputies arrived, they found the decedent under trees. His death was confirmed without medical intervention. He was estimated to be around 65 years old.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6402638,
+            "lon": -116.1422353
+          },
+          "formattedAddress": "Thermal, CA 92274, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54274,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46529,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50419,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 59628,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1964-18284"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24179,
+        "investigatingAgencyIdentityId": 50419
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145707/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145707/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
