@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T08:33:38.072573+00:00",
+  "generated_at": "2026-07-26T08:32:39.439969+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1261,
+  "count": 1262,
   "cases": [
     {
       "id": 1,
@@ -368612,6 +368612,417 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/147098/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 147889,
+      "idFormatted": "MP147889",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-17T21:07:01.277",
+      "modifiedDateTime": "2026-05-19T19:12:40.943",
+      "subjectIdentification": {
+        "id": 237579,
+        "firstName": "John",
+        "middleName": "Mitchell",
+        "lastName": "Carroll",
+        "nicknames": "Mitch Carroll",
+        "currentMinAge": 68,
+        "currentMaxAge": 68,
+        "computedMissingMinAge": 17,
+        "computedMissingMaxAge": 17
+      },
+      "subjectDescription": {
+        "id": 209304,
+        "heightFrom": 67,
+        "weightFrom": 140,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 254694,
+        "circumstancesOfDisappearance": "John Mitchell Carroll's date of last contact was on September 23, 1975. On the day of disappearance, Mitch was dropped off at a local grocery store in Susanville, CA by his sister to meet someone for a possible job, possibly driving a maroon or red vehicle."
+      },
+      "notes": [
+        {
+          "id": 128714,
+          "identityId": 114484,
+          "noteType": "Circumstances",
+          "isPublic": true,
+          "description": "Carroll was last seen in the Raley's parking lot at about 3pm on September 23."
+        }
+      ],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 126592,
+          "identityId": 115642,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "White t-shirt, Levi's pants."
+        },
+        {
+          "id": 126594,
+          "identityId": 115644,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Wears glasses"
+        },
+        {
+          "id": 126593,
+          "identityId": 115643,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Boots"
+        }
+      ],
+      "sighting": {
+        "id": 294377,
+        "date": "1975-09-23",
+        "address": {
+          "city": "Susanville",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 264,
+            "name": "Lassen County",
+            "displayName": "Lassen"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.4162842,
+            "lon": -120.6530063
+          },
+          "formattedAddress": "Susanville, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 172059,
+          "isCaseOwner": false,
+          "name": "Susanville Police Department",
+          "city": "Susanville",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 264,
+            "name": "Lassen County",
+            "localizedName": "Lassen"
+          },
+          "countyDisplayName": "Lassen",
+          "selection": {
+            "id": 201210,
+            "agency": {
+              "id": 78802,
+              "name": "Susanville Police Department",
+              "street1": "1801 Main Street",
+              "city": "Susanville",
+              "county": {
+                "id": 264,
+                "name": "Lassen County",
+                "localizedName": "Lassen"
+              },
+              "zipCode": "96130",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5302575603",
+              "email": "police@cityofsusanville.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofsusanville.net/rooptown/police-department/"
+            }
+          },
+          "caseNumber": "11588"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 78802,
+        "isCaseOwner": false,
+        "name": "Susanville Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 115212,
+        "investigatingAgencyIdentityId": 172059
+      },
+      "physicalDescription": {
+        "id": 205184,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 103742,
+          "identityId": 93930,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Has a birthmark on his temple."
+        },
+        {
+          "id": 105160,
+          "identityId": 95271,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Mitch wears glasses."
+        }
+      ],
+      "images": [
+        {
+          "id": 238528,
+          "identityId": 223375,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-08-21T14:05:16.5",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 692,
+              "width": 495,
+              "storageKey": "b3a760e3b42e49949acfbbf934a481f3",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223375/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 86,
+              "storageKey": "aee64a0eacb34cabb5e47e8aed3e1208",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223375/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223375/Download"
+        },
+        {
+          "id": 237256,
+          "identityId": 222244,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Lassen Advocate newspaper",
+          "isPublic": true,
+          "createdDateTime": "2025-07-17T21:10:16.983",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 425,
+              "width": 315,
+              "storageKey": "9ecd8dcf6f00493a9f59974cc9c4dfe1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222244/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 89,
+              "storageKey": "c1f5a2fa02704c64a2009e0ea72d4571",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222244/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222244/Download"
+        },
+        {
+          "id": 238616,
+          "identityId": 223454,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "Lassen Advocate newspaper",
+          "isPublic": true,
+          "createdDateTime": "2025-08-22T19:01:15.237",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 547,
+              "width": 311,
+              "storageKey": "9ae63c1763f4487fbb5b3898ca1f0523",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223454/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 68,
+              "storageKey": "cf344dc766994156aa2d2e5489bd4ccf",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223454/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/223454/Download"
+        },
+        {
+          "id": 237254,
+          "identityId": 222242,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-07-17T21:09:18.73",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 192,
+              "width": 145,
+              "storageKey": "f5259d56de7e43e2bfaf27ece7d32e5a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222242/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "943df43925cc4752b7686877c9b31a39",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222242/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222242/Download"
+        },
+        {
+          "id": 237255,
+          "identityId": 222243,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-07-17T21:09:38.42",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 185,
+              "width": 145,
+              "storageKey": "d3dd63972775471898d2049ff96ce6d7",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222243/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "5380ac52c10249f2a9f705592ed2e42b",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222243/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/222243/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119764,
+        "defaultImageIdentityId": 222242
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
