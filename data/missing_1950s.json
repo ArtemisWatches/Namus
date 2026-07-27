@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T09:23:37.202922+00:00",
+  "generated_at": "2026-07-27T09:59:41.661100+00:00",
   "case_type": "MissingPersons",
   "decade": "1950s",
-  "count": 81,
+  "count": 82,
   "cases": [
     {
       "id": 1379,
@@ -23418,6 +23418,307 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/144957/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
+    },
+    {
+      "id": 148337,
+      "idFormatted": "MP148337",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-25T17:46:27.693",
+      "modifiedDateTime": "2026-03-16T21:59:47.33",
+      "subjectIdentification": {
+        "id": 239532,
+        "firstName": "Victor",
+        "middleName": "Harold",
+        "lastName": "Travis",
+        "nicknames": "Bunk",
+        "currentMinAge": 116,
+        "currentMaxAge": 116,
+        "computedMissingMinAge": 42,
+        "computedMissingMaxAge": 42
+      },
+      "subjectDescription": {
+        "id": 211394,
+        "heightFrom": 69,
+        "weightFrom": 144,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 105771
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 250877,
+        "circumstancesOfDisappearance": "On November 1, 1952, Victor Travis (Bunk) went hunting with a companion and never returned home. His hunting partner was reportedly from Milwaukee, WI. They stopped to drink at a bar(s) on their way to a piece of property adjacent to Ed Gein's property. Victor's hunting dog, rifle, and clothing were found on this property. Neither Victor or his hunting partner were seen or heard from again."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 292658,
+        "date": "1952-11-01",
+        "address": {
+          "city": "Plainfield",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3184,
+            "name": "Waushara County",
+            "displayName": "Waushara"
+          },
+          "countyId": 0,
+          "zipCode": "54966"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 44.2138617,
+            "lon": -89.4923422
+          },
+          "formattedAddress": "Plainfield, WI 54966, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 36244,
+          "vehicleMake": "Oldsmobile",
+          "vehicleYear": 1950,
+          "comment": "Victor was last seen in this vehicle, which was owned by his hunting partner."
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 173328,
+          "isCaseOwner": false,
+          "name": "Adams County Sheriff's Office",
+          "city": "Friendship",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3115,
+            "name": "Adams County",
+            "localizedName": "Adams"
+          },
+          "countyDisplayName": "Adams",
+          "selection": {
+            "id": 200115,
+            "agency": {
+              "id": 39989,
+              "name": "Adams County Sheriff's Office",
+              "street1": "301 Adams Street",
+              "city": "Friendship",
+              "county": {
+                "id": 3115,
+                "name": "Adams County",
+                "localizedName": "Adams"
+              },
+              "zipCode": "53934",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "6083393304",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.adamsso.com/"
+            }
+          },
+          "caseNumber": "52-1101",
+          "dateReported": "2025-05-30"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 39989,
+        "isCaseOwner": false,
+        "name": "Adams County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 114705,
+        "investigatingAgencyIdentityId": 173328
+      },
+      "physicalDescription": {
+        "id": 207265,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 105012,
+          "identityId": 95014,
+          "physicalFeature": {
+            "id": 3,
+            "name": "Deformity",
+            "localizedName": "Deformity",
+            "ordinal": 3
+          },
+          "description": "Victor walked with a limp, but it's unknown which leg was deformed."
+        }
+      ],
+      "images": [
+        {
+          "id": 238100,
+          "identityId": 222990,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Victor - Age is late 30's",
+          "isPublic": true,
+          "createdDateTime": "2025-08-08T17:52:55.047",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 136,
+              "width": 102,
+              "storageKey": "454008142e6b4f9180bc5b9db0bab8da",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222990/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "e9312b091f284cb19ab2b603bf428460",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222990/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222990/Download"
+        },
+        {
+          "id": 238101,
+          "identityId": 222991,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Cropped from original photo",
+          "isPublic": true,
+          "createdDateTime": "2025-08-08T17:53:43.53",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 495,
+              "width": 182,
+              "storageKey": "c5c25623c4264accb03611a4f63b8c67",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222991/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 44,
+              "storageKey": "4a572b586a98465fa88f044b53215d3a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222991/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/222991/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 120154,
+        "defaultImageIdentityId": 222990
+      },
+      "documents": [
+        {
+          "id": 37521,
+          "identityId": 33495,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "A young Victor Travis",
+          "isPublic": true,
+          "createdDateTime": "2025-07-25T18:09:58.637",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "Victor Travis - Photo -2",
+            "fileExtension": "pdf",
+            "storageKey": "6be73e73626544a4b4c55d773ceec387",
+            "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Documents/33495"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Documents/33495/Download"
+        }
+      ],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
     }
   ]
 }

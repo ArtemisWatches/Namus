@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T08:35:57.976980+00:00",
+  "generated_at": "2026-07-27T09:59:41.661100+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 265,
+  "count": 267,
   "cases": [
     {
       "id": 498,
@@ -77562,6 +77562,511 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/146098/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
+    },
+    {
+      "id": 148200,
+      "idFormatted": "MP148200",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-23T19:10:41.723",
+      "modifiedDateTime": "2026-01-27T17:22:46.667",
+      "subjectIdentification": {
+        "id": 239971,
+        "firstName": "Alan",
+        "middleName": "Douglas",
+        "lastName": "Visher",
+        "currentMinAge": 76,
+        "currentMaxAge": 76,
+        "computedMissingMinAge": 12,
+        "computedMissingMaxAge": 12
+      },
+      "subjectDescription": {
+        "id": 210777,
+        "heightFrom": 48,
+        "heightTo": 58,
+        "weightFrom": 75,
+        "weightTo": 100,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 250115,
+        "circumstancesOfDisappearance": "On July 18, 1962, Alan Visher, approximately 12 years old at the time when he went missing, was hiking with his mother, sister, and two brothers in Kings Canyon National Park. They were part of a larger group of 50 people that were participating in a week-long backcountry outing led by the Sierra Club. Alan was last seen walking in the middle of the group of hikers at or near Dog Creek in Tehipite Valley, (36.946813°, -118.688240°).  At approximately 7:00pm that evening, after the whole group arrived in Simpson Meadow to setup camp, it was realized that no one had seen Alan since approximately 2:00pm. A multi-agency search resulted in no finding of Alan."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 127044,
+          "identityId": 116025,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Backpack with sweater and food. -According to July 23, 1962 Oakland Tribune interview with Visher's mother, Peggy Ann Visher."
+        },
+        {
+          "id": 126699,
+          "identityId": 115736,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Last seen wearing wide-brim straw hat, brownish shirt, blue jeans, redwing boots"
+        }
+      ],
+      "sighting": {
+        "id": 292917,
+        "date": "1962-07-18",
+        "address": {
+          "city": "Kings Canyon",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0,
+          "zipCode": "93633"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.8118588,
+            "lon": -118.6614809
+          },
+          "formattedAddress": "Kings Canyon National Park, CA 93633, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 173242,
+          "isCaseOwner": false,
+          "name": "National Park Service - Sequoia and Kings Canyon",
+          "city": "Three Rivers",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 300,
+            "name": "Tulare County",
+            "localizedName": "Tulare"
+          },
+          "countyDisplayName": "Tulare",
+          "selection": {
+            "id": 200265,
+            "contact": {
+              "id": 292278,
+              "firstName": "Matt",
+              "lastName": "Smith",
+              "jobTitle": "Law Enforcement Park Ranger",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 79583,
+              "name": "National Park Service - Sequoia and Kings Canyon",
+              "street1": "47050 Generals Highway",
+              "city": "Three Rivers",
+              "county": {
+                "id": 300,
+                "name": "Tulare County",
+                "localizedName": "Tulare"
+              },
+              "zipCode": "93271",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5595654228",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "NP25222692"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 79583,
+        "isCaseOwner": false,
+        "name": "National Park Service - Sequoia and Kings Canyon"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 114815,
+        "investigatingAgencyIdentityId": 173242
+      },
+      "physicalDescription": {
+        "id": 206635,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 237470,
+          "identityId": 222419,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Photo taken by mother one to two days before Alan went missing.",
+          "isPublic": true,
+          "createdDateTime": "2025-07-23T19:24:16.537",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 478,
+              "width": 449,
+              "storageKey": "45511bf04d494a94aa06ffba53c132bd",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222419/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 113,
+              "storageKey": "2c7649e7aab24811bd34483dbba5030a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222419/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222419/Download"
+        },
+        {
+          "id": 237882,
+          "identityId": 222785,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Alan Visher - 6th grade photo",
+          "isPublic": true,
+          "createdDateTime": "2025-08-04T21:41:09.023",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 462,
+              "width": 271,
+              "storageKey": "2106f58205a14d9b88b117ab04180ca2",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222785/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 70,
+              "storageKey": "f3efdb64103d44398ea1af415213ff2f",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222785/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/222785/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 119868,
+        "defaultImageIdentityId": 222419
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/148200/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 148544,
+      "idFormatted": "MP148544",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-30T17:05:02.017",
+      "modifiedDateTime": "2025-07-30T22:32:32.72",
+      "subjectIdentification": {
+        "id": 239141,
+        "firstName": "Richard",
+        "middleName": "G",
+        "lastName": "Oldfield",
+        "currentMinAge": 90,
+        "currentMaxAge": 90,
+        "computedMissingMinAge": 33,
+        "computedMissingMaxAge": 33
+      },
+      "subjectDescription": {
+        "id": 210819,
+        "heightFrom": 70,
+        "heightTo": 71,
+        "weightFrom": 160,
+        "weightTo": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 250071,
+        "circumstancesOfDisappearance": "On October 9, 1968, Richard Oldfield was reported overdue from a solo hike in Kings Canyon National Park by his wife. His intended route included entering Kings Canyon via Kearsarge Pass, continuing to Dragon Lake, then to Gardiner Basin, and then exiting the park via Kearsarge Pass. Mr. Oldfield appeared to have signed summit register logbooks at Kearsarge Pass and Mt. Gould on October 5, 1968. On October 10, 1968, searchers followed a pair of Vibram shoe impressions from Mt. Gould to Dragon Lake where the tracks were ultimately lost. Snow and precipitation hampered search efforts for 3 days. Search was suspended on October 29, 1968. No other clues have been found."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 126813,
+          "identityId": 115841,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Bright green sleeping bag and dehydrated food. Possibly carrying a butane stove."
+        },
+        {
+          "id": 126812,
+          "identityId": 115840,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Possibly wearing thermal underwear, gray and black flannel shirt, gray nylon jacket, brown khaki pants, Vibram soled shoes."
+        }
+      ],
+      "sighting": {
+        "id": 292985,
+        "date": "1968-10-05",
+        "address": {
+          "city": "Kings Canyon",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0,
+          "zipCode": "93633"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.8118588,
+            "lon": -118.6614809
+          },
+          "formattedAddress": "Kings Canyon National Park, CA 93633, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 173475,
+          "isCaseOwner": false,
+          "name": "National Park Service - Sequoia and Kings Canyon",
+          "city": "Three Rivers",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 300,
+            "name": "Tulare County",
+            "localizedName": "Tulare"
+          },
+          "countyDisplayName": "Tulare",
+          "selection": {
+            "id": 200324,
+            "contact": {
+              "id": 292278,
+              "firstName": "Matt",
+              "lastName": "Smith",
+              "jobTitle": "Law Enforcement Park Ranger",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 79583,
+              "name": "National Park Service - Sequoia and Kings Canyon",
+              "street1": "47050 Generals Highway",
+              "city": "Three Rivers",
+              "county": {
+                "id": 300,
+                "name": "Tulare County",
+                "localizedName": "Tulare"
+              },
+              "zipCode": "93271",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5595654228",
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "NP25225120"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 79583,
+        "isCaseOwner": false,
+        "name": "National Park Service - Sequoia and Kings Canyon"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 114820,
+        "investigatingAgencyIdentityId": 173475
+      },
+      "physicalDescription": {
+        "id": 206673,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/148544/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/148544/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/148544/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
