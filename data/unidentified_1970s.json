@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T08:12:46.562037+00:00",
+  "generated_at": "2026-07-28T08:41:54.345240+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1006,
+  "count": 1008,
   "cases": [
     {
       "id": 103,
@@ -289423,6 +289423,580 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/146061/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/146061/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
+    },
+    {
+      "id": 147361,
+      "idFormatted": "UP147361",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-08T19:01:51.617",
+      "modifiedDateTime": "2026-06-18T21:22:23.273",
+      "caseIdentification": {
+        "id": 51485,
+        "caseNumber": "A74-3294"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71573,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 76488,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-09-23",
+        "address": {
+          "city": "Wenatchee",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "displayName": "WA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3024,
+            "name": "Chelan County",
+            "displayName": "Chelan"
+          },
+          "countyId": 0,
+          "zipCode": "98801"
+        },
+        "description": "The banks of the Columbia River near the Railroad yard in South Wenatchee",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "This is an unidentified male who was found buried in shallow sand near the banks of the Columbia River on September 23, 1974.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 47.4234599,
+            "lon": -120.3103494
+          },
+          "formattedAddress": "Wenatchee, WA 98801, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54475,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57043,
+          "identityId": 48146,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Tan or pale brown jockey shorts.\nA pair of tough cotton, dark green work trousers bearing a laundry mark just to the right of the zipper, beneath the belt, possibly indicating a work uniform. The laundry mark number is 7254.\nA brown leather belt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46701,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50708,
+          "isCaseOwner": false,
+          "name": "Chelan County Coroner's Office",
+          "city": "Wenatchee",
+          "state": {
+            "id": 2,
+            "name": "Washington",
+            "localizedName": "WA"
+          },
+          "stateDisplayName": "WA",
+          "county": {
+            "id": 3024,
+            "name": "Chelan County",
+            "localizedName": "Chelan"
+          },
+          "countyDisplayName": "Chelan",
+          "selection": {
+            "id": 60214,
+            "contact": {
+              "id": 34153,
+              "firstName": "Wayne",
+              "lastName": "Harris",
+              "jobTitle": "Coroner",
+              "roleId": 10,
+              "role": "Coroner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37395,
+              "name": "Chelan County Coroner's Office",
+              "street1": "415 Washington Street Suite 205",
+              "city": "Wenatchee",
+              "county": {
+                "id": 3024,
+                "name": "Chelan County",
+                "localizedName": "Chelan"
+              },
+              "zipCode": "98801",
+              "state": {
+                "id": 2,
+                "name": "Washington",
+                "localizedName": "WA"
+              },
+              "phone": "5096676431",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.chelan.wa.us/coroner"
+            }
+          },
+          "caseNumber": "A74-3294"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24393,
+        "investigatingAgencyIdentityId": 50708
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147361/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147361/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Washington"
+    },
+    {
+      "id": 147605,
+      "idFormatted": "UP147605",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-12T17:16:28.72",
+      "modifiedDateTime": "2025-07-17T15:50:33.92",
+      "caseIdentification": {
+        "id": 51518,
+        "caseNumber": "1978-02751"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71614,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 35,
+        "estimatedYearOfDeathFrom": 1978,
+        "estimatedYearOfBirthFrom": 1943,
+        "estimatedYearOfBirthTo": 1953,
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 158,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76602,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-12-08",
+        "address": {
+          "city": "San Ysidro",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92173"
+        },
+        "description": "200 yards South of Dairy Mart Rd., approx. 25 yards West of ISR 5S",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was located in a pond near a high embankment of an area that appeared to be where dirt had been removed from.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.5497444,
+            "lon": -117.0382158
+          },
+          "formattedAddress": "San Ysidro, CA 92173, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54449,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57099,
+          "identityId": 48196,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "dark plastic bracelet on the right wrist.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57098,
+          "identityId": 48195,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "The body was clothed in a long black coat, green sweater, blue shirt with long sleeves, undershirt, brown belt, dark trousers, and black shoes that laced.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46725,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "long dark hair",
+        "facialHairDescription": "small mustache and small goatee",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17289,
+          "identityId": 14533,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Right upper arm is a fist, with middle finger extended, initials of FTW and below USA. Left upper arm, skull with hat \"on\", star on left hand."
+        }
+      ],
+      "images": [
+        {
+          "id": 127255,
+          "identityId": 114779,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "caption": "tattoo of hand with middle finger and USA",
+          "isPublic": true,
+          "createdDateTime": "2025-07-12T17:19:06.177",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1263,
+              "width": 969,
+              "storageKey": "a5d02c111923482a811528202cc71451",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114779/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 92,
+              "storageKey": "d03039279d634ca9a33e4e69a2b6632c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114779/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114779/Download"
+        },
+        {
+          "id": 127256,
+          "identityId": 114780,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "caption": "skull with hat tattoo",
+          "isPublic": true,
+          "createdDateTime": "2025-07-12T17:19:07.8",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1524,
+              "width": 1053,
+              "storageKey": "de57766efd84494fb6021611149d506c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114780/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 83,
+              "storageKey": "8046f299db64490ca8213db96dd60f9c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114780/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/114780/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50757,
+          "isCaseOwner": false,
+          "name": "San Diego Police Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 60352,
+            "agency": {
+              "id": 43441,
+              "name": "San Diego Police Department",
+              "street1": "1401 Broadway",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92101",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6195312000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiego.gov/police"
+            }
+          }
+        },
+        {
+          "id": 50799,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 60459,
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "1978-02751"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24457,
+        "investigatingAgencyIdentityId": 50799
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T09:59:55.854383+00:00",
+  "generated_at": "2026-07-28T08:41:54.345240+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2091,
+  "count": 2095,
   "cases": [
     {
       "id": 64643,
@@ -630954,6 +630954,951 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147165/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147165/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 147357,
+      "idFormatted": "UP147357",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-08T18:19:07.513",
+      "modifiedDateTime": "2025-12-05T13:48:34.787",
+      "caseIdentification": {
+        "id": 51481,
+        "caseNumber": "2025-0045"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71570,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77145,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-08-30",
+        "address": {
+          "city": "Cleveland",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3150,
+            "name": "Manitowoc County",
+            "displayName": "Manitowoc"
+          },
+          "countyId": 0,
+          "zipCode": "53015"
+        },
+        "description": "1151 Lakeshore Dr Cleveland, WI 53015",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "One of two human teeth found on the beach of Hika Bay Park by a citizen",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.9149942,
+            "lon": -87.7473085
+          },
+          "formattedAddress": "Cleveland, WI 53015, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54424,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46699,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50706,
+          "isCaseOwner": false,
+          "name": "Manitowoc County Coroner's Office",
+          "city": "Manitowoc",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3150,
+            "name": "Manitowoc County",
+            "localizedName": "Manitowoc"
+          },
+          "countyDisplayName": "Manitowoc",
+          "selection": {
+            "id": 60359,
+            "agency": {
+              "id": 48648,
+              "name": "Manitowoc County Coroner's Office",
+              "street1": "1110 South 9th Street",
+              "city": "Manitowoc",
+              "county": {
+                "id": 3150,
+                "name": "Manitowoc County",
+                "localizedName": "Manitowoc"
+              },
+              "zipCode": "54220",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "9206834008",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://manitowoccountywi.gov/departments/coroner/"
+            }
+          },
+          "caseNumber": "2025-0045"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24435,
+        "investigatingAgencyIdentityId": 50706
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147357/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147357/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 147354,
+      "idFormatted": "UP147354",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-08T17:58:07.547",
+      "modifiedDateTime": "2025-10-30T15:03:16.533",
+      "caseIdentification": {
+        "id": 51480,
+        "caseNumber": "2025-0044"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71569,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76482,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-05-23",
+        "address": {
+          "city": "Cleveland",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3150,
+            "name": "Manitowoc County",
+            "displayName": "Manitowoc"
+          },
+          "countyId": 0,
+          "zipCode": "53015"
+        },
+        "description": "1151 Lakeshore Dr Cleveland, WI 53015",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "One of nine human teeth found on the beach of Hika Bay Park by a citizen",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.9149942,
+            "lon": -87.7473085
+          },
+          "formattedAddress": "Cleveland, WI 53015, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54423,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46698,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50705,
+          "isCaseOwner": false,
+          "name": "Manitowoc County Coroner's Office",
+          "city": "Manitowoc",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3150,
+            "name": "Manitowoc County",
+            "localizedName": "Manitowoc"
+          },
+          "countyDisplayName": "Manitowoc",
+          "selection": {
+            "id": 60360,
+            "agency": {
+              "id": 48648,
+              "name": "Manitowoc County Coroner's Office",
+              "street1": "1110 South 9th Street",
+              "city": "Manitowoc",
+              "county": {
+                "id": 3150,
+                "name": "Manitowoc County",
+                "localizedName": "Manitowoc"
+              },
+              "zipCode": "54220",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "9206834008",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://manitowoccountywi.gov/departments/coroner/"
+            }
+          },
+          "caseNumber": "2025-0044"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24436,
+        "investigatingAgencyIdentityId": 50705
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147354/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147354/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 147512,
+      "idFormatted": "UP147512",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-10T17:53:45.203",
+      "modifiedDateTime": "2025-08-06T13:53:34.45",
+      "caseIdentification": {
+        "id": 51509,
+        "caseNumber": "20-02-0165"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71602,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 8,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Geraro",
+        "possibleLastName": "Ortiz",
+        "weightFrom": 152,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76519,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2020-02-15",
+        "address": {
+          "city": "Parlier",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0,
+          "zipCode": "93648"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found deceased in studio apartment.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.6116174,
+            "lon": -119.5270734
+          },
+          "formattedAddress": "Parlier, CA 93648, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54478,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57089,
+          "identityId": 48188,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jeans, blue boxers, blue bra",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46717,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 28938,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50741,
+          "isCaseOwner": false,
+          "name": "Fresno County Sheriff - Coroner's Office",
+          "city": "Fresno",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 60457,
+            "agency": {
+              "id": 46045,
+              "name": "Fresno County Sheriff - Coroner's Office",
+              "street1": "3333 East American Avenue, Suite G",
+              "city": "Fresno",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93725",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596003400",
+              "email": "coroner@fresnosheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fresnosheriff.org/coroner.html"
+            }
+          },
+          "caseNumber": "20-02-0165"
+        },
+        {
+          "id": 50742,
+          "isCaseOwner": false,
+          "name": "Parlier Police Department",
+          "city": "Parlier",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 60303,
+            "agency": {
+              "id": 80747,
+              "name": "Parlier Police Department",
+              "street1": "8770 South Mendocino Avenue",
+              "city": "Parlier",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93648",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596466600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "PA20-0183",
+          "dateReported": "2020-02-15"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24455,
+        "investigatingAgencyIdentityId": 50741
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147512/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147512/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 147517,
+      "idFormatted": "UP147517",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-10T18:29:16.067",
+      "modifiedDateTime": "2026-03-24T19:02:47.253",
+      "caseIdentification": {
+        "id": 51510,
+        "caseNumber": "25-1762"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71694,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 23,
+        "estimatedAgeTo": 57,
+        "estimatedYearOfDeathFrom": 2024,
+        "estimatedYearOfDeathTo": 2025,
+        "estimatedYearOfBirthFrom": 1967,
+        "estimatedYearOfBirthTo": 2002,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76849,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-19",
+        "address": {
+          "city": "Topawa",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "31.80466, -111.91146",
+        "circumstancesOfRecovery": "USBP discovered individual in a remote desert area west of Topawa.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8139326,
+            "lon": -111.8260138
+          },
+          "formattedAddress": "Topawa, AZ 85639, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54442,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57090,
+          "identityId": 48189,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black George brand boxer briefs\nBlack Dickies Original 874 Size: 36x32",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46719,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17330,
+          "identityId": 14568,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Individual had a healed broken nose that was not set properly. Might have been seen to have a bump on the bridge of their nose.\nIndividual had rotated front top teeth and crowding of their top and bottom teeth."
+        }
+      ],
+      "images": [
+        {
+          "id": 127250,
+          "identityId": 114775,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Similar to pants found near decedent size 36x32 black Dickies original 874",
+          "isPublic": true,
+          "createdDateTime": "2025-07-10T18:37:30.027",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 514,
+              "width": 260,
+              "storageKey": "02ca27045a0e4f6c9e0868fea93cb78d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147517/Images/114775/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 61,
+              "storageKey": "75231b27ed5746439cc36d977235294b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147517/Images/114775/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147517/Images/114775/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 25970,
+        "defaultImageIdentityId": 114775
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50745,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 60306,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-1762"
+        },
+        {
+          "id": 50746,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 60307,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "250519060"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24414,
+        "investigatingAgencyIdentityId": 50745
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147517/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147517/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
     }
   ]
 }
