@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T08:41:54.345240+00:00",
+  "generated_at": "2026-07-29T08:48:01.478166+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1008,
+  "count": 1012,
   "cases": [
     {
       "id": 103,
@@ -289997,6 +289997,1180 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147605/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 147712,
+      "idFormatted": "UP147712",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-15T12:19:18.173",
+      "modifiedDateTime": "2025-12-05T14:20:36.813",
+      "caseIdentification": {
+        "id": 51532,
+        "caseNumber": "7009980  CCS70-6"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71632,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76566,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1970-09-20",
+        "address": {
+          "city": "Haskell",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2247,
+            "name": "Muskogee County",
+            "displayName": "Muskogee"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Foot in shoe found in Arkansas River, south of Haskell, Muskogee Co Oklahoma.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.8203784,
+            "lon": -95.674149
+          },
+          "formattedAddress": "Haskell, OK 74436, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54461,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57113,
+          "identityId": 48209,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Sock and boot",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46736,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50778,
+          "isCaseOwner": false,
+          "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+          "city": "Tulsa",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2268,
+            "name": "Tulsa County",
+            "localizedName": "Tulsa"
+          },
+          "countyDisplayName": "Tulsa",
+          "selection": {
+            "id": 60425,
+            "contact": {
+              "id": 1530,
+              "firstName": "Angela",
+              "lastName": "Berg",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28353,
+              "name": "Oklahoma Office of the Chief Medical Examiner Eastern Division",
+              "street1": "1627 Southwest Boulevard",
+              "city": "Tulsa",
+              "county": {
+                "id": 2268,
+                "name": "Tulsa County",
+                "localizedName": "Tulsa"
+              },
+              "zipCode": "74107",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9182953400",
+              "email": "unidentifiedpersons@ocme.ok.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.ok.gov/ocme/"
+            }
+          },
+          "caseNumber": "7009980"
+        },
+        {
+          "id": 50779,
+          "isCaseOwner": false,
+          "name": "Oklahoma State Bureau of Investigation - South Central Investigative Regional Office Headquarters",
+          "city": "Oklahoma City",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2251,
+            "name": "Oklahoma County",
+            "localizedName": "Oklahoma"
+          },
+          "countyDisplayName": "Oklahoma",
+          "selection": {
+            "id": 60426,
+            "agency": {
+              "id": 43140,
+              "name": "Oklahoma State Bureau of Investigation - South Central Investigative Regional Office Headquarters",
+              "street1": "6600 North Harvey",
+              "city": "Oklahoma City",
+              "county": {
+                "id": 2251,
+                "name": "Oklahoma County",
+                "localizedName": "Oklahoma"
+              },
+              "zipCode": "73116",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "4058486724",
+              "email": "okmissing@osbi.ok.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://osbi.ok.gov/pages/south-central-investigative-regional-office-hq"
+            }
+          },
+          "caseNumber": "CR 70-196",
+          "dateReported": "1970-09-21"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24953,
+        "investigatingAgencyIdentityId": 50778
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147712/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147712/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
+    },
+    {
+      "id": 147745,
+      "idFormatted": "UP147745",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-15T19:59:12.933",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 51548,
+        "caseNumber": "1979-03722"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71735,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 28,
+        "heightFrom": 74,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 117,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76588,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-09-15",
+        "address": {
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1884,
+            "name": "Sierra County",
+            "displayName": "Sierra"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found by Border Patrol under the overpass at mile post 89 on I-25.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.13459600000001,
+            "lon": -107.1011931
+          },
+          "formattedAddress": "Sierra County, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54470,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57273,
+          "identityId": 48317,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "pink shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57274,
+          "identityId": 48318,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Brown Pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57275,
+          "identityId": 48319,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "sandals",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46807,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Wavy 4 1/2\"",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50788,
+          "isCaseOwner": false,
+          "name": "Sierra County Sheriff's Office",
+          "city": "Truth or Consequences",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1884,
+            "name": "Sierra County",
+            "localizedName": "Sierra"
+          },
+          "countyDisplayName": "Sierra",
+          "selection": {
+            "id": 60438,
+            "agency": {
+              "id": 64887,
+              "name": "Sierra County Sheriff's Office",
+              "street1": "2501 South Broadway",
+              "city": "Truth or Consequences",
+              "county": {
+                "id": 1884,
+                "name": "Sierra County",
+                "localizedName": "Sierra"
+              },
+              "zipCode": "87901",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5758949150",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sierraco.org/department/sheriff/"
+            }
+          }
+        },
+        {
+          "id": 50789,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60441,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1979-03722"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147745/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147745/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 147886,
+      "idFormatted": "UP147886",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-17T20:22:14.95",
+      "modifiedDateTime": "2025-11-21T20:23:18.237",
+      "caseIdentification": {
+        "id": 51573,
+        "caseNumber": "1979-03940"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71654,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76609,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-10-08",
+        "address": {
+          "city": "Black Hat",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 157,
+            "name": "Apache County",
+            "displayName": "Apache"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Found by passerby down a dirt road approximately 6 miles south of Black Hat.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.5313224,
+            "lon": -109.3783206
+          },
+          "formattedAddress": "Apache County, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54480,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57124,
+          "identityId": 48217,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A blue, cotton denim-type, western style jacket bearing a label on\nthe posterior inside surface below the collar inscribed \"Lee M.R.\nMade in USA\". A separate label is present to the left of the first, inscribed with the letters \"FR\". The jacket bears five midline silvery metal and pearly gray snap-type buttons, all of which are open. Two anterior pockets are present, one on each side of the jacket, having western style flaps bearing silvery metal and pearly gray snap-type buttons which are open",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57125,
+          "identityId": 48218,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A bright red, with yellow, blue, and green floral print, pullover style, cotton-like top. The top bears a label on the posterior\ninside surface below the collar inscribed \"Topson Downs of\nCalifornia, Inc., Lot 2004, Style A6501, Large, See Reverse Side\".\nExtending inferiorly from the collar anteriorly is a V-type neck bearing two buttonholes on the right side. On the left side, correspondingly, are frayed areas resembling button attachments. No buttons are present. The sleeves are short, and bow-like ties are on both sleeves.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57126,
+          "identityId": 48219,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A pair of navy-blue, cotton, polyester-like pants with a stretch waistband. At the waistband on one aspect is a blue strip looping around a blue, plastic-like button. On the seam opposite this loop, on the inside surface, is a white label inscribed \"100% Poly, Machine Wash Warm, Tumble Dry Medium, AM48485H4, Size 15/16\". Both pant legs have greater than one hundred splotch-like, irregular shaped gray-brown stains scattered over all surfaces. A semi-translucent, white plastic-like tag is present on the outside surface of the left lateral aspect of the pants on the interior border of the waistband.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57127,
+          "identityId": 48220,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "A pair of white, cotton terry-type socks with green and yellow stripes at the top",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57128,
+          "identityId": 48221,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "A pair of brovn, leather-like shoes with tan-brown, rubber-like\nsoles and brown, cloth-like shoe laces. The shoes are moderately worn. The heel-sole of the right shoe bears a circular raisea stamp which reads \"Made in Rumania\".",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46754,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50803,
+          "isCaseOwner": false,
+          "name": "Apache County Sheriff's Office",
+          "city": "St Johns",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 157,
+            "name": "Apache County",
+            "localizedName": "Apache"
+          },
+          "countyDisplayName": "Apache",
+          "selection": {
+            "id": 60469,
+            "agency": {
+              "id": 63146,
+              "name": "Apache County Sheriff's Office",
+              "street1": "370 South Washington Street",
+              "city": "St Johns",
+              "county": {
+                "id": 157,
+                "name": "Apache County",
+                "localizedName": "Apache"
+              },
+              "zipCode": "85936",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "9283374321",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.co.apache.az.us/Sheriff/"
+            }
+          }
+        },
+        {
+          "id": 50821,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60495,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1979-03940"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24482,
+        "investigatingAgencyIdentityId": 50821
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147886/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147886/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 147948,
+      "idFormatted": "UP147948",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-18T20:38:59.363",
+      "modifiedDateTime": "2026-02-04T20:36:28.403",
+      "caseIdentification": {
+        "id": 51582,
+        "caseNumber": "1979-04531"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71665,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 120,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 76625,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-11-14",
+        "address": {
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "displayName": "NM"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "displayName": "McKinley"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found lying outside a rest stop shelter West of Gallup, NM",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.5263073,
+            "lon": -108.7420186
+          },
+          "formattedAddress": "Gallup, NM, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54488,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57283,
+          "identityId": 48323,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "multi colored striped shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57284,
+          "identityId": 48324,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "brown pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57285,
+          "identityId": 48325,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Blue socks",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57286,
+          "identityId": 48326,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown loafers",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 46765,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "headHairDescription": "Wavy",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50811,
+          "isCaseOwner": false,
+          "name": "New Mexico State Police",
+          "city": "Gallup",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1874,
+            "name": "McKinley County",
+            "localizedName": "McKinley"
+          },
+          "countyDisplayName": "McKinley",
+          "selection": {
+            "id": 60481,
+            "agency": {
+              "id": 61983,
+              "name": "New Mexico State Police",
+              "street1": "4200 East Highway 66",
+              "city": "Gallup",
+              "county": {
+                "id": 1874,
+                "name": "McKinley County",
+                "localizedName": "McKinley"
+              },
+              "zipCode": "87301",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5058639353",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sp.nm.gov/"
+            }
+          }
+        },
+        {
+          "id": 50825,
+          "isCaseOwner": false,
+          "name": "New Mexico Office of the Medical Investigator",
+          "city": "Albuquerque",
+          "state": {
+            "id": 23,
+            "name": "New Mexico",
+            "localizedName": "NM"
+          },
+          "stateDisplayName": "NM",
+          "county": {
+            "id": 1857,
+            "name": "Bernalillo County",
+            "localizedName": "Bernalillo"
+          },
+          "countyDisplayName": "Bernalillo",
+          "selection": {
+            "id": 60500,
+            "agency": {
+              "id": 22700,
+              "name": "New Mexico Office of the Medical Investigator",
+              "street1": "1 University of New Mexico",
+              "street2": "MSC07 4040",
+              "city": "Albuquerque",
+              "county": {
+                "id": 1857,
+                "name": "Bernalillo County",
+                "localizedName": "Bernalillo"
+              },
+              "zipCode": "87131",
+              "state": {
+                "id": 23,
+                "name": "New Mexico",
+                "localizedName": "NM"
+              },
+              "phone": "5052723053",
+              "email": "OMI-Identification@salud.unm.edu",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://omi.unm.edu/"
+            }
+          },
+          "caseNumber": "1979-04531"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147948/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147948/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
     }
   ]
 }

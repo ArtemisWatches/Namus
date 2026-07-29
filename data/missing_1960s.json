@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T09:59:41.661100+00:00",
+  "generated_at": "2026-07-29T08:47:45.924268+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 267,
+  "count": 268,
   "cases": [
     {
       "id": 498,
@@ -78067,6 +78067,294 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/148544/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/148544/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 149331,
+      "idFormatted": "MP149331",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-08-20T21:48:36.8",
+      "modifiedDateTime": "2026-07-24T15:42:48.627",
+      "subjectIdentification": {
+        "id": 265580,
+        "firstName": "Haskell",
+        "middleName": "Burel",
+        "lastName": "McDonald",
+        "nicknames": "Burel",
+        "currentMinAge": 92,
+        "currentMaxAge": 92,
+        "computedMissingMinAge": 34,
+        "computedMissingMaxAge": 34
+      },
+      "subjectDescription": {
+        "id": 235300,
+        "heightFrom": 70,
+        "weightFrom": 160,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 116273
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 277441,
+        "circumstancesOfDisappearance": "Haskell walked away from his home in Wister and never returned.  The exact date of last contact for Haskell is unknown.  The year of last contact was changed from 1970 to 1968."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 327488,
+        "date": "1968-01-01",
+        "address": {
+          "city": "Wister",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2236,
+            "name": "Le Flore County",
+            "displayName": "Le Flore"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.9674192,
+            "lon": -94.7255679
+          },
+          "formattedAddress": "Wister, OK 74966, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 174054,
+          "isCaseOwner": false,
+          "name": "Oklahoma State Bureau of Investigation - South Central Investigative Regional Office Headquarters",
+          "city": "Oklahoma City",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2251,
+            "name": "Oklahoma County",
+            "localizedName": "Oklahoma"
+          },
+          "countyDisplayName": "Oklahoma",
+          "selection": {
+            "id": 201105,
+            "contact": {
+              "id": 32077,
+              "firstName": "Terri",
+              "lastName": "Crawford",
+              "jobTitle": "Investigative Analyst",
+              "roleId": 8,
+              "role": "Fingerprint Examiner",
+              "isPublicEmail": false,
+              "phone1": "4058792958",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43140,
+              "name": "Oklahoma State Bureau of Investigation - South Central Investigative Regional Office Headquarters",
+              "street1": "6600 North Harvey",
+              "city": "Oklahoma City",
+              "county": {
+                "id": 2251,
+                "name": "Oklahoma County",
+                "localizedName": "Oklahoma"
+              },
+              "zipCode": "73116",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "4058486724",
+              "email": "okmissing@osbi.ok.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://osbi.ok.gov/pages/south-central-investigative-regional-office-hq"
+            }
+          },
+          "caseNumber": "M70-639"
+        },
+        {
+          "id": 174055,
+          "isCaseOwner": false,
+          "name": "Pittsburg County Sheriff's Office",
+          "city": "McAlester",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2257,
+            "name": "Pittsburg County",
+            "localizedName": "Pittsburg"
+          },
+          "countyDisplayName": "Pittsburg",
+          "selection": {
+            "id": 201106,
+            "agency": {
+              "id": 43702,
+              "name": "Pittsburg County Sheriff's Office",
+              "street1": "1210 North West Street",
+              "street2": "1210 North West Street, McAlester, OK 74501",
+              "city": "McAlester",
+              "county": {
+                "id": 2257,
+                "name": "Pittsburg County",
+                "localizedName": "Pittsburg"
+              },
+              "zipCode": "74501",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9184235858",
+              "email": "pittsburgdispatch@yahoo.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://pittsburg.okcounties.org/offices/county-sheriff"
+            }
+          }
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43140,
+        "isCaseOwner": false,
+        "name": "Oklahoma State Bureau of Investigation - South Central Investigative Regional Office Headquarters"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 115350,
+        "investigatingAgencyIdentityId": 174054
+      },
+      "physicalDescription": {
+        "id": 207362,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 241388,
+          "identityId": 226152,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-12T14:18:20.307",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 259,
+              "width": 221,
+              "storageKey": "f9d62bf510624946bcfe5ddcdc51d4de",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/226152/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "a0eface1c10946ea87f2434e79879e31",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/226152/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/226152/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 122748,
+        "defaultImageIdentityId": 226152
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T08:32:39.439969+00:00",
+  "generated_at": "2026-07-29T08:47:45.924268+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1262,
+  "count": 1263,
   "cases": [
     {
       "id": 1,
@@ -369024,6 +369024,351 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/147889/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 149156,
+      "idFormatted": "MP149156",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-08-15T18:55:15.6",
+      "modifiedDateTime": "2026-01-26T20:19:32.143",
+      "subjectIdentification": {
+        "id": 239795,
+        "firstName": "Kim",
+        "middleName": "I",
+        "lastName": "Moses",
+        "currentMinAge": 70,
+        "currentMaxAge": 70,
+        "computedMissingMinAge": 20,
+        "computedMissingMaxAge": 20
+      },
+      "subjectDescription": {
+        "id": 211342,
+        "heightFrom": 68,
+        "heightTo": 70,
+        "weightFrom": 150,
+        "weightTo": 200,
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribalAffiliation": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "tribeAssociations": [
+          {
+            "tribe": {
+              "tribeId": 204,
+              "tribeName": "Kiowa Tribe "
+            },
+            "isEnrolled": true
+          }
+        ]
+      },
+      "caseIdentification": {
+        "id": 106057
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 250931,
+        "circumstancesOfDisappearance": "Kim Moses has been missing since 1977.  His mother wrote that he was reported missing to Creek County Sherriff's Office as missing around that time.  Due to the extended time elapse, Creek County advised they were unable to locate the report.  He went to Tahlequah Sequoyah High School and was reportedly in the Ok National Guard.  His mother has since passed away however he has living siblings."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 294050,
+        "date": "1977-02-04",
+        "address": {
+          "city": "Bristow",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2215,
+            "name": "Creek County",
+            "displayName": "Creek"
+          },
+          "countyId": 0,
+          "zipCode": "74010"
+        },
+        "missingFromTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.8306334,
+            "lon": -96.39111799999999
+          },
+          "formattedAddress": "Bristow, OK 74010, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 173919,
+          "isCaseOwner": false,
+          "name": "Muscogee Mvskoke Creek Nation Lighthorse Tribal Police Department",
+          "city": "Okmulgee",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2252,
+            "name": "Okmulgee County",
+            "localizedName": "Okmulgee"
+          },
+          "countyDisplayName": "Okmulgee",
+          "selection": {
+            "id": 200930,
+            "contact": {
+              "id": 161195,
+              "firstName": "Theresa",
+              "lastName": "Wisner-Lee",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45956,
+              "name": "Muscogee Mvskoke Creek Nation Lighthorse Tribal Police Department",
+              "street1": "2000 Aligator Trail",
+              "street2": "PO Box 580",
+              "city": "Okmulgee",
+              "county": {
+                "id": 2252,
+                "name": "Okmulgee County",
+                "localizedName": "Okmulgee"
+              },
+              "zipCode": "74447",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "9187327800",
+              "email": "lighthorse@mcn-nsn.gov",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.mcn-nsn.gov/services/lighthorse-police/"
+            }
+          },
+          "caseNumber": "2025-20442"
+        },
+        {
+          "id": 173922,
+          "isCaseOwner": false,
+          "name": "Bureau of Indian Affairs - District II",
+          "city": "Oklahoma City",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2251,
+            "name": "Oklahoma County",
+            "localizedName": "Oklahoma"
+          },
+          "countyDisplayName": "Oklahoma",
+          "selection": {
+            "id": 200933,
+            "contact": {
+              "id": 229640,
+              "firstName": "Vincent",
+              "lastName": "Marcellino",
+              "jobTitle": "Special Agent/Criminal Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48519,
+              "name": "Bureau of Indian Affairs - District II",
+              "street1": "5924 Northwest 2nd Street, Suite 650 Oklahoma City, Oklahoma 73127",
+              "city": "Oklahoma City",
+              "county": {
+                "id": 2251,
+                "name": "Oklahoma County",
+                "localizedName": "Oklahoma"
+              },
+              "zipCode": "73127",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "4056031573",
+              "email": "ojs.lawenforcement@bia.gov",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.bia.gov/bia/ojs/contact-us"
+            }
+          },
+          "caseNumber": "C21000424"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 45956,
+        "isCaseOwner": false,
+        "name": "Muscogee Mvskoke Creek Nation Lighthorse Tribal Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 115335,
+        "investigatingAgencyIdentityId": 173919
+      },
+      "physicalDescription": {
+        "id": 207208,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 238337,
+          "identityId": 223204,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-08-15T19:00:57.9",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 166,
+              "width": 119,
+              "storageKey": "aa3c631f808f4650a61b3e950e85b458",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/223204/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 86,
+              "storageKey": "3fc460dfbb474e24949d8c255e423b5c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/223204/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/223204/Download"
+        },
+        {
+          "id": 242327,
+          "identityId": 226981,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-06T19:36:30.093",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 503,
+              "width": 411,
+              "storageKey": "2bb0388bec9048e7904a7d51db2f4c96",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/226981/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 98,
+              "storageKey": "59f5bc67edfe4664a5c5908faf44a280",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/226981/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/226981/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 120270,
+        "defaultImageIdentityId": 223204
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
     }
   ]
 }
