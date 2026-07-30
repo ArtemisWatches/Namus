@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T08:47:45.924268+00:00",
+  "generated_at": "2026-07-30T08:34:15.182360+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1263,
+  "count": 1264,
   "cases": [
     {
       "id": 1,
@@ -369369,6 +369369,311 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/149156/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
+    },
+    {
+      "id": 150118,
+      "idFormatted": "MP150118",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-09-11T21:22:38.807",
+      "modifiedDateTime": "2026-01-21T14:11:56.423",
+      "subjectIdentification": {
+        "id": 243859,
+        "firstName": "Pepper",
+        "lastName": "Reed",
+        "currentMinAge": 73,
+        "currentMaxAge": 73,
+        "computedMissingMinAge": 23,
+        "computedMissingMaxAge": 23
+      },
+      "subjectDescription": {
+        "id": 215216,
+        "heightFrom": 62,
+        "heightTo": 64,
+        "weightFrom": 115,
+        "weightTo": 130,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 255282,
+        "circumstancesOfDisappearance": "Pepper's family last saw her in Houston, Texas between December 12 and December 18, 1975. At this time, Pepper introduced her brother and mother to her new boyfriend, Terry Rasmussen. Pepper also told them she was pregnant with Terry's child. Their child, Rea Rasmussen, was born in Orange County California on June 15 ,1976. In 2000, Rea was found deceased in Bear Brook State Park in New Hampshire. Rea's body was recently identified by Investigators. Pepper's boyfriend Terry was convicted of a murder in California and was a suspect in the Bear Brook Murders.\n\nPepper's family last spoke to her in December 1975. Pepper was last known to be alive in Orange County California on June 15, 1976."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 299818,
+        "date": "1975-12-18",
+        "address": {
+          "city": "Anaheim",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 276,
+            "name": "Orange County",
+            "displayName": "Orange"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.8365932,
+            "lon": -117.9143012
+          },
+          "formattedAddress": "Anaheim, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 177645,
+          "isCaseOwner": false,
+          "name": "Anaheim Police Department",
+          "city": "Anaheim",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 276,
+            "name": "Orange County",
+            "localizedName": "Orange"
+          },
+          "countyDisplayName": "Orange",
+          "selection": {
+            "id": 204902,
+            "agency": {
+              "id": 45507,
+              "name": "Anaheim Police Department",
+              "street1": "425 South Harbor Boulevard",
+              "city": "Anaheim",
+              "county": {
+                "id": 276,
+                "name": "Orange County",
+                "localizedName": "Orange"
+              },
+              "zipCode": "92805",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7147651900",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.anaheim.net/171/Police-Department"
+            }
+          },
+          "caseNumber": "25-129982",
+          "dateReported": "2025-09-11"
+        },
+        {
+          "id": 177646,
+          "isCaseOwner": false,
+          "name": "New Hampshire State Police",
+          "city": "Concord",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1832,
+            "name": "Merrimack County",
+            "localizedName": "Merrimack"
+          },
+          "countyDisplayName": "Merrimack",
+          "selection": {
+            "id": 204903,
+            "agency": {
+              "id": 43794,
+              "name": "New Hampshire State Police",
+              "street1": "Major Crime - Cold Case Unit",
+              "street2": "33 Hazen Drive",
+              "city": "Concord",
+              "county": {
+                "id": 1832,
+                "name": "Merrimack County",
+                "localizedName": "Merrimack"
+              },
+              "zipCode": "03305",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6032233856",
+              "email": "MCU@dos.nh.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 45507,
+        "isCaseOwner": false,
+        "name": "Anaheim Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 116899,
+        "investigatingAgencyIdentityId": 177645
+      },
+      "physicalDescription": {
+        "id": 211042,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 241374,
+          "identityId": 226138,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Photo of Pepper",
+          "isPublic": true,
+          "createdDateTime": "2025-09-11T21:26:07.187",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 640,
+              "width": 480,
+              "storageKey": "d798ad2397124191ab7e11453206a265",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226138/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "966b813315c948548a8b1dba226b9ce5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226138/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226138/Download"
+        },
+        {
+          "id": 241375,
+          "identityId": 226139,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Photo of Pepper",
+          "isPublic": true,
+          "createdDateTime": "2025-09-11T21:26:08.467",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2048,
+              "width": 1536,
+              "storageKey": "10c3c435a0ac497f8017a893db828314",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226139/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "f023a49d9ebf4bdc88f71930a1e3c216",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226139/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/226139/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 122740,
+        "defaultImageIdentityId": 226138
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
