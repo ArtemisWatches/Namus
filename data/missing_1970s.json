@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T08:34:15.182360+00:00",
+  "generated_at": "2026-07-31T08:56:20.578961+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1264,
+  "count": 1265,
   "cases": [
     {
       "id": 1,
@@ -369673,6 +369673,218 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150118/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 150307,
+      "idFormatted": "MP150307",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-09-17T15:44:30.623",
+      "modifiedDateTime": "2026-06-15T17:08:11.427",
+      "subjectIdentification": {
+        "id": 244063,
+        "firstName": "Joseph",
+        "middleName": "Paul",
+        "lastName": "Schlagel",
+        "currentMinAge": 74,
+        "currentMaxAge": 74,
+        "computedMissingMinAge": 23,
+        "computedMissingMaxAge": 23
+      },
+      "subjectDescription": {
+        "id": 215404,
+        "heightFrom": 68,
+        "weightFrom": 145,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 108431
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 255503,
+        "circumstancesOfDisappearance": "Joseph Schlagel was last heard from by his father on August 9, 1975, stating he was returning to Kings Beach, CA, from Oregon via the coastal route after a walking trip that took him through California, Oregon, Nebraska, and Canada.  There is an unconfirmed report that Joseph was seen in South Lake Tahoe, in front of Harrah's Casino, panhandling."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 309350,
+        "date": "1975-08-26",
+        "address": {
+          "city": "Unknown",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "displayName": "Placer"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.0915751,
+            "lon": -120.8039474
+          },
+          "formattedAddress": "Placer County, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 177800,
+          "isCaseOwner": false,
+          "name": "Placer County Sheriff's Office",
+          "city": "Auburn",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "localizedName": "Placer"
+          },
+          "countyDisplayName": "Placer",
+          "selection": {
+            "id": 224538,
+            "contact": {
+              "id": 260651,
+              "firstName": "Christopher",
+              "lastName": "Carlton",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "email": "ccarlton@placer.ca.gov",
+              "isPublicEmail": true,
+              "phone1": "5308897856",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43987,
+              "name": "Placer County Sheriff's Office",
+              "street1": "2929 Richardson Drive",
+              "city": "Auburn",
+              "county": {
+                "id": 277,
+                "name": "Placer County",
+                "localizedName": "Placer"
+              },
+              "zipCode": "95603",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5308897800",
+              "email": "pcsoadmin@placer.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.placer.ca.gov/1680/Sheriffs-Office"
+            }
+          },
+          "caseNumber": "SO750006193",
+          "dateReported": "1975-09-02"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43987,
+        "isCaseOwner": false,
+        "name": "Placer County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 118822,
+        "investigatingAgencyIdentityId": 177800
+      },
+      "physicalDescription": {
+        "id": 211226,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 106454,
+          "identityId": 96517,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Left hip surgical scar approximately 18\" long and two slight scars on each cheek from a mole removal."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

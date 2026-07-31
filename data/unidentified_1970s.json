@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T08:48:01.478166+00:00",
+  "generated_at": "2026-07-31T08:56:36.347828+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1012,
+  "count": 1013,
   "cases": [
     {
       "id": 103,
@@ -291171,6 +291171,203 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147948/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/147948/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 148607,
+      "idFormatted": "UP148607",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-07-31T20:23:14.67",
+      "modifiedDateTime": "2025-08-01T10:53:02.907",
+      "caseIdentification": {
+        "id": 51663,
+        "caseNumber": "N1978-13172"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71763,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 76796,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-09-06",
+        "agencyQAReviewed": "2025-07-31",
+        "address": {
+          "city": "Vienna",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2925,
+            "name": "Fairfax City",
+            "displayName": "Fairfax"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Single bone found in creek bed",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.9012225,
+            "lon": -77.2652604
+          },
+          "formattedAddress": "Vienna, VA 22180, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54555,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46828,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 50919,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 60634,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "N1978-13172"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24543,
+        "investigatingAgencyIdentityId": 50919
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/148607/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/148607/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
     }
   ]
 }
