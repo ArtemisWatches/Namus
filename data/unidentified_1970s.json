@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T08:56:36.347828+00:00",
+  "generated_at": "2026-08-01T08:27:29.812452+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1013,
+  "count": 1014,
   "cases": [
     {
       "id": 103,
@@ -291368,6 +291368,189 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/148607/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/148607/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 149063,
+      "idFormatted": "UP149063",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-08-14T00:25:08.083",
+      "modifiedDateTime": "2025-08-26T15:39:46.713",
+      "caseIdentification": {
+        "id": 51796,
+        "caseNumber": "178-76"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 71906,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 19,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77008,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-05-13",
+        "address": {
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "displayName": "El Paso"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Unknown",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.7618778,
+            "lon": -106.4850217
+          },
+          "formattedAddress": "El Paso, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54635,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 46924,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51035,
+          "isCaseOwner": false,
+          "name": "El Paso County Medical Examiners Office",
+          "city": "El Paso",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2659,
+            "name": "El Paso County",
+            "localizedName": "El Paso"
+          },
+          "countyDisplayName": "El Paso",
+          "selection": {
+            "id": 60804,
+            "agency": {
+              "id": 33532,
+              "name": "El Paso County Medical Examiners Office",
+              "street1": "4505 Alberta Avenue",
+              "city": "El Paso",
+              "county": {
+                "id": 2659,
+                "name": "El Paso County",
+                "localizedName": "El Paso"
+              },
+              "zipCode": "79905",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9155321447",
+              "email": "medexaminquiry@epcounty.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.epcounty.com/medicalexaminer/"
+            }
+          },
+          "caseNumber": "178-76"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/149063/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/149063/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
     }
   ]
 }

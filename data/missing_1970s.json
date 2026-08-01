@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T08:56:20.578961+00:00",
+  "generated_at": "2026-08-01T08:27:14.151395+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1265,
+  "count": 1266,
   "cases": [
     {
       "id": 1,
@@ -369885,6 +369885,230 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150307/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 150829,
+      "idFormatted": "MP150829",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-09-30T15:12:53.213",
+      "modifiedDateTime": "2026-04-21T22:30:41.593",
+      "subjectIdentification": {
+        "id": 244613,
+        "firstName": "Pamela",
+        "middleName": "Kay",
+        "lastName": "Masten",
+        "currentMinAge": 70,
+        "currentMaxAge": 70,
+        "computedMissingMinAge": 15,
+        "computedMissingMaxAge": 15
+      },
+      "subjectDescription": {
+        "id": 228766,
+        "heightFrom": 62,
+        "heightTo": 66,
+        "weightFrom": 160,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribalAffiliation": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 114658
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 256136,
+        "circumstancesOfDisappearance": "Pamela was reported missing in 2023 at a Missing Murdered Indigenous Person conference in Humboldt County by two relatives who had never personally met her. The relatives stated that the last time anyone had contact with Pamela was sometime in the year 1972 (date not specified). Pamela was suspected to have resided in Sacramento, CA and may have had plans to travel to Alaska."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 301073,
+        "date": "1972-01-01",
+        "address": {
+          "city": "Sacramento",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 280,
+            "name": "Sacramento County",
+            "displayName": "Sacramento"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.5781342,
+            "lon": -121.4944209
+          },
+          "formattedAddress": "Sacramento, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 178237,
+          "isCaseOwner": false,
+          "name": "Humboldt County Sheriff's Office",
+          "city": "Eureka",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 258,
+            "name": "Humboldt County",
+            "localizedName": "Humboldt"
+          },
+          "countyDisplayName": "Humboldt",
+          "selection": {
+            "id": 205699,
+            "agency": {
+              "id": 46120,
+              "name": "Humboldt County Sheriff's Office",
+              "street1": "826 4th Street",
+              "city": "Eureka",
+              "county": {
+                "id": 258,
+                "name": "Humboldt County",
+                "localizedName": "Humboldt"
+              },
+              "zipCode": "95501",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7074457251",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://humboldtgov.org/187/Sheriffs-Office"
+            }
+          },
+          "caseNumber": "202301885",
+          "dateReported": "2023-04-22"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 46120,
+        "isCaseOwner": false,
+        "name": "Humboldt County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 117916,
+        "investigatingAgencyIdentityId": 178237
+      },
+      "physicalDescription": {
+        "id": 211679,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 242164,
+          "identityId": 226825,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-09-30T15:17:37.637",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 947,
+              "width": 741,
+              "storageKey": "ba36dccb4bdf4e7a8f648df7ca7c95a8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/226825/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "a29f472334ea434880429b3dce042d12",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/226825/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/226825/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 123053,
+        "defaultImageIdentityId": 226825
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
