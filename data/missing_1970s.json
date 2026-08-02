@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T08:27:14.151395+00:00",
+  "generated_at": "2026-08-02T08:30:06.570904+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1266,
+  "count": 1267,
   "cases": [
     {
       "id": 1,
@@ -370110,6 +370110,263 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/150829/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 151617,
+      "idFormatted": "MP151617",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-23T10:10:13.497",
+      "modifiedDateTime": "2025-11-18T01:17:29.83",
+      "subjectIdentification": {
+        "id": 245419,
+        "firstName": "Stephen",
+        "middleName": "B",
+        "lastName": "KENNEDY",
+        "currentMinAge": 73,
+        "currentMaxAge": 73,
+        "computedMissingMinAge": 19,
+        "computedMissingMaxAge": 19
+      },
+      "subjectDescription": {
+        "id": 216622,
+        "heightFrom": 76,
+        "weightFrom": 150,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 256875,
+        "circumstancesOfDisappearance": "Stephen KENNEDY was camping at Makapuu Beach Park with friends.  On 8-4-1972, Stephen was discovered missing from the campsite.  Stephen left all of his belongings behind, and has not been seen or heard from since."
+      },
+      "notes": [
+        {
+          "id": 130340,
+          "identityId": 117793,
+          "noteType": "Transportation",
+          "isPublic": true,
+          "description": "No vehicle involved"
+        }
+      ],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 128249,
+          "identityId": 117029,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Unknown"
+        }
+      ],
+      "sighting": {
+        "id": 302395,
+        "date": "1972-08-04",
+        "address": {
+          "city": "Waimanalo",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "displayName": "HI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "displayName": "Honolulu"
+          },
+          "countyId": 0,
+          "zipCode": "96795"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 21.3490045,
+            "lon": -157.7157309
+          },
+          "formattedAddress": "Waimānalo, HI 96795, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 178819,
+          "isCaseOwner": false,
+          "name": "Honolulu Police Department",
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "localizedName": "HI"
+          },
+          "stateDisplayName": "HI",
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "localizedName": "Honolulu"
+          },
+          "countyDisplayName": "Honolulu",
+          "selection": {
+            "id": 206382,
+            "contact": {
+              "id": 22375,
+              "firstName": "Michael",
+              "lastName": "Garcia",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40114,
+              "name": "Honolulu Police Department",
+              "street1": "801 South Beretania Street",
+              "city": "Honolulu",
+              "county": {
+                "id": 609,
+                "name": "Honolulu County",
+                "localizedName": "Honolulu"
+              },
+              "zipCode": "96813",
+              "state": {
+                "id": 44,
+                "name": "Hawaii",
+                "localizedName": "HI"
+              },
+              "phone": "8085293111",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.honolulupd.org"
+            }
+          },
+          "caseNumber": "72-V83497",
+          "dateReported": "1972-08-14"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40114,
+        "isCaseOwner": false,
+        "name": "Honolulu Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 117479,
+        "investigatingAgencyIdentityId": 178819
+      },
+      "physicalDescription": {
+        "id": 212430,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 64230,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 242805,
+          "identityId": 227445,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "STEPHEN KENNEDY",
+          "isPublic": true,
+          "createdDateTime": "2025-10-23T10:31:27.987",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 309,
+              "width": 269,
+              "storageKey": "c8e0a94dc02c422fa38fda0c5e537751",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/227445/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 104,
+              "storageKey": "723a4fd1cafc4637a926d135d5f39361",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/227445/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/227445/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 123351,
+        "defaultImageIdentityId": 227445
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "generated_at": "2026-08-02T08:30:06.570904+00:00",
   "case_type": "MissingPersons",
   "decade": "1940s",
-  "count": 31,
+  "count": 32,
   "cases": [
     {
       "id": 5659,
@@ -8446,6 +8446,237 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/122466/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/122466/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Utah"
+    },
+    {
+      "id": 151327,
+      "idFormatted": "MP151327",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-14T16:57:13.79",
+      "modifiedDateTime": "2025-12-04T17:05:37.77",
+      "subjectIdentification": {
+        "id": 245123,
+        "firstName": "Lola",
+        "lastName": "Celli",
+        "currentMinAge": 104,
+        "currentMaxAge": 104,
+        "computedMissingMinAge": 24,
+        "computedMissingMaxAge": 24
+      },
+      "subjectDescription": {
+        "id": 216344,
+        "heightFrom": 64,
+        "heightTo": 65,
+        "weightFrom": 115,
+        "weightTo": 125,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 260504,
+        "circumstancesOfDisappearance": "Left her parents residence in Columbus, OH on foot, indicating she was going to take a bus to downtown Columbus for a shopping trip. No confirmed sightings of her since leaving her parents residence."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 301919,
+        "date": "1946-02-23",
+        "address": {
+          "city": "Columbus",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2133,
+            "name": "Franklin County",
+            "displayName": "Franklin"
+          },
+          "countyId": 0,
+          "zipCode": "43212"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.9625112,
+            "lon": -83.0032218
+          },
+          "formattedAddress": "Columbus, OH, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 178604,
+          "isCaseOwner": false,
+          "name": "Grandview Heights Police Department",
+          "city": "Columbus",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2133,
+            "name": "Franklin County",
+            "localizedName": "Franklin"
+          },
+          "countyDisplayName": "Franklin",
+          "selection": {
+            "id": 206106,
+            "contact": {
+              "id": 339016,
+              "firstName": "Zac",
+              "lastName": "Scurlock",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48605,
+              "name": "Grandview Heights Police Department",
+              "street1": "1016 Grandview Avenue",
+              "city": "Columbus",
+              "county": {
+                "id": 2133,
+                "name": "Franklin County",
+                "localizedName": "Franklin"
+              },
+              "zipCode": "43212",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "6144887901",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "OR - 3374"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48605,
+        "isCaseOwner": false,
+        "name": "Grandview Heights Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 117444,
+        "investigatingAgencyIdentityId": 178604
+      },
+      "physicalDescription": {
+        "id": 212145,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Thick Dark Brown Hair",
+        "leftEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        },
+        "rightEyeColor": {
+          "id": 4,
+          "name": "Gray",
+          "localizedName": "Gray"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 242528,
+          "identityId": 227176,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-14T17:29:07.397",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 708,
+              "width": 540,
+              "storageKey": "c1fd66ef374343a5bd73e1b6d48cd4c5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/227176/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 92,
+              "storageKey": "e06b737a5f5945ad82ce34bcf3ccad51",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/227176/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/227176/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 123239,
+        "defaultImageIdentityId": 227176
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
     }
   ]
 }
