@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T08:30:06.570904+00:00",
+  "generated_at": "2026-08-03T09:54:23.844922+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1267,
+  "count": 1268,
   "cases": [
     {
       "id": 1,
@@ -370367,6 +370367,282 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151617/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
+    },
+    {
+      "id": 151953,
+      "idFormatted": "MP151953",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-04T16:00:19.75",
+      "modifiedDateTime": "2026-05-19T15:56:20.82",
+      "subjectIdentification": {
+        "id": 245735,
+        "firstName": "Theodore",
+        "lastName": "Sander III",
+        "nicknames": "N/A",
+        "currentMinAge": 95,
+        "currentMaxAge": 95,
+        "computedMissingMinAge": 47,
+        "computedMissingMaxAge": 47
+      },
+      "subjectDescription": {
+        "id": 216916,
+        "heightFrom": 73,
+        "weightFrom": 160,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 260286,
+        "circumstancesOfDisappearance": "On August 20th, 1977, Theodore Sander III went missing in the mountains above Convict Lake in Mono County, California. At the time of his disappearance, he was 47 years old. He parked his car at Convict Lake early in the morning on August 20th, 1977 and presumably hiked up into the hills and never returned. He was an experienced hiker, however he may have fallen or had some sort of accident while on his hike. No remains or personal effects were ever found."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 128366,
+          "identityId": 117142,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Possibly last wearing G.I. pants and blue windbreaker."
+        }
+      ],
+      "sighting": {
+        "id": 302913,
+        "date": "1977-08-20",
+        "address": {
+          "city": "Convict Lake",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 272,
+            "name": "Mono County",
+            "displayName": "Mono"
+          },
+          "countyId": 0,
+          "zipCode": "93546"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.5898951,
+            "lon": -118.8582239
+          },
+          "formattedAddress": "Convict Lake, California 93546, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 179063,
+          "isCaseOwner": false,
+          "name": "Mono County Sheriff-Coroner",
+          "city": "Bridgeport",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 272,
+            "name": "Mono County",
+            "localizedName": "Mono"
+          },
+          "countyDisplayName": "Mono",
+          "selection": {
+            "id": 206654,
+            "contact": {
+              "id": 339699,
+              "firstName": "Alex",
+              "lastName": "Flores",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48127,
+              "name": "Mono County Sheriff-Coroner",
+              "street1": "PO BOX 616",
+              "city": "Bridgeport",
+              "county": {
+                "id": 272,
+                "name": "Mono County",
+                "localizedName": "Mono"
+              },
+              "zipCode": "93517",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7609327549",
+              "email": "sclark@monosheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "Monosheriff.org"
+            }
+          },
+          "caseNumber": "25-569",
+          "dateReported": "2025-09-24"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48127,
+        "isCaseOwner": false,
+        "name": "Mono County Sheriff-Coroner"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 117990,
+        "investigatingAgencyIdentityId": 179063
+      },
+      "physicalDescription": {
+        "id": 212722,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 243053,
+          "identityId": 227688,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-04T16:14:25.66",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1312,
+              "width": 924,
+              "storageKey": "f835faa6db7a4bf397be68282fdf21ad",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227688/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 85,
+              "storageKey": "77591df32bef43408ffc5ddca5fbd22b",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227688/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227688/Download"
+        },
+        {
+          "id": 243054,
+          "identityId": 227689,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-04T16:15:10.27",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1316,
+              "width": 1206,
+              "storageKey": "9247a2d99d814b168775d6c52e80dccf",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227689/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 110,
+              "storageKey": "bdf1a6d91a6b4050a855284226aecc5d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227689/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/227689/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 123471,
+        "defaultImageIdentityId": 227688
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
