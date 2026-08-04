@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T09:54:37.984877+00:00",
+  "generated_at": "2026-08-04T08:45:31.590566+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1015,
+  "count": 1016,
   "cases": [
     {
       "id": 103,
@@ -291852,6 +291852,214 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150166/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150166/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 150679,
+      "idFormatted": "UP150679",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-09-25T23:52:44.64",
+      "modifiedDateTime": "2026-03-15T19:53:06.377",
+      "caseIdentification": {
+        "id": 52011,
+        "caseNumber": "1979-0487"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72222,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 60,
+        "heightFrom": 71,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 180,
+        "weightTo": 210,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 77523,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1979-07-13",
+        "address": {
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0,
+          "zipCode": "89501"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found submerged in the Truckee River.  The decedent was wearing fishing waders, boots, and had a tattoo of \"Don\" on his left upper arm.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.5254004,
+            "lon": -119.8135266
+          },
+          "formattedAddress": "Reno, NV 89501, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54847,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47112,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17459,
+          "identityId": 14655,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "\"Don\" with two stars and scroll under name on left arm"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51385,
+          "isCaseOwner": false,
+          "name": "Washoe County Regional Medical Examiner's Office",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 61473,
+            "agency": {
+              "id": 43600,
+              "name": "Washoe County Regional Medical Examiner's Office",
+              "street1": "990 East 9th Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89512",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757856114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.washoecounty.us/coroner/index.php"
+            }
+          },
+          "caseNumber": "1979-0487",
+          "dateReported": "2025-09-25"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24932,
+        "investigatingAgencyIdentityId": 51385
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150679/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150679/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
     }
   ]
 }
