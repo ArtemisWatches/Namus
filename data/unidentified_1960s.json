@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T08:33:51.260221+00:00",
+  "generated_at": "2026-08-05T08:42:50.464765+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 232,
+  "count": 233,
   "cases": [
     {
       "id": 334,
@@ -61925,6 +61925,279 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145707/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/145707/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 150878,
+      "idFormatted": "UP150878",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-01T14:47:54.4",
+      "modifiedDateTime": "2026-05-22T12:21:41.757",
+      "caseIdentification": {
+        "id": 52027,
+        "caseNumber": "64-178"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72248,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 1964,
+        "estimatedYearOfBirthFrom": 1904,
+        "estimatedYearOfBirthTo": 1914,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 64,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightTo": 160,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 77563,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1964-05-29",
+        "address": {
+          "city": "Marina",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 273,
+            "name": "Monterey County",
+            "displayName": "Monterey"
+          },
+          "countyId": 0,
+          "zipCode": "93933"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Some fishermen reported that there was a body in the surf off of the Marina Beach. There was a body of a female floating in and out of the surf line. The pathologist stated the body had been in the water since at least the 22nd (1 week prior).",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.680194,
+            "lon": -121.7822278
+          },
+          "formattedAddress": "Marina, CA 93933, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54867,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47135,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "Appears straight, possibly shoulder length but difficult to tell",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17468,
+          "identityId": 14663,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "Large scar running across her stomach, from the breast line to the pubic hair line"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51420,
+          "isCaseOwner": false,
+          "name": "Monterey County Sheriff's Office",
+          "city": "Salinas",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 273,
+            "name": "Monterey County",
+            "localizedName": "Monterey"
+          },
+          "countyDisplayName": "Monterey",
+          "selection": {
+            "id": 61896,
+            "agency": {
+              "id": 46115,
+              "name": "Monterey County Sheriff's Office",
+              "street1": "1414 Natividad Road",
+              "city": "Salinas",
+              "county": {
+                "id": 273,
+                "name": "Monterey County",
+                "localizedName": "Monterey"
+              },
+              "zipCode": "93906",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8317553722",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.montereysheriff.org/"
+            }
+          },
+          "caseNumber": "64-178"
+        },
+        {
+          "id": 51421,
+          "isCaseOwner": false,
+          "name": "Monterey County District Attorney's Office",
+          "city": "Salinas",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 273,
+            "name": "Monterey County",
+            "localizedName": "Monterey"
+          },
+          "countyDisplayName": "Monterey",
+          "selection": {
+            "id": 61533,
+            "contact": {
+              "id": 220786,
+              "firstName": "Justin",
+              "lastName": "Bell",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 75233,
+              "name": "Monterey County District Attorney's Office",
+              "street1": "142 West Alisal Street",
+              "street2": "Suite A",
+              "city": "Salinas",
+              "county": {
+                "id": 273,
+                "name": "Monterey County",
+                "localizedName": "Monterey"
+              },
+              "zipCode": "93901",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8317555070",
+              "email": "publicinformation@co.monterey.ca.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.co.monterey.ca.us/government/departments-a-h/district-attorney"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150878/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150878/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

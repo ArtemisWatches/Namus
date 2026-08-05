@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T09:54:23.844922+00:00",
+  "generated_at": "2026-08-05T08:42:38.066843+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1268,
+  "count": 1269,
   "cases": [
     {
       "id": 1,
@@ -370643,6 +370643,263 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151953/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 152774,
+      "idFormatted": "MP152774",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-26T11:04:13.527",
+      "modifiedDateTime": "2025-12-04T21:04:45.137",
+      "subjectIdentification": {
+        "id": 248858,
+        "firstName": "Lionel",
+        "middleName": "Michael",
+        "lastName": "Toro",
+        "currentMinAge": 80,
+        "currentMaxAge": 80,
+        "computedMissingMinAge": 31,
+        "computedMissingMaxAge": 31
+      },
+      "subjectDescription": {
+        "id": 219591,
+        "heightFrom": 66,
+        "weightFrom": 130,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 260565,
+        "circumstancesOfDisappearance": "Lionel Toro had not been seen or heard from by his family since on or about 5-1-1978."
+      },
+      "notes": [
+        {
+          "id": 130682,
+          "identityId": 118072,
+          "noteType": "Transportation",
+          "isPublic": true,
+          "description": "No vehicle involved"
+        }
+      ],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 128715,
+          "identityId": 117429,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Unknown"
+        }
+      ],
+      "sighting": {
+        "id": 306345,
+        "date": "1978-05-01",
+        "address": {
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "displayName": "HI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "displayName": "Honolulu"
+          },
+          "countyId": 0,
+          "zipCode": "96826"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 21.2877723,
+            "lon": -157.8241911
+          },
+          "formattedAddress": "Honolulu, HI 96826, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 181628,
+          "isCaseOwner": false,
+          "name": "Honolulu Police Department",
+          "city": "Honolulu",
+          "state": {
+            "id": 44,
+            "name": "Hawaii",
+            "localizedName": "HI"
+          },
+          "stateDisplayName": "HI",
+          "county": {
+            "id": 609,
+            "name": "Honolulu County",
+            "localizedName": "Honolulu"
+          },
+          "countyDisplayName": "Honolulu",
+          "selection": {
+            "id": 209472,
+            "contact": {
+              "id": 22375,
+              "firstName": "Michael",
+              "lastName": "Garcia",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40114,
+              "name": "Honolulu Police Department",
+              "street1": "801 South Beretania Street",
+              "city": "Honolulu",
+              "county": {
+                "id": 609,
+                "name": "Honolulu County",
+                "localizedName": "Honolulu"
+              },
+              "zipCode": "96813",
+              "state": {
+                "id": 44,
+                "name": "Hawaii",
+                "localizedName": "HI"
+              },
+              "phone": "8085293111",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.honolulupd.org"
+            }
+          },
+          "caseNumber": "79-N74131",
+          "dateReported": "1979-12-26"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40114,
+        "isCaseOwner": false,
+        "name": "Honolulu Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 118197,
+        "investigatingAgencyIdentityId": 181628
+      },
+      "physicalDescription": {
+        "id": 215417,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 65340,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 243817,
+          "identityId": 228390,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Lionel TORO",
+          "isPublic": true,
+          "createdDateTime": "2025-11-26T11:21:02.2",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 385,
+              "width": 313,
+              "storageKey": "ceb77e7455f3432b829e3691c732a0ca",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/228390/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 98,
+              "storageKey": "86e878e5eb0e4a44bee2c00cc3c54a36",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/228390/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/228390/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 123774,
+        "defaultImageIdentityId": 228390
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
     }
   ]
 }
