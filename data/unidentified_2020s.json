@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T08:42:50.464765+00:00",
+  "generated_at": "2026-08-06T08:44:16.244169+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2202,
+  "count": 2207,
   "cases": [
     {
       "id": 64643,
@@ -664074,6 +664074,1901 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151346/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151346/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 151608,
+      "idFormatted": "UP151608",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-22T20:58:43.853",
+      "modifiedDateTime": "2026-05-14T00:00:11.69",
+      "caseIdentification": {
+        "id": 52082,
+        "caseNumber": "250908-1009"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72356,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 110,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78820,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-09-08",
+        "address": {
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "displayName": "OR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "displayName": "Multnomah"
+          },
+          "countyId": 0,
+          "zipCode": "97203"
+        },
+        "description": "Smith and Bybee Wetlands Natural Area",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Disarticulated skull discovered in a remote area of the Smith and Bybee Wetlands. See case photos for further 2D facial reconstructions.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 45.6008356,
+            "lon": -122.760606
+          },
+          "formattedAddress": "Portland, OR 97203, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54932,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47198,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 132840,
+          "identityId": 119854,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Facial reapproximation",
+          "isPublic": true,
+          "createdDateTime": "2026-03-12T23:14:28.537",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4928,
+              "width": 3264,
+              "storageKey": "f8b1fecb753648a88328fb2568bea603",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119854/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "551b467a7a484265bccce78204ae0f93",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119854/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119854/Download"
+        },
+        {
+          "id": 132842,
+          "identityId": 119856,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Facial reapproximation",
+          "isPublic": true,
+          "createdDateTime": "2026-03-12T23:14:31.38",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3635,
+              "width": 2157,
+              "storageKey": "1f777a97db314393bf6b76eca7927f71",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119856/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 71,
+              "storageKey": "5a006d76f393471aafcc7b4c184a40b4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119856/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119856/Download"
+        },
+        {
+          "id": 132843,
+          "identityId": 119857,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Facial reapproximation",
+          "isPublic": true,
+          "createdDateTime": "2026-03-12T23:14:33.337",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 4928,
+              "width": 3264,
+              "storageKey": "d429b7aa82994e358e43507abcf0190c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119857/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "e6d85a0fbe4b41b8925d2e5d3a794299",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119857/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/119857/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26480,
+        "defaultImageIdentityId": 119854
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51480,
+          "isCaseOwner": false,
+          "name": "Multnomah County Medical Examiner's Office",
+          "city": "Portland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2299,
+            "name": "Multnomah County",
+            "localizedName": "Multnomah"
+          },
+          "countyDisplayName": "Multnomah",
+          "selection": {
+            "id": 61900,
+            "contact": {
+              "id": 330872,
+              "firstName": "Donielle",
+              "lastName": "Augustson",
+              "jobTitle": "Lead Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 64947,
+              "name": "Multnomah County Medical Examiner's Office",
+              "street1": "619 Northwest 6th Avenue",
+              "street2": "4th Floor",
+              "city": "Portland",
+              "county": {
+                "id": 2299,
+                "name": "Multnomah County",
+                "localizedName": "Multnomah"
+              },
+              "zipCode": "97209",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "5039880055",
+              "email": "medical.examiner@multco.us",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://multco.us/health/providers/medical-examiner"
+            }
+          },
+          "caseNumber": "250908-1009"
+        },
+        {
+          "id": 52275,
+          "isCaseOwner": false,
+          "name": "Oregon State Police - State Medical Examiners Office",
+          "city": "Clackamas",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2276,
+            "name": "Clackamas County",
+            "localizedName": "Clackamas"
+          },
+          "countyDisplayName": "Clackamas",
+          "selection": {
+            "id": 62883,
+            "contact": {
+              "id": 325337,
+              "firstName": "Hailey",
+              "lastName": "Collord-Stalder",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28418,
+              "name": "Oregon State Police - State Medical Examiners Office",
+              "street1": "13309 Southeast 84th Avenue Suite 100",
+              "city": "Clackamas",
+              "county": {
+                "id": 2276,
+                "name": "Clackamas County",
+                "localizedName": "Clackamas"
+              },
+              "zipCode": "97015",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "9716738200",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "250908-1009",
+          "dateReported": "2025-09-08"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25486,
+        "investigatingAgencyIdentityId": 52275
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151608/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oregon"
+    },
+    {
+      "id": 151698,
+      "idFormatted": "UP151698",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-25T21:06:45.377",
+      "modifiedDateTime": "2026-05-13T13:04:35.153",
+      "caseIdentification": {
+        "id": 52086,
+        "caseNumber": "25-4773"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72365,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 2025,
+        "estimatedYearOfBirthFrom": 1965,
+        "estimatedYearOfBirthTo": 1980,
+        "heightFrom": 66,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 150,
+        "weightTo": 155,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 77693,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-10-13",
+        "address": {
+          "city": "Philadelphia",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2360,
+            "name": "Philadelphia County",
+            "displayName": "Philadelphia"
+          },
+          "countyId": 0,
+          "zipCode": "19125"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was found unresponsive on the street.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.9793657,
+            "lon": -75.1253492
+          },
+          "formattedAddress": "Philadelphia, PA 19125, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54940,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57850,
+          "identityId": 48764,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "black 2XL hoodie \"Lonsdale London\"",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57851,
+          "identityId": 48765,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "red XL t-shirt with pocket on left side",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57852,
+          "identityId": 48766,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "white M sweatpants with stains",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57854,
+          "identityId": 48767,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "navy blue 2XL cotton shorts with light blue stripes down sides. \"J\" written in sharpie on tag.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57855,
+          "identityId": 48768,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Navy and white size 12 sneakers with rips on the sides.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57856,
+          "identityId": 48769,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "black rubber bracelet with ribbons around it",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47204,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "balding, receding hairline",
+        "bodyHairDescription": "chest hair",
+        "facialHairDescription": "mustache, beard and stubble",
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17501,
+          "identityId": 14691,
+          "physicalFeature": {
+            "id": 2,
+            "name": "Artificial body part/aid",
+            "localizedName": "Artificial body part/aid",
+            "ordinal": 2
+          },
+          "description": "Surgical rod in left femur"
+        },
+        {
+          "id": 17592,
+          "identityId": 14767,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Decedent has no tattoos"
+        }
+      ],
+      "images": [
+        {
+          "id": 130113,
+          "identityId": 117432,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:28:47.163",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "359afa0f04e9493e945b044ccfd4b2ba",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117432/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "e38d69b3fc5846e99d5bfd8e10bfbbb0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117432/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117432/Download"
+        },
+        {
+          "id": 130114,
+          "identityId": 117433,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:28:56.867",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "4cdaee9897b34c8d835bd880a7194b25",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117433/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "b7b8cbced0a245c9bca6d60f1f681156",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117433/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117433/Download"
+        },
+        {
+          "id": 130116,
+          "identityId": 117435,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:15.957",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "dd2a59aa3ba94085841e02a757a954db",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117435/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "e51675b1a65a42a4b10b85e57c1c15a5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117435/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117435/Download"
+        },
+        {
+          "id": 130117,
+          "identityId": 117436,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:21.74",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "c3b0baedbec14cbdba61b3d6688b3670",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117436/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0b719a1bdabf490cbd4069da066da121",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117436/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117436/Download"
+        },
+        {
+          "id": 130118,
+          "identityId": 117437,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:28.427",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "d729aa5d284f4067874891f3e944b236",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117437/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0b2c5b2ef5324113a2143b2f308402bb",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117437/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117437/Download"
+        },
+        {
+          "id": 130119,
+          "identityId": 117438,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:36.663",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "dbcec14ce3a643a19e18d61bbfbc5f92",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117438/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "60d54bd3ec914d31a0a45990828c5ce7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117438/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117438/Download"
+        },
+        {
+          "id": 130120,
+          "identityId": 117439,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:42.88",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "1f0144c29f094a6b97cddd3150fac8a2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117439/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "46ee3ff45d9540fc8262b642ea083221",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117439/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117439/Download"
+        },
+        {
+          "id": 130121,
+          "identityId": 117440,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:29:53.067",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "106325109d764adaa29b53d711541c1d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117440/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "ba4ba76871ab4570a920d755d34fab15",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117440/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117440/Download"
+        },
+        {
+          "id": 130122,
+          "identityId": 117441,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:30:03.427",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "97c71bbdda0d404cb068d867c1b99951",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117441/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "088ea817263d4de6bafff9c75e008b63",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117441/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117441/Download"
+        },
+        {
+          "id": 130123,
+          "identityId": 117442,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:30:10.223",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "ad55bad362f14c4185a20bfd389c5e53",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117442/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "7302b5838a3949ec9b1a10077e703a24",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117442/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117442/Download"
+        },
+        {
+          "id": 130124,
+          "identityId": 117443,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-25T21:30:18.99",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3888,
+              "width": 5184,
+              "storageKey": "9f883ff67fe145ca9ffd9ac0e98f8234",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117443/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "4b3d7b4247f64a35a58bb51f474dd181",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117443/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/117443/Download"
+        },
+        {
+          "id": 134516,
+          "identityId": 121356,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "Postmortem Composite by NamUs Forensic Artist - UP151698",
+          "isPublic": true,
+          "createdDateTime": "2026-05-12T20:05:23.65",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 7200,
+              "width": 5400,
+              "storageKey": "a670b6c9bdee403e822991c7977fdae3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/121356/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "e82ae8c5ee94491eab7144fe6bb95662",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/121356/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/121356/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26652,
+        "defaultImageIdentityId": 121356
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51486,
+          "isCaseOwner": false,
+          "name": "Philadelphia Medical Examiner's Office",
+          "city": "Philadelphia",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2360,
+            "name": "Philadelphia County",
+            "localizedName": "Philadelphia"
+          },
+          "countyDisplayName": "Philadelphia",
+          "selection": {
+            "id": 61614,
+            "contact": {
+              "id": 319442,
+              "firstName": "Jessica",
+              "lastName": "Conk",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 30210,
+              "name": "Philadelphia Medical Examiner's Office",
+              "street1": "400 North Broad Street",
+              "city": "Philadelphia",
+              "county": {
+                "id": 2360,
+                "name": "Philadelphia County",
+                "localizedName": "Philadelphia"
+              },
+              "zipCode": "19130",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "2156857445",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.phila.gov/departments/medical-examiners-office/"
+            }
+          },
+          "caseNumber": "25-4773"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24981,
+        "investigatingAgencyIdentityId": 51486
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151698/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 151749,
+      "idFormatted": "UP151749",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-27T19:50:35.673",
+      "modifiedDateTime": "2026-07-15T21:10:22.143",
+      "caseIdentification": {
+        "id": 52095,
+        "caseNumber": "B25-30975"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73078,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 65,
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 120,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77706,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-10-17",
+        "address": {
+          "city": "Bronx",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1892,
+            "name": "Bronx County",
+            "displayName": "Bronx"
+          },
+          "countyId": 0,
+          "zipCode": "10457"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found unresponsive and brought to emergency department.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.84413869999999,
+            "lon": -73.8977693
+          },
+          "formattedAddress": "Bronx, NY 10457, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54948,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47214,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "headHairDescription": "Straight, fine, approximately 1.75\"",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "eyeDescription": "Stubble/short moustache and beard present"
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 130208,
+          "identityId": 117526,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-27T19:50:56.737",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 403,
+              "width": 289,
+              "storageKey": "e5c35b53dc6d439f882a35463f9566b4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117526/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 86,
+              "storageKey": "122d32eea36d444c90aa7956b855f3c8",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117526/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117526/Download"
+        },
+        {
+          "id": 130209,
+          "identityId": 117527,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-27T19:50:57.517",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 354,
+              "width": 451,
+              "storageKey": "a1213f4c07ec474a9274c26e7df27e8d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117527/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 94,
+              "width": 120,
+              "storageKey": "041b4a71ebc847d58a2ea192bf2e7c9c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117527/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/117527/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26217,
+        "defaultImageIdentityId": 117526
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51495,
+          "isCaseOwner": false,
+          "name": "Office of Chief Medical Examiner New York City",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 61625,
+            "agency": {
+              "id": 40051,
+              "name": "Office of Chief Medical Examiner New York City",
+              "street1": "520 First Avenue",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10016",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2124472030",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nyc.gov/site/ocme/index.page"
+            }
+          },
+          "caseNumber": "B25-30975"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24980,
+        "investigatingAgencyIdentityId": 51495
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151749/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
+    },
+    {
+      "id": 151807,
+      "idFormatted": "UP151807",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-29T17:03:30.637",
+      "modifiedDateTime": "2026-03-11T22:23:39.547",
+      "caseIdentification": {
+        "id": 52336,
+        "caseNumber": "2025-15022"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72395,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 65,
+        "heightFrom": 73,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 194,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77733,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-09-22",
+        "address": {
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0,
+          "zipCode": "90027"
+        },
+        "description": "Sunset Blvd and Western Ave",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "This male was found deceased on a bus bench",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.1220545,
+            "lon": -118.2935891
+          },
+          "formattedAddress": "Los Angeles, CA 90027, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54965,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57897,
+          "identityId": 48807,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Navy Blue Long-sleeve T-Shirt - \"Old Navy\" Size XL\nGray Sweatpants- \"Aeropostale\" Size XL\nGray Underwear- \"Hanes\"- Size XL\nBlack Socks\nGray Tennis Shoes- \"Nike\" Size 10 1/2",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47236,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Short",
+        "facialHairDescription": "Faint mustache and goatee",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17513,
+          "identityId": 14702,
+          "physicalFeature": {
+            "id": 1,
+            "name": "Amputation",
+            "localizedName": "Amputation",
+            "ordinal": 1
+          },
+          "description": "Partial lower left leg amputation"
+        },
+        {
+          "id": 17514,
+          "identityId": 14703,
+          "physicalFeature": {
+            "id": 2,
+            "name": "Artificial body part/aid",
+            "localizedName": "Artificial body part/aid",
+            "ordinal": 2
+          },
+          "description": "Lower left leg prosthetic"
+        }
+      ],
+      "images": [
+        {
+          "id": 130220,
+          "identityId": 117538,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-10-29T17:22:40.797",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1390,
+              "width": 914,
+              "storageKey": "1c8c5981e6f7444393fb842dc0ad0fc8",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151807/Images/117538/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 79,
+              "storageKey": "57b714b5138642919fe3f535677a0616",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151807/Images/117538/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151807/Images/117538/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26220,
+        "defaultImageIdentityId": 117538
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51516,
+          "isCaseOwner": false,
+          "name": "Los Angeles Police Department-Hollywood Division",
+          "city": "Hollywood",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 61649,
+            "agency": {
+              "id": 49105,
+              "name": "Los Angeles Police Department-Hollywood Division",
+              "street1": "1358 North Wilcox Avenue",
+              "city": "Hollywood",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90028",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "2139722971",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lapdonline.org/hollywood_community_police_station"
+            }
+          },
+          "caseNumber": "25092200001154",
+          "dateReported": "2025-09-22"
+        },
+        {
+          "id": 51685,
+          "isCaseOwner": false,
+          "name": "Los Angeles County Medical Examiner",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 61868,
+            "agency": {
+              "id": 43449,
+              "name": "Los Angeles County Medical Examiner",
+              "street1": "1104 North Mission Road",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90033",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "3233430512",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://me.lacounty.gov/"
+            }
+          },
+          "caseNumber": "2025-15022"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25019,
+        "investigatingAgencyIdentityId": 51685
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151807/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151807/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 151842,
+      "idFormatted": "UP151842",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-30T17:47:44.517",
+      "modifiedDateTime": "2025-11-22T00:48:31.213",
+      "caseIdentification": {
+        "id": 52111,
+        "caseNumber": "2023-6001663"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72403,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77740,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2023-04-04",
+        "address": {
+          "city": "Savannah",
+          "state": {
+            "id": 22,
+            "name": "Georgia",
+            "displayName": "GA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 472,
+            "name": "Chatham County",
+            "displayName": "Chatham"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found at a construction site",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.0808989,
+            "lon": -81.091203
+          },
+          "formattedAddress": "Savannah, GA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54968,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47240,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51520,
+          "isCaseOwner": false,
+          "name": "Georgia Bureau of Investigation Division of Forensic Sciences - Coastal Region",
+          "city": "Pooler",
+          "state": {
+            "id": 22,
+            "name": "Georgia",
+            "localizedName": "GA"
+          },
+          "stateDisplayName": "GA",
+          "county": {
+            "id": 472,
+            "name": "Chatham County",
+            "localizedName": "Chatham"
+          },
+          "countyDisplayName": "Chatham",
+          "selection": {
+            "id": 61907,
+            "agency": {
+              "id": 47486,
+              "name": "Georgia Bureau of Investigation Division of Forensic Sciences - Coastal Region",
+              "street1": "111 Isaac G Laroche Drive",
+              "city": "Pooler",
+              "county": {
+                "id": 472,
+                "name": "Chatham County",
+                "localizedName": "Chatham"
+              },
+              "zipCode": "31322",
+              "state": {
+                "id": 22,
+                "name": "Georgia",
+                "localizedName": "GA"
+              },
+              "phone": "9129215400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://dofs-gbi.georgia.gov/lab-locations-0/coastal-lab"
+            }
+          },
+          "caseNumber": "2023-6001663"
+        },
+        {
+          "id": 51521,
+          "isCaseOwner": false,
+          "name": "Savannah Police Department",
+          "city": "Savannah",
+          "state": {
+            "id": 22,
+            "name": "Georgia",
+            "localizedName": "GA"
+          },
+          "stateDisplayName": "GA",
+          "county": {
+            "id": 472,
+            "name": "Chatham County",
+            "localizedName": "Chatham"
+          },
+          "countyDisplayName": "Chatham",
+          "selection": {
+            "id": 61654,
+            "agency": {
+              "id": 50166,
+              "name": "Savannah Police Department",
+              "street1": "201 Habersham Street",
+              "city": "Savannah",
+              "county": {
+                "id": 472,
+                "name": "Chatham County",
+                "localizedName": "Chatham"
+              },
+              "zipCode": "31401",
+              "state": {
+                "id": 22,
+                "name": "Georgia",
+                "localizedName": "GA"
+              },
+              "phone": "9126516742",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "230404095"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25045,
+        "investigatingAgencyIdentityId": 51520
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151842/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151842/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Georgia"
     }
   ]
 }

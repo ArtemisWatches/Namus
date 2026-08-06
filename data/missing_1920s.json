@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T17:30:50.497471+00:00",
+  "generated_at": "2026-08-06T08:44:01.834486+00:00",
   "case_type": "MissingPersons",
   "decade": "1920s",
-  "count": 6,
+  "count": 7,
   "cases": [
     {
       "id": 14632,
@@ -1600,6 +1600,246 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/96395/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Indiana"
+    },
+    {
+      "id": 153222,
+      "idFormatted": "MP153222",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-10T12:35:19.357",
+      "modifiedDateTime": "2026-04-21T16:34:30.837",
+      "subjectIdentification": {
+        "id": 250064,
+        "firstName": "Harry",
+        "lastName": "Eberly",
+        "currentMinAge": 115,
+        "currentMaxAge": 115,
+        "computedMissingMinAge": 17,
+        "computedMissingMaxAge": 17
+      },
+      "subjectDescription": {
+        "id": 220971,
+        "heightFrom": 71,
+        "weightFrom": 160,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 110419
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 261813,
+        "circumstancesOfDisappearance": "Harry left with a family relative at age 17 and traveled west.  A letter postmarked in September of 1928 from North Wales, ND, was the last the family ever heard of Harry."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 309219,
+        "date": "1928-09-26",
+        "address": {
+          "city": "North Wales",
+          "state": {
+            "id": 20,
+            "name": "North Dakota",
+            "displayName": "ND"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2061,
+            "name": "Cavalier County",
+            "displayName": "Cavalier"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 48.8958372,
+            "lon": -98.6026208
+          },
+          "formattedAddress": "Wales, ND, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 182942,
+          "isCaseOwner": false,
+          "name": "Stark County Sheriff's Office",
+          "city": "Canton",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2184,
+            "name": "Stark County",
+            "localizedName": "Stark"
+          },
+          "countyDisplayName": "Stark",
+          "selection": {
+            "id": 221538,
+            "contact": {
+              "id": 352862,
+              "firstName": "William",
+              "lastName": "Konic",
+              "jobTitle": "Sergeant",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 63567,
+              "name": "Stark County Sheriff's Office",
+              "street1": "4500 Atlantic Boulevard, N.E.",
+              "city": "Canton",
+              "county": {
+                "id": 2184,
+                "name": "Stark County",
+                "localizedName": "Stark"
+              },
+              "zipCode": "44705",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "3304303800",
+              "email": "strkshrf@raex.com",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.starkcountyohio.gov/sheriff"
+            }
+          },
+          "caseNumber": "25-48097",
+          "dateReported": "2025-12-08"
+        },
+        {
+          "id": 191218,
+          "isCaseOwner": false,
+          "name": "Ohio Bureau of Criminal Investigation",
+          "city": "London",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2157,
+            "name": "Madison County",
+            "localizedName": "Madison"
+          },
+          "countyDisplayName": "Madison",
+          "selection": {
+            "id": 221539,
+            "agency": {
+              "id": 43246,
+              "name": "Ohio Bureau of Criminal Investigation",
+              "street1": "1560 State Route 56 Southwest",
+              "city": "London",
+              "county": {
+                "id": 2157,
+                "name": "Madison County",
+                "localizedName": "Madison"
+              },
+              "zipCode": "43140",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-3053"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 63567,
+        "isCaseOwner": false,
+        "name": "Stark County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 122889,
+        "investigatingAgencyIdentityId": 182942
+      },
+      "physicalDescription": {
+        "id": 216798,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/153222/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153222/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153222/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Dakota"
     }
   ]
 }

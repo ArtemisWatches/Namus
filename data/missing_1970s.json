@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T08:42:38.066843+00:00",
+  "generated_at": "2026-08-06T08:44:01.834486+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1269,
+  "count": 1270,
   "cases": [
     {
       "id": 1,
@@ -370900,6 +370900,287 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/152774/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Hawaii"
+    },
+    {
+      "id": 153229,
+      "idFormatted": "MP153229",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-10T15:22:07.507",
+      "modifiedDateTime": "2026-02-03T14:23:06.387",
+      "subjectIdentification": {
+        "id": 250073,
+        "firstName": "Donald",
+        "middleName": "John",
+        "lastName": "Young",
+        "currentMinAge": 70,
+        "currentMaxAge": 70,
+        "computedMissingMinAge": 23,
+        "computedMissingMaxAge": 23
+      },
+      "subjectDescription": {
+        "id": 220978,
+        "heightFrom": 72,
+        "heightTo": 73,
+        "weightFrom": 190,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 110452
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 262395,
+        "circumstancesOfDisappearance": "Donald Young was last seen in July of 1979. A family member stated Donald may have traveled to California, although that was never substantiated."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 309395,
+        "date": "1979-07-11",
+        "address": {
+          "city": "Lone Rock",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3170,
+            "name": "Sauk County",
+            "displayName": "Sauk"
+          },
+          "countyId": 0,
+          "zipCode": "53556"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.18332350000001,
+            "lon": -90.1979016
+          },
+          "formattedAddress": "Lone Rock, WI, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 182947,
+          "isCaseOwner": false,
+          "name": "Sauk County Sheriff's Office",
+          "city": "Baraboo",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3170,
+            "name": "Sauk County",
+            "localizedName": "Sauk"
+          },
+          "countyDisplayName": "Sauk",
+          "selection": {
+            "id": 210968,
+            "contact": {
+              "id": 33468,
+              "firstName": "Tyler",
+              "lastName": "Pointon",
+              "jobTitle": "Detective",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "6083553205",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43703,
+              "name": "Sauk County Sheriff's Office",
+              "street1": "1300 Lange Ct",
+              "city": "Baraboo",
+              "county": {
+                "id": 3170,
+                "name": "Sauk County",
+                "localizedName": "Sauk"
+              },
+              "zipCode": "53913",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "6083564895",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "79-2287",
+          "dateReported": "1979-08-09"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43703,
+        "isCaseOwner": false,
+        "name": "Sauk County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 118638,
+        "investigatingAgencyIdentityId": 182947
+      },
+      "physicalDescription": {
+        "id": 217027,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Curly",
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "eyeDescription": "Wears Glasses"
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 108500,
+          "identityId": 98351,
+          "physicalFeature": {
+            "id": 6,
+            "name": "Scar/mark",
+            "localizedName": "Scar/mark",
+            "ordinal": 6
+          },
+          "description": "May have scar on face where he was struck with a rock while cutting hay and scar on his hand from when he fell on a pitchfork which pierced his hand."
+        }
+      ],
+      "images": [
+        {
+          "id": 245656,
+          "identityId": 230086,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "1976 Image of Donald Young",
+          "isPublic": true,
+          "createdDateTime": "2025-12-19T17:25:06.817",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2048,
+              "width": 1536,
+              "storageKey": "672e33f7cea34b2e92382f4feb460253",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230086/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "a0d6b4ca0d6b41a199c0d1b8b6d3916c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230086/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230086/Download"
+        },
+        {
+          "id": 245716,
+          "identityId": 230134,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-12-22T15:11:32.433",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 494,
+              "width": 432,
+              "storageKey": "c04c14323b6947559fb681a37dafd388",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230134/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 105,
+              "storageKey": "6b300760d730427fa4a234fcd2d988d4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230134/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/230134/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 125131,
+        "defaultImageIdentityId": 230086
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
     }
   ]
 }

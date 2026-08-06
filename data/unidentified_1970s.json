@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T08:45:31.590566+00:00",
+  "generated_at": "2026-08-06T08:44:16.244169+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1016,
+  "count": 1018,
   "cases": [
     {
       "id": 103,
@@ -292060,6 +292060,427 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150679/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150679/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 151605,
+      "idFormatted": "UP151605",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-22T20:24:16.29",
+      "modifiedDateTime": "2025-11-20T03:31:11.157",
+      "caseIdentification": {
+        "id": 52080,
+        "caseNumber": "1974-CR-27"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72352,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 4,
+            "name": "Asian",
+            "localizedName": "Asian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Asian",
+          "localizedName": "Asian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 145,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77678,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-02-13",
+        "address": {
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0,
+          "zipCode": "89502"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found lying on the bank of the Truckee River, in Reno, NV. near Locust St.  A homeless individual stated that he first say the decedent lying on the back 8-9 days prior to someone calling 911.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.529919,
+            "lon": -119.8142691
+          },
+          "formattedAddress": "Reno, NV, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54929,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58091,
+          "identityId": 48958,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Razor, paper book containing rules on gambling. Two pens from the Hotel Chronicle located at 936 Mission Street in San Francisco, CA",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58092,
+          "identityId": 48757,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "J.C. Penny Jackets, shirt and shoes.  Size 30 belt.   Size 28 underwear.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47197,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Sparse gray with temporal balding.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51479,
+          "isCaseOwner": false,
+          "name": "Washoe County Regional Medical Examiner's Office",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 61606,
+            "contact": {
+              "id": 30720,
+              "firstName": "Sarah",
+              "lastName": "Turner",
+              "jobTitle": "Investigator/Technician-Supervisor",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43600,
+              "name": "Washoe County Regional Medical Examiner's Office",
+              "street1": "990 East 9th Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89512",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757856114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.washoecounty.us/coroner/index.php"
+            }
+          },
+          "caseNumber": "1974-CR-27",
+          "dateReported": "2025-10-22"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25013,
+        "investigatingAgencyIdentityId": 51479
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151605/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151605/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 151725,
+      "idFormatted": "UP151725",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-10-27T13:51:33.823",
+      "modifiedDateTime": "2026-06-08T18:06:51.453",
+      "caseIdentification": {
+        "id": 52087,
+        "caseNumber": "25-4751"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72366,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightFrom": 18,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 5,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77695,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-01-31",
+        "address": {
+          "city": "Jefferson Township",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2165,
+            "name": "Montgomery County",
+            "displayName": "Montgomery"
+          },
+          "countyId": 0,
+          "zipCode": "45417"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 01/31/1974 a one-day-old infant was found deceased under a footstool that had been discarded in a field near 101 S. Lansdowne Avenue in Jefferson Township, Montgomery County, Ohio.  On 10/14/2025 the remains were exhumed in an attempt to identify the deceased infant.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.7383713,
+            "lon": -84.2910759
+          },
+          "formattedAddress": "Dayton, OH 45417, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54941,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47205,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51487,
+          "isCaseOwner": false,
+          "name": "Montgomery County Coroner Office",
+          "city": "Dayton",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2165,
+            "name": "Montgomery County",
+            "localizedName": "Montgomery"
+          },
+          "countyDisplayName": "Montgomery",
+          "selection": {
+            "id": 61615,
+            "agency": {
+              "id": 77512,
+              "name": "Montgomery County Coroner Office",
+              "street1": "361 West Third Street",
+              "city": "Dayton",
+              "county": {
+                "id": 2165,
+                "name": "Montgomery County",
+                "localizedName": "Montgomery"
+              },
+              "zipCode": "45402",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "9372254156",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.mcohio.org/1213/Coroner"
+            }
+          },
+          "caseNumber": "25-4751",
+          "dateReported": "1974-01-31"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25057,
+        "investigatingAgencyIdentityId": 51487
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151725/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151725/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
     }
   ]
 }
