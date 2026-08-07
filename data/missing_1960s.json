@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T08:47:45.924268+00:00",
+  "generated_at": "2026-08-07T07:22:44.838819+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 268,
+  "count": 269,
   "cases": [
     {
       "id": 498,
@@ -78355,6 +78355,227 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/149331/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
+    },
+    {
+      "id": 153703,
+      "idFormatted": "MP153703",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-30T20:09:51.997",
+      "modifiedDateTime": "2026-03-25T01:56:22.117",
+      "subjectIdentification": {
+        "id": 251867,
+        "firstName": "Edward",
+        "middleName": "Dean",
+        "lastName": "Eskridge",
+        "currentMinAge": 79,
+        "currentMaxAge": 79,
+        "computedMissingMinAge": 16,
+        "computedMissingMaxAge": 16
+      },
+      "subjectDescription": {
+        "id": 222404,
+        "heightFrom": 60,
+        "heightTo": 72,
+        "weightFrom": 100,
+        "weightTo": 200,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 272637,
+        "circumstancesOfDisappearance": "Edward Eskridge and his brother had been rabbit hunting north of Green River, WY.  Law Enforcement was notified when the boys did not return home.  The brother was injured and located next to their vehicle, which had been involved in a crash.  Edward was not at the vehicle and evidence suggested he went in search of help.  Edward was believed to be wearing a t-shirt and pants when he left the crash scene on foot.  An extensive eleven day search of the area was unsuccessful.  Temperatures were in the low teens during this time with a winter storm hampering search efforts."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 311161,
+        "date": "1963-02-15",
+        "address": {
+          "city": "Green River",
+          "state": {
+            "id": 29,
+            "name": "Wyoming",
+            "displayName": "WY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3205,
+            "name": "Sweetwater County",
+            "displayName": "Sweetwater"
+          },
+          "countyId": 0,
+          "zipCode": "82935"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.5294083,
+            "lon": -109.4655283
+          },
+          "formattedAddress": "Green River, WY 82935, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 184282,
+          "isCaseOwner": false,
+          "name": "Sweetwater County Sheriff's Office",
+          "city": "Rock Springs",
+          "state": {
+            "id": 29,
+            "name": "Wyoming",
+            "localizedName": "WY"
+          },
+          "stateDisplayName": "WY",
+          "county": {
+            "id": 3205,
+            "name": "Sweetwater County",
+            "localizedName": "Sweetwater"
+          },
+          "countyDisplayName": "Sweetwater",
+          "selection": {
+            "id": 221454,
+            "agency": {
+              "id": 45363,
+              "name": "Sweetwater County Sheriff's Office",
+              "street1": "50140B U.S. Highway 191 South, Suite 100",
+              "city": "Rock Springs",
+              "county": {
+                "id": 3205,
+                "name": "Sweetwater County",
+                "localizedName": "Sweetwater"
+              },
+              "zipCode": "82901",
+              "state": {
+                "id": 29,
+                "name": "Wyoming",
+                "localizedName": "WY"
+              },
+              "phone": "3079225300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sweet.wy.us/departments/sheriff/index.php"
+            }
+          },
+          "caseNumber": "AF-473"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 45363,
+        "isCaseOwner": false,
+        "name": "Sweetwater County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 120183,
+        "investigatingAgencyIdentityId": 184282
+      },
+      "physicalDescription": {
+        "id": 218198,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 247047,
+          "identityId": 231392,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-01-02T15:52:01.73",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 251,
+              "width": 195,
+              "storageKey": "8b1994e5967f4b298c9ec6861c61906f",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/231392/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "39ef51c43d0643dbb5f4f8650e8a3954",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/231392/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/231392/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 126283,
+        "defaultImageIdentityId": 231392
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wyoming"
     }
   ]
 }

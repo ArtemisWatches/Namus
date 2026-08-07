@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T08:44:01.834486+00:00",
+  "generated_at": "2026-08-07T07:22:44.838819+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1270,
+  "count": 1272,
   "cases": [
     {
       "id": 1,
@@ -371181,6 +371181,421 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153229/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 153965,
+      "idFormatted": "MP153965",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-01-08T19:13:36.133",
+      "modifiedDateTime": "2026-08-04T23:34:04.96",
+      "subjectIdentification": {
+        "id": 252108,
+        "firstName": "Vincent",
+        "middleName": "Clyelle",
+        "lastName": "Deal",
+        "currentMinAge": 75,
+        "currentMaxAge": 75,
+        "computedMissingMinAge": 25,
+        "computedMissingMaxAge": 25
+      },
+      "subjectDescription": {
+        "id": 222629,
+        "heightFrom": 72,
+        "weightFrom": 180,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 283073,
+        "circumstancesOfDisappearance": "Vincent Clyelle Deal and two other friends (Carl Buschmann and Donald Reed) had gone fishing on Lake Tahoe and had not returned.  Search and Rescue operations were conducted by Sheriff's Office personnel via marine and air, including the US Coast Guard and private citizens.  The vessel, a 12' Sears Gamefisher, was located floating upside down and no persons were located on top of, underneath, nor floating near by the boat. The SAR was terminated with negative sightings near the vessel and surrounding areas."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 130541,
+          "identityId": 119004,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Last seen wearing blue Levi jeans, red hooded sweatshirt, green army jacket, and blue tennis shoes."
+        }
+      ],
+      "sighting": {
+        "id": 311674,
+        "date": "1976-10-19",
+        "address": {
+          "city": "Tahoe City",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "displayName": "Placer"
+          },
+          "countyId": 0,
+          "zipCode": "96145"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.1677134,
+            "lon": -120.1451812
+          },
+          "formattedAddress": "Tahoe City, CA, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 37581,
+          "comment": "Unknown make, model, colour, or year of pickup trucking belonging to MP which was located in the parking lot of the public beach at William Kent Park."
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 184513,
+          "isCaseOwner": false,
+          "name": "Placer County Sheriff's Office",
+          "city": "Auburn",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "localizedName": "Placer"
+          },
+          "countyDisplayName": "Placer",
+          "selection": {
+            "id": 212811,
+            "contact": {
+              "id": 18289,
+              "firstName": "Kristen",
+              "lastName": "Mann",
+              "jobTitle": "Investigative Assistant",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43987,
+              "name": "Placer County Sheriff's Office",
+              "street1": "2929 Richardson Drive",
+              "city": "Auburn",
+              "county": {
+                "id": 277,
+                "name": "Placer County",
+                "localizedName": "Placer"
+              },
+              "zipCode": "95603",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5308897800",
+              "email": "pcsoadmin@placer.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.placer.ca.gov/1680/Sheriffs-Office"
+            }
+          },
+          "caseNumber": "SO760006739",
+          "dateReported": "1976-10-20"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43987,
+        "isCaseOwner": false,
+        "name": "Placer County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 132827,
+        "investigatingAgencyIdentityId": 184513
+      },
+      "physicalDescription": {
+        "id": 218448,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/153965/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153965/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153965/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 153973,
+      "idFormatted": "MP153973",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-01-08T20:45:45.84",
+      "modifiedDateTime": "2026-08-04T23:36:07.587",
+      "subjectIdentification": {
+        "id": 252114,
+        "firstName": "Donald",
+        "middleName": "Lee",
+        "lastName": "Reed",
+        "currentMinAge": 80,
+        "currentMaxAge": 80,
+        "computedMissingMinAge": 30,
+        "computedMissingMaxAge": 30
+      },
+      "subjectDescription": {
+        "id": 222636,
+        "heightFrom": 70,
+        "weightFrom": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 283074,
+        "circumstancesOfDisappearance": "Donald Lee Reed and two other friends (Carl Buschmann and Vincent Deal) had gone fishing on Lake Tahoe and had not returned. Sheriff's Office personnel conducted search and Rescue operations via marine and air, including the US Coast Guard and private citizens. The vessel, a 12' Sears Gamefisher, was located floating upside down and no persons were located on top of, underneath, nor floating near by the boat. The SAR was terminated with negative sightings near the vessel and surrounding areas."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 130549,
+          "identityId": 119010,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "MP was last seen wearing blue Levis jeans, gray t-shirt, blue hooded sweatshirt, navy blue nylon jacket, work boots, and possibly wearing a white fishing hat."
+        }
+      ],
+      "sighting": {
+        "id": 311686,
+        "date": "1976-10-20",
+        "address": {
+          "city": "Tahoe City",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "displayName": "Placer"
+          },
+          "countyId": 0,
+          "zipCode": "96145"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.1677134,
+            "lon": -120.1451812
+          },
+          "formattedAddress": "Tahoe City, CA, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 38987,
+          "comment": "Unknown make, model, colour, or year of pickup trucking belonging to (MP) Vincent Deal which was located in the parking lot of the public beach at William Kent Park."
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 184517,
+          "isCaseOwner": false,
+          "name": "Placer County Sheriff's Office",
+          "city": "Auburn",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "localizedName": "Placer"
+          },
+          "countyDisplayName": "Placer",
+          "selection": {
+            "id": 212809,
+            "agency": {
+              "id": 43987,
+              "name": "Placer County Sheriff's Office",
+              "street1": "2929 Richardson Drive",
+              "city": "Auburn",
+              "county": {
+                "id": 277,
+                "name": "Placer County",
+                "localizedName": "Placer"
+              },
+              "zipCode": "95603",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5308897800",
+              "email": "pcsoadmin@placer.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.placer.ca.gov/1680/Sheriffs-Office"
+            }
+          },
+          "caseNumber": "SO760006740",
+          "dateReported": "1976-10-20"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43987,
+        "isCaseOwner": false,
+        "name": "Placer County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 132828,
+        "investigatingAgencyIdentityId": 184517
+      },
+      "physicalDescription": {
+        "id": 218453,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/153973/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153973/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153973/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T08:44:16.244169+00:00",
+  "generated_at": "2026-08-07T07:22:59.366274+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2207,
+  "count": 2224,
   "cases": [
     {
       "id": 64643,
@@ -665969,6 +665969,4301 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151842/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151842/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Georgia"
+    },
+    {
+      "id": 151878,
+      "idFormatted": "UP151878",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-01T17:58:33.117",
+      "modifiedDateTime": "2026-06-23T16:38:28.153",
+      "caseIdentification": {
+        "id": 52114,
+        "caseNumber": "2025-06769"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72405,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 68,
+        "heightTo": 69,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "possibleFirstName": "N/A",
+        "possibleLastName": "N/A",
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77742,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-10-05",
+        "address": {
+          "city": "North Las Vegas",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1811,
+            "name": "Clark County",
+            "displayName": "Clark"
+          },
+          "countyId": 0,
+          "zipCode": "89085"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 10/5, a person hiking came across the decedent in the desert area and called 911. Officers arrived and found the decedent obviously deceased.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.3097805,
+            "lon": -115.1963266
+          },
+          "formattedAddress": "North Las Vegas, NV 89085, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54969,
+        "conditionOfRemains": {
+          "id": 9,
+          "name": "Not recognizable - Partial remains with soft tissues",
+          "localizedName": "Not recognizable - Partial remains with soft tissues"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47242,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17551,
+          "identityId": 14735,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Two tattoos are identified on the thigh skin. They appear to represent a stylized “Friday the 13th” mask, and possibly the emblem for Wu Tang."
+        }
+      ],
+      "images": [
+        {
+          "id": 130885,
+          "identityId": 118134,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "caption": "Two tattoos are identified on the thigh skin. They appear to represent a stylized “Friday the 13th” mask, and possibly the emblem for Wu Tang. Converted to jpg.",
+          "isPublic": true,
+          "createdDateTime": "2025-12-11T21:38:11.843",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 6600,
+              "width": 5100,
+              "storageKey": "c26275643039466c91b598208669fc1d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Images/118134/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "bf450e06e8774757aed7dbc8ea99891f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Images/118134/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Images/118134/Download"
+        }
+      ],
+      "documents": [
+        {
+          "id": 25347,
+          "identityId": 24093,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 9,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 90
+          },
+          "caption": "Two tattoos are identified on the thigh skin. They appear to represent a stylized “Friday the 13th” mask, and possibly the emblem for Wu Tang.",
+          "isPublic": true,
+          "createdDateTime": "2025-11-01T18:09:39.97",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "2025-06769 tattoos",
+            "fileExtension": "pdf",
+            "storageKey": "8bc72b7e05e74ecba0b16a51c87e6195",
+            "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Documents/24093"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Documents/24093/Download"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 51522,
+          "isCaseOwner": false,
+          "name": "Clark County Office of the Coroner/ Medical Examiner",
+          "city": "Las Vegas",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1811,
+            "name": "Clark County",
+            "localizedName": "Clark"
+          },
+          "countyDisplayName": "Clark",
+          "selection": {
+            "id": 61656,
+            "agency": {
+              "id": 45346,
+              "name": "Clark County Office of the Coroner/ Medical Examiner",
+              "street1": "1704 Pinto Lane",
+              "city": "Las Vegas",
+              "county": {
+                "id": 1811,
+                "name": "Clark County",
+                "localizedName": "Clark"
+              },
+              "zipCode": "89106",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7024553210",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.clarkcountynv.gov/coroner/Pages/default.aspx"
+            }
+          },
+          "caseNumber": "2025-06769"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24967,
+        "investigatingAgencyIdentityId": 51522
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/151878/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 152013,
+      "idFormatted": "UP152013",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-05T16:08:24.6",
+      "modifiedDateTime": "2026-06-25T18:41:47.66",
+      "caseIdentification": {
+        "id": 52129,
+        "caseNumber": "ME25-0342"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72436,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 62,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78097,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-03-22",
+        "address": {
+          "city": "Louisville",
+          "state": {
+            "id": 11,
+            "name": "Kentucky",
+            "displayName": "KY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1110,
+            "name": "Jefferson County",
+            "displayName": "Jefferson"
+          },
+          "countyId": 0,
+          "zipCode": "40203"
+        },
+        "description": "413 East Muhammad Ali Boulevard, Dosker Manor, Building A",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found on four separate occasions in various locations of a large high rise, multi-family housing complex. A. First recovery: Partial skeletal remains found in several plastic bags and a nylon sling bag in a trash chute by maintenance worker cleaning the chute. Second recovery: Partial skeletal remains found 03/23/2025 by housing staff in the same trash chute (remains not there previous day). Third recovery: Torso with portions of extremities and few single bones found in a suitcase on an outside balcony at housing complex on 3/27/2025. Fourth recovery: Partial skeletal remains found by site security at housing complex on 3/29/2025.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.2429908,
+            "lon": -85.7641013
+          },
+          "formattedAddress": "Louisville, KY 40203, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54985,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 9,
+          "name": "Not recognizable - Partial remains with soft tissues",
+          "localizedName": "Not recognizable - Partial remains with soft tissues"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 57954,
+          "identityId": 48858,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Torso clad in white tank top shirt and fluorescent green shorts. Riddell brand, size small shorts.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 57955,
+          "identityId": 48859,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Torso found in black Metropolis upright suitcase. Black comforter, empty black backpack and blue with white cloud patterned fleece pants (Croft & Barrow brand, size XXL) accompanying torso.",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47269,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17533,
+          "identityId": 14722,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "Monochromatic tattoo of an apparent cross with a surrounding banner and an adjacent possible star on left arm"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51548,
+          "isCaseOwner": false,
+          "name": "Louisville Metro Police Department",
+          "city": "Louisville",
+          "state": {
+            "id": 11,
+            "name": "Kentucky",
+            "localizedName": "KY"
+          },
+          "stateDisplayName": "KY",
+          "county": {
+            "id": 1110,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 61683,
+            "contact": {
+              "id": 265257,
+              "firstName": "Bill",
+              "lastName": "Clark",
+              "jobTitle": "Detective",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43420,
+              "name": "Louisville Metro Police Department",
+              "street1": "701 West Ormsby Avenue",
+              "city": "Louisville",
+              "county": {
+                "id": 1110,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "40203",
+              "state": {
+                "id": 11,
+                "name": "Kentucky",
+                "localizedName": "KY"
+              },
+              "phone": "5025747111",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.louisville-police.org/"
+            }
+          },
+          "caseNumber": "LMPD25031399",
+          "dateReported": "2025-03-22"
+        },
+        {
+          "id": 51789,
+          "isCaseOwner": false,
+          "name": "Kentucky State Medical Examiner's Office",
+          "city": "Louisville",
+          "state": {
+            "id": 11,
+            "name": "Kentucky",
+            "localizedName": "KY"
+          },
+          "stateDisplayName": "KY",
+          "county": {
+            "id": 1110,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 62096,
+            "agency": {
+              "id": 13107,
+              "name": "Kentucky State Medical Examiner's Office",
+              "street1": "10511 LaGrange Road, Bingham Building 1st floor",
+              "city": "Louisville",
+              "county": {
+                "id": 1110,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "40223",
+              "state": {
+                "id": 11,
+                "name": "Kentucky",
+                "localizedName": "KY"
+              },
+              "phone": "5024895209",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://justice.ky.gov/Departments-Agencies/me/Pages/default.aspx"
+            }
+          },
+          "caseNumber": "ME25-0342"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152013/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152013/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Kentucky"
+    },
+    {
+      "id": 152024,
+      "idFormatted": "UP152024",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-05T19:22:53.09",
+      "modifiedDateTime": "2026-06-16T20:17:20.787",
+      "caseIdentification": {
+        "id": 53082,
+        "caseNumber": "C2025-01005"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72443,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 29,
+        "estimatedAgeTo": 40,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 6,
+          "name": "Years",
+          "localizedName": "Years"
+        },
+        "heightFrom": 64,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77782,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-25",
+        "address": {
+          "city": "Lancaster",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2955,
+            "name": "Lancaster County",
+            "displayName": "Lancaster"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found in the Rappahannock River.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.77002600000001,
+            "lon": -76.4660157
+          },
+          "formattedAddress": "Lancaster, VA 22503, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54988,
+        "headNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47272,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51550,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Central District",
+          "city": "Mechanicsville",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2944,
+            "name": "Hanover County",
+            "localizedName": "Hanover"
+          },
+          "countyDisplayName": "Hanover",
+          "selection": {
+            "id": 61685,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 37070,
+              "name": "Office of the Chief Medical Examiner Central District",
+              "street1": "8850 Times Dispatch Boulevard",
+              "street2": "Suite 200",
+              "city": "Mechanicsville",
+              "county": {
+                "id": 2944,
+                "name": "Hanover County",
+                "localizedName": "Hanover"
+              },
+              "zipCode": "23116",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8047863174",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "C2025-01005"
+        },
+        {
+          "id": 51551,
+          "isCaseOwner": false,
+          "name": "Lancaster County Sheriff's Office",
+          "city": "Lancaster",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2955,
+            "name": "Lancaster County",
+            "localizedName": "Lancaster"
+          },
+          "countyDisplayName": "Lancaster",
+          "selection": {
+            "id": 61686,
+            "agency": {
+              "id": 67480,
+              "name": "Lancaster County Sheriff's Office",
+              "street1": "8293 Mary Ball Road",
+              "city": "Lancaster",
+              "county": {
+                "id": 2955,
+                "name": "Lancaster County",
+                "localizedName": "Lancaster"
+              },
+              "zipCode": "22503",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "8044625111",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lancastersheriff.net/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24968,
+        "investigatingAgencyIdentityId": 51550
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152024/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152024/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 152026,
+      "idFormatted": "UP152026",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-05T20:05:01.177",
+      "modifiedDateTime": "2026-06-12T14:48:51.473",
+      "caseIdentification": {
+        "id": 52134,
+        "caseNumber": "N2025-01046"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72447,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 78,
+        "estimatedYearOfDeathFrom": 2025,
+        "estimatedYearOfBirthFrom": 1947,
+        "estimatedYearOfBirthTo": 1947,
+        "estimatedPostmortemInterval": 2,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Jose",
+        "possibleMiddleName": "Jesus",
+        "possibleLastName": "Labrador",
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79431,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-06-08",
+        "address": {
+          "city": "Alexandria",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "displayName": "VA"
+          },
+          "stateId": 0,
+          "countyId": 0,
+          "zipCode": "22311"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decomposed remains found in an apartment.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.8363201,
+            "lon": -77.1226288
+          },
+          "formattedAddress": "Alexandria, VA 22311, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 54990,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47274,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51554,
+          "isCaseOwner": false,
+          "name": "Office of the Chief Medical Examiner Northern District",
+          "city": "Manassas",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2988,
+            "name": "Prince William County",
+            "localizedName": "Prince William"
+          },
+          "countyDisplayName": "Prince William",
+          "selection": {
+            "id": 61689,
+            "contact": {
+              "id": 19015,
+              "firstName": "Lara",
+              "lastName": "Newell",
+              "jobTitle": "Long-term Unidentified Coordinator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48651,
+              "name": "Office of the Chief Medical Examiner Northern District",
+              "street1": "10850 Pyramid Place",
+              "street2": "Suite 121",
+              "city": "Manassas",
+              "county": {
+                "id": 2988,
+                "name": "Prince William County",
+                "localizedName": "Prince William"
+              },
+              "zipCode": "20110",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7035302600",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.vdh.virginia.gov/medical-examiner/district-offices-contact-us/"
+            }
+          },
+          "caseNumber": "N2025-01046"
+        },
+        {
+          "id": 51555,
+          "isCaseOwner": false,
+          "name": "Alexandria City Police Department",
+          "city": "Alexandria",
+          "state": {
+            "id": 54,
+            "name": "Virginia",
+            "localizedName": "VA"
+          },
+          "stateDisplayName": "VA",
+          "county": {
+            "id": 2890,
+            "name": "Alexandria City",
+            "localizedName": "Alexandria"
+          },
+          "countyDisplayName": "Alexandria",
+          "selection": {
+            "id": 61690,
+            "agency": {
+              "id": 50190,
+              "name": "Alexandria City Police Department",
+              "street1": "3600 Wheeler Avenue",
+              "city": "Alexandria",
+              "county": {
+                "id": 2890,
+                "name": "Alexandria City",
+                "localizedName": "Alexandria"
+              },
+              "zipCode": "22304",
+              "state": {
+                "id": 54,
+                "name": "Virginia",
+                "localizedName": "VA"
+              },
+              "phone": "7037464444",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.alexandriava.gov/Police"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24969,
+        "investigatingAgencyIdentityId": 51554
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152026/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152026/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 152107,
+      "idFormatted": "UP152107",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T16:17:09.097",
+      "modifiedDateTime": "2026-08-06T15:55:08.267",
+      "caseIdentification": {
+        "id": 53316,
+        "caseNumber": "IFS-25-12743"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72468,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 65,
+        "heightTo": 71,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77808,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-08-11",
+        "address": {
+          "city": "Balch Springs",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0,
+          "zipCode": "75180"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains found near a homeless encampment.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7187246,
+            "lon": -96.6157192
+          },
+          "formattedAddress": "Balch Springs, TX 75180, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55001,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47290,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51572,
+          "isCaseOwner": false,
+          "name": "Balch Springs Police Department",
+          "city": "Balch Springs",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 61711,
+            "agency": {
+              "id": 47454,
+              "name": "Balch Springs Police Department",
+              "street1": "12500 Elam Road, Balch Springs, TX 75180",
+              "city": "Balch Springs",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75180",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "9725576000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofbalchsprings.com/186/Police-Department"
+            }
+          },
+          "caseNumber": "25101433",
+          "dateReported": "2025-08-11"
+        },
+        {
+          "id": 51790,
+          "isCaseOwner": false,
+          "name": "Dallas Police Department",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 62097,
+            "agency": {
+              "id": 40035,
+              "name": "Dallas Police Department",
+              "street1": "1400 Botham Jean Boulevard",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75215",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2146714268",
+              "email": "missingpersons@dpd.dallascityhall.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.dallaspolice.net/"
+            }
+          },
+          "caseNumber": "IFS-25-12743"
+        },
+        {
+          "id": 53198,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 64645,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-12743"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152107/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152107/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 152108,
+      "idFormatted": "UP152108",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T16:26:44.12",
+      "modifiedDateTime": "2026-08-06T16:13:07.163",
+      "caseIdentification": {
+        "id": 53323,
+        "caseNumber": "IFS-25-13253"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72469,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightFrom": 74,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 198,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77810,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-08-19",
+        "address": {
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "displayName": "TX"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "displayName": "Dallas"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Hospital death of an unknown male who was witnessed to go unresponsive after communicating with EMS.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7766642,
+            "lon": -96.79698789999999
+          },
+          "formattedAddress": "Dallas, TX, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55002,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47291,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 130379,
+          "identityId": 117684,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Rendering by TX Rangers Forensic Artist.",
+          "isPublic": true,
+          "createdDateTime": "2025-11-14T14:10:16.663",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3904,
+              "width": 3107,
+              "storageKey": "5aa4d54ef1f7444c90a743a2e9170100",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152108/Images/117684/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "b4af3b620be34c35be1618208fa15164",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152108/Images/117684/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152108/Images/117684/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26251,
+        "defaultImageIdentityId": 117684
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51573,
+          "isCaseOwner": false,
+          "name": "Southwestern Institute of Forensic Science",
+          "city": "Dallas",
+          "state": {
+            "id": 32,
+            "name": "Texas",
+            "localizedName": "TX"
+          },
+          "stateDisplayName": "TX",
+          "county": {
+            "id": 2646,
+            "name": "Dallas County",
+            "localizedName": "Dallas"
+          },
+          "countyDisplayName": "Dallas",
+          "selection": {
+            "id": 61712,
+            "agency": {
+              "id": 33343,
+              "name": "Southwestern Institute of Forensic Science",
+              "street1": "2355 North Stemmons Freeway",
+              "city": "Dallas",
+              "county": {
+                "id": 2646,
+                "name": "Dallas County",
+                "localizedName": "Dallas"
+              },
+              "zipCode": "75207",
+              "state": {
+                "id": 32,
+                "name": "Texas",
+                "localizedName": "TX"
+              },
+              "phone": "2149205900",
+              "email": "swifs.investigator@dallascounty.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.dallascounty.org/departments/swifs/"
+            }
+          },
+          "caseNumber": "IFS-25-13253",
+          "dateReported": "2025-08-19"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152108/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152108/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Texas"
+    },
+    {
+      "id": 152115,
+      "idFormatted": "UP152115",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T20:10:21.677",
+      "modifiedDateTime": "2026-02-01T15:43:36.993",
+      "caseIdentification": {
+        "id": 52148,
+        "caseNumber": "25-06026"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72474,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77815,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-05",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48204"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was discovered to be significantly charred within dwelling after fire extinguishing",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.370326,
+            "lon": -83.13809549999999
+          },
+          "formattedAddress": "Detroit, MI 48204, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55006,
+        "conditionOfRemains": {
+          "id": 5,
+          "name": "Not recognizable - Charred/burned",
+          "localizedName": "Not recognizable - Charred/burned"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47294,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51576,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61716,
+            "contact": {
+              "id": 26495,
+              "firstName": "Quintina",
+              "lastName": "Glover",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-06026"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24974,
+        "investigatingAgencyIdentityId": 51576
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152115/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152115/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152116,
+      "idFormatted": "UP152116",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T20:21:12.883",
+      "modifiedDateTime": "2026-02-01T15:31:42.95",
+      "caseIdentification": {
+        "id": 52149,
+        "caseNumber": "25-09444"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72475,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77817,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-07-23",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48206"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was discovered by homeowner to be in a skeletal state within shed at rear of vacant dwelling.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.3781869,
+            "lon": -83.1059154
+          },
+          "formattedAddress": "Detroit, MI 48206, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55007,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47295,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51577,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61717,
+            "contact": {
+              "id": 26495,
+              "firstName": "Quintina",
+              "lastName": "Glover",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-09444"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24975,
+        "investigatingAgencyIdentityId": 51577
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152116/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152116/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152118,
+      "idFormatted": "UP152118",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T20:30:56.837",
+      "modifiedDateTime": "2025-12-05T16:48:26.663",
+      "caseIdentification": {
+        "id": 52151,
+        "caseNumber": "25-11259"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72477,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77821,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-09-03",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48234"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains were discovered in the backyard of a vacant dwelling.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.4330141,
+            "lon": -83.04150779999999
+          },
+          "formattedAddress": "Detroit, MI 48234, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55009,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47297,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51579,
+          "isCaseOwner": false,
+          "name": "Detroit Police Department",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61719,
+            "contact": {
+              "id": 15979,
+              "firstName": "Shannon",
+              "lastName": "Jones",
+              "jobTitle": "Master Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "3135962260",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43331,
+              "name": "Detroit Police Department",
+              "street1": "1301 3rd St",
+              "street2": "5th Floor",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48226",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3135961800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-09030402"
+        },
+        {
+          "id": 51792,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62100,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-11259"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152118/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152118/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152117,
+      "idFormatted": "UP152117",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-07T20:26:05.523",
+      "modifiedDateTime": "2026-02-01T14:01:44.84",
+      "caseIdentification": {
+        "id": 52150,
+        "caseNumber": "25-09711"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72476,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 39,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 77819,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-07-29",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48213"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The deceased was discovered decomposed in an abandoned apartment building by a realtor.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.40104100000001,
+            "lon": -82.9985343
+          },
+          "formattedAddress": "Detroit, MI 48213, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55008,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47296,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51578,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62102,
+            "contact": {
+              "id": 26495,
+              "firstName": "Quintina",
+              "lastName": "Glover",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-09711"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 24976,
+        "investigatingAgencyIdentityId": 51578
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152117/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152117/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152166,
+      "idFormatted": "UP152166",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-10T08:33:25.263",
+      "modifiedDateTime": "2026-05-20T18:55:05.563",
+      "caseIdentification": {
+        "id": 52153,
+        "caseNumber": "24-00959"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72483,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 40,
+        "estimatedAgeTo": 60,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78153,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2024-06-17",
+        "address": {
+          "city": "Belmont",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 287,
+            "name": "San Mateo County",
+            "displayName": "San Mateo"
+          },
+          "countyId": 0,
+          "zipCode": "94002"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 06/17/2024, a retiring physician was cleaning out his office and came upon a human skull that a former patient had given to him approximately 15-20 years ago. The patient claimed the skull was dug up on her property in Redwood City and was examined by an expert at the time who determined it was Native American. The retiring physician was unable to recall the name of the patient who provided him the skull or where the patient lived. The retiring physician decided to turn the skull over to law enforcement now that he was retiring and moving out of his office. The skull was later examined by a forensic anthropologist who determined the skull was NOT Native American and was likely of Hispanic/Latino ancestry.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 37.5202145,
+            "lon": -122.2758008
+          },
+          "formattedAddress": "Belmont, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55012,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47300,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51581,
+          "isCaseOwner": false,
+          "name": "Belmont Police Department",
+          "city": "Belmont",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 287,
+            "name": "San Mateo County",
+            "localizedName": "San Mateo"
+          },
+          "countyDisplayName": "San Mateo",
+          "selection": {
+            "id": 61721,
+            "contact": {
+              "id": 5867,
+              "firstName": "Clyde",
+              "lastName": "Hussey",
+              "jobTitle": "Lieutenant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 57671,
+              "name": "Belmont Police Department",
+              "street1": "One Twin Pines Lane",
+              "city": "Belmont",
+              "county": {
+                "id": 287,
+                "name": "San Mateo County",
+                "localizedName": "San Mateo"
+              },
+              "zipCode": "94002",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6505957400",
+              "email": "police@belmont.gov",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.belmont.gov/departments/police"
+            }
+          },
+          "caseNumber": "2406-0089",
+          "dateReported": "2024-06-17"
+        },
+        {
+          "id": 51806,
+          "isCaseOwner": false,
+          "name": "San Mateo County Coroner's Office",
+          "city": "San Mateo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 287,
+            "name": "San Mateo County",
+            "localizedName": "San Mateo"
+          },
+          "countyDisplayName": "San Mateo",
+          "selection": {
+            "id": 63943,
+            "contact": {
+              "id": 231490,
+              "firstName": "Alana",
+              "lastName": "Stark",
+              "jobTitle": "Deputy Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 3571,
+              "name": "San Mateo County Coroner's Office",
+              "street1": "50 Tower Road",
+              "city": "San Mateo",
+              "county": {
+                "id": 287,
+                "name": "San Mateo County",
+                "localizedName": "San Mateo"
+              },
+              "zipCode": "94402",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6503125562",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "24-00959"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25133,
+        "investigatingAgencyIdentityId": 51806
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152166/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152166/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 152237,
+      "idFormatted": "UP152237",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-12T13:09:14.007",
+      "modifiedDateTime": "2025-12-05T16:49:18.167",
+      "caseIdentification": {
+        "id": 52163,
+        "caseNumber": "25-11746"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72504,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77849,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-09-15",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0,
+          "zipCode": "48208"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The deceased was discovered decomposed in a vacant dwelling by a Land Bank Inspector",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.3475066,
+            "lon": -83.0844532
+          },
+          "formattedAddress": "Detroit, MI 48208, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55023,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47312,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51601,
+          "isCaseOwner": false,
+          "name": "Detroit Police Department",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61741,
+            "contact": {
+              "id": 15979,
+              "firstName": "Shannon",
+              "lastName": "Jones",
+              "jobTitle": "Master Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "3135962260",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43331,
+              "name": "Detroit Police Department",
+              "street1": "1301 3rd St",
+              "street2": "5th Floor",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48226",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3135961800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-09150259"
+        },
+        {
+          "id": 51793,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62101,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-11746"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152237/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152237/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152246,
+      "idFormatted": "UP152246",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-12T15:29:13.057",
+      "modifiedDateTime": "2026-06-13T04:31:32.437",
+      "caseIdentification": {
+        "id": 52165,
+        "caseNumber": "25-11936"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72508,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 75,
+        "heightFrom": 64,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79085,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-11-02",
+        "address": {
+          "city": "Fort McDowell",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "displayName": "Maricopa"
+          },
+          "countyId": 0,
+          "zipCode": "85268"
+        },
+        "description": "Salt River Reservation",
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "N 33 30.761 W -111 45.412",
+        "circumstancesOfRecovery": "Unidentified skeletal remains of Caucasian Female found on Salt River Reservation.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6211391,
+            "lon": -111.7495419
+          },
+          "formattedAddress": "Scottsdale, AZ 85268, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55025,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47314,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 130358,
+          "identityId": 117663,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2025-11-12T15:34:33.79",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3300,
+              "width": 2550,
+              "storageKey": "b15061f064344df592dabc9963a05e53",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152246/Images/117663/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "e0016540a6294b12b9031f65f3b5c852",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152246/Images/117663/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152246/Images/117663/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26246,
+        "defaultImageIdentityId": 117663
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51603,
+          "isCaseOwner": false,
+          "name": "Maricopa County Office of the Medical Examiner",
+          "city": "Phoenix",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 164,
+            "name": "Maricopa County",
+            "localizedName": "Maricopa"
+          },
+          "countyDisplayName": "Maricopa",
+          "selection": {
+            "id": 62232,
+            "contact": {
+              "id": 5163,
+              "firstName": "Christen",
+              "lastName": "Eggers",
+              "jobTitle": "Sr. Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40067,
+              "name": "Maricopa County Office of the Medical Examiner",
+              "street1": "701 West Jefferson Street",
+              "city": "Phoenix",
+              "county": {
+                "id": 164,
+                "name": "Maricopa County",
+                "localizedName": "Maricopa"
+              },
+              "zipCode": "85007",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "6025063322",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.maricopa.gov/468/Medical-Examiner"
+            }
+          },
+          "caseNumber": "25-11936"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25174,
+        "investigatingAgencyIdentityId": 51603
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152246/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152246/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 152255,
+      "idFormatted": "UP152255",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-12T16:41:09.307",
+      "modifiedDateTime": "2026-02-01T13:49:13.437",
+      "caseIdentification": {
+        "id": 52166,
+        "caseNumber": "25-12254"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72509,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78100,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-09-27",
+        "address": {
+          "city": "Wyandotte",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent seen floating in the Detroit River and the Coast Guard was called.\nCoast Guard found the decedent washed up on rocks on an island and took the decedent to the public boat launch for Wyandotte Police.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.21420639999999,
+            "lon": -83.14992389999999
+          },
+          "formattedAddress": "Wyandotte, MI, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55026,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47315,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51604,
+          "isCaseOwner": false,
+          "name": "Wyandotte Police Department",
+          "city": "Wyandotte",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61744,
+            "agency": {
+              "id": 57672,
+              "name": "Wyandotte Police Department",
+              "street1": "2015 Biddle Avenue #1",
+              "city": "Wyandotte",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48192",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "7343244405",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2025-18653"
+        },
+        {
+          "id": 51794,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62103,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-12254"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152255/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152255/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152269,
+      "idFormatted": "UP152269",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-12T18:08:08.227",
+      "modifiedDateTime": "2026-02-01T15:38:12.817",
+      "caseIdentification": {
+        "id": 52168,
+        "caseNumber": "25-06996"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72512,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77860,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-05-28",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Human skull found in water by dive team during training in a high current area, 25 feet deep of water, 20 feet from the breaker wall",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.32971819999999,
+            "lon": -83.0424533
+          },
+          "formattedAddress": "Detroit, MI, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55028,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47317,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51607,
+          "isCaseOwner": false,
+          "name": "Detroit Police Department",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61747,
+            "contact": {
+              "id": 15979,
+              "firstName": "Shannon",
+              "lastName": "Jones",
+              "jobTitle": "Master Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "3135962260",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43331,
+              "name": "Detroit Police Department",
+              "street1": "1301 3rd St",
+              "street2": "5th Floor",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48226",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3135961800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-05280154"
+        },
+        {
+          "id": 51836,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62203,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-06996"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152269/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152269/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152257,
+      "idFormatted": "UP152257",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-12T16:44:54.903",
+      "modifiedDateTime": "2026-02-01T13:39:30.787",
+      "caseIdentification": {
+        "id": 52167,
+        "caseNumber": "25-12527"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72510,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77857,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2025-10-04",
+        "address": {
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "displayName": "MI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "displayName": "Wayne"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent discovered inside a green duffel bag in an alleyway by a passerby",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.32971819999999,
+            "lon": -83.0424533
+          },
+          "formattedAddress": "Detroit, MI, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55027,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47316,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51605,
+          "isCaseOwner": false,
+          "name": "Detroit Police Department",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 61745,
+            "contact": {
+              "id": 15979,
+              "firstName": "Shannon",
+              "lastName": "Jones",
+              "jobTitle": "Master Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "phone1": "3135962260",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43331,
+              "name": "Detroit Police Department",
+              "street1": "1301 3rd St",
+              "street2": "5th Floor",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48226",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3135961800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-10040116"
+        },
+        {
+          "id": 51795,
+          "isCaseOwner": false,
+          "name": "Wayne County Medical Examiner's Office",
+          "city": "Detroit",
+          "state": {
+            "id": 17,
+            "name": "Michigan",
+            "localizedName": "MI"
+          },
+          "stateDisplayName": "MI",
+          "county": {
+            "id": 1374,
+            "name": "Wayne County",
+            "localizedName": "Wayne"
+          },
+          "countyDisplayName": "Wayne",
+          "selection": {
+            "id": 62104,
+            "agency": {
+              "id": 17103,
+              "name": "Wayne County Medical Examiner's Office",
+              "street1": "1300 East Warren Ave.",
+              "city": "Detroit",
+              "county": {
+                "id": 1374,
+                "name": "Wayne County",
+                "localizedName": "Wayne"
+              },
+              "zipCode": "48207",
+              "state": {
+                "id": 17,
+                "name": "Michigan",
+                "localizedName": "MI"
+              },
+              "phone": "3138332504",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "25-12527"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152257/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152257/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Michigan"
+    },
+    {
+      "id": 152330,
+      "idFormatted": "UP152330",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-13T17:40:51.843",
+      "modifiedDateTime": "2026-06-12T20:47:54.75",
+      "caseIdentification": {
+        "id": 52172,
+        "caseNumber": "251027-230-SCC"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72519,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 21,
+        "estimatedAgeTo": 40,
+        "heightFrom": 67,
+        "heightTo": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77866,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2022-10-27",
+        "address": {
+          "city": "Cahokia Heights",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "displayName": "IL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 743,
+            "name": "St. Clair County",
+            "displayName": "St. Clair"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Mummified remains discovered on 10/27/2025 near the railroad tracks at North 43rd Street and Park Drive in Cahokia Heights, Illinois.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.5707761,
+            "lon": -90.18987039999999
+          },
+          "formattedAddress": "Cahokia Heights, IL, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55033,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58017,
+          "identityId": 48901,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Old Navy T-shirt, size large, indeterminate color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58018,
+          "identityId": 48902,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Tommy Hilfiger jacket, size x-large, red",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58019,
+          "identityId": 48903,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Beanie, indeterminate size and color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58020,
+          "identityId": 48904,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Russell sweatpants, size large, indeterminate color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58021,
+          "identityId": 48905,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Nike (Air) shoes, indeterminate size and color",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47320,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 130368,
+          "identityId": 117673,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Beanie",
+          "isPublic": true,
+          "createdDateTime": "2025-11-13T17:47:14.817",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3456,
+              "width": 4608,
+              "storageKey": "36a53c3e527a4299a96936b1dd7a1ea1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117673/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "eb3f1fdcfdbf4f19a3c6df0e44493ab4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117673/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117673/Download"
+        },
+        {
+          "id": 130369,
+          "identityId": 117674,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "T-shirt",
+          "isPublic": true,
+          "createdDateTime": "2025-11-13T17:47:47.413",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3456,
+              "width": 4608,
+              "storageKey": "10d2424485084c1f8243a36921d25c12",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117674/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "4cd24000181f43de8923ab61b92b5597",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117674/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117674/Download"
+        },
+        {
+          "id": 130370,
+          "identityId": 117675,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Jacket",
+          "isPublic": true,
+          "createdDateTime": "2025-11-13T17:48:01.523",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2810,
+              "width": 3326,
+              "storageKey": "50378c82fa2c403184bf4b1574b5a0ad",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117675/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 101,
+              "width": 120,
+              "storageKey": "beaf8b92312c4720b19a2c48e07205aa",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117675/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117675/Download"
+        },
+        {
+          "id": 130367,
+          "identityId": 117672,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Nike shoes",
+          "isPublic": true,
+          "createdDateTime": "2025-11-13T17:47:00.053",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3456,
+              "width": 4608,
+              "storageKey": "5a8afa96b5fb4d03b0ba9523e7eadb39",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117672/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "2982b500e7594f18aeecbb7d284a7850",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117672/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/117672/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26249,
+        "defaultImageIdentityId": 117675
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51614,
+          "isCaseOwner": false,
+          "name": "Saint Clair County Coroner's Office",
+          "city": "Belleville",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 743,
+            "name": "St. Clair County",
+            "localizedName": "St. Clair"
+          },
+          "countyDisplayName": "St. Clair",
+          "selection": {
+            "id": 62382,
+            "contact": {
+              "id": 57312,
+              "firstName": "CALVIN",
+              "lastName": "DYE SR.",
+              "jobTitle": "CORONER",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 9925,
+              "name": "Saint Clair County Coroner's Office",
+              "street1": "10 Public Square",
+              "city": "Belleville",
+              "county": {
+                "id": 743,
+                "name": "St. Clair County",
+                "localizedName": "St. Clair"
+              },
+              "zipCode": "62220",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "6182334442",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "251027-230-SCC",
+          "dateReported": "2025-10-27"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152330/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
     }
   ]
 }
