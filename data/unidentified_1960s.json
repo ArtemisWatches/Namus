@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T08:42:50.464765+00:00",
+  "generated_at": "2026-08-08T07:00:33.492260+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 233,
+  "count": 234,
   "cases": [
     {
       "id": 334,
@@ -62198,6 +62198,204 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150878/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/150878/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 152506,
+      "idFormatted": "UP152506",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-11-18T17:40:53.91",
+      "modifiedDateTime": "2026-06-15T17:23:33.083",
+      "caseIdentification": {
+        "id": 52196,
+        "caseNumber": "SO640000371"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72558,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 77918,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1964-07-31",
+        "address": {
+          "city": "Gold Run",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "displayName": "Placer"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skull recovered near Squire Creek in Gold Run",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.180731,
+            "lon": -120.8557726
+          },
+          "formattedAddress": "Gold Run, CA 95717, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55064,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47347,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51660,
+          "isCaseOwner": false,
+          "name": "Placer County Sheriff's Office- Coroner Division",
+          "city": "Roseville",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 277,
+            "name": "Placer County",
+            "localizedName": "Placer"
+          },
+          "countyDisplayName": "Placer",
+          "selection": {
+            "id": 61938,
+            "contact": {
+              "id": 260651,
+              "firstName": "Christopher",
+              "lastName": "Carlton",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "email": "ccarlton@placer.ca.gov",
+              "isPublicEmail": true,
+              "phone1": "5308897856",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 78663,
+              "name": "Placer County Sheriff's Office- Coroner Division",
+              "street1": "10951 Veterans Drive",
+              "city": "Roseville",
+              "county": {
+                "id": 277,
+                "name": "Placer County",
+                "localizedName": "Placer"
+              },
+              "zipCode": "95678",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9164098253",
+              "email": "placercoroner@placer.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.placer.ca.gov/2461/Coroner"
+            }
+          },
+          "caseNumber": "SO640000371"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25073,
+        "investigatingAgencyIdentityId": 51660
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152506/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152506/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

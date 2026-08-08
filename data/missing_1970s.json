@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T07:22:44.838819+00:00",
+  "generated_at": "2026-08-08T07:00:12.041691+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1272,
+  "count": 1273,
   "cases": [
     {
       "id": 1,
@@ -371596,6 +371596,226 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153973/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153973/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 154427,
+      "idFormatted": "MP154427",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-01-22T19:56:21.407",
+      "modifiedDateTime": "2026-01-30T20:07:20.227",
+      "subjectIdentification": {
+        "id": 252576,
+        "firstName": "Deborah",
+        "middleName": "Lea",
+        "lastName": "Hudler",
+        "currentMinAge": 67,
+        "currentMaxAge": 67,
+        "computedMissingMinAge": 13,
+        "computedMissingMaxAge": 13
+      },
+      "subjectDescription": {
+        "id": 223026,
+        "heightFrom": 65,
+        "weightFrom": 135,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 266254,
+        "circumstancesOfDisappearance": "Deborah Hudler was last seen in Denver, Colorado, on May 23, 1972."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 312477,
+        "date": "1972-05-23",
+        "address": {
+          "city": "Denver",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 321,
+            "name": "Denver County",
+            "displayName": "Denver"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.7392358,
+            "lon": -104.990251
+          },
+          "formattedAddress": "Denver, CO, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 184834,
+          "isCaseOwner": false,
+          "name": "Denver Police Department",
+          "city": "Denver",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 321,
+            "name": "Denver County",
+            "localizedName": "Denver"
+          },
+          "countyDisplayName": "Denver",
+          "selection": {
+            "id": 213271,
+            "agency": {
+              "id": 48000,
+              "name": "Denver Police Department",
+              "street1": "1331 Cherokee Street",
+              "city": "Denver",
+              "county": {
+                "id": 321,
+                "name": "Denver County",
+                "localizedName": "Denver"
+              },
+              "zipCode": "80204",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "7209132000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.denvergov.org/content/denvergov/en/police-department/police-stations.html"
+            }
+          },
+          "caseNumber": "25-5002615",
+          "dateReported": "2026-01-22"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48000,
+        "isCaseOwner": false,
+        "name": "Denver Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 121722,
+        "investigatingAgencyIdentityId": 184834
+      },
+      "physicalDescription": {
+        "id": 218836,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 247892,
+          "identityId": 232097,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Photo from news article",
+          "isPublic": true,
+          "createdDateTime": "2026-01-22T20:10:29.28",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 348,
+              "width": 217,
+              "storageKey": "264f3601743f4a4bbb28aebb21b1ad93",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/232097/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 75,
+              "storageKey": "5a00f7a416ff4bd0ac5de1f34ede4edd",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/232097/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/232097/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 126624,
+        "defaultImageIdentityId": 232097
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
     }
   ]
 }
