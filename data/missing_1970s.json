@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T07:00:12.041691+00:00",
+  "generated_at": "2026-08-09T07:02:56.542081+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1273,
+  "count": 1274,
   "cases": [
     {
       "id": 1,
@@ -371816,6 +371816,256 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/154427/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 154939,
+      "idFormatted": "MP154939",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-03T21:39:48.597",
+      "modifiedDateTime": "2026-08-04T16:20:27.823",
+      "subjectIdentification": {
+        "id": 266013,
+        "firstName": "Andrea",
+        "middleName": "Catherine",
+        "lastName": "Milne",
+        "nicknames": "Andrea C. Milne; Andrea C. Milnen, Andy Milne, Brandy Milne, Adrea Bolton Lloyd, Andrea Cathern Bolton, Andrea Bolton Milne",
+        "currentMinAge": 78,
+        "currentMaxAge": 78,
+        "computedMissingMinAge": 27,
+        "computedMissingMaxAge": 27
+      },
+      "subjectDescription": {
+        "id": 223531,
+        "heightFrom": 68,
+        "weightFrom": 185,
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribalAffiliation": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 111966
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 266742,
+        "circumstancesOfDisappearance": "Andrea was last seen at the Mecca Bar in Ketchikan between 0100 and 0200 hours."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 131048,
+          "identityId": 119370,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long black skirt and a multi-colored shirt"
+        }
+      ],
+      "sighting": {
+        "id": 314156,
+        "date": "1975-08-24",
+        "address": {
+          "city": "Ketchikan",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "displayName": "AK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 136,
+            "name": "Ketchikan Gateway Borough",
+            "displayName": "Ketchikan Gateway"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 55.34222219999999,
+            "lon": -131.6461111
+          },
+          "formattedAddress": "Ketchikan, AK 99901, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 186108,
+          "isCaseOwner": false,
+          "name": "Alaska State Troopers",
+          "city": "Anchorage",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 126,
+            "name": "Anchorage Borough",
+            "localizedName": "Anchorage"
+          },
+          "countyDisplayName": "Anchorage",
+          "selection": {
+            "id": 215722,
+            "contact": {
+              "id": 21038,
+              "firstName": "Malia",
+              "lastName": "Miller",
+              "jobTitle": "Missing Persons Clearinghouse Manager",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40118,
+              "name": "Alaska State Troopers",
+              "street1": "5700 East Tudor Road",
+              "city": "Anchorage",
+              "county": {
+                "id": 126,
+                "name": "Anchorage Borough",
+                "localizedName": "Anchorage"
+              },
+              "zipCode": "99507",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9072695511",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "AK26010341",
+          "dateReported": "1975-08-24"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40118,
+        "isCaseOwner": false,
+        "name": "Alaska State Troopers"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 121835,
+        "investigatingAgencyIdentityId": 186108
+      },
+      "physicalDescription": {
+        "id": 219298,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 248744,
+          "identityId": 232810,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-02-11T00:31:42.487",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 305,
+              "width": 206,
+              "storageKey": "7caab00bf92e493985f26706d52e972a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/232810/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 81,
+              "storageKey": "de43293eedc24241a9abc45452aec689",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/232810/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/232810/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 126921,
+        "defaultImageIdentityId": 232810
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
     }
   ]
 }

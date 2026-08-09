@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T07:00:33.492260+00:00",
+  "generated_at": "2026-08-09T07:03:08.876096+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1022,
+  "count": 1023,
   "cases": [
     {
       "id": 103,
@@ -293551,6 +293551,191 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152756/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152756/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Mexico"
+    },
+    {
+      "id": 153206,
+      "idFormatted": "UP153206",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-09T19:54:52.18",
+      "modifiedDateTime": "2026-07-17T05:52:26.53",
+      "caseIdentification": {
+        "id": 52326,
+        "ncmecNumber": "2071792",
+        "caseNumber": "A77-230"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72685,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 5,
+          "name": "Adolescent",
+          "localizedName": "Adolescent"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78138,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-11-06",
+        "address": {
+          "city": "Campton",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "displayName": "NH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1830,
+            "name": "Grafton County",
+            "displayName": "Grafton"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Discovered unclothed on the surface by a hunter, approximately 200 yards from interstate I-93 in Campton, NH.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 43.8224604,
+            "lon": -71.64406149999999
+          },
+          "formattedAddress": "Campton, NH 03223, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55142,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47432,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51815,
+          "isCaseOwner": false,
+          "name": "New Hampshire Office of Chief Medical Examiner",
+          "city": "Concord",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1832,
+            "name": "Merrimack County",
+            "localizedName": "Merrimack"
+          },
+          "countyDisplayName": "Merrimack",
+          "selection": {
+            "id": 62164,
+            "agency": {
+              "id": 21730,
+              "name": "New Hampshire Office of Chief Medical Examiner",
+              "street1": "246 Pleasant Street",
+              "street2": "Ste 218",
+              "city": "Concord",
+              "county": {
+                "id": 1832,
+                "name": "Merrimack County",
+                "localizedName": "Merrimack"
+              },
+              "zipCode": "03301",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6032711235",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "A77-230"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25138,
+        "investigatingAgencyIdentityId": 51815
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153206/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153206/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
     }
   ]
 }
