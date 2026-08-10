@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T07:03:08.876096+00:00",
+  "generated_at": "2026-08-10T07:49:39.250428+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1023,
+  "count": 1024,
   "cases": [
     {
       "id": 103,
@@ -293736,6 +293736,246 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153206/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153206/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
+    },
+    {
+      "id": 153350,
+      "idFormatted": "UP153350",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-15T20:38:41.213",
+      "modifiedDateTime": "2025-12-16T17:08:34.537",
+      "caseIdentification": {
+        "id": 52284,
+        "caseNumber": "ME78-0280"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72717,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 50,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78173,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1978-07-07",
+        "address": {
+          "city": "Bronson",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 417,
+            "name": "Levy County",
+            "displayName": "Levy"
+          },
+          "countyId": 0,
+          "zipCode": "32621"
+        },
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Partial skeletal remains were found in a wooded area near Bronson, FL.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 29.4477445,
+            "lon": -82.6423336
+          },
+          "formattedAddress": "Bronson, FL 32621, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55173,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47451,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51857,
+          "isCaseOwner": false,
+          "name": "Levy County Sheriff's Office",
+          "city": "Bronson",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 417,
+            "name": "Levy County",
+            "localizedName": "Levy"
+          },
+          "countyDisplayName": "Levy",
+          "selection": {
+            "id": 62227,
+            "agency": {
+              "id": 50182,
+              "name": "Levy County Sheriff's Office",
+              "street1": "9150 Northeast 80th Avenue",
+              "city": "Bronson",
+              "county": {
+                "id": 417,
+                "name": "Levy County",
+                "localizedName": "Levy"
+              },
+              "zipCode": "32621",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3524865111",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://levyso.com/"
+            }
+          },
+          "caseNumber": "78-1153"
+        },
+        {
+          "id": 51866,
+          "isCaseOwner": false,
+          "name": "District 8 Medical Examiner's Office",
+          "city": "Gainesville",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 381,
+            "name": "Alachua County",
+            "localizedName": "Alachua"
+          },
+          "countyDisplayName": "Alachua",
+          "selection": {
+            "id": 62244,
+            "agency": {
+              "id": 5370,
+              "name": "District 8 Medical Examiner's Office",
+              "street1": "606 South West 3rd Avenue",
+              "city": "Gainesville",
+              "county": {
+                "id": 381,
+                "name": "Alachua County",
+                "localizedName": "Alachua"
+              },
+              "zipCode": "32601",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "3523843366",
+              "email": "medistrict8@alachuacounty.us",
+              "jurisdiction": {
+                "id": 5,
+                "name": "Other",
+                "localizedName": "Other"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://district8me.com/"
+            }
+          },
+          "caseNumber": "ME78-0280"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25175,
+        "investigatingAgencyIdentityId": 51866
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153350/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153350/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
     }
   ]
 }

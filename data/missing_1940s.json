@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T08:30:06.570904+00:00",
+  "generated_at": "2026-08-10T07:49:27.543763+00:00",
   "case_type": "MissingPersons",
   "decade": "1940s",
-  "count": 32,
+  "count": 33,
   "cases": [
     {
       "id": 5659,
@@ -8677,6 +8677,203 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/151327/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 155248,
+      "idFormatted": "MP155248",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-10T23:00:18.137",
+      "modifiedDateTime": "2026-02-11T17:45:41.67",
+      "subjectIdentification": {
+        "id": 253160,
+        "firstName": "Harold",
+        "middleName": "Lawson",
+        "lastName": "Rogers",
+        "currentMinAge": 123,
+        "currentMaxAge": 123,
+        "computedMissingMinAge": 46,
+        "computedMissingMaxAge": 46
+      },
+      "subjectDescription": {
+        "id": 223529,
+        "heightFrom": 70,
+        "weightFrom": 165,
+        "weightTo": 175,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 112004
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 266780,
+        "circumstancesOfDisappearance": "Harold Rogers is last known to have been in Columbia, South Carolina in 1949."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 314518,
+        "date": "1949-07-07",
+        "address": {
+          "city": "Columbia",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "displayName": "SC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2422,
+            "name": "Richland County",
+            "displayName": "Richland"
+          },
+          "countyId": 0,
+          "zipCode": "29205"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.9900337,
+            "lon": -80.9981576
+          },
+          "formattedAddress": "Columbia, SC 29205, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 186248,
+          "isCaseOwner": false,
+          "name": "Richland County Sheriff's Department",
+          "city": "Columbia",
+          "state": {
+            "id": 5,
+            "name": "South Carolina",
+            "localizedName": "SC"
+          },
+          "stateDisplayName": "SC",
+          "county": {
+            "id": 2422,
+            "name": "Richland County",
+            "localizedName": "Richland"
+          },
+          "countyDisplayName": "Richland",
+          "selection": {
+            "id": 215920,
+            "contact": {
+              "id": 7846,
+              "firstName": "Dottie",
+              "lastName": "Cronise",
+              "jobTitle": "Senior Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44105,
+              "name": "Richland County Sheriff's Department",
+              "street1": "5623 Two Notch Rd",
+              "city": "Columbia",
+              "county": {
+                "id": 2422,
+                "name": "Richland County",
+                "localizedName": "Richland"
+              },
+              "zipCode": "29223",
+              "state": {
+                "id": 5,
+                "name": "South Carolina",
+                "localizedName": "SC"
+              },
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2602015910",
+          "dateReported": "2026-02-10"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 44105,
+        "isCaseOwner": false,
+        "name": "Richland County Sheriff's Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 121943,
+        "investigatingAgencyIdentityId": 186248
+      },
+      "physicalDescription": {
+        "id": 219296,
+        "hairColor": {
+          "id": 14,
+          "name": "Bald",
+          "localizedName": "Bald"
+        },
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/155248/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/155248/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/155248/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
     }
   ]
 }

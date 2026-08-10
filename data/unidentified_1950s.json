@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T08:37:21.223005+00:00",
+  "generated_at": "2026-08-10T07:49:39.250428+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 147,
+  "count": 148,
   "cases": [
     {
       "id": 2802,
@@ -34518,6 +34518,205 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144943/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144943/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Virginia"
+    },
+    {
+      "id": 153605,
+      "idFormatted": "UP153605",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2025-12-24T19:00:29.12",
+      "modifiedDateTime": "2025-12-29T17:18:06.727",
+      "caseIdentification": {
+        "id": 52308,
+        "caseNumber": "56-25-Eugene"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 72767,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightFrom": 65,
+        "heightTo": 69,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78231,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1954-11-11",
+        "address": {
+          "city": "Thayer",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "displayName": "IN"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 814,
+            "name": "Newton County",
+            "displayName": "Newton"
+          },
+          "countyId": 0,
+          "zipCode": "46381"
+        },
+        "description": "1 mile west of Thayer, IN on the Ira Miller Farm - wooded area",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remain were found by hunters located approximately 1 mile west of Thayer, IN on the Ira Miller farm.\nPolice transported the remains to Indiana University Department of Anthropology. \nThe remains have now been released to the Newton County Coroner.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.1725422,
+            "lon": -87.33297859999999
+          },
+          "formattedAddress": "Thayer, IN 46381, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55208,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47477,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 51992,
+          "isCaseOwner": false,
+          "name": "Newton County Coroner's Office",
+          "city": "Morocco",
+          "state": {
+            "id": 49,
+            "name": "Indiana",
+            "localizedName": "IN"
+          },
+          "stateDisplayName": "IN",
+          "county": {
+            "id": 814,
+            "name": "Newton County",
+            "localizedName": "Newton"
+          },
+          "countyDisplayName": "Newton",
+          "selection": {
+            "id": 62396,
+            "contact": {
+              "id": 6572,
+              "firstName": "Scott",
+              "lastName": "McCord",
+              "jobTitle": "Coroner/Investigator",
+              "roleId": 10,
+              "role": "Coroner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 10908,
+              "name": "Newton County Coroner's Office",
+              "street1": "4117 South 240 West",
+              "street2": "Suite 500",
+              "city": "Morocco",
+              "county": {
+                "id": 814,
+                "name": "Newton County",
+                "localizedName": "Newton"
+              },
+              "zipCode": "47963",
+              "state": {
+                "id": 49,
+                "name": "Indiana",
+                "localizedName": "IN"
+              },
+              "phone": "2192852515",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.newtoncounty.in.gov/department/index.php?structureid=16"
+            }
+          },
+          "caseNumber": "56-25-Eugene"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25291
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153605/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153605/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Indiana"
     }
   ]
 }
