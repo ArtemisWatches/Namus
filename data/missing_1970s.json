@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T07:02:56.542081+00:00",
+  "generated_at": "2026-08-11T07:14:39.158884+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1274,
+  "count": 1275,
   "cases": [
     {
       "id": 1,
@@ -372066,6 +372066,240 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/154939/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
+    },
+    {
+      "id": 155863,
+      "idFormatted": "MP155863",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-24T21:38:10.343",
+      "modifiedDateTime": "2026-02-26T18:00:12.737",
+      "subjectIdentification": {
+        "id": 255638,
+        "firstName": "Stephen",
+        "middleName": "Douglas",
+        "lastName": "Penta",
+        "currentMinAge": 77,
+        "currentMaxAge": 77,
+        "computedMissingMinAge": 26,
+        "computedMissingMaxAge": 26
+      },
+      "subjectDescription": {
+        "id": 225895,
+        "heightFrom": 72,
+        "weightFrom": 185,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 113172
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 269495,
+        "circumstancesOfDisappearance": "Last seen in August of 1975 in Santa Cruz,  He had been contacted by law enforcement earlier that year in Toronto while attempting re-entry into the US."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 317300,
+        "date": "1975-08-01",
+        "address": {
+          "city": "Santa Cruz",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 290,
+            "name": "Santa Cruz County",
+            "displayName": "Santa Cruz"
+          },
+          "countyId": 0,
+          "zipCode": "95060"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.9741275,
+            "lon": -122.028807
+          },
+          "formattedAddress": "Santa Cruz, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 188542,
+          "isCaseOwner": false,
+          "name": "Santa Cruz Police Department",
+          "city": "Santa Cruz",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 290,
+            "name": "Santa Cruz County",
+            "localizedName": "Santa Cruz"
+          },
+          "countyDisplayName": "Santa Cruz",
+          "selection": {
+            "id": 218420,
+            "contact": {
+              "id": 323842,
+              "firstName": "Michael",
+              "lastName": "Hedley",
+              "jobTitle": "Cold Case Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 48438,
+              "name": "Santa Cruz Police Department",
+              "street1": "155 Center Street",
+              "city": "Santa Cruz",
+              "county": {
+                "id": 290,
+                "name": "Santa Cruz County",
+                "localizedName": "Santa Cruz"
+              },
+              "zipCode": "95060",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8314205800",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofsantacruz.com/government/city-departments/police"
+            }
+          },
+          "caseNumber": "25S-06691",
+          "dateReported": "2025-12-16"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48438,
+        "isCaseOwner": false,
+        "name": "Santa Cruz Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 122309,
+        "investigatingAgencyIdentityId": 188542
+      },
+      "physicalDescription": {
+        "id": 221637,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 250393,
+          "identityId": 234310,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-02-26T17:59:00.91",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 571,
+              "width": 471,
+              "storageKey": "bf117a37096c4179ae178933bc84aed8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/234310/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 99,
+              "storageKey": "9fd27dba52144d5caf571ba660721541",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/234310/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/234310/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 128152,
+        "defaultImageIdentityId": 234310
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

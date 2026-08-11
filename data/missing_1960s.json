@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T07:22:44.838819+00:00",
+  "generated_at": "2026-08-11T07:14:39.158884+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 269,
+  "count": 270,
   "cases": [
     {
       "id": 498,
@@ -78576,6 +78576,228 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/153703/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wyoming"
+    },
+    {
+      "id": 155668,
+      "idFormatted": "MP155668",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-20T15:09:27.927",
+      "modifiedDateTime": "2026-08-03T20:54:05.263",
+      "subjectIdentification": {
+        "id": 255684,
+        "firstName": "Inez",
+        "middleName": "McAbee",
+        "lastName": "Blackwell",
+        "currentMinAge": 84,
+        "currentMaxAge": 84,
+        "computedMissingMinAge": 26,
+        "computedMissingMaxAge": 26
+      },
+      "subjectDescription": {
+        "id": 225938,
+        "heightFrom": 60,
+        "heightTo": 64,
+        "weightFrom": 120,
+        "weightTo": 130,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 275033,
+        "circumstancesOfDisappearance": "Inez McAbee Blackwell was last in contact with her family on 6/14/1968."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 317372,
+        "date": "1968-06-14",
+        "address": {
+          "city": "Rutherfordton",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "displayName": "NC"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2032,
+            "name": "Rutherford County",
+            "displayName": "Rutherford"
+          },
+          "countyId": 0,
+          "zipCode": "28139"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 35.3692877,
+            "lon": -81.9567716
+          },
+          "formattedAddress": "Rutherfordton, NC 28139, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 188572,
+          "isCaseOwner": false,
+          "name": "Rutherford County Sheriff's Office",
+          "city": "Rutherfordton",
+          "state": {
+            "id": 6,
+            "name": "North Carolina",
+            "localizedName": "NC"
+          },
+          "stateDisplayName": "NC",
+          "county": {
+            "id": 2032,
+            "name": "Rutherford County",
+            "localizedName": "Rutherford"
+          },
+          "countyDisplayName": "Rutherford",
+          "selection": {
+            "id": 224492,
+            "agency": {
+              "id": 55463,
+              "name": "Rutherford County Sheriff's Office",
+              "street1": "198 North Washington Street",
+              "city": "Rutherfordton",
+              "county": {
+                "id": 2032,
+                "name": "Rutherford County",
+                "localizedName": "Rutherford"
+              },
+              "zipCode": "28139",
+              "state": {
+                "id": 6,
+                "name": "North Carolina",
+                "localizedName": "NC"
+              },
+              "phone": "8282876783",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.rutherfordcountync.gov/departments/sheriff/sheriff_staff.php"
+            }
+          },
+          "caseNumber": "2026-001556"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 55463,
+        "isCaseOwner": false,
+        "name": "Rutherford County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 124087,
+        "investigatingAgencyIdentityId": 188572
+      },
+      "physicalDescription": {
+        "id": 219537,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 249155,
+          "identityId": 233116,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Inez McAbee Blackwell (1965)",
+          "isPublic": true,
+          "createdDateTime": "2026-02-20T15:42:53.693",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 263,
+              "width": 274,
+              "storageKey": "be7e015d075d4651b27fe5fa555a140c",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/233116/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 115,
+              "width": 120,
+              "storageKey": "bd4a9f97a497432fb6580284a2b39208",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/233116/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/233116/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 127062,
+        "defaultImageIdentityId": 233116
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Carolina"
     }
   ]
 }
