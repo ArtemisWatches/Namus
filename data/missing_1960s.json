@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T07:14:39.158884+00:00",
+  "generated_at": "2026-08-13T07:40:50.959961+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 270,
+  "count": 271,
   "cases": [
     {
       "id": 498,
@@ -78798,6 +78798,311 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/155668/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/North%20Carolina"
+    },
+    {
+      "id": 156654,
+      "idFormatted": "MP156654",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-03-18T13:50:12.573",
+      "modifiedDateTime": "2026-03-24T13:52:50.147",
+      "subjectIdentification": {
+        "id": 256333,
+        "firstName": "Lula",
+        "lastName": "Griffith Briggs",
+        "nicknames": "Lula Mae Griffith, Lula Briggs",
+        "currentMinAge": 141,
+        "currentMaxAge": 141,
+        "computedMissingMinAge": 76,
+        "computedMissingMaxAge": 76
+      },
+      "subjectDescription": {
+        "id": 226468,
+        "heightFrom": 60,
+        "heightTo": 65,
+        "weightFrom": 95,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 270376,
+        "circumstancesOfDisappearance": "Lula Briggs was last seen at her home on the farm she and her husband owned on Route 26, east of Woodsfield, Ohio on October 31, 1961."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 133661,
+          "identityId": 121796,
+          "article": {
+            "id": 3,
+            "name": "Eyewear",
+            "localizedName": "Eyewear",
+            "ordinal": 3
+          },
+          "description": "Gold-rimmed glasses"
+        }
+      ],
+      "sighting": {
+        "id": 320802,
+        "date": "1961-10-31",
+        "address": {
+          "city": "Woodsfield",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2164,
+            "name": "Monroe County",
+            "displayName": "Monroe"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.7625729,
+            "lon": -81.1153842
+          },
+          "formattedAddress": "Woodsfield, OH 43793, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 189027,
+          "isCaseOwner": false,
+          "name": "Monroe County Sheriff's Office",
+          "city": "Woodsfield",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2164,
+            "name": "Monroe County",
+            "localizedName": "Monroe"
+          },
+          "countyDisplayName": "Monroe",
+          "selection": {
+            "id": 219338,
+            "contact": {
+              "id": 308182,
+              "firstName": "Jason",
+              "lastName": "Rinard",
+              "jobTitle": "Chief Deputy",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 79980,
+              "name": "Monroe County Sheriff's Office",
+              "street1": "47129 Moore Ridge Road",
+              "city": "Woodsfield",
+              "county": {
+                "id": 2164,
+                "name": "Monroe County",
+                "localizedName": "Monroe"
+              },
+              "zipCode": "43793",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "7404721612",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.monroesheriff.com/"
+            }
+          },
+          "caseNumber": "2026-0950",
+          "dateReported": "1961-10-31"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 79980,
+        "isCaseOwner": false,
+        "name": "Monroe County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 122740,
+        "investigatingAgencyIdentityId": 189027
+      },
+      "physicalDescription": {
+        "id": 222207,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 253216,
+          "identityId": 236956,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-03-24T13:52:08.85",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 130,
+              "width": 130,
+              "storageKey": "e0a557a422274790a2d78fda68962e63",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/236956/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 120,
+              "storageKey": "4a988a93f96e4a399d680baaaadc1f34",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/236956/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/236956/Download"
+        },
+        {
+          "id": 251068,
+          "identityId": 234833,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "caption": "News article",
+          "isPublic": true,
+          "createdDateTime": "2026-03-18T14:05:28.607",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2024,
+              "width": 1080,
+              "storageKey": "5d469fcd237947c4b9a6577d76048d03",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234833/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 64,
+              "storageKey": "99a2206eb4fc40e69027fc8b82499803",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234833/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234833/Download"
+        },
+        {
+          "id": 253217,
+          "identityId": 234832,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Family photo",
+          "isPublic": true,
+          "createdDateTime": "2026-03-18T14:01:58.84",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 430,
+              "width": 213,
+              "storageKey": "a1bf941a43cb43e6a681c163d617be22",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234832/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 59,
+              "storageKey": "621db59aa4c9481e9297a738e52db76e",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234832/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/234832/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 130558,
+        "defaultImageIdentityId": 236956
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
     }
   ]
 }

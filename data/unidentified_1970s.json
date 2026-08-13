@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T07:14:55.634041+00:00",
+  "generated_at": "2026-08-13T07:41:02.904102+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1025,
+  "count": 1027,
   "cases": [
     {
       "id": 103,
@@ -294254,6 +294254,385 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/154038/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/154038/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 154842,
+      "idFormatted": "UP154842",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-02T20:51:43.573",
+      "modifiedDateTime": "2026-08-03T16:39:03.54",
+      "caseIdentification": {
+        "id": 52513,
+        "caseNumber": "75-03-0001"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73005,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 35,
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 130,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 78483,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-03-21",
+        "address": {
+          "city": "Del Rey",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0
+        },
+        "description": "1/4 mile W/O McCall, 1/8 mile N/O Lincoln",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found in irrigation ditch, fully clothed with a wound to the left side of his head.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.6589623,
+            "lon": -119.5939822
+          },
+          "formattedAddress": "Del Rey, CA 93616, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55362,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47616,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 29100,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52188,
+          "isCaseOwner": false,
+          "name": "Fresno County Sheriff's Office",
+          "city": "Fresno",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 62727,
+            "agency": {
+              "id": 46046,
+              "name": "Fresno County Sheriff's Office",
+              "street1": "2200 Fresno Street",
+              "city": "Fresno",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93721",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596008400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fresnosheriff.org/"
+            }
+          },
+          "caseNumber": "75-3649"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25455,
+        "investigatingAgencyIdentityId": 52188
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/154842/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/154842/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 155197,
+      "idFormatted": "UP155197",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-09T20:35:52.463",
+      "modifiedDateTime": "2026-03-30T17:53:23.013",
+      "caseIdentification": {
+        "id": 52541,
+        "caseNumber": "76-0116"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73033,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightFrom": 68,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 200,
+        "weightTo": 250,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 78530,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-04-22",
+        "address": {
+          "city": "Kansas City",
+          "state": {
+            "id": 47,
+            "name": "Missouri",
+            "displayName": "MO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1592,
+            "name": "Jackson County",
+            "displayName": "Jackson"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was found floating in the Missouri River by a bystander on 4/22/1976. Deceased is likely between 55-65 years old with \"sandy brown hair streaked with gray\".  He was wearing a blue button-up shirt and Timex watch.  He also had a one-inch scar on t left side of the forehead and very poor teeth, which were mostly missing or broken off at the gumline.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.0997265,
+            "lon": -94.5785667
+          },
+          "formattedAddress": "Kansas City, MO, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55386,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47635,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52218,
+          "isCaseOwner": false,
+          "name": "Jackson County Medical Examiner's Office",
+          "city": "Kansas City",
+          "state": {
+            "id": 47,
+            "name": "Missouri",
+            "localizedName": "MO"
+          },
+          "stateDisplayName": "MO",
+          "county": {
+            "id": 1592,
+            "name": "Jackson County",
+            "localizedName": "Jackson"
+          },
+          "countyDisplayName": "Jackson",
+          "selection": {
+            "id": 62788,
+            "agency": {
+              "id": 19472,
+              "name": "Jackson County Medical Examiner's Office",
+              "street1": "950 East 21th Street",
+              "city": "Kansas City",
+              "county": {
+                "id": 1592,
+                "name": "Jackson County",
+                "localizedName": "Jackson"
+              },
+              "zipCode": "64108",
+              "state": {
+                "id": 47,
+                "name": "Missouri",
+                "localizedName": "MO"
+              },
+              "phone": "8168816600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jacksongov.org/Government/Departments/Medical-Examiner"
+            }
+          },
+          "caseNumber": "76-0116",
+          "dateReported": "1976-04-22"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155197/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155197/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Missouri"
     }
   ]
 }
