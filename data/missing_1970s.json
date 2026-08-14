@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T07:14:39.158884+00:00",
+  "generated_at": "2026-08-14T07:38:36.365057+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1275,
+  "count": 1277,
   "cases": [
     {
       "id": 1,
@@ -372300,6 +372300,501 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/155863/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 157219,
+      "idFormatted": "MP157219",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-03T19:44:21.43",
+      "modifiedDateTime": "2026-05-28T21:32:20.247",
+      "subjectIdentification": {
+        "id": 258832,
+        "firstName": "Gary",
+        "middleName": "Alan",
+        "lastName": "Bradshaw",
+        "currentMinAge": 71,
+        "currentMaxAge": 71,
+        "computedMissingMinAge": 23,
+        "computedMissingMaxAge": 23
+      },
+      "subjectDescription": {
+        "id": 228850,
+        "heightFrom": 71,
+        "weightFrom": 143,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 273029,
+        "circumstancesOfDisappearance": "Gary was last seen at the base of the Heavenly Stagecoach Lodge around 12:00PM."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 321406,
+        "date": "1979-02-11",
+        "address": {
+          "city": "Stateline",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1812,
+            "name": "Douglas County",
+            "displayName": "Douglas"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 38.9624079,
+            "lon": -119.9399029
+          },
+          "formattedAddress": "Stateline, NV, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 191662,
+          "isCaseOwner": false,
+          "name": "Douglas County Sheriff’s Office",
+          "city": "Minden",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1812,
+            "name": "Douglas County",
+            "localizedName": "Douglas"
+          },
+          "countyDisplayName": "Douglas",
+          "selection": {
+            "id": 223697,
+            "contact": {
+              "id": 292238,
+              "firstName": "Steven",
+              "lastName": "Warfield",
+              "jobTitle": "Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 78679,
+              "name": "Douglas County Sheriff’s Office",
+              "street1": "1038 Buckeye Road",
+              "city": "Minden",
+              "county": {
+                "id": 1812,
+                "name": "Douglas County",
+                "localizedName": "Douglas"
+              },
+              "zipCode": "89423",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757825126",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://sheriff.douglascountynv.gov/"
+            }
+          },
+          "caseNumber": "79-0890 and 24SO32399"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 78679,
+        "isCaseOwner": false,
+        "name": "Douglas County Sheriff’s Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 123309,
+        "investigatingAgencyIdentityId": 191662
+      },
+      "physicalDescription": {
+        "id": 224587,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Shoulder length straight hair",
+        "facialHairDescription": "Blonde beard, shaven on chin",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 254334,
+          "identityId": 237866,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-24T20:13:28.323",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 934,
+              "width": 808,
+              "storageKey": "1026dace3d554713a3f0e18c83d186f9",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237866/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 104,
+              "storageKey": "bd609db6029e4178804a22061bc224fe",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237866/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237866/Download"
+        },
+        {
+          "id": 254335,
+          "identityId": 237867,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-24T20:15:19.823",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 200,
+              "width": 163,
+              "storageKey": "07678112e9e4432cbfbdbfa4855e4c9a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237867/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 98,
+              "storageKey": "4b4c2da8f48d4b889298c2e90a58d236",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237867/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/237867/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 131048,
+        "defaultImageIdentityId": 237866
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/157219/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 157467,
+      "idFormatted": "MP157467",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-10T19:00:19.697",
+      "modifiedDateTime": "2026-06-19T14:41:04.343",
+      "subjectIdentification": {
+        "id": 259080,
+        "firstName": "Carolyn",
+        "middleName": "Louise",
+        "lastName": "Briggs",
+        "currentMinAge": 75,
+        "currentMaxAge": 75,
+        "computedMissingMinAge": 18,
+        "computedMissingMaxAge": 18
+      },
+      "subjectDescription": {
+        "id": 229078,
+        "heightFrom": 65,
+        "heightTo": 66,
+        "weightFrom": 100,
+        "weightTo": 150,
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 114612
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 273382,
+        "circumstancesOfDisappearance": "Carolyn Briggs went missing in either 1970 or 1971 after a night out \"across the red river\" near Bokchito, Oklahoma.  Carolyn and her sister left their home in Bonham, Texas and traveled to Bokchito, Oklahoma.  Carolyn met up with a male who offered to give her a ride home at the end of the night.  Carolyn has not been seen or heard from since then."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 135056,
+          "identityId": 123089,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Last seen wearing brown and yellow short dress with flat black or brown shoes."
+        }
+      ],
+      "sighting": {
+        "id": 321859,
+        "date": "1970-01-01",
+        "address": {
+          "city": "Bokchito",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "displayName": "OK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2203,
+            "name": "Bryan County",
+            "displayName": "Bryan"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.0173184,
+            "lon": -96.1427628
+          },
+          "formattedAddress": "Bokchito, OK 74726, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 191548,
+          "isCaseOwner": false,
+          "name": "Bryan County Sheriff's Office",
+          "city": "Durant",
+          "state": {
+            "id": 33,
+            "name": "Oklahoma",
+            "localizedName": "OK"
+          },
+          "stateDisplayName": "OK",
+          "county": {
+            "id": 2203,
+            "name": "Bryan County",
+            "localizedName": "Bryan"
+          },
+          "countyDisplayName": "Bryan",
+          "selection": {
+            "id": 223698,
+            "agency": {
+              "id": 46003,
+              "name": "Bryan County Sheriff's Office",
+              "street1": "402 West Evergreen",
+              "city": "Durant",
+              "county": {
+                "id": 2203,
+                "name": "Bryan County",
+                "localizedName": "Bryan"
+              },
+              "zipCode": "74701",
+              "state": {
+                "id": 33,
+                "name": "Oklahoma",
+                "localizedName": "OK"
+              },
+              "phone": "5809243000",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://bryancountyso.com/"
+            }
+          },
+          "caseNumber": "2026-018575",
+          "dateReported": "2026-03-31"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 46003,
+        "isCaseOwner": false,
+        "name": "Bryan County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 123496,
+        "investigatingAgencyIdentityId": 191548
+      },
+      "physicalDescription": {
+        "id": 224799,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "A little shorter than shoulder length",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 253866,
+          "identityId": 237464,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Carolyn Briggs Photo",
+          "isPublic": true,
+          "createdDateTime": "2026-04-10T19:43:31.483",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 438,
+              "width": 355,
+              "storageKey": "d1bff2b8027e462fbc83dc9e4cb63c17",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/237464/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 97,
+              "storageKey": "f3f23d25d9da402b99a973a0c569bfe8",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/237464/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/237464/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 130843,
+        "defaultImageIdentityId": 237464
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
     }
   ]
 }

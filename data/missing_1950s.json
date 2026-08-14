@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T09:59:41.661100+00:00",
+  "generated_at": "2026-08-14T07:38:36.365057+00:00",
   "case_type": "MissingPersons",
   "decade": "1950s",
-  "count": 82,
+  "count": 83,
   "cases": [
     {
       "id": 1379,
@@ -23719,6 +23719,248 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/148337/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 157175,
+      "idFormatted": "MP157175",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-02T16:57:31.867",
+      "modifiedDateTime": "2026-06-04T18:34:32.37",
+      "subjectIdentification": {
+        "id": 263714,
+        "firstName": "Earnest",
+        "middleName": "Doss",
+        "lastName": "Cagle",
+        "nicknames": "Jr.",
+        "currentMinAge": 78,
+        "currentMaxAge": 78,
+        "computedMissingMinAge": 2,
+        "computedMissingMaxAge": 2
+      },
+      "subjectDescription": {
+        "id": 233505,
+        "heightFrom": 29,
+        "heightTo": 41,
+        "weightFrom": 19,
+        "weightTo": 20,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 277552,
+        "circumstancesOfDisappearance": "On August 26, 1950, 2‑year‑old Earnest Doss “Earnest Jr.” Cagle was last seen in the family’s vehicle outside DeLay’s Tavern in Buckhart, Sangamon County, Illinois. His parents reported that they had periodically checked on him and his 1‑year‑old sibling while inside the tavern. At approximately 2:15 a.m., Earnest Jr. was discovered missing. The vehicle doors were reportedly unlocked and the windows partially open.\nExtensive searches were conducted by local authorities, volunteers, and aircraft. A nearby water‑filled quarry, wooded areas, and surrounding fields were examined, but no trace was found. Earnest Jr. was described as small for his age, with curly blonde hair and blue eyes. He was last seen wearing sandals, green overalls, a yellow shirt, and a red‑and‑tan Hopalong Cassidy jacket. No confirmed sightings or evidence have been located since his disappearance."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 134920,
+          "identityId": 122978,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "At the time he disappeared, he was wearing sandals, green overalls, a yellow polo shirt, and a red and tan Hopalong Cassidy jacket."
+        }
+      ],
+      "sighting": {
+        "id": 327658,
+        "date": "1950-08-27",
+        "address": {
+          "city": "Buckhart",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "displayName": "IL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 739,
+            "name": "Sangamon County",
+            "displayName": "Sangamon"
+          },
+          "countyId": 0,
+          "zipCode": "62563"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.7497703,
+            "lon": -89.444812
+          },
+          "formattedAddress": "Buckhart, IL 62563, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 191343,
+          "isCaseOwner": false,
+          "name": "Sangamon County Sheriff's Office",
+          "city": "Springfield",
+          "state": {
+            "id": 37,
+            "name": "Illinois",
+            "localizedName": "IL"
+          },
+          "stateDisplayName": "IL",
+          "county": {
+            "id": 739,
+            "name": "Sangamon County",
+            "localizedName": "Sangamon"
+          },
+          "countyDisplayName": "Sangamon",
+          "selection": {
+            "id": 227980,
+            "agency": {
+              "id": 48443,
+              "name": "Sangamon County Sheriff's Office",
+              "street1": "1 Sheriff's Plaza",
+              "city": "Springfield",
+              "county": {
+                "id": 739,
+                "name": "Sangamon County",
+                "localizedName": "Sangamon"
+              },
+              "zipCode": "62701",
+              "state": {
+                "id": 37,
+                "name": "Illinois",
+                "localizedName": "IL"
+              },
+              "phone": "2177536840",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "SG26-10825"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 48443,
+        "isCaseOwner": false,
+        "name": "Sangamon County Sheriff's Office"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 127429,
+        "investigatingAgencyIdentityId": 191343
+      },
+      "physicalDescription": {
+        "id": 224560,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "headHairDescription": "Curly",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 111323,
+          "identityId": 100016,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Described as very frail"
+        }
+      ],
+      "images": [
+        {
+          "id": 253569,
+          "identityId": 237232,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Only known, published photo of Earnest Cagle Jr.",
+          "isPublic": true,
+          "createdDateTime": "2026-04-02T16:58:51.227",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 273,
+              "width": 115,
+              "storageKey": "1759531e345148bda80dddfd436668d3",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/237232/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 51,
+              "storageKey": "87deaa4913dd40c7a084343874a6ce35",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/237232/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/237232/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 130707,
+        "defaultImageIdentityId": 237232
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/157175/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
     }
   ]
 }

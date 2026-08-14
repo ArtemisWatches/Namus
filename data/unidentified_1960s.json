@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T07:00:33.492260+00:00",
+  "generated_at": "2026-08-14T07:38:50.989609+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 234,
+  "count": 235,
   "cases": [
     {
       "id": 334,
@@ -62397,6 +62397,273 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152506/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/152506/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 155449,
+      "idFormatted": "UP155449",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-02-17T13:44:11.79",
+      "modifiedDateTime": "2026-02-17T15:09:24.393",
+      "caseIdentification": {
+        "id": 52556,
+        "caseNumber": "F06-40760"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73057,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedYearOfDeathFrom": 1969,
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78567,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1969-10-27",
+        "address": {
+          "city": "Northumberland",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2358,
+            "name": "Northumberland County",
+            "displayName": "Northumberland"
+          },
+          "countyId": 0,
+          "zipCode": "17857"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The owner of a farm discovered the remains in a field on his property while he was hunting. The body, which was badly decomposed, had a pair of men's grey work pants wrapped around the legs. There were no shoes or other articles of clothing found on or near the body. The decedent did not possess any form of identification.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.8917519,
+            "lon": -76.7974653
+          },
+          "formattedAddress": "Northumberland, PA 17857, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55402,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58439,
+          "identityId": 49215,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Men's grey work pants",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47649,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52243,
+          "isCaseOwner": false,
+          "name": "Pennsylvania State Police",
+          "city": "Milton",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2358,
+            "name": "Northumberland County",
+            "localizedName": "Northumberland"
+          },
+          "countyDisplayName": "Northumberland",
+          "selection": {
+            "id": 62843,
+            "contact": {
+              "id": 155086,
+              "firstName": "Brian",
+              "lastName": "Watkins",
+              "jobTitle": "Trooper",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 65959,
+              "name": "Pennsylvania State Police",
+              "street1": "50 Lawton Lane",
+              "city": "Milton",
+              "county": {
+                "id": 2358,
+                "name": "Northumberland County",
+                "localizedName": "Northumberland"
+              },
+              "zipCode": "17847",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "5705242662",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "F06-40760",
+          "dateReported": "1969-10-29"
+        },
+        {
+          "id": 52244,
+          "isCaseOwner": false,
+          "name": "Northumberland County Coroners Office",
+          "city": "Sunbury",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2358,
+            "name": "Northumberland County",
+            "localizedName": "Northumberland"
+          },
+          "countyDisplayName": "Northumberland",
+          "selection": {
+            "id": 62844,
+            "agency": {
+              "id": 30190,
+              "name": "Northumberland County Coroners Office",
+              "street1": "609 Market Street",
+              "city": "Sunbury",
+              "county": {
+                "id": 2358,
+                "name": "Northumberland County",
+                "localizedName": "Northumberland"
+              },
+              "zipCode": "17801",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "5709884323",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "F06-40760"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25467,
+        "investigatingAgencyIdentityId": 52244
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155449/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155449/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }
