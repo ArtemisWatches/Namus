@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T07:38:36.365057+00:00",
+  "generated_at": "2026-08-15T06:44:24.408031+00:00",
   "case_type": "MissingPersons",
   "decade": "1970s",
-  "count": 1277,
+  "count": 1278,
   "cases": [
     {
       "id": 1,
@@ -372795,6 +372795,309 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/157467/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oklahoma"
+    },
+    {
+      "id": 157779,
+      "idFormatted": "MP157779",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-20T20:54:33.51",
+      "modifiedDateTime": "2026-05-11T18:29:56.867",
+      "subjectIdentification": {
+        "id": 260979,
+        "firstName": "Albert",
+        "middleName": "Vernon",
+        "lastName": "Kling",
+        "currentMinAge": 103,
+        "currentMaxAge": 103,
+        "computedMissingMinAge": 55,
+        "computedMissingMaxAge": 55
+      },
+      "subjectDescription": {
+        "id": 230881,
+        "heightFrom": 66,
+        "weightFrom": 170,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 274588,
+        "circumstancesOfDisappearance": "Albert resided in La Vista, NE, but was staying at his daughters house in Fort Calhoun, NE when he was reported missing. The report taken by Washington County Sheriff's Office on 03JULY1979 indicates that Albert may have been upset at the time of his disappearance, and family additionally reported that he may have hitchhiked from Fort Calhoun to Omaha to purchase alcohol and visit a previous significant other."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 135200,
+          "identityId": 123202,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Wore a Timex expansion bracelet watch, brown plastic frame glasses, and was carrying a small pocket knife, keys on a ring as well as 2 single keys, and a black billfold."
+        },
+        {
+          "id": 135199,
+          "identityId": 123201,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Last seen wearing a white shirt, green uniform pants, a tie and brown shoes."
+        }
+      ],
+      "sighting": {
+        "id": 323400,
+        "date": "1979-07-03",
+        "address": {
+          "city": "Fort Calhoun",
+          "state": {
+            "id": 14,
+            "name": "Nebraska",
+            "displayName": "NE"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1804,
+            "name": "Washington County",
+            "displayName": "Washington"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.4558282,
+            "lon": -96.0264024
+          },
+          "formattedAddress": "Fort Calhoun, NE 68023, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 191741,
+          "isCaseOwner": false,
+          "name": "Nebraska State Patrol",
+          "city": "Omaha",
+          "state": {
+            "id": 14,
+            "name": "Nebraska",
+            "localizedName": "NE"
+          },
+          "stateDisplayName": "NE",
+          "county": {
+            "id": 1743,
+            "name": "Douglas County",
+            "localizedName": "Douglas"
+          },
+          "countyDisplayName": "Douglas",
+          "selection": {
+            "id": 222503,
+            "agency": {
+              "id": 81114,
+              "name": "Nebraska State Patrol",
+              "street1": "7200 World Communications Drive",
+              "city": "Omaha",
+              "county": {
+                "id": 1743,
+                "name": "Douglas County",
+                "localizedName": "Douglas"
+              },
+              "zipCode": "68122",
+              "state": {
+                "id": 14,
+                "name": "Nebraska",
+                "localizedName": "NE"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://statepatrol.nebraska.gov/"
+            }
+          },
+          "caseNumber": "NSP24042134",
+          "dateReported": "2024-11-05"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 81114,
+        "isCaseOwner": false,
+        "name": "Nebraska State Patrol"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 123556,
+        "investigatingAgencyIdentityId": 191741
+      },
+      "physicalDescription": {
+        "id": 225032,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 255494,
+          "identityId": 238997,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-29T19:31:15.043",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 177,
+              "width": 210,
+              "storageKey": "215ff557f1f346a280b15ec4eab5939f",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238997/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 101,
+              "width": 120,
+              "storageKey": "37dfe7718f8d46c9ab79aec1f5061ab1",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238997/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238997/Download"
+        },
+        {
+          "id": 255788,
+          "identityId": 239249,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-05-11T17:34:48.613",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1400,
+              "width": 646,
+              "storageKey": "6e650fb3402a46ae998d84066d47a632",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/239249/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 55,
+              "storageKey": "3f8c2263402f4565aada1d20305dbb60",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/239249/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/239249/Download"
+        },
+        {
+          "id": 255495,
+          "identityId": 238998,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 15,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 150
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-29T19:31:41.76",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 594,
+              "width": 920,
+              "storageKey": "3f4242dae6a14167970b9aae5bb881ea",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238998/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 77,
+              "width": 120,
+              "storageKey": "52da350e0b4f4c2480523cd4390aad62",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238998/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/238998/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 132114,
+        "defaultImageIdentityId": 238997
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/157779/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nebraska"
     }
   ]
 }
