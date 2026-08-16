@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T07:41:02.904102+00:00",
+  "generated_at": "2026-08-16T06:46:42.349612+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1027,
+  "count": 1029,
   "cases": [
     {
       "id": 103,
@@ -294633,6 +294633,1063 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155197/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155197/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Missouri"
+    },
+    {
+      "id": 156494,
+      "idFormatted": "UP156494",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-03-12T16:58:29.007",
+      "modifiedDateTime": "2026-04-21T22:39:06.89",
+      "caseIdentification": {
+        "id": 52673,
+        "caseNumber": "A26-069"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73260,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78815,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1972-10-15",
+        "address": {
+          "city": "Litchfield",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "displayName": "NH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1831,
+            "name": "Hillsborough County",
+            "displayName": "Hillsborough"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains were discovered on the bank of the Merrimack River in north Litchfield by a hunter.  Safety glasses, Corbin key, belt, a pocket watch, size 8-8.5 men's shoes, and rubber over shoes were located with the remains.  The Corbin key and pocket watch were both manufactured in Connecticut (New Britain and Bristol respectively).",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.84425359999999,
+            "lon": -71.4797889
+          },
+          "formattedAddress": "Litchfield, NH 03052, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55530,
+        "headNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47771,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 133886,
+          "identityId": 120829,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:02.22",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "21a01cd8cd884d57997f0c624ef6f48b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120829/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "017557c3b19e4598a60ed053b6e84394",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120829/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120829/Download"
+        },
+        {
+          "id": 133895,
+          "identityId": 120838,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "gloves, button",
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:26.033",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "73f1cd14381146f289f31530a2b97cf4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120838/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "ad060aa9d5fe4f81b71957efa5bce664",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120838/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120838/Download"
+        },
+        {
+          "id": 133896,
+          "identityId": 120839,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "gloves",
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:28.877",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "037d2934b7ce4e2fa2fa124427daf4dc",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120839/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "11c6a2941de44ac5b3523c8b92e784d6",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120839/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120839/Download"
+        },
+        {
+          "id": 133897,
+          "identityId": 120840,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "gloves",
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:31.47",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "c83ef198cbcf4c34a91cc781d488ed89",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120840/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "4b6158fc8a1d464fa92795140ebafe9c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120840/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120840/Download"
+        },
+        {
+          "id": 133879,
+          "identityId": 120822,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:42.827",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "11cbbe2bcf5d42d0b7e906c10d938752",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120822/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "729f019ca128494cbafe29530e959d49",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120822/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120822/Download"
+        },
+        {
+          "id": 133880,
+          "identityId": 120823,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:45.797",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "5365a881f2f948e3827d868b99662a42",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120823/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "6414588ab55745efb73f2cdaa231dd33",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120823/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120823/Download"
+        },
+        {
+          "id": 133881,
+          "identityId": 120824,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:48.377",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "c52f500df3ee4e33b881a9536812ec13",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120824/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "cbf5d496493b43aa86ec3c9b0543d201",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120824/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120824/Download"
+        },
+        {
+          "id": 133882,
+          "identityId": 120825,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:51.017",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "ff4a832e43534ddcbbdfaa1c29449961",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120825/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "577996c1dbdf47ad99efed7f0aa9224f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120825/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120825/Download"
+        },
+        {
+          "id": 133883,
+          "identityId": 120826,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:53.72",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "008a75e6c2a649e1963b09ecaed36404",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120826/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "ed58e938e32248c694d2295909e9f97e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120826/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120826/Download"
+        },
+        {
+          "id": 133884,
+          "identityId": 120827,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:56.25",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "7ac78534bedc47fe9ecb87a87405b8be",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120827/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0e9fc35bab1c4bd49d9c43b911799633",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120827/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120827/Download"
+        },
+        {
+          "id": 133885,
+          "identityId": 120828,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:26:59.063",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "7ab165bd87b54b6bb2d81fad811ab33e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120828/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "51431bcc9c4f4ab19fe6c2aacef03a4c",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120828/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120828/Download"
+        },
+        {
+          "id": 133887,
+          "identityId": 120830,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:04.827",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "0747e4b95b0948c786d7f8e94472712a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120830/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "1ec4e0c82c7c49619490001b3eef6773",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120830/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120830/Download"
+        },
+        {
+          "id": 133888,
+          "identityId": 120831,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:07.437",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "8c3b36783fc846cd8f061acc19585095",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120831/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "7b5ae5602d47484d8546436b5ee8a95d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120831/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120831/Download"
+        },
+        {
+          "id": 133889,
+          "identityId": 120832,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:10.077",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "4223aabd739345a4afc0115e5822eb4b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120832/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "a581b929fc4e4df4b23f159e598782a3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120832/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120832/Download"
+        },
+        {
+          "id": 133890,
+          "identityId": 120833,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:12.72",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "d7d022108106411ea747e2f7d893acfd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120833/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "0e382e83162449339affdd6503096674",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120833/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120833/Download"
+        },
+        {
+          "id": 133892,
+          "identityId": 120835,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:17.843",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "aa413fc18e2040f893aa386fe7c9e388",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120835/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "6146b1c4a4fb42eb80fd64e0242e2161",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120835/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120835/Download"
+        },
+        {
+          "id": 133893,
+          "identityId": 120836,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:20.517",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "aaf9e48b644147aa80ce7551894eb619",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120836/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "fc4088bfeed4432f805409b5c79254b7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120836/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120836/Download"
+        },
+        {
+          "id": 133891,
+          "identityId": 120834,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "glasses and key",
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:15.157",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "1a1a46b0413b4ebf988db6b339f9437f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120834/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "e1ef3e311323480ca5afc00aab9ecd28",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120834/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120834/Download"
+        },
+        {
+          "id": 133894,
+          "identityId": 120837,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "glasses and key",
+          "isPublic": true,
+          "createdDateTime": "2026-04-21T16:27:23.14",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 3000,
+              "width": 4000,
+              "storageKey": "d749c824eb934070820f9edeee0b48e9",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120837/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 90,
+              "width": 120,
+              "storageKey": "5f2e88c9c9c04f3bb0138f27542dc1d5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120837/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/120837/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26591,
+        "defaultImageIdentityId": 120834
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52414,
+          "isCaseOwner": false,
+          "name": "New Hampshire Office of Chief Medical Examiner",
+          "city": "Concord",
+          "state": {
+            "id": 27,
+            "name": "New Hampshire",
+            "localizedName": "NH"
+          },
+          "stateDisplayName": "NH",
+          "county": {
+            "id": 1832,
+            "name": "Merrimack County",
+            "localizedName": "Merrimack"
+          },
+          "countyDisplayName": "Merrimack",
+          "selection": {
+            "id": 63266,
+            "agency": {
+              "id": 21730,
+              "name": "New Hampshire Office of Chief Medical Examiner",
+              "street1": "246 Pleasant Street",
+              "street2": "Ste 218",
+              "city": "Concord",
+              "county": {
+                "id": 1832,
+                "name": "Merrimack County",
+                "localizedName": "Merrimack"
+              },
+              "zipCode": "03301",
+              "state": {
+                "id": 27,
+                "name": "New Hampshire",
+                "localizedName": "NH"
+              },
+              "phone": "6032711235",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "A26-069"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25613,
+        "investigatingAgencyIdentityId": 52414
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156494/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20Hampshire"
+    },
+    {
+      "id": 156638,
+      "idFormatted": "UP156638",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-03-17T20:37:48.527",
+      "modifiedDateTime": "2026-03-18T12:06:44.28",
+      "caseIdentification": {
+        "id": 52680,
+        "caseNumber": "1973-0447"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73280,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 8,
+          "name": "Adult - Pre 20",
+          "localizedName": "Adult - Pre 20"
+        },
+        "heightFrom": 54,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 89,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 78851,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1973-08-19",
+        "address": {
+          "city": "Fort Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "displayName": "Broward"
+          },
+          "countyId": 0,
+          "zipCode": "33324"
+        },
+        "description": "Nognill Road & SR 84",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Body found in a canal.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 26.1076663,
+            "lon": -80.2711588
+          },
+          "formattedAddress": "Davie, FL 33324, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55542,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58600,
+          "identityId": 49327,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "\"Give a Damn\" underwear",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58601,
+          "identityId": 49328,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "White clogs",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47782,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52433,
+          "isCaseOwner": false,
+          "name": "Broward County Sheriff's Office",
+          "city": "Fort Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "localizedName": "Broward"
+          },
+          "countyDisplayName": "Broward",
+          "selection": {
+            "id": 63195,
+            "agency": {
+              "id": 44146,
+              "name": "Broward County Sheriff's Office",
+              "street1": "2601 W Broward Blvd",
+              "city": "Fort Lauderdale",
+              "county": {
+                "id": 386,
+                "name": "Broward County",
+                "localizedName": "Broward"
+              },
+              "zipCode": "33312",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9543214735",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sheriff.org/Pages/Home.aspx"
+            }
+          }
+        },
+        {
+          "id": 52438,
+          "isCaseOwner": false,
+          "name": "District 17  Medical Examiners Office - Broward County",
+          "city": "Ft Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "localizedName": "Broward"
+          },
+          "countyDisplayName": "Broward",
+          "selection": {
+            "id": 63201,
+            "agency": {
+              "id": 5467,
+              "name": "District 17  Medical Examiners Office - Broward County",
+              "street1": "5301 SW 31st Avenue",
+              "city": "Ft Lauderdale",
+              "county": {
+                "id": 386,
+                "name": "Broward County",
+                "localizedName": "Broward"
+              },
+              "zipCode": "33312",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9543575200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "1973-0447"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25637,
+        "investigatingAgencyIdentityId": 52438
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156638/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156638/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T07:38:50.989609+00:00",
+  "generated_at": "2026-08-16T06:46:42.349612+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 235,
+  "count": 236,
   "cases": [
     {
       "id": 334,
@@ -62664,6 +62664,200 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155449/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/155449/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 156390,
+      "idFormatted": "UP156390",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-03-10T17:24:21.937",
+      "modifiedDateTime": "2026-04-28T11:52:38.58",
+      "caseIdentification": {
+        "id": 52655,
+        "caseNumber": "F2025.14"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73231,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 40,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 78832,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1963-10-23",
+        "address": {
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3185,
+            "name": "Winnebago County",
+            "displayName": "Winnebago"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The exact location of recovery is unknown, but is believed to be recovered from a body of water.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 44.0126679,
+            "lon": -88.7108964
+          },
+          "formattedAddress": "Winnebago County, WI, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55509,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47755,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52399,
+          "isCaseOwner": false,
+          "name": "Winnebago County Medical Examiners Office",
+          "city": "Oshkosh",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3185,
+            "name": "Winnebago County",
+            "localizedName": "Winnebago"
+          },
+          "countyDisplayName": "Winnebago",
+          "selection": {
+            "id": 63130,
+            "agency": {
+              "id": 39515,
+              "name": "Winnebago County Medical Examiners Office",
+              "street1": "112 Otter Avenue",
+              "city": "Oshkosh",
+              "county": {
+                "id": 3185,
+                "name": "Winnebago County",
+                "localizedName": "Winnebago"
+              },
+              "zipCode": "54901",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "9202323300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "F2025.14",
+          "dateReported": "1963-10-23"
+        }
+      ],
+      "caseContributors": [],
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156390/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156390/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
     }
   ]
 }
