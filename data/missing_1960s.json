@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T07:40:50.959961+00:00",
+  "generated_at": "2026-08-18T06:50:57.972579+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 271,
+  "count": 272,
   "cases": [
     {
       "id": 498,
@@ -79103,6 +79103,245 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/156654/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 159077,
+      "idFormatted": "MP159077",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-05-29T16:53:07.527",
+      "modifiedDateTime": "2026-07-17T22:50:57.55",
+      "subjectIdentification": {
+        "id": 263532,
+        "firstName": "Constance",
+        "middleName": "Mae",
+        "lastName": "Wallace",
+        "currentMinAge": 107,
+        "currentMaxAge": 107,
+        "computedMissingMinAge": 42,
+        "computedMissingMaxAge": 42
+      },
+      "subjectDescription": {
+        "id": 233349,
+        "heightFrom": 61,
+        "heightTo": 62,
+        "weightFrom": 120,
+        "weightTo": 122,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 277381,
+        "circumstancesOfDisappearance": "Mrs. Wallace left her home leaving a letter behind, vehicle was later located on the PCH with her purse, ID and credit cards in them. No sign of missing person"
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 138907,
+          "identityId": 125713,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Was last seen wearing black capris, white pullover sweater, black cardigan sweater"
+        }
+      ],
+      "sighting": {
+        "id": 327625,
+        "date": "1961-12-02",
+        "address": {
+          "city": "Camarillo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 302,
+            "name": "Ventura County",
+            "displayName": "Ventura"
+          },
+          "countyId": 0,
+          "zipCode": "93010"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.2330908,
+            "lon": -119.0809012
+          },
+          "formattedAddress": "Camarillo, CA 93010, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 195605,
+          "isCaseOwner": false,
+          "name": "Ventura County Sheriff's Office-Major Crimes Investigations",
+          "city": "Camarillo",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 302,
+            "name": "Ventura County",
+            "localizedName": "Ventura"
+          },
+          "countyDisplayName": "Ventura",
+          "selection": {
+            "id": 227784,
+            "contact": {
+              "id": 350287,
+              "firstName": "Araseli",
+              "lastName": "Ruiz-Acevedo",
+              "jobTitle": "Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43367,
+              "name": "Ventura County Sheriff's Office-Major Crimes Investigations",
+              "street1": "5177 Camino Ruiz",
+              "city": "Camarillo",
+              "county": {
+                "id": 302,
+                "name": "Ventura County",
+                "localizedName": "Ventura"
+              },
+              "zipCode": "93012",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8053838704",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.venturasheriff.org/"
+            }
+          },
+          "caseNumber": "26-68143",
+          "dateReported": "1961-12-03"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43367,
+        "isCaseOwner": false,
+        "name": "Ventura County Sheriff's Office-Major Crimes Investigations"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 127298,
+        "investigatingAgencyIdentityId": 195605
+      },
+      "physicalDescription": {
+        "id": 228020,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 258490,
+          "identityId": 241839,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Constance Mae Wallace",
+          "isPublic": true,
+          "createdDateTime": "2026-06-03T22:19:51.973",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 936,
+              "width": 832,
+              "storageKey": "9cbff589c45a4e35b27542acc7632d33",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/241839/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 107,
+              "storageKey": "892279da1a724485831e9d5fc8bcaace",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/241839/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/241839/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 134576,
+        "defaultImageIdentityId": 241839
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

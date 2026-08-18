@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T08:37:21.223005+00:00",
+  "generated_at": "2026-08-18T06:51:13.440685+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1940s",
-  "count": 29,
+  "count": 32,
   "cases": [
     {
       "id": 12778,
@@ -6973,6 +6973,677 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/144916/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Missouri"
+    },
+    {
+      "id": 157231,
+      "idFormatted": "UP157231",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-04T22:01:57.377",
+      "modifiedDateTime": "2026-04-06T22:58:05.29",
+      "caseIdentification": {
+        "id": 52745,
+        "caseNumber": "1949-06930"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73424,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 68,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79013,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1949-08-05",
+        "address": {
+          "city": "Blythe",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Approx. 40 mi. s/w of Blythe",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 08/05/1949, two men searching for their cattle came across the remains of John Doe #1 (1949-06930) and John Doe #2 (1949-06929) who were found under foliage, next to a wash, about 40 miles s/w of Blythe. They reported the death and the local mortuary responded to the scene with RSO Deputy Everheart.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6177725,
+            "lon": -114.5882607
+          },
+          "formattedAddress": "Blythe, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55625,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58809,
+          "identityId": 49455,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing dark brown pants with white pin stripes. New clothing near his remains consisted of a new pair of \"sun-tans S2-31\" and a size small black and light green plaid jacket from JC Penney's. )",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47849,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17738,
+          "identityId": 14877,
+          "physicalFeature": {
+            "id": 7,
+            "name": "Tattoo",
+            "localizedName": "Tattoo",
+            "ordinal": 7
+          },
+          "description": "He had a tattoo on the inside of his left upper arm of a heart with arrow passing through it."
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52537,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63495,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1949-06930"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25718,
+        "investigatingAgencyIdentityId": 52537
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157231/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157231/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 157232,
+      "idFormatted": "UP157232",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-04T22:12:54.713",
+      "modifiedDateTime": "2026-04-06T21:02:36.277",
+      "caseIdentification": {
+        "id": 52746,
+        "caseNumber": "1949-02629"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73425,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 165,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79015,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1949-08-05",
+        "address": {
+          "city": "Blythe",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Approx. 40 mi. s/w of Blythe",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 08/05/1949, two men searching for their cattle came across the remains of John Doe #1 (1949-06930) and John Doe #2 (1949-06929) who were found under foliage, next to a wash, about 40 miles s/w of Blythe. They reported the death and the local mortuary responded to the scene with RSO Deputy Everheart.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6177725,
+            "lon": -114.5882607
+          },
+          "formattedAddress": "Blythe, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55626,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58799,
+          "identityId": 49457,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "The decedent had a wallet containing $27.40 US currency, Mexican currency and papers with Ignacio Meza's address.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58808,
+          "identityId": 49456,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing a brown belt, shirt, blue jeans. New clothing nearby consisted of a new pair of \"sun-tans S2-31\" and a size small black and light green plaid jacket from JC Penney's.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47851,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Wavy",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52538,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63511,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1949-02629"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25720,
+        "investigatingAgencyIdentityId": 52538
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157232/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157232/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 157234,
+      "idFormatted": "UP157234",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-04T22:45:05.777",
+      "modifiedDateTime": "2026-04-06T23:06:54.563",
+      "caseIdentification": {
+        "id": 52747,
+        "caseNumber": "1949-06930"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73426,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 66,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79035,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1949-08-15",
+        "address": {
+          "city": "Blythe",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "39 mi. south and west of Blythe",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 08/15/1949, at 1400 hours, BP was ctraveling from Nilan to Blythe on the old dirt road through Wileys Well, when they found the decedent's remains, approximately 80 feet s/o the road near a small shrub. RSO Deputy Humber, Nels Larsen and the Coroner were notified. The decedent was viewed supine on against a bush. There was apparent animal predation. There were no camp type supplies. His estimated down time was one week.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.6177725,
+            "lon": -114.5882607
+          },
+          "formattedAddress": "Blythe, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55627,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58802,
+          "identityId": 49459,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Handkerchief, black comb, and $5 bill, four dimes, a nickel and five pennies.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58801,
+          "identityId": 49458,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Clothing: He was wearing brown work shoes (small size), light shirt with pearl buttons, suntan trousers with a brown figured belt and a brass-colored belt buckle with a large square of pearl on the face of the buckle.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47852,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17739,
+          "identityId": 14878,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "His fingernails were long. He had no \"extractions of his teeth\" and had  a possible overbite"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52539,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63498,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1949-06941"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25721,
+        "investigatingAgencyIdentityId": 52539
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157234/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157234/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

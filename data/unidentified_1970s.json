@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T06:46:42.349612+00:00",
+  "generated_at": "2026-08-18T06:51:13.440685+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1029,
+  "count": 1031,
   "cases": [
     {
       "id": 103,
@@ -295689,6 +295689,741 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156638/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156638/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 157514,
+      "idFormatted": "UP157514",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-13T16:03:27.207",
+      "modifiedDateTime": "2026-05-21T12:09:35.46",
+      "caseIdentification": {
+        "id": 52774,
+        "caseNumber": "2026007777"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73471,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79243,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1974-03-27",
+        "address": {
+          "city": "Sioux City",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "displayName": "IA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 947,
+            "name": "Woodbury County",
+            "displayName": "Woodbury"
+          },
+          "countyId": 0,
+          "zipCode": "51103"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The body, which was a full-term Caucasian male with umbilical cord attached and afterbirth present, was found wrapped in a bloody sheet on a hillside at South Leonard Street and Riverview Boulevard, Sioux City, IA.  The death was ruled a homicide with exposure as the cause: “After performing an autopsy, the medical examiner said there was evidence the baby – a boy – had been healthy and that his lungs had functioned.”",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.5171387,
+            "lon": -96.4396888
+          },
+          "formattedAddress": "Sioux City, IA 51103, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55650,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47881,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [
+        {
+          "id": 26099,
+          "identityId": 24738,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "1974 News articles",
+          "isPublic": true,
+          "createdDateTime": "2026-04-13T16:14:20.047",
+          "file": {
+            "mimeType": "application/pdf",
+            "fileName": "Aggregated media reporting 1974",
+            "fileExtension": "pdf",
+            "storageKey": "3e914aabf5894933bd2a69f2d0421ddd",
+            "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157514/Documents/24738"
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157514/Documents/24738/Download"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 52570,
+          "isCaseOwner": false,
+          "name": "Iowa Office of the State Medical Examiner",
+          "city": "Ankeny",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "localizedName": "Polk"
+          },
+          "countyDisplayName": "Polk",
+          "selection": {
+            "id": 63707,
+            "agency": {
+              "id": 48775,
+              "name": "Iowa Office of the State Medical Examiner",
+              "street1": "2250 South Ankeny Boulevard",
+              "city": "Ankeny",
+              "county": {
+                "id": 927,
+                "name": "Polk County",
+                "localizedName": "Polk"
+              },
+              "zipCode": "50023",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "phone": "5157251400",
+              "email": "iosme@idph.iowa.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://iosme.iowa.gov/"
+            }
+          },
+          "caseNumber": "2026007777"
+        },
+        {
+          "id": 52571,
+          "isCaseOwner": false,
+          "name": "Office of the Attorney General - Cold Case Unit",
+          "city": "Des Moines",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "localizedName": "Polk"
+          },
+          "countyDisplayName": "Polk",
+          "selection": {
+            "id": 63547,
+            "agency": {
+              "id": 81107,
+              "name": "Office of the Attorney General - Cold Case Unit",
+              "street1": "1305 East Walnut Street",
+              "city": "Des Moines",
+              "county": {
+                "id": 927,
+                "name": "Polk County",
+                "localizedName": "Polk"
+              },
+              "zipCode": "50319",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 52572,
+          "isCaseOwner": false,
+          "name": "Iowa Division of Criminal Investigation",
+          "city": "Des Moines",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "localizedName": "Polk"
+          },
+          "countyDisplayName": "Polk",
+          "selection": {
+            "id": 63549,
+            "agency": {
+              "id": 80760,
+              "name": "Iowa Division of Criminal Investigation",
+              "street1": "215 East 7th Street",
+              "city": "Des Moines",
+              "county": {
+                "id": 927,
+                "name": "Polk County",
+                "localizedName": "Polk"
+              },
+              "zipCode": "50319",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "phone": "5157256036",
+              "email": "hedges@dps.state.ia.us",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "dps.iowa.gov"
+            }
+          },
+          "caseNumber": "2026007777"
+        },
+        {
+          "id": 52573,
+          "isCaseOwner": false,
+          "name": "Iowa DCI Criminalistics Laboratory",
+          "city": "Ankeny",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "localizedName": "Polk"
+          },
+          "countyDisplayName": "Polk",
+          "selection": {
+            "id": 63548,
+            "agency": {
+              "id": 48148,
+              "name": "Iowa DCI Criminalistics Laboratory",
+              "street1": "2240 South Ankeny Boulevard",
+              "city": "Ankeny",
+              "county": {
+                "id": 927,
+                "name": "Polk County",
+                "localizedName": "Polk"
+              },
+              "zipCode": "50023",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "phone": "5155597093",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "2026007777"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25740,
+        "investigatingAgencyIdentityId": 52573
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157514/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157514/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Iowa"
+    },
+    {
+      "id": 157560,
+      "idFormatted": "UP157560",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-14T17:32:35.073",
+      "modifiedDateTime": "2026-04-20T18:45:05.583",
+      "caseIdentification": {
+        "id": 52783,
+        "caseNumber": "1973-0262"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73493,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "estimatedAgeFrom": 20,
+        "estimatedAgeTo": 25,
+        "estimatedYearOfDeathFrom": 1973,
+        "estimatedYearOfBirthFrom": 1948,
+        "estimatedYearOfBirthTo": 1953,
+        "heightFrom": 62,
+        "heightTo": 64,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 110,
+        "weightTo": 120,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79110,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1973-05-18",
+        "address": {
+          "city": "Fort Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "displayName": "FL"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "displayName": "Broward"
+          },
+          "countyId": 0,
+          "zipCode": "33312"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Unidentified decedent discovered deceased in a rock pit.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 26.1224386,
+            "lon": -80.13731740000001
+          },
+          "formattedAddress": "Fort Lauderdale, FL, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55663,
+        "allPartsRecovered": true,
+        "headNotRecovered": false,
+        "handsNotRecovered": false,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58850,
+          "identityId": 49488,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue jersey type blouse, blue diamond design and white outline skirt with four gold buttons-markers label (Show Ups brand, size 12) with blue leather laced belt and white bra (34B).",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58847,
+          "identityId": 49487,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Brown sandal (size 6 1/2 B)",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58849,
+          "identityId": 49489,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "White metal ring (size 6 1/2) on 3rd finger of left hand. Ring had an inscription inside on the bottom \"Loveland 14K\".",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47895,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 29158,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 133792,
+          "identityId": 120736,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "Ring",
+          "isPublic": true,
+          "createdDateTime": "2026-04-15T14:39:37.563",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1650,
+              "width": 1275,
+              "storageKey": "fb9cf4c9f5714717bfc5555c5e61b710",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120736/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "896d7c48070143bb9610d99bbbb9c22b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120736/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120736/Download"
+        },
+        {
+          "id": 133794,
+          "identityId": 120738,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 20,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 200
+          },
+          "caption": "Ring",
+          "isPublic": true,
+          "createdDateTime": "2026-04-15T15:55:29.607",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 494,
+              "width": 431,
+              "storageKey": "b3c31d467fc74e5fa43a4fa78c59dd9f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120738/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 105,
+              "storageKey": "21c0442d1b364f39b8a0f38ec2a285d3",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120738/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/120738/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26569,
+        "defaultImageIdentityId": 120738
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52583,
+          "isCaseOwner": false,
+          "name": "District 17  Medical Examiners Office - Broward County",
+          "city": "Ft Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "localizedName": "Broward"
+          },
+          "countyDisplayName": "Broward",
+          "selection": {
+            "id": 63562,
+            "agency": {
+              "id": 5467,
+              "name": "District 17  Medical Examiners Office - Broward County",
+              "street1": "5301 SW 31st Avenue",
+              "city": "Ft Lauderdale",
+              "county": {
+                "id": 386,
+                "name": "Broward County",
+                "localizedName": "Broward"
+              },
+              "zipCode": "33312",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9543575200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "73-262; 262-73"
+        },
+        {
+          "id": 52584,
+          "isCaseOwner": false,
+          "name": "Broward County Sheriff's Office",
+          "city": "Fort Lauderdale",
+          "state": {
+            "id": 52,
+            "name": "Florida",
+            "localizedName": "FL"
+          },
+          "stateDisplayName": "FL",
+          "county": {
+            "id": 386,
+            "name": "Broward County",
+            "localizedName": "Broward"
+          },
+          "countyDisplayName": "Broward",
+          "selection": {
+            "id": 63564,
+            "agency": {
+              "id": 44146,
+              "name": "Broward County Sheriff's Office",
+              "street1": "2601 W Broward Blvd",
+              "city": "Fort Lauderdale",
+              "county": {
+                "id": 386,
+                "name": "Broward County",
+                "localizedName": "Broward"
+              },
+              "zipCode": "33312",
+              "state": {
+                "id": 52,
+                "name": "Florida",
+                "localizedName": "FL"
+              },
+              "phone": "9543214735",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sheriff.org/Pages/Home.aspx"
+            }
+          },
+          "caseNumber": "BS73-05-2302"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25742,
+        "investigatingAgencyIdentityId": 52583
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
     }
   ]

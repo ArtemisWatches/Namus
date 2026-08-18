@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T09:52:11.138228+00:00",
+  "generated_at": "2026-08-18T06:51:13.440685+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1930s",
-  "count": 7,
+  "count": 8,
   "cases": [
     {
       "id": 8366,
@@ -2361,6 +2361,245 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/131512/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/131512/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 157611,
+      "idFormatted": "UP157611",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-15T14:27:21.067",
+      "modifiedDateTime": "2026-05-04T16:20:34.867",
+      "caseIdentification": {
+        "id": 52790,
+        "caseNumber": "JD1935-1"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73496,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 6,
+          "name": "Late Teen/Young Adult",
+          "localizedName": "Late Teen/Young Adult"
+        },
+        "heightFrom": 65,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79304,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1935-11-18",
+        "address": {
+          "city": "Ottumwa",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "displayName": "IA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 940,
+            "name": "Wapello County",
+            "displayName": "Wapello"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On November 18, 1935, the body of an unidentified young man was found near Bear Creek outside Ottumwa, Wapello County, Iowa. The victim was estimated to be 18–20 years old, of slight build, and possibly foreign-born. He was wearing multiple layers of clothing and carrying a harmonica. Several witnesses came forward, but the information appears to contradict itself. Witnesses reported seeing him earlier that day with two unidentified adult men, advised he was known to have been seeking work to fund travel back to Portland, Oregon, and that he had $25 on him.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.01602930000001,
+            "lon": -92.40830220000001
+          },
+          "formattedAddress": "Ottumwa, IA 52501, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55666,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47896,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Hair is noted as being \"dark\"",
+        "leftEyeColor": {
+          "id": 1,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "rightEyeColor": {
+          "id": 1,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "eyeDescription": "Eyes are noted as being \"dark\""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52593,
+          "isCaseOwner": false,
+          "name": "Wapello County Sheriff's Office",
+          "city": "Ottumwa",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 940,
+            "name": "Wapello County",
+            "localizedName": "Wapello"
+          },
+          "countyDisplayName": "Wapello",
+          "selection": {
+            "id": 63575,
+            "agency": {
+              "id": 77211,
+              "name": "Wapello County Sheriff's Office",
+              "street1": "330 West 2nd Street",
+              "city": "Ottumwa",
+              "county": {
+                "id": 940,
+                "name": "Wapello County",
+                "localizedName": "Wapello"
+              },
+              "zipCode": "52501",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "phone": "6416844350",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.wapellocounty.org/sheriff_and_jail/"
+            }
+          }
+        },
+        {
+          "id": 52702,
+          "isCaseOwner": false,
+          "name": "Iowa Office of the State Medical Examiner",
+          "city": "Ankeny",
+          "state": {
+            "id": 8,
+            "name": "Iowa",
+            "localizedName": "IA"
+          },
+          "stateDisplayName": "IA",
+          "county": {
+            "id": 927,
+            "name": "Polk County",
+            "localizedName": "Polk"
+          },
+          "countyDisplayName": "Polk",
+          "selection": {
+            "id": 63756,
+            "agency": {
+              "id": 48775,
+              "name": "Iowa Office of the State Medical Examiner",
+              "street1": "2250 South Ankeny Boulevard",
+              "city": "Ankeny",
+              "county": {
+                "id": 927,
+                "name": "Polk County",
+                "localizedName": "Polk"
+              },
+              "zipCode": "50023",
+              "state": {
+                "id": 8,
+                "name": "Iowa",
+                "localizedName": "IA"
+              },
+              "phone": "5157251400",
+              "email": "iosme@idph.iowa.gov",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://iosme.iowa.gov/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25857,
+        "investigatingAgencyIdentityId": 52702
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157611/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157611/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Iowa"
     }
   ]
 }

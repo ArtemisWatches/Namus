@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T07:49:39.250428+00:00",
+  "generated_at": "2026-08-18T06:51:13.440685+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 148,
+  "count": 149,
   "cases": [
     {
       "id": 2802,
@@ -34717,6 +34717,223 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153605/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/153605/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Indiana"
+    },
+    {
+      "id": 157229,
+      "idFormatted": "UP157229",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-04T18:31:09.297",
+      "modifiedDateTime": "2026-04-06T23:13:00.57",
+      "caseIdentification": {
+        "id": 52744,
+        "caseNumber": "1952-08440"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73423,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 160,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79011,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1952-06-02",
+        "address": {
+          "city": "Indio",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Box Car, Southern Pacific Yards",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 06/02/1952, around 0630 hours, the decedent and three other men he did not know, boarded a box car on a cargo train in Yuma AZ, bound for Indio. The decedent told the other men that he was on his way to Santa Barbara to see his wife. At 1040 hours, the train arrived at Southern Pacific Railroad in Indio. Around 1145 hours, a large load of metal sheeting shifted while the cars were being switched into a siding from Track No. 1, injuring the men and crushing the decedent who were inside the box car. A passerby later saw the men trapped inside and help was immediately summoned. The decedent was pronounced at the at 1205 hours. He had no identification on his person.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7205771,
+            "lon": -116.2155619
+          },
+          "formattedAddress": "Indio, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55624,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58795,
+          "identityId": 49454,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Light blue Levis, light blue jacket, brown shoes, blue socks, white undershirt, orange and white shirt, and a \"GI type\" web belt.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47848,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17737,
+          "identityId": 14876,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "He had 2 small scars on left elbow, a large 3\" long scar on left arm below elbow, and 1 round scar on top pf let wrist"
+        }
+      ],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52536,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63494,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1952-08400"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25722,
+        "investigatingAgencyIdentityId": 52536
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157229/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157229/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
