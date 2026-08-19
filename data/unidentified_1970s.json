@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T06:51:13.440685+00:00",
+  "generated_at": "2026-08-19T06:52:12.654005+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1031,
+  "count": 1032,
   "cases": [
     {
       "id": 103,
@@ -296425,6 +296425,352 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157560/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Florida"
+    },
+    {
+      "id": 158008,
+      "idFormatted": "UP158008",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-26T17:33:15.567",
+      "modifiedDateTime": "2026-06-02T13:42:33.947",
+      "caseIdentification": {
+        "id": 52918,
+        "caseNumber": "1976-00231"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73579,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 35,
+        "estimatedYearOfDeathFrom": 1976,
+        "estimatedYearOfBirthFrom": 1941,
+        "estimatedYearOfBirthTo": 1946,
+        "heightFrom": 63,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 124,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79211,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-01-31",
+        "address": {
+          "city": "Chula Vista",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "91911"
+        },
+        "description": "Open area, .6 mile east of ISR 805, .3 mile south of Otay Valley Rd.",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was found by a motorcycle rider who was riding in the area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.6059744,
+            "lon": -117.0441009
+          },
+          "formattedAddress": "Chula Vista, CA 91911, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55719,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58927,
+          "identityId": 49541,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "The decedent was clad in a black waist-length sweater with multicolored sleeves, a white brassiere, red cord-type slacks with a zipper front and patch pockets. On one of the patch pockets was a small blue patch with an antique car embroidered in the patch. The body was also clad in beige socks, blue-and-white sneakers, and a pair of yellow underpants and a pair of maroon underpants.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58928,
+          "identityId": 49542,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "A white metal ring was on the first finger of the right hand, and a white metal and black ring with colored stones was found on the first finger of the left hand. There was a rawhide type string around the decedent's neck, which contained one white and two green beads.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58929,
+          "identityId": 49543,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "The toenails had been painted with nail polish.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47948,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17770,
+          "identityId": 14899,
+          "physicalFeature": {
+            "id": 5,
+            "name": "Piercing",
+            "localizedName": "Piercing",
+            "ordinal": 5
+          },
+          "description": "pierced ears"
+        }
+      ],
+      "images": [
+        {
+          "id": 134142,
+          "identityId": 121077,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-04-26T18:06:30.797",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 362,
+              "width": 285,
+              "storageKey": "5206fad71c73489db2dc86c1ba85c723",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/121077/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 94,
+              "storageKey": "b03c18776b4e4d88ac5ff8653cd5e721",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/121077/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/121077/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26598,
+        "defaultImageIdentityId": 121077
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52656,
+          "isCaseOwner": false,
+          "name": "San Diego County Sheriff's Department- Crime Laboratory",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 63671,
+            "agency": {
+              "id": 52610,
+              "name": "San Diego County Sheriff's Department- Crime Laboratory",
+              "street1": "5590 Overland Ave",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8582856300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          }
+        },
+        {
+          "id": 52683,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 63723,
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "1976-00231"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25820,
+        "investigatingAgencyIdentityId": 52683
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

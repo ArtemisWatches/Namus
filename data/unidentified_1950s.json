@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T06:51:13.440685+00:00",
+  "generated_at": "2026-08-19T06:52:12.654005+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 149,
+  "count": 151,
   "cases": [
     {
       "id": 2802,
@@ -34933,6 +34933,462 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157229/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157229/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 157723,
+      "idFormatted": "UP157723",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-18T17:23:27.623",
+      "modifiedDateTime": "2026-04-30T00:10:58.957",
+      "caseIdentification": {
+        "id": 52804,
+        "caseNumber": "1955-10442"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73533,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 65,
+        "estimatedAgeTo": 70,
+        "estimatedYearOfDeathFrom": 1955,
+        "estimatedYearOfBirthFrom": 1885,
+        "estimatedYearOfBirthTo": 1890,
+        "estimatedPostmortemInterval": 6,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 4,
+          "name": "Weeks",
+          "localizedName": "Weeks"
+        },
+        "heightFrom": 66,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightTo": 150,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79144,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1955-06-26",
+        "address": {
+          "city": "Palm Springs",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Approx. 150 yards e/o Hwy 111",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 06/26/1955, witnesses who were target shooting, found the decedent was found face down, on a piece of carpet padding (possible bed), in the sand behind a clump of desert willow bushes. PSPD was notified and came to the scene which was 1/4-mile s/o the north city limits of Palm Springs, approx. 150 yards e/o Hwy 111, almost due east from the Angel Springs Trailer Park. (Nearest landmark was power line pole #78979, which was approx. 75 yards N/W).",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.8232286,
+            "lon": -116.5106191
+          },
+          "formattedAddress": "Palm Springs, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55681,
+        "conditionOfRemains": {
+          "id": 6,
+          "name": "Not recognizable - Mummified",
+          "localizedName": "Not recognizable - Mummified"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58877,
+          "identityId": 49508,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "A brown billfold (contained a $5 dollar and $1 dollar bill and several coins), a yellow gold Elgin pocket watch (B.W. Raymond 21 jewel railroad watch, size 16), a pair of horn-rimmed bifocal glasses, a can of Sir Walter Raleigh pipe tobacco, a briar pipe, 2 penny boxes of matches, and a lower denture were noted.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58876,
+          "identityId": 49507,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing a khaki shirt, khaki trousers, and brown oxford shoes (holes on the bottoms of both shoes).",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47914,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52619,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63608,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1955-10442"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25824,
+        "investigatingAgencyIdentityId": 52619
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157723/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157723/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 157735,
+      "idFormatted": "UP157735",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-18T23:02:58.72",
+      "modifiedDateTime": "2026-04-30T00:12:26.083",
+      "caseIdentification": {
+        "id": 52806,
+        "caseNumber": "10491"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73534,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 62,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79147,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1955-07-18",
+        "address": {
+          "city": "Riverside",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Approx. 20 feet e/o main track and approx. 200 feet n/e of Tayler St",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 07/18/1955, a section foreman for Santa Fe Railroad reported that one of his section hands found the decedent under a loading wooden platform Taylor Street and railroad tracks in Arlington. Deputies responded to the scene and found the decedent approx. 20 feet e/o the main track and approx. 200' n/e of Taylor St. The platform was about 25' long and 12' wide. Access to the area could be obtained by crawling through the X framing members which were connected to the heaving piling supports under h flooring of the platform. The decedent was supine with his head on a folded stripe dress coat. Bundles containing trousers, jacket, and cooking equipment were nearby. (Case is entered in CCMS 1955-10491)",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.9825358,
+            "lon": -117.3757665
+          },
+          "formattedAddress": "Riverside, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55683,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58878,
+          "identityId": 49509,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing two sets of clothing. The first layer was a khaki shirt and trousers that had been cut off below the knees. The outer layer were a blue wool shirt with sleeves shortened at the elbow, the outer trousers were blue denim, heavy wool socks, and shoes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 58879,
+          "identityId": 49510,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": ".37 cents and a Catholic medal.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47915,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52620,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 63609,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1955-10491"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25825,
+        "investigatingAgencyIdentityId": 52620
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157735/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157735/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

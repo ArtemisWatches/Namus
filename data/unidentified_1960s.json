@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T06:46:42.349612+00:00",
+  "generated_at": "2026-08-19T06:52:12.654005+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 236,
+  "count": 237,
   "cases": [
     {
       "id": 334,
@@ -62858,6 +62858,203 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156390/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/156390/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 157771,
+      "idFormatted": "UP157771",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-04-20T18:31:33.237",
+      "modifiedDateTime": "2026-05-20T15:38:21.373",
+      "caseIdentification": {
+        "id": 52813,
+        "caseNumber": "1963-002"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73550,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 14,
+          "name": "Adult - Pre 80",
+          "localizedName": "Adult - Pre 80"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 80,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79164,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1963-01-15",
+        "address": {
+          "city": "Susquehanna Township",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2350,
+            "name": "Lycoming County",
+            "displayName": "Lycoming"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Body of an adult male pulled from Susquehanna River.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.2110136,
+            "lon": -77.1312586
+          },
+          "formattedAddress": "Susquehanna Township, PA 17702, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55692,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 47926,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52627,
+          "isCaseOwner": false,
+          "name": "Lycoming County Coroners Office",
+          "city": "Williamsport",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2350,
+            "name": "Lycoming County",
+            "localizedName": "Lycoming"
+          },
+          "countyDisplayName": "Lycoming",
+          "selection": {
+            "id": 63616,
+            "contact": {
+              "id": 6015,
+              "firstName": "Charles",
+              "lastName": "Kiessling",
+              "jobTitle": "Coroner",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29989,
+              "name": "Lycoming County Coroners Office",
+              "street1": "48 West Third Street",
+              "city": "Williamsport",
+              "county": {
+                "id": 2350,
+                "name": "Lycoming County",
+                "localizedName": "Lycoming"
+              },
+              "zipCode": "17701",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "5703272305",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.lycomingcountypa.gov/government/row_officers/government/coronergovernment/row_officers/coroner/index.php"
+            }
+          },
+          "caseNumber": "1963-002"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25771,
+        "investigatingAgencyIdentityId": 52627
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157771/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157771/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }
