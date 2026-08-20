@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T06:52:12.654005+00:00",
+  "generated_at": "2026-08-20T06:53:32.975406+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1032,
+  "count": 1033,
   "cases": [
     {
       "id": 103,
@@ -296770,6 +296770,298 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158008/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 158264,
+      "idFormatted": "UP158264",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-05-03T17:32:53.737",
+      "modifiedDateTime": "2026-05-14T14:17:36.487",
+      "caseIdentification": {
+        "id": 52878,
+        "caseNumber": "1976-01486"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73665,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 158,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79301,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1976-07-18",
+        "address": {
+          "city": "San Ysidro",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92173"
+        },
+        "description": "ISR 5, .1 mile North of ISR 805 overcrossing",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was a pedestrian who was attempting to cross ISR 5 at .1 mile North of IRS 805 overcrossing. As he entered the #1 southbound lanes, he was struck by a private passenger vehicle.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.5497444,
+            "lon": -117.0382158
+          },
+          "formattedAddress": "San Ysidro, CA 92173, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55761,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 58966,
+          "identityId": 49569,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "A pair of brown woolen dress trousers;  a green knit, long sleeved, dress shirt manufactured by Arrow Shirt Company; a white, long sleeved, dress shirt with prints of spirited horses in groups of three; a product of J. C. Penny Company; white knit undershirt; and jockey type shorts manufactured by Paramount, black socks; and oxford type shoes.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 47991,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "facialHairDescription": "sparse mustache",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 134313,
+          "identityId": 121211,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-05-03T17:50:35.883",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 363,
+              "width": 277,
+              "storageKey": "40f5f0cc0f744de69ea671565a3ceece",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/121211/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 92,
+              "storageKey": "36e03454ea2a4d499f7aad5cac887179",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/121211/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/121211/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26631,
+        "defaultImageIdentityId": 121211
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52699,
+          "isCaseOwner": false,
+          "name": "California Highway Patrol",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 63753,
+            "agency": {
+              "id": 58468,
+              "name": "California Highway Patrol",
+              "street1": "5902 Kearny Villa Road",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": false
+            }
+          }
+        },
+        {
+          "id": 52746,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 63838,
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "1976-01486"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25912,
+        "investigatingAgencyIdentityId": 52746
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
