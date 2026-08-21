@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T06:52:12.654005+00:00",
+  "generated_at": "2026-08-21T06:54:34.035280+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 237,
+  "count": 238,
   "cases": [
     {
       "id": 334,
@@ -63054,6 +63054,209 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157771/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157771/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 158775,
+      "idFormatted": "UP158775",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-05-19T16:57:56.333",
+      "modifiedDateTime": "2026-05-27T16:06:13.73",
+      "caseIdentification": {
+        "id": 52942,
+        "caseNumber": "2026-01"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73757,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedYearOfDeathFrom": 1961,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79404,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1961-06-18",
+        "address": {
+          "city": "Bradford",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2351,
+            "name": "McKean County",
+            "displayName": "McKean"
+          },
+          "countyId": 0,
+          "zipCode": "16701"
+        },
+        "description": "Tuna Creek near the Kennedy Street Bridge",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "A baby boy, believed to be about 2 days old, was found floating in Tuna Creek near the Kennedy Street Bridge.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.9564953,
+            "lon": -78.649163
+          },
+          "formattedAddress": "Bradford, PA 16701, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55808,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48037,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52775,
+          "isCaseOwner": false,
+          "name": "McKean County Coroners Office",
+          "city": "Bradford",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2351,
+            "name": "McKean County",
+            "localizedName": "McKean"
+          },
+          "countyDisplayName": "McKean",
+          "selection": {
+            "id": 63883,
+            "contact": {
+              "id": 355955,
+              "firstName": "Michael",
+              "lastName": "Mascho",
+              "jobTitle": "Coroner (as of 5/13/26)",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 30010,
+              "name": "McKean County Coroners Office",
+              "street1": "372 East Main Street",
+              "city": "Bradford",
+              "county": {
+                "id": 2351,
+                "name": "McKean County",
+                "localizedName": "McKean"
+              },
+              "zipCode": "16701",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "8143626643",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.mckeancountypa.org/other_elected_officials/coroner_s_office/index.php"
+            }
+          },
+          "caseNumber": "26-001"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 25943,
+        "investigatingAgencyIdentityId": 52775
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158775/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158775/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
