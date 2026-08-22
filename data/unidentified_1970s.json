@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T06:53:32.975406+00:00",
+  "generated_at": "2026-08-22T06:47:01.402554+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1033,
+  "count": 1034,
   "cases": [
     {
       "id": 103,
@@ -297062,6 +297062,212 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158264/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 159480,
+      "idFormatted": "UP159480",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-06-11T14:45:51.647",
+      "modifiedDateTime": "2026-06-30T16:17:29.763",
+      "caseIdentification": {
+        "id": 53055,
+        "caseNumber": "1973-00187"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73868,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightFrom": 69,
+        "heightTo": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 140,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79535,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1973-05-04",
+        "address": {
+          "city": "Carmel Highlands",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 273,
+            "name": "Monterey County",
+            "displayName": "Monterey"
+          },
+          "countyId": 0,
+          "zipCode": "93923"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Remains found by construction worker working on a project on Mentone road. The remains appeared to have been there for over 9-12 months due to the state of decomposition.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.5041286,
+            "lon": -121.9316213
+          },
+          "formattedAddress": "Carmel Highlands, CA 93923, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55878,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59126,
+          "identityId": 49671,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Wearing pink or tomato red colored small sized shirt \"with label from 909 collection\", orange colored Lee brand pants with 30 waist 28 inseam, green socks, brown shoes with square toe size 7 with buckles.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48097,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52875,
+          "isCaseOwner": false,
+          "name": "Monterey County Sheriff's Office",
+          "city": "Salinas",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 273,
+            "name": "Monterey County",
+            "localizedName": "Monterey"
+          },
+          "countyDisplayName": "Monterey",
+          "selection": {
+            "id": 64243,
+            "agency": {
+              "id": 46115,
+              "name": "Monterey County Sheriff's Office",
+              "street1": "1414 Natividad Road",
+              "city": "Salinas",
+              "county": {
+                "id": 273,
+                "name": "Monterey County",
+                "localizedName": "Monterey"
+              },
+              "zipCode": "93906",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8317553722",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.montereysheriff.org/"
+            }
+          },
+          "caseNumber": "1973-00187"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26036,
+        "investigatingAgencyIdentityId": 52875
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159480/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159480/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
