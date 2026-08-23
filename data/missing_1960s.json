@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T06:50:57.972579+00:00",
+  "generated_at": "2026-08-23T06:48:43.209980+00:00",
   "case_type": "MissingPersons",
   "decade": "1960s",
-  "count": 272,
+  "count": 273,
   "cases": [
     {
       "id": 498,
@@ -79342,6 +79342,258 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/159077/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 161753,
+      "idFormatted": "MP161753",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-08-13T20:49:10.543",
+      "modifiedDateTime": "2026-08-14T15:10:49.467",
+      "subjectIdentification": {
+        "id": 268847,
+        "firstName": "Thomas",
+        "lastName": "Gilbert",
+        "currentMinAge": 95,
+        "currentMaxAge": 95,
+        "computedMissingMinAge": 31,
+        "computedMissingMaxAge": 31
+      },
+      "subjectDescription": {
+        "id": 238305,
+        "heightFrom": 67,
+        "weightFrom": 150,
+        "ethnicities": [
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "American Indian / Alaska Native",
+          "localizedName": "American Indian / Alaska Native"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribalAffiliation": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "tribeAssociations": [
+          {
+            "tribe": {
+              "tribeId": 366,
+              "tribeName": "Native Village of Unga"
+            },
+            "isEnrolled": true
+          }
+        ]
+      },
+      "caseIdentification": {
+        "id": 118969
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 283470,
+        "circumstancesOfDisappearance": "Thomas was last seen at 0300 hours when he went aboard the vessel Trojan in King Cove.  Searches of the area were unsuccessful in locating him."
+      },
+      "notes": [
+        {
+          "id": 139135,
+          "identityId": 125411,
+          "noteType": "Circumstances",
+          "isPublic": true,
+          "description": "https://www.findagrave.com/memorial/168016798/thomas-gilbert"
+        }
+      ],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 334338,
+        "date": "1963-01-24",
+        "address": {
+          "city": "King Cove",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "displayName": "AK"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 124,
+            "name": "Aleutians East Borough",
+            "displayName": "Aleutians East"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 55.0593868,
+            "lon": -162.3130507
+          },
+          "formattedAddress": "King Cove, AK, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 201214,
+          "isCaseOwner": false,
+          "name": "Alaska State Troopers",
+          "city": "Anchorage",
+          "state": {
+            "id": 45,
+            "name": "Alaska",
+            "localizedName": "AK"
+          },
+          "stateDisplayName": "AK",
+          "county": {
+            "id": 126,
+            "name": "Anchorage Borough",
+            "localizedName": "Anchorage"
+          },
+          "countyDisplayName": "Anchorage",
+          "selection": {
+            "id": 234419,
+            "contact": {
+              "id": 21038,
+              "firstName": "Malia",
+              "lastName": "Miller",
+              "jobTitle": "Missing Persons Clearinghouse Manager",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40118,
+              "name": "Alaska State Troopers",
+              "street1": "5700 East Tudor Road",
+              "city": "Anchorage",
+              "county": {
+                "id": 126,
+                "name": "Anchorage Borough",
+                "localizedName": "Anchorage"
+              },
+              "zipCode": "99507",
+              "state": {
+                "id": 45,
+                "name": "Alaska",
+                "localizedName": "AK"
+              },
+              "phone": "9072695511",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "AK26079445",
+          "dateReported": "1963-01-24"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40118,
+        "isCaseOwner": false,
+        "name": "Alaska State Troopers"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 133038,
+        "investigatingAgencyIdentityId": 201214
+      },
+      "physicalDescription": {
+        "id": 232873,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 262730,
+          "identityId": 245745,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-08-13T20:53:24.607",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 354,
+              "width": 282,
+              "storageKey": "f405250466224bc08224257061af1a07",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/245745/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 96,
+              "storageKey": "1fd31cfe95e94aba90ac85721de20221",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/245745/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/245745/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 137573,
+        "defaultImageIdentityId": 245745
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/161753/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alaska"
     }
   ]
 }

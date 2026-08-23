@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T06:47:01.402554+00:00",
+  "generated_at": "2026-08-23T06:48:57.375513+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1034,
+  "count": 1035,
   "cases": [
     {
       "id": 103,
@@ -297269,6 +297269,228 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159480/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159480/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 159511,
+      "idFormatted": "UP159511",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-06-11T21:46:44.2",
+      "modifiedDateTime": "2026-06-16T14:57:10.63",
+      "caseIdentification": {
+        "id": 53064,
+        "caseNumber": "CR-88"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 73873,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightFrom": 69,
+        "heightTo": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 190,
+        "weightTo": 200,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79549,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1971-07-28",
+        "address": {
+          "city": "Verdi",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "displayName": "NV"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "displayName": "Washoe"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Found floating in the Steamboat Ditch located in Verdi NV.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.5183106,
+            "lon": -119.9887669
+          },
+          "formattedAddress": "Verdi, NV, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55884,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59111,
+          "identityId": 49675,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Levi blue jeans and brown western-type boots.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59112,
+          "identityId": 49676,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "A harmonica was located in the pants pocket.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48103,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52884,
+          "isCaseOwner": false,
+          "name": "Washoe County Regional Medical Examiner's Office",
+          "city": "Reno",
+          "state": {
+            "id": 18,
+            "name": "Nevada",
+            "localizedName": "NV"
+          },
+          "stateDisplayName": "NV",
+          "county": {
+            "id": 1824,
+            "name": "Washoe County",
+            "localizedName": "Washoe"
+          },
+          "countyDisplayName": "Washoe",
+          "selection": {
+            "id": 64107,
+            "agency": {
+              "id": 43600,
+              "name": "Washoe County Regional Medical Examiner's Office",
+              "street1": "990 East 9th Street",
+              "city": "Reno",
+              "county": {
+                "id": 1824,
+                "name": "Washoe County",
+                "localizedName": "Washoe"
+              },
+              "zipCode": "89512",
+              "state": {
+                "id": 18,
+                "name": "Nevada",
+                "localizedName": "NV"
+              },
+              "phone": "7757856114",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.washoecounty.us/coroner/index.php"
+            }
+          },
+          "caseNumber": "CR-88",
+          "dateReported": "2026-06-11"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26043,
+        "investigatingAgencyIdentityId": 52884
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159511/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159511/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
     }
   ]
 }
