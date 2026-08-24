@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T06:51:13.440685+00:00",
+  "generated_at": "2026-08-24T07:06:18.578691+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1930s",
-  "count": 8,
+  "count": 10,
   "cases": [
     {
       "id": 8366,
@@ -2600,6 +2600,433 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157611/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/157611/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Iowa"
+    },
+    {
+      "id": 160238,
+      "idFormatted": "UP160238",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-07T16:20:45.04",
+      "modifiedDateTime": "2026-07-13T16:48:28.667",
+      "caseIdentification": {
+        "id": 53182,
+        "caseNumber": "1938-2198"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74034,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79760,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1938-12-11",
+        "address": {
+          "city": "Palm Springs",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Back of Tahquitz Canyon",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On December 11, 1938, at approximately 1:00 p.m., two men arrived at the Palm Springs Police Department (PSPD) and reported discovering partial skeletal remains while hiking on a hillside behind Tahquitz Canyon, approximately two miles southwest of Palm Springs.\n\nThe coroner's office was notified and hiked to the scene on the north slope of the canyon. The remains were located approximately 1,000 feet above the canyon floor and about 100 yards below the summit of a ridge. The decedent was found lying face up in brush at the base of a 30-foot cliff, dressed in men's clothing.\n\nApproximately 50 feet above the remains, on the cliff, investigators found a pair of black Oxford shoes. The shoes were about 15 feet apart. Their broken shoelaces suggested they were a matching pair.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.8232286,
+            "lon": -116.5106191
+          },
+          "formattedAddress": "Palm Springs, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55991,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59168,
+          "identityId": 49706,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "The decedent was wearing a dark double-breasted plaid coat (likely purple) and matching trousers, a blue zippered sweater, a blue or green patterned shirt with shortened sleeves, a purple \"Tye-Neet-Tie\" with tie clasp, black Shod-Rite Oxford shoes (size 7½), blue socks with red and white stripes, white undergarments, elastic suspenders, and a white handkerchief embroidered with the initial \"F.\"\n\nItems found in the clothing included a pill box containing one pill, Gilmore matches, tobacco, and a cork with glass fragments.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48196,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52999,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 64370,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1938-2198"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26168,
+        "investigatingAgencyIdentityId": 52999
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160238/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160238/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 160246,
+      "idFormatted": "UP160246",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-07T19:02:58.67",
+      "modifiedDateTime": "2026-07-13T16:46:20.947",
+      "caseIdentification": {
+        "id": 53183,
+        "caseNumber": "1936-1499"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74041,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Mary",
+        "possibleLastName": "Della",
+        "weightFrom": 115,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79794,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1936-11-27",
+        "address": {
+          "city": "Indio",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Hwy 99",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The unidentified female was found deceased on 11/27/1936 in Indio, CA.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7205771,
+            "lon": -116.2155619
+          },
+          "formattedAddress": "Indio, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55993,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59169,
+          "identityId": 49707,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "She was wearing tan khaki slacks, white cotton short sleeved polo style shirt bearing label \"Palm Isle Sports Wear\" and marked \"large\"; tan oxford medium heel with rubber tipped shoes (they were half-soled and uppers were badly worn inside) with a label in shoe said \"Nelson's\" and were about a size 4; tan silk stockings; a blue and gray suit jacket with a badly worn and raged silk lining (label said \"Swelldom, Los Angeles\")",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59170,
+          "identityId": 49708,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Her clothing was wrapped in paper with the name \"Mary Dilleo, 5137 Templeton, Los Angeles, CA\" on it. Inside the bundle was a small amount of clothing (soiled white polo shirt similar to above mentioned but had no label, badly worn while silk slip, flowered sild dress with a green background with scattered sprays of daisy like flowers (about size 34), cotton knit dress with the lower part all white and upper part of horizontal black, orange and white stripes, and blue denim women's cover-alls) and a post card addressed to \"Frank Dilleo, 5137 Templeton Stree, Los Angeles, CA.\" The postcard is not postmarked or dated and on the opposite side was written in ink the following: \"Dear Frank-sweetheart got a lift from some frinds did me a very kinde dead as they gave me anuf to do what I want as I dont care to go on with out you sweetheart so just wish you lots of luck on love (or lone) is a sweet (word scratched out). Yours as ever Mary.\"  - LAPD went to both addresses. The decedent was not known and \"Frank\" said he did not know her.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48197,
+        "hairColor": {
+          "id": 6,
+          "name": "Red/Auburn",
+          "localizedName": "Red/Auburn"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53002,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 64331,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1936-1499"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26169,
+        "investigatingAgencyIdentityId": 53002
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160246/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160246/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

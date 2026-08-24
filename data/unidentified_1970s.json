@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T06:48:57.375513+00:00",
+  "generated_at": "2026-08-24T07:06:18.578691+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1035,
+  "count": 1036,
   "cases": [
     {
       "id": 103,
@@ -297491,6 +297491,263 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159511/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/159511/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Nevada"
+    },
+    {
+      "id": 160109,
+      "idFormatted": "UP160109",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-01T17:05:15.363",
+      "modifiedDateTime": "2026-07-20T12:26:13.607",
+      "caseIdentification": {
+        "id": 53168,
+        "caseNumber": "T-77-11-1"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74010,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79847,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1977-04-16",
+        "address": {
+          "city": "Cave Springs",
+          "state": {
+            "id": 7,
+            "name": "Arkansas",
+            "displayName": "AR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 175,
+            "name": "Benton County",
+            "displayName": "Benton"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Children found decedent in a wooded area approximately 3 miles southwest of Cave Springs.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.2647805,
+            "lon": -94.2320402
+          },
+          "formattedAddress": "Cave Springs, AR, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 55973,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48179,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 52982,
+          "isCaseOwner": false,
+          "name": "Benton County Sheriff's Office",
+          "city": "Bentonville",
+          "state": {
+            "id": 7,
+            "name": "Arkansas",
+            "localizedName": "AR"
+          },
+          "stateDisplayName": "AR",
+          "county": {
+            "id": 175,
+            "name": "Benton County",
+            "localizedName": "Benton"
+          },
+          "countyDisplayName": "Benton",
+          "selection": {
+            "id": 64290,
+            "contact": {
+              "id": 62004,
+              "firstName": "Hunter",
+              "lastName": "Petray",
+              "jobTitle": "Lieutenant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45767,
+              "name": "Benton County Sheriff's Office",
+              "street1": "1300 SW 14th Street",
+              "city": "Bentonville",
+              "county": {
+                "id": 175,
+                "name": "Benton County",
+                "localizedName": "Benton"
+              },
+              "zipCode": "72712",
+              "state": {
+                "id": 7,
+                "name": "Arkansas",
+                "localizedName": "AR"
+              },
+              "phone": "4792711009",
+              "email": "OfficeofSheriff@BentonCountyAR.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://sheriff.bentoncountyar.gov/"
+            }
+          },
+          "caseNumber": "T-77-11-1",
+          "dateReported": "1977-04-16"
+        },
+        {
+          "id": 52983,
+          "isCaseOwner": false,
+          "name": "Benton County Coroners Office",
+          "city": "Rogers",
+          "state": {
+            "id": 7,
+            "name": "Arkansas",
+            "localizedName": "AR"
+          },
+          "stateDisplayName": "AR",
+          "county": {
+            "id": 175,
+            "name": "Benton County",
+            "localizedName": "Benton"
+          },
+          "countyDisplayName": "Benton",
+          "selection": {
+            "id": 64291,
+            "contact": {
+              "id": 51317,
+              "firstName": "Daniel",
+              "lastName": "Oxford",
+              "jobTitle": "Coroner",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 1617,
+              "name": "Benton County Coroners Office",
+              "street1": "215 East Central Avenue Bentonville, AR 72712",
+              "city": "Rogers",
+              "county": {
+                "id": 175,
+                "name": "Benton County",
+                "localizedName": "Benton"
+              },
+              "zipCode": "72712",
+              "state": {
+                "id": 7,
+                "name": "Arkansas",
+                "localizedName": "AR"
+              },
+              "phone": "4796210223",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://bentoncountyar.gov/coroner/"
+            }
+          }
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26151,
+        "investigatingAgencyIdentityId": 52982
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160109/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160109/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arkansas"
     }
   ]
 }
