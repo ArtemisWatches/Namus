@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T07:06:18.578691+00:00",
+  "generated_at": "2026-08-26T06:56:20.441313+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1930s",
-  "count": 10,
+  "count": 13,
   "cases": [
     {
       "id": 8366,
@@ -3026,6 +3026,634 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160246/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160246/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 160949,
+      "idFormatted": "UP160949",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-22T19:28:36.613",
+      "modifiedDateTime": "2026-07-31T15:27:48.133",
+      "caseIdentification": {
+        "id": 53231,
+        "caseNumber": "Not Available"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74114,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 70,
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79870,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1939-01-19",
+        "address": {
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "displayName": "UT"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2845,
+            "name": "Box Elder County",
+            "displayName": "Box Elder"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On January 19, 1939, a sheepherder found the decomposed, fully clothed body of an elderly male in the western Box Elder County desert, 20 miles south of Kelton. The clothing consisted of a brown checkered cap with no lining and was found north of the body. A brown coat, a blue jacket with narrow white stripes worn under the coat, a dark shirt, a blue tie, dark brown pants, a leather belt, two-piece heavy underwear, cheap cotton socks, and brown work shoes, approximately size 8.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.5380087,
+            "lon": -113.1918021
+          },
+          "formattedAddress": "Box Elder County, UT, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56051,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59212,
+          "identityId": 49731,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "brown checkered cap with no lining and was found north of the body. A brown coat, a blue jacket with narrow white stripes worn under the coat, a dark shirt, a blue tie, dark brown pants, a leather belt, two-piece heavy underwear, cheap cotton socks, and brown work shoes, approximately size 8",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48239,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53074,
+          "isCaseOwner": false,
+          "name": "Box Elder County Sheriff's Office",
+          "city": "Brigham",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "localizedName": "UT"
+          },
+          "stateDisplayName": "UT",
+          "county": {
+            "id": 2845,
+            "name": "Box Elder County",
+            "localizedName": "Box Elder"
+          },
+          "countyDisplayName": "Box Elder",
+          "selection": {
+            "id": 64446,
+            "contact": {
+              "id": 345554,
+              "firstName": "Brandon",
+              "lastName": "Yates",
+              "jobTitle": "Sgt.",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45815,
+              "name": "Box Elder County Sheriff's Office",
+              "street1": "52 South 1000 West",
+              "street2": "PO Box 888",
+              "city": "Brigham",
+              "county": {
+                "id": 2845,
+                "name": "Box Elder County",
+                "localizedName": "Box Elder"
+              },
+              "zipCode": "84302",
+              "state": {
+                "id": 19,
+                "name": "Utah",
+                "localizedName": "UT"
+              },
+              "phone": "4357343800",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.boxeldercountyut.gov/247/Sheriff"
+            }
+          },
+          "caseNumber": "39-000000"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26236,
+        "investigatingAgencyIdentityId": 53074
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160949/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160949/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Utah"
+    },
+    {
+      "id": 160954,
+      "idFormatted": "UP160954",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-22T21:09:56.6",
+      "modifiedDateTime": "2026-07-31T13:58:21.227",
+      "caseIdentification": {
+        "id": 53232,
+        "caseNumber": "Not Available"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74115,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79974,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1934-08-06",
+        "address": {
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "displayName": "UT"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2849,
+            "name": "Davis County",
+            "displayName": "Davis"
+          },
+          "countyId": 0
+        },
+        "description": "Near the train station in Kaysville",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "According to the news articles, a freight train derailed near a station located In Kaysville, Utah. Responders to the wreck in the days following located human remains believed to be a white male between the ages of 17 - 25 years old. It was believed, at the time, the deceased male was a transient and no identification was located. The only item noted to be in his possession was a piece of paper with \"Bar Joe Elwood\" written on one side and \"Junction City, Ore., William E Miller\" written on the other side.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.9628845,
+            "lon": -112.0953297
+          },
+          "formattedAddress": "Davis County, UT, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56053,
+        "conditionOfRemains": {
+          "id": 2,
+          "name": "Not recognizable - Traumatic injuries",
+          "localizedName": "Not recognizable - Traumatic injuries"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59213,
+          "identityId": 49732,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Piece of paper with \"Bar Joe Elwood\" written on one side and \"Junction City ,Ore, William Miller\" written on the other side",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48240,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53075,
+          "isCaseOwner": false,
+          "name": "Davis County Sheriff's Office",
+          "city": "Farmington",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "localizedName": "UT"
+          },
+          "stateDisplayName": "UT",
+          "county": {
+            "id": 2849,
+            "name": "Davis County",
+            "localizedName": "Davis"
+          },
+          "countyDisplayName": "Davis",
+          "selection": {
+            "id": 64547,
+            "contact": {
+              "id": 296135,
+              "firstName": "Ryan",
+              "lastName": "Kirkman",
+              "jobTitle": "Sergeant",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45397,
+              "name": "Davis County Sheriff's Office",
+              "street1": "800 West State Street",
+              "city": "Farmington",
+              "county": {
+                "id": 2849,
+                "name": "Davis County",
+                "localizedName": "Davis"
+              },
+              "zipCode": "84025",
+              "state": {
+                "id": 19,
+                "name": "Utah",
+                "localizedName": "UT"
+              },
+              "phone": "8014514100",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.co.davis.ut.us/sheriff"
+            }
+          },
+          "caseNumber": "D26-03190"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26237,
+        "investigatingAgencyIdentityId": 53075
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160954/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160954/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Utah"
+    },
+    {
+      "id": 160978,
+      "idFormatted": "UP160978",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-23T15:17:38.753",
+      "modifiedDateTime": "2026-07-30T16:37:57.467",
+      "caseIdentification": {
+        "id": 53236,
+        "caseNumber": "1936-1367"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74121,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "heightFrom": 70,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 160,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 79944,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1936-05-30",
+        "address": {
+          "city": "Indio",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "Jackson Street",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 05/30/1936, a passerby noted a foul odor, and upon investigating it, he found the decedent's decomposed remains. \"Indio Police Department\" was notified and Deputy Boller responded to the scene and took photographs. There were no signs of a struggle. He had no ID on his person. The decedent was then transported to Farrar Mortuary",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7205771,
+            "lon": -116.2155619
+          },
+          "formattedAddress": "Indio, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56060,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59216,
+          "identityId": 49734,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing a blue jean shirt, striped cotton pants, size 6.5 tennis shoes and somewhat new straw hat lying next to him. He had several brand new handkerchiefs in his pockets and old socks lying nearby.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48244,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53082,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 64455,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1936-1367"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26245,
+        "investigatingAgencyIdentityId": 53082
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160978/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160978/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

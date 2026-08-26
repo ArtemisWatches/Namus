@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T07:06:18.578691+00:00",
+  "generated_at": "2026-08-26T06:56:20.441313+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1950s",
-  "count": 157,
+  "count": 158,
   "cases": [
     {
       "id": 2802,
@@ -36714,6 +36714,230 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160038/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160038/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 161157,
+      "idFormatted": "UP161157",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-28T18:20:00.28",
+      "modifiedDateTime": "2026-08-25T20:08:43.61",
+      "caseIdentification": {
+        "id": 53279,
+        "caseNumber": "1955-10566"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74149,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79996,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1955-08-31",
+        "address": {
+          "city": "Indio",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "displayName": "Riverside"
+          },
+          "countyId": 0
+        },
+        "description": "US Hwy 99, .9 miles west of the west city limits",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On 08/31/1955, at approximately 0205 hours, a tractor pulling a gasoline tank trailer was traveling eastbound on the two-lane U.S. Highway 99 in rural Indio, approximately 0.4 miles east of Clinton Street and 0.9 miles west of the city limits. The decedent was crossing the highway southbound and had entered the eastbound lane when he was struck by the truck. Although the driver applied the brakes for approximately 66 feet, flashed his high beams, and attempted to swerve, he stated the decedent did not look up and walked directly into the truck's path. The decedent was killed instantly.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7205771,
+            "lon": -116.2155619
+          },
+          "formattedAddress": "Indio, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56079,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59242,
+          "identityId": 49757,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "He was wearing brown-tan checkered shirt, chocolate brown trousers, and brown cap.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59295,
+          "identityId": 49758,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "A letter found in the decedent's pocket was addressed to Arthur Millard, care of Southern Pacific Railroad, and postmarked from Yuma, Arizona, on 06/11. According to the CHP report, the letter had arrived one or two days later and had been left on the railroad station counter awaiting pickup. When CHP contacted Southern Pacific Railroad, employees recalled that a Black male had come in that day to purchase a train ticket but had only $0.94, which was insufficient to buy one. The letter was reportedly on the counter at the time and was believed to have been stolen. The letter is included in the case file. Also found in the case file was a U.S. Railroad Retirement Board employee pay stub bearing the name \"TJ Cruz\". The pay stub was not mentioned in the CHP report, so its origin and connection to the case are unknown.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48260,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 29224,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53149,
+          "isCaseOwner": false,
+          "name": "Riverside County Sheriff- Coroner Bureau",
+          "city": "Perris",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 279,
+            "name": "Riverside County",
+            "localizedName": "Riverside"
+          },
+          "countyDisplayName": "Riverside",
+          "selection": {
+            "id": 64567,
+            "agency": {
+              "id": 71052,
+              "name": "Riverside County Sheriff- Coroner Bureau",
+              "street1": "800 South Redlands Avenue",
+              "city": "Perris",
+              "county": {
+                "id": 279,
+                "name": "Riverside County",
+                "localizedName": "Riverside"
+              },
+              "zipCode": "92570",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "9514432300",
+              "email": "CoronerUnidentified@riversidesheriff.org",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.riversidesheriff.org/389/Coroners-Bureau"
+            }
+          },
+          "caseNumber": "1955-10566"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26269,
+        "investigatingAgencyIdentityId": 53149
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161157/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161157/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

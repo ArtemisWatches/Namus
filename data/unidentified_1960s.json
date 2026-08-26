@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T06:54:34.035280+00:00",
+  "generated_at": "2026-08-26T06:56:20.441313+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 238,
+  "count": 240,
   "cases": [
     {
       "id": 334,
@@ -63258,6 +63258,581 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158775/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/158775/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
+    },
+    {
+      "id": 160968,
+      "idFormatted": "UP160968",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-23T13:37:48.503",
+      "modifiedDateTime": "2026-07-30T13:26:01.7",
+      "caseIdentification": {
+        "id": 53245,
+        "caseNumber": "P24-04119"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74126,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 79940,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1969-02-23",
+        "address": {
+          "city": "Shawano",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "displayName": "WI"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 3172,
+            "name": "Shawano County",
+            "displayName": "Shawano"
+          },
+          "countyId": 0
+        },
+        "description": "creek near Shawano Lake to the Wolf River",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Located near Wolf River.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 44.7822064,
+            "lon": -88.60899169999999
+          },
+          "formattedAddress": "Shawano, WI 54166, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56068,
+        "torsoNotRecovered": false,
+        "limbsNotRecovered": false,
+        "handsNotRecovered": false,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48248,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53076,
+          "isCaseOwner": false,
+          "name": "Wisconsin Department of Justice - Division of Criminal Investigation",
+          "city": "Madison",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3127,
+            "name": "Dane County",
+            "localizedName": "Dane"
+          },
+          "countyDisplayName": "Dane",
+          "selection": {
+            "id": 64449,
+            "contact": {
+              "id": 262666,
+              "firstName": "Justen",
+              "lastName": "Ragen",
+              "jobTitle": "Special Agent - Senior",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43896,
+              "name": "Wisconsin Department of Justice - Division of Criminal Investigation",
+              "street1": "17 West Main Street",
+              "street2": "PO Box 7857",
+              "city": "Madison",
+              "county": {
+                "id": 3127,
+                "name": "Dane County",
+                "localizedName": "Dane"
+              },
+              "zipCode": "53707",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "6082661671",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.doj.state.wi.us/"
+            }
+          },
+          "caseNumber": "25-3958"
+        },
+        {
+          "id": 53159,
+          "isCaseOwner": false,
+          "name": "Shawano County Coroner's Office",
+          "city": "Shawano",
+          "state": {
+            "id": 43,
+            "name": "Wisconsin",
+            "localizedName": "WI"
+          },
+          "stateDisplayName": "WI",
+          "county": {
+            "id": 3172,
+            "name": "Shawano County",
+            "localizedName": "Shawano"
+          },
+          "countyDisplayName": "Shawano",
+          "selection": {
+            "id": 64582,
+            "agency": {
+              "id": 39315,
+              "name": "Shawano County Coroner's Office",
+              "street1": "311 N Main",
+              "city": "Shawano",
+              "county": {
+                "id": 3172,
+                "name": "Shawano County",
+                "localizedName": "Shawano"
+              },
+              "zipCode": "54166",
+              "state": {
+                "id": 43,
+                "name": "Wisconsin",
+                "localizedName": "WI"
+              },
+              "phone": "7155269533",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "P24-04119"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26279,
+        "investigatingAgencyIdentityId": 53159
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160968/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160968/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Wisconsin"
+    },
+    {
+      "id": 161251,
+      "idFormatted": "UP161251",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-07-31T13:48:42.03",
+      "modifiedDateTime": "2026-08-18T17:31:38.037",
+      "caseIdentification": {
+        "id": 53311,
+        "caseNumber": "10-65-308"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74218,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 30,
+        "estimatedYearOfDeathFrom": 1965,
+        "estimatedYearOfBirthFrom": 1935,
+        "estimatedYearOfBirthTo": 1947,
+        "heightFrom": 64,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleFirstName": "Janet",
+        "possibleLastName": "Atkins",
+        "possibleNicknames": "Janet Adkins, Janet Akenson, Janet Tralley, Janet Fralley",
+        "weightFrom": 115,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 79980,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1965-10-25",
+        "agencyQAReviewed": "2026-07-31",
+        "address": {
+          "city": "Avon",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "displayName": "OH"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2155,
+            "name": "Lorain County",
+            "displayName": "Lorain"
+          },
+          "countyId": 0,
+          "zipCode": "44011"
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Jane Doe was riding in a vehicle which overturned in a ditch. Law enforcement and the Coroner were unable to confirm her identity.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.4531581,
+            "lon": -82.00801400000002
+          },
+          "formattedAddress": "Avon, OH 44011, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56097,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48273,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        },
+        "rightEyeColor": {
+          "id": 6,
+          "name": "Hazel",
+          "localizedName": "Hazel"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17883,
+          "identityId": 14978,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Showed evidence of childbirth"
+        }
+      ],
+      "images": [
+        {
+          "id": 137260,
+          "identityId": 124016,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 23,
+            "name": "ArtistRendering",
+            "localizedName": "Artist rendering",
+            "ordinal": 230
+          },
+          "caption": "BCI image",
+          "isPublic": true,
+          "createdDateTime": "2026-08-11T12:52:28.733",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 2116,
+              "width": 1894,
+              "storageKey": "dc9ddef7ffd74f0c951573feded32de4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/124016/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 107,
+              "storageKey": "7f35349d4bcd41a99be3ef0d8e0d81dd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/124016/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/124016/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26868,
+        "defaultImageIdentityId": 124016
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53173,
+          "isCaseOwner": false,
+          "name": "Lorain County Coroner's Office",
+          "city": "Oberlin",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2155,
+            "name": "Lorain County",
+            "localizedName": "Lorain"
+          },
+          "countyDisplayName": "Lorain",
+          "selection": {
+            "id": 64616,
+            "contact": {
+              "id": 19269,
+              "firstName": "Frank",
+              "lastName": "Miller",
+              "jobTitle": "Coroner",
+              "roleId": 10,
+              "role": "Coroner",
+              "isPublicEmail": false,
+              "phone1": "4407747300",
+              "isPublicPhone1": true,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 26857,
+              "name": "Lorain County Coroner's Office",
+              "street1": "5 South Main Street",
+              "street2": "Suite 304",
+              "city": "Oberlin",
+              "county": {
+                "id": 2155,
+                "name": "Lorain County",
+                "localizedName": "Lorain"
+              },
+              "zipCode": "44074",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "4407747300",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "10-65-380",
+          "dateReported": "1965-10-25"
+        },
+        {
+          "id": 53176,
+          "isCaseOwner": false,
+          "name": "Avon Police Department",
+          "city": "Avon",
+          "state": {
+            "id": 42,
+            "name": "Ohio",
+            "localizedName": "OH"
+          },
+          "stateDisplayName": "OH",
+          "county": {
+            "id": 2155,
+            "name": "Lorain County",
+            "localizedName": "Lorain"
+          },
+          "countyDisplayName": "Lorain",
+          "selection": {
+            "id": 64699,
+            "contact": {
+              "id": 321272,
+              "firstName": "Csaba",
+              "lastName": "Hortobagyi",
+              "jobTitle": "Detective Sergeant",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 80376,
+              "name": "Avon Police Department",
+              "street1": "36145 Detroit Road",
+              "city": "Avon",
+              "county": {
+                "id": 2155,
+                "name": "Lorain County",
+                "localizedName": "Lorain"
+              },
+              "zipCode": "44011",
+              "state": {
+                "id": 42,
+                "name": "Ohio",
+                "localizedName": "OH"
+              },
+              "phone": "4409341234",
+              "email": "records@avonpd.com",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.cityofavon.com/172/Police"
+            }
+          },
+          "caseNumber": "26-05480",
+          "dateReported": "1965-10-25"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26284,
+        "investigatingAgencyIdentityId": 53173
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
     }
   ]
 }
