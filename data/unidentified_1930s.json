@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T06:56:20.441313+00:00",
+  "generated_at": "2026-08-28T18:23:54.732780+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1930s",
-  "count": 13,
+  "count": 14,
   "cases": [
     {
       "id": 8366,
@@ -3655,6 +3655,404 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160978/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/160978/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 162117,
+      "idFormatted": "UP162117",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-08-25T20:22:29.883",
+      "modifiedDateTime": "2026-08-27T16:53:41.733",
+      "caseIdentification": {
+        "id": 53389,
+        "caseNumber": "Not Available"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74324,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 30,
+        "estimatedAgeTo": 40,
+        "estimatedYearOfDeathFrom": 1935,
+        "estimatedYearOfBirthFrom": 1895,
+        "estimatedYearOfBirthTo": 1905,
+        "heightFrom": 73,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightFrom": 175,
+        "weightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        }
+      },
+      "circumstances": {
+        "id": 80157,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1935-10-15",
+        "address": {
+          "city": "Box Elder",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "displayName": "UT"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2845,
+            "name": "Box Elder County",
+            "displayName": "Box Elder"
+          },
+          "countyId": 0
+        },
+        "description": "Off a rocky ledge above the highway in the hills east of Hot Springs, just across the Weber-Box Elder County line",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "On October 15, 1935, a surveying crew found the body of an unidentified man hanging from a rocky ledge just across the Weber-Box Elder County line in the hills east of Utah Hot Springs. The man had been dead for about a day. He was described as white, between 30 to 40 years old, 6’1” tall with dark brown hair. A shopkeeper in Ogden remembered selling the man several clothing items he was found wearing. He was buried in the Brigham City Cemetery.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 41.5380087,
+            "lon": -113.1918021
+          },
+          "formattedAddress": "Box Elder County, UT, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56194,
+        "conditionOfRemains": {
+          "id": 1,
+          "name": "Recognizable face",
+          "localizedName": "Recognizable face"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59403,
+          "identityId": 49873,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "belt, 65 cents, a pocketknife, an empty wallet",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59402,
+          "identityId": 49872,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "new overalls, a blue shirt, a light brown cap, an old leather jacket",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48353,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "His hair was a dark brown",
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 137516,
+          "identityId": 124259,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "News article1",
+          "isPublic": true,
+          "createdDateTime": "2026-08-25T20:41:16.533",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2258,
+              "width": 697,
+              "storageKey": "e3e0ab4ed10e4fadbf7805cf591dc7c0",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124259/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 37,
+              "storageKey": "f796215809b144eeb599d4f0e92c2c10",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124259/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124259/Download"
+        },
+        {
+          "id": 137517,
+          "identityId": 124260,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "News article 2",
+          "isPublic": true,
+          "createdDateTime": "2026-08-25T20:41:39.457",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1092,
+              "width": 868,
+              "storageKey": "01fea207603a4f12880ea4d6a733a444",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124260/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 95,
+              "storageKey": "4dd5c6df435a4b5d81929b1ff994ffef",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124260/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124260/Download"
+        },
+        {
+          "id": 137518,
+          "identityId": 124261,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "News Article 3",
+          "isPublic": true,
+          "createdDateTime": "2026-08-25T20:42:04.113",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2821,
+              "width": 871,
+              "storageKey": "704a27ff421e4a58b7a4b03ae96cc715",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124261/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 37,
+              "storageKey": "bd2718b47973464a8ac92d6ef1ebdc0d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124261/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124261/Download"
+        },
+        {
+          "id": 137519,
+          "identityId": 124262,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "News Article 4",
+          "isPublic": true,
+          "createdDateTime": "2026-08-25T20:42:26.283",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1394,
+              "width": 848,
+              "storageKey": "b43fea40fdc6452891a8a78a56ce783f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124262/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 73,
+              "storageKey": "eb97fe90acc74420b124d99bbd394331",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124262/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124262/Download"
+        },
+        {
+          "id": 137520,
+          "identityId": 124263,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "News Article 5",
+          "isPublic": true,
+          "createdDateTime": "2026-08-25T20:42:50.3",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1476,
+              "width": 866,
+              "storageKey": "6ecb047806734b729196376a1fb409cf",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124263/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 70,
+              "storageKey": "5a1b3aa33b2e47ae8328d60185dc9434",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124263/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/124263/Download"
+        }
+      ],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53292,
+          "isCaseOwner": false,
+          "name": "Box Elder County Sheriff's Office",
+          "city": "Brigham",
+          "state": {
+            "id": 19,
+            "name": "Utah",
+            "localizedName": "UT"
+          },
+          "stateDisplayName": "UT",
+          "county": {
+            "id": 2845,
+            "name": "Box Elder County",
+            "localizedName": "Box Elder"
+          },
+          "countyDisplayName": "Box Elder",
+          "selection": {
+            "id": 64785,
+            "contact": {
+              "id": 345554,
+              "firstName": "Brandon",
+              "lastName": "Yates",
+              "jobTitle": "Sgt.",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45815,
+              "name": "Box Elder County Sheriff's Office",
+              "street1": "52 South 1000 West",
+              "street2": "PO Box 888",
+              "city": "Brigham",
+              "county": {
+                "id": 2845,
+                "name": "Box Elder County",
+                "localizedName": "Box Elder"
+              },
+              "zipCode": "84302",
+              "state": {
+                "id": 19,
+                "name": "Utah",
+                "localizedName": "UT"
+              },
+              "phone": "4357343800",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.boxeldercountyut.gov/247/Sheriff"
+            }
+          },
+          "caseNumber": "35-000000",
+          "dateReported": "2026-08-25"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26396,
+        "investigatingAgencyIdentityId": 53292
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162117/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Utah"
     }
   ]
 }
