@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T06:56:20.441313+00:00",
+  "generated_at": "2026-09-02T10:57:23.089050+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1960s",
-  "count": 240,
+  "count": 242,
   "cases": [
     {
       "id": 334,
@@ -63833,6 +63833,554 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161251/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Ohio"
+    },
+    {
+      "id": 162229,
+      "idFormatted": "UP162229",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-08-27T21:29:35.377",
+      "modifiedDateTime": "2026-09-01T13:45:26.983",
+      "caseIdentification": {
+        "id": 53394,
+        "caseNumber": "23-03058"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74338,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedAgeTo": 1,
+        "estimatedYearOfDeathFrom": 1968,
+        "estimatedYearOfBirthFrom": 1967,
+        "estimatedYearOfBirthTo": 1967,
+        "estimatedPostmortemInterval": 48,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 2,
+          "name": "Hours",
+          "localizedName": "Hours"
+        },
+        "heightFrom": 19,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "possibleNicknames": "Unidentified Female Infant A",
+        "weightFrom": 7,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 80199,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1968-03-02",
+        "address": {
+          "city": "Littleton",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "displayName": "Jefferson"
+          },
+          "countyId": 0,
+          "zipCode": "80127"
+        },
+        "description": "Deer Creek Canyon",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was inadvertently rediscovered during the exhumation of a seemingly unrelated case (UP9594), in which this decedent and two others (UP9594 and UP162230) were buried at the same plot. According to records, this unidentified female infant was initially found (on 03/02/1968) partially buried on the edge of a stream in Deer Creek Canyon, 7 miles west of Wadsworth Blvd. The decedent was estimated to be full-term and alive when born, and an umbilical cord was still attached.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.613321,
+            "lon": -105.0166498
+          },
+          "formattedAddress": "Littleton, CO, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56201,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48357,
+        "hairColor": {
+          "id": 7,
+          "name": "Blond/Strawberry",
+          "localizedName": "Blond/Strawberry"
+        },
+        "leftEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        },
+        "rightEyeColor": {
+          "id": 2,
+          "name": "Blue",
+          "localizedName": "Blue"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53297,
+          "isCaseOwner": false,
+          "name": "Jefferson County Coroner's Office",
+          "city": "Golden",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 64790,
+            "contact": {
+              "id": 324404,
+              "firstName": "Chandler",
+              "lastName": "Ellis",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 4257,
+              "name": "Jefferson County Coroner's Office",
+              "street1": "800 Jefferson County Parkway",
+              "city": "Golden",
+              "county": {
+                "id": 335,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "80419",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3032716480",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jeffco.us/665/Coroner"
+            }
+          },
+          "caseNumber": "23-03058"
+        },
+        {
+          "id": 53298,
+          "isCaseOwner": false,
+          "name": "Jefferson County Sheriff's Office",
+          "city": "Golden",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 64791,
+            "contact": {
+              "id": 329169,
+              "firstName": "Ryan",
+              "lastName": "Morris",
+              "jobTitle": "Cold Case Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45990,
+              "name": "Jefferson County Sheriff's Office",
+              "street1": "200 Jefferson County Parkway",
+              "city": "Golden",
+              "county": {
+                "id": 335,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "80401",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3032715195",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jeffco.us/sheriff"
+            }
+          },
+          "caseNumber": "68-3198"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26401,
+        "investigatingAgencyIdentityId": 53297
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162229/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162229/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
+    },
+    {
+      "id": 162230,
+      "idFormatted": "UP162230",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-08-27T21:57:09.15",
+      "modifiedDateTime": "2026-09-01T13:44:17.963",
+      "caseIdentification": {
+        "id": 53395,
+        "caseNumber": "23-03059"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74337,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 3,
+          "name": "Infant",
+          "localizedName": "Infant"
+        },
+        "estimatedAgeFrom": 0,
+        "estimatedAgeTo": 1,
+        "estimatedYearOfDeathFrom": 1968,
+        "estimatedYearOfBirthFrom": 1967,
+        "estimatedYearOfBirthTo": 1967,
+        "estimatedPostmortemInterval": 1,
+        "estimatedPostmortemIntervalUnit": {
+          "id": 3,
+          "name": "Days",
+          "localizedName": "Days"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "possibleNicknames": "Unidentified Female Infant B",
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80198,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1968-04-01",
+        "address": {
+          "city": "Golden",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "displayName": "CO"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "displayName": "Jefferson"
+          },
+          "countyId": 0,
+          "zipCode": "80403"
+        },
+        "description": "Dry stream to the rear of 18475 West 44th Ave., Golden, CO 80403",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The decedent was inadvertently rediscovered during the exhumation of a seemingly unrelated case (UP9594), in which this decedent and two others (UP9594 and UP162229) were buried at the same plot. According to records, this unidentified female infant was initially found (on 04/01/1968) in a dry stream to the rear of 18475 West 44th Ave., Golden, CO 80403. The decedent was estimated to be full-term and was alive when born.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.755543,
+            "lon": -105.2210997
+          },
+          "formattedAddress": "Golden, CO, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56200,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48358,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53299,
+          "isCaseOwner": false,
+          "name": "Jefferson County Coroner's Office",
+          "city": "Golden",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 64792,
+            "contact": {
+              "id": 324404,
+              "firstName": "Chandler",
+              "lastName": "Ellis",
+              "jobTitle": "Medicolegal Death Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 4257,
+              "name": "Jefferson County Coroner's Office",
+              "street1": "800 Jefferson County Parkway",
+              "city": "Golden",
+              "county": {
+                "id": 335,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "80419",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3032716480",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jeffco.us/665/Coroner"
+            }
+          },
+          "caseNumber": "23-03059"
+        },
+        {
+          "id": 53300,
+          "isCaseOwner": false,
+          "name": "Jefferson County Sheriff's Office",
+          "city": "Golden",
+          "state": {
+            "id": 9,
+            "name": "Colorado",
+            "localizedName": "CO"
+          },
+          "stateDisplayName": "CO",
+          "county": {
+            "id": 335,
+            "name": "Jefferson County",
+            "localizedName": "Jefferson"
+          },
+          "countyDisplayName": "Jefferson",
+          "selection": {
+            "id": 64793,
+            "contact": {
+              "id": 329169,
+              "firstName": "Ryan",
+              "lastName": "Morris",
+              "jobTitle": "Cold Case Investigator",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 45990,
+              "name": "Jefferson County Sheriff's Office",
+              "street1": "200 Jefferson County Parkway",
+              "city": "Golden",
+              "county": {
+                "id": 335,
+                "name": "Jefferson County",
+                "localizedName": "Jefferson"
+              },
+              "zipCode": "80401",
+              "state": {
+                "id": 9,
+                "name": "Colorado",
+                "localizedName": "CO"
+              },
+              "phone": "3032715195",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.jeffco.us/sheriff"
+            }
+          },
+          "caseNumber": "68-4912"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26402,
+        "investigatingAgencyIdentityId": 53299
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162230/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162230/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Colorado"
     }
   ]
 }
