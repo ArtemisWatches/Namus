@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T06:56:20.441313+00:00",
+  "generated_at": "2026-10-01T12:47:22.375781+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1970s",
-  "count": 1042,
+  "count": 1043,
   "cases": [
     {
       "id": 103,
@@ -299306,6 +299306,221 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161193/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/161193/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 163245,
+      "idFormatted": "UP163245",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-09-29T19:38:38.047",
+      "modifiedDateTime": "2026-09-30T13:28:45.393",
+      "caseIdentification": {
+        "id": 53493,
+        "caseNumber": "CA75-163"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74505,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80347,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1975-11-19",
+        "address": {
+          "city": "Manor Township",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "displayName": "PA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2345,
+            "name": "Lancaster County",
+            "displayName": "Lancaster"
+          },
+          "countyId": 0,
+          "zipCode": "17516"
+        },
+        "description": "3 miles North of Safe Harbor along the bank of the Susquehanna River",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Decedent was found by a fisherman on a river bank of the Susquehanna River approximately 3 miles North of Safe Harbor",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.9365876,
+            "lon": -76.3521514
+          },
+          "formattedAddress": "Conestoga, PA 17516, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56306,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59514,
+          "identityId": 49950,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Jacket, shirt and undershirt, pants, undershorts, stockings and boots were on the individual.  The items were given to Pennsylvania State Police at autopsy",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48461,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53429,
+          "isCaseOwner": false,
+          "name": "Lancaster County Coroners Office",
+          "city": "Lancaster",
+          "state": {
+            "id": 24,
+            "name": "Pennsylvania",
+            "localizedName": "PA"
+          },
+          "stateDisplayName": "PA",
+          "county": {
+            "id": 2345,
+            "name": "Lancaster County",
+            "localizedName": "Lancaster"
+          },
+          "countyDisplayName": "Lancaster",
+          "selection": {
+            "id": 64995,
+            "contact": {
+              "id": 26651,
+              "firstName": "Richard",
+              "lastName": "Graff Jr",
+              "jobTitle": "Deputy Coroner/Forensic Odontologist",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 29828,
+              "name": "Lancaster County Coroners Office",
+              "street1": "2080 Spring Valley Road",
+              "city": "Lancaster",
+              "county": {
+                "id": 2345,
+                "name": "Lancaster County",
+                "localizedName": "Lancaster"
+              },
+              "zipCode": "17603",
+              "state": {
+                "id": 24,
+                "name": "Pennsylvania",
+                "localizedName": "PA"
+              },
+              "phone": "7177352123",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 3,
+                "name": "Coroner",
+                "localizedName": "Coroner"
+              },
+              "approved": true,
+              "websiteUrl": "https://co.lancaster.pa.us/133/Coroner"
+            }
+          },
+          "caseNumber": "CA75-163",
+          "dateReported": "1975-11-19"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26552,
+        "investigatingAgencyIdentityId": 53429
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163245/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163245/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Pennsylvania"
     }
   ]
 }
