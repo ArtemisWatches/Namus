@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T12:10:53.588591+00:00",
+  "generated_at": "2026-10-14T11:30:19.934202+00:00",
   "case_type": "MissingPersons",
   "decade": "2020s",
-  "count": 7935,
+  "count": 7937,
   "cases": [
     {
       "id": 64325,
@@ -2002444,6 +2002444,474 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163555/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163555/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
+    },
+    {
+      "id": 163638,
+      "idFormatted": "MP163638",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-10T01:04:19.707",
+      "modifiedDateTime": "2026-10-13T19:22:06.08",
+      "subjectIdentification": {
+        "id": 270626,
+        "firstName": "Collin",
+        "middleName": "Mate",
+        "lastName": "Sidori",
+        "currentMinAge": 38,
+        "currentMaxAge": 38,
+        "computedMissingMinAge": 33,
+        "computedMissingMaxAge": 33
+      },
+      "subjectDescription": {
+        "id": 239797,
+        "heightFrom": 72,
+        "heightTo": 74,
+        "weightFrom": 160,
+        "weightTo": 180,
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 285625,
+        "circumstancesOfDisappearance": "Colin Sidori's family last spoke to him in June of 2022, over the phone. Collin Sidori has not been employed in Grand Canyon since Dec 17, 2024. Collin has no reported vehicle or follow-up on his whereabouts after he left Grand Canyon."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 337157,
+        "date": "2022-06-23",
+        "address": {
+          "city": "Grand Canyon Village",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 159,
+            "name": "Coconino County",
+            "displayName": "Coconino"
+          },
+          "countyId": 0,
+          "zipCode": "86023"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.0554433,
+            "lon": -112.1383585
+          },
+          "formattedAddress": "Grand Canyon Village, AZ 86023, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 202413,
+          "isCaseOwner": false,
+          "name": "National Park Service - Grand Canyon",
+          "city": "Grand Canyon Village",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 159,
+            "name": "Coconino County",
+            "localizedName": "Coconino"
+          },
+          "countyDisplayName": "Coconino",
+          "selection": {
+            "id": 236023,
+            "contact": {
+              "id": 360523,
+              "firstName": "Sophia",
+              "lastName": "Bechara",
+              "jobTitle": "Law Enforcement Park Ranger",
+              "roleId": 1,
+              "role": "Law Enforcement",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 40040,
+              "name": "National Park Service - Grand Canyon",
+              "street1": "1 Center Road",
+              "city": "Grand Canyon Village",
+              "county": {
+                "id": 159,
+                "name": "Coconino County",
+                "localizedName": "Coconino"
+              },
+              "zipCode": "86023",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "jurisdiction": {
+                "id": 1,
+                "name": "Federal",
+                "localizedName": "Federal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.nps.gov/grca/index.htm"
+            }
+          },
+          "caseNumber": "C-26-0000101565",
+          "dateReported": "2026-06-16"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 40040,
+        "isCaseOwner": false,
+        "name": "National Park Service - Grand Canyon"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 134269,
+        "investigatingAgencyIdentityId": 202413
+      },
+      "physicalDescription": {
+        "id": 234310,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Short",
+        "bodyHairDescription": "Normal",
+        "facialHairDescription": "None - if had beard he was clean shaven",
+        "leftEyeColor": {
+          "id": 1,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "rightEyeColor": {
+          "id": 1,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "eyeDescription": "None"
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163638/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163638/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163638/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 163715,
+      "idFormatted": "MP163715",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-13T15:14:38.9",
+      "modifiedDateTime": "2026-10-13T19:20:22.51",
+      "subjectIdentification": {
+        "id": 270699,
+        "firstName": "Adrian",
+        "lastName": "Jaracuaro Lagunas",
+        "currentMinAge": 36,
+        "currentMaxAge": 36,
+        "computedMissingMinAge": 36,
+        "computedMissingMaxAge": 36
+      },
+      "subjectDescription": {
+        "id": 239868,
+        "heightFrom": 65,
+        "weightFrom": 150,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 285609,
+        "circumstancesOfDisappearance": "Adrian walked out of his residence in Santa Ana after claiming he was heading to a nearby store and has not been seen or heard from since."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 140802,
+          "identityId": 127218,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Blue Hat with a \"P\" on it, black shirt, blue jeans, and black Adidas shoes."
+        }
+      ],
+      "sighting": {
+        "id": 337263,
+        "date": "2026-07-21",
+        "address": {
+          "city": "Santa Ana",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 276,
+            "name": "Orange County",
+            "displayName": "Orange"
+          },
+          "countyId": 0,
+          "zipCode": "92703"
+        },
+        "missingFromTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7526686,
+            "lon": -117.9190418
+          },
+          "formattedAddress": "Santa Ana, CA 92703, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 202467,
+          "isCaseOwner": false,
+          "name": "Santa Ana Police Department",
+          "city": "Santa Ana",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 276,
+            "name": "Orange County",
+            "localizedName": "Orange"
+          },
+          "countyDisplayName": "Orange",
+          "selection": {
+            "id": 236074,
+            "contact": {
+              "id": 358946,
+              "firstName": "Linda",
+              "lastName": "Galvan",
+              "jobTitle": "Cadet",
+              "roleId": 16,
+              "role": "LE/ME/Coroner Support",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43706,
+              "name": "Santa Ana Police Department",
+              "street1": "60 Civic Center Plaza",
+              "city": "Santa Ana",
+              "county": {
+                "id": 276,
+                "name": "Orange County",
+                "localizedName": "Orange"
+              },
+              "zipCode": "92701",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "7142458665",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.santa-ana.org/departments/police/"
+            }
+          },
+          "caseNumber": "2026-15593",
+          "dateReported": "2026-07-23"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43706,
+        "isCaseOwner": false,
+        "name": "Santa Ana Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 134324,
+        "investigatingAgencyIdentityId": 202467
+      },
+      "physicalDescription": {
+        "id": 234375,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "headHairDescription": "Short and straight.",
+        "facialHairDescription": "Presence of hair: beard.",
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "eyeDescription": "No glasses or contacts."
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 265541,
+          "identityId": 248241,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Front-facing photo of Adrian",
+          "isPublic": true,
+          "createdDateTime": "2026-10-13T15:17:43.283",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 975,
+              "width": 450,
+              "storageKey": "20cab813219b4ef0bbb76ffeebc0bf82",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248241/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 55,
+              "storageKey": "ee9be34aef754c19ac94630d1ff9a1db",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248241/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248241/Download"
+        },
+        {
+          "id": 265542,
+          "identityId": 248242,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Last known picture of Adrian with the clothes he is described to be wearing.",
+          "isPublic": true,
+          "createdDateTime": "2026-10-13T15:35:11.227",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 2532,
+              "width": 1170,
+              "storageKey": "3701a795ad3647cea231ceba46dca86d",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248242/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 55,
+              "storageKey": "fc23ac63a06042dba93f36356ad6db1a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248242/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/248242/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 139378,
+        "defaultImageIdentityId": 248241
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

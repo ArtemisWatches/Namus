@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T12:11:06.206770+00:00",
+  "generated_at": "2026-10-14T11:30:29.799965+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2648,
+  "count": 2649,
   "cases": [
     {
       "id": 64643,
@@ -788310,6 +788310,264 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163526/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163526/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Illinois"
+    },
+    {
+      "id": 163626,
+      "idFormatted": "UP163626",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-09T17:33:15.837",
+      "modifiedDateTime": "2026-10-13T16:22:05.287",
+      "caseIdentification": {
+        "id": 53529,
+        "caseNumber": "26-05072"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74575,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 45,
+        "estimatedAgeTo": 55,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80424,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-04-13",
+        "address": {
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "displayName": "MD"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "displayName": "Baltimore"
+          },
+          "countyId": 0,
+          "zipCode": "21223"
+        },
+        "description": "1300 Herkimer St",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Skeletal remains located in a wooded area behind Southwest Baltimore Chart School.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 39.28661350000001,
+            "lon": -76.647047
+          },
+          "formattedAddress": "Baltimore, MD 21223, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56344,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59547,
+          "identityId": 49970,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "- Gray jacket- possibly male suit jacket \n- Short sleeved knitted gray woman's sweater\n-Extensively tattered gray pants\n-Stained bra (possibly originally tan/light brown/white) lined with lace \n-Sheer underwear\n-Pair of black Nike Dri-Fit crew socks",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48487,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53490,
+          "isCaseOwner": false,
+          "name": "Baltimore Police Department - Headquarters",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 65080,
+            "agency": {
+              "id": 45628,
+              "name": "Baltimore Police Department - Headquarters",
+              "street1": "601 East Fayette Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21202",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "email": "HomicideTips@baltimorepolice.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.baltimorepolice.org/"
+            }
+          },
+          "caseNumber": "260404308",
+          "dateReported": "2026-04-13"
+        },
+        {
+          "id": 53495,
+          "isCaseOwner": false,
+          "name": "Maryland Office of the Chief Medical Examiner",
+          "city": "Baltimore",
+          "state": {
+            "id": 46,
+            "name": "Maryland",
+            "localizedName": "MD"
+          },
+          "stateDisplayName": "MD",
+          "county": {
+            "id": 1257,
+            "name": "Baltimore City",
+            "localizedName": "Baltimore"
+          },
+          "countyDisplayName": "Baltimore",
+          "selection": {
+            "id": 65087,
+            "agency": {
+              "id": 43731,
+              "name": "Maryland Office of the Chief Medical Examiner",
+              "street1": "900 W. Baltimore Street",
+              "city": "Baltimore",
+              "county": {
+                "id": 1257,
+                "name": "Baltimore City",
+                "localizedName": "Baltimore"
+              },
+              "zipCode": "21223",
+              "state": {
+                "id": 46,
+                "name": "Maryland",
+                "localizedName": "MD"
+              },
+              "phone": "4103333250",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://health.maryland.gov/ocme/Pages/Home.aspx"
+            }
+          },
+          "caseNumber": "26-05072"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26606,
+        "investigatingAgencyIdentityId": 53495
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163626/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163626/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Maryland"
     }
   ]
 }

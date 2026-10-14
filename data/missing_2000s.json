@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T12:10:53.588591+00:00",
+  "generated_at": "2026-10-14T11:30:19.934202+00:00",
   "case_type": "MissingPersons",
   "decade": "2000s",
-  "count": 4482,
+  "count": 4483,
   "cases": [
     {
       "id": 10,
@@ -1284780,6 +1284780,241 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163562/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163562/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/South%20Carolina"
+    },
+    {
+      "id": 163654,
+      "idFormatted": "MP163654",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-11T06:03:14.27",
+      "modifiedDateTime": "2026-10-13T19:34:13.633",
+      "subjectIdentification": {
+        "id": 270645,
+        "firstName": "Paloma",
+        "lastName": "Guzman",
+        "currentMinAge": 44,
+        "currentMaxAge": 44,
+        "computedMissingMinAge": 24,
+        "computedMissingMaxAge": 24
+      },
+      "subjectDescription": {
+        "id": 239815,
+        "heightFrom": 64,
+        "weightFrom": 132,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 119563
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 285627,
+        "circumstancesOfDisappearance": "Paloma left work on April 1, 2007, with plans to meet family members and travel to Mexico. She never returned home and has not been seen or heard from since. She may have been traveling in a blue GMC Envoy. Following her disappearance, family members received a phone call from an unknown individual requesting money for her safe return. The case was investigated as a possible kidnapping/extortion incident."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 337187,
+        "date": "2007-04-01",
+        "address": {
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92114"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7040143,
+            "lon": -117.0499859
+          },
+          "formattedAddress": "San Diego, CA 92114, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 39116,
+          "vehicleMake": "General Motor Corp.",
+          "vehicleModel": "Envoy",
+          "vehicleYear": 2002,
+          "vehicleStyle": "SUV",
+          "vehicleColor": "Blue",
+          "tagState": "California",
+          "tagNumber": "5UXE090"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 202426,
+          "isCaseOwner": false,
+          "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 236036,
+            "agency": {
+              "id": 43678,
+              "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+              "street1": "100 West 1st Street",
+              "street2": "6th Floor",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90012",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8772755273",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lapdonline.org/"
+            }
+          },
+          "caseNumber": "0799-13958",
+          "dateReported": "2007-04-09"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43678,
+        "isCaseOwner": false,
+        "name": "Los Angeles Police Department- Adult Missing Persons Unit"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 134282,
+        "investigatingAgencyIdentityId": 202426
+      },
+      "physicalDescription": {
+        "id": 234328,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 265506,
+          "identityId": 248207,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "MP Photograph",
+          "isPublic": true,
+          "createdDateTime": "2026-10-11T06:06:13.05",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 294,
+              "width": 222,
+              "storageKey": "9e84c202d49140d7830e702ddff788d0",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/248207/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 91,
+              "storageKey": "e7be2c74455b4cf99865239d7e6d14b5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/248207/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/248207/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 139359,
+        "defaultImageIdentityId": 248207
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }
