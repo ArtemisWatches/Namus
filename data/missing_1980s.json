@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T11:25:33.365176+00:00",
+  "generated_at": "2026-11-24T17:16:26.981289+00:00",
   "case_type": "MissingPersons",
   "decade": "1980s",
-  "count": 2980,
+  "count": 2981,
   "cases": [
     {
       "id": 13,
@@ -848541,6 +848541,318 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/162704/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/162704/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Georgia"
+    },
+    {
+      "id": 164084,
+      "idFormatted": "MP164084",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-26T18:38:13.193",
+      "modifiedDateTime": "2026-11-24T16:13:45.907",
+      "subjectIdentification": {
+        "id": 273542,
+        "firstName": "Victoriana",
+        "lastName": "Ramirez-Solis",
+        "nicknames": "Martina Ramirez",
+        "currentMinAge": 75,
+        "currentMaxAge": 75,
+        "computedMissingMinAge": 29,
+        "computedMissingMaxAge": 29
+      },
+      "subjectDescription": {
+        "id": 242132,
+        "heightFrom": 61,
+        "weightFrom": 115,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 288387,
+        "circumstancesOfDisappearance": "On 02/10/23 the reporting party explained she was about 9yrs old when the MP went missing. At the time, the MP was working in Beverly Hills. In the last call the MP made to Guatemala, to her family, the MP said she had relocated to San Francisco and would call once she was settled in. The MP never called again and family has not heard from her since."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 339725,
+        "date": "1981-01-01",
+        "address": {
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.0549076,
+            "lon": -118.242643
+          },
+          "formattedAddress": "Los Angeles, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 204696,
+          "isCaseOwner": false,
+          "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 238353,
+            "agency": {
+              "id": 43678,
+              "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+              "street1": "100 West 1st Street",
+              "street2": "6th Floor",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90012",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8772755273",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lapdonline.org/"
+            }
+          },
+          "caseNumber": "2308-05729"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43678,
+        "isCaseOwner": false,
+        "name": "Los Angeles Police Department- Adult Missing Persons Unit"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 136543,
+        "investigatingAgencyIdentityId": 204696
+      },
+      "physicalDescription": {
+        "id": 236623,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 267115,
+          "identityId": 249782,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-11-24T16:09:07.687",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 342,
+              "width": 302,
+              "storageKey": "ef865059f13549e29f813cca0bf3b2c2",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249782/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 106,
+              "storageKey": "76a567e3c16449429082fb4161664fb7",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249782/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249782/Download"
+        },
+        {
+          "id": 267116,
+          "identityId": 249783,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-11-24T16:09:08.367",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 323,
+              "width": 321,
+              "storageKey": "49631f693a814dc293b94d1b4b69e0f7",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249783/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 119,
+              "storageKey": "16298cba1dab4360ac13f5e3e7fc94f2",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249783/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249783/Download"
+        },
+        {
+          "id": 267117,
+          "identityId": 249784,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-11-24T16:09:09.067",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 298,
+              "width": 400,
+              "storageKey": "67281c30181e4962b971b3050df42d99",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249784/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 89,
+              "width": 120,
+              "storageKey": "6267283414c740b1a16d262f2e3800da",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249784/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249784/Download"
+        },
+        {
+          "id": 267118,
+          "identityId": 249785,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "isPublic": true,
+          "createdDateTime": "2026-11-24T16:10:01.667",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 502,
+              "width": 420,
+              "storageKey": "e3480891150846faaaf2306088dcbd7a",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249785/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 100,
+              "storageKey": "5e6ea32c1db74b87acfa064861f918bf",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249785/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/249785/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 140707,
+        "defaultImageIdentityId": 249785
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/164084/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

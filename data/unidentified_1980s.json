@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T10:57:23.089050+00:00",
+  "generated_at": "2026-11-24T17:16:35.941560+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1980s",
-  "count": 2619,
+  "count": 2620,
   "cases": [
     {
       "id": 85,
@@ -760288,6 +760288,196 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162333/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/162333/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Alabama"
+    },
+    {
+      "id": 163636,
+      "idFormatted": "UP163636",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-09T22:12:34.907",
+      "modifiedDateTime": "2026-11-23T20:14:28.577",
+      "caseIdentification": {
+        "id": 53531,
+        "caseNumber": "89-12598"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74579,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 7,
+            "name": "Other",
+            "localizedName": "Other"
+          },
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80785,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1989-05-19",
+        "address": {
+          "city": "Dunlap",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "displayName": "Fresno"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The scattered remains and clothing of a 35-45 year old female were discovered near an isolated camp site.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 36.738281,
+            "lon": -119.1209469
+          },
+          "formattedAddress": "Dunlap, CA 93621, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56347,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48489,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53492,
+          "isCaseOwner": false,
+          "name": "Fresno County Sheriff's Office",
+          "city": "Fresno",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 256,
+            "name": "Fresno County",
+            "localizedName": "Fresno"
+          },
+          "countyDisplayName": "Fresno",
+          "selection": {
+            "id": 65083,
+            "agency": {
+              "id": 46046,
+              "name": "Fresno County Sheriff's Office",
+              "street1": "2200 Fresno Street",
+              "city": "Fresno",
+              "county": {
+                "id": 256,
+                "name": "Fresno County",
+                "localizedName": "Fresno"
+              },
+              "zipCode": "93721",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5596008400",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.fresnosheriff.org/"
+            }
+          },
+          "caseNumber": "89-12598",
+          "dateReported": "1989-05-19"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26603,
+        "investigatingAgencyIdentityId": 53492
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163636/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163636/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
 }

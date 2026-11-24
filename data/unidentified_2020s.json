@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T11:30:29.799965+00:00",
+  "generated_at": "2026-11-24T17:16:35.941560+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2020s",
-  "count": 2649,
+  "count": 2656,
   "cases": [
     {
       "id": 64643,
@@ -788568,6 +788568,2346 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163626/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163626/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Maryland"
+    },
+    {
+      "id": 163887,
+      "idFormatted": "UP163887",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-19T19:12:34.737",
+      "modifiedDateTime": "2026-11-23T23:20:04.603",
+      "caseIdentification": {
+        "id": 53552,
+        "caseNumber": "26-3204"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74609,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 6,
+          "name": "Late Teen/Young Adult",
+          "localizedName": "Late Teen/Young Adult"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80469,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-10-07",
+        "address": {
+          "city": "Oro Valley",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "description": "Desert wash",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "gpsCoordinates": "32.43736, -110.95182",
+        "circumstancesOfRecovery": "A weed control company employee found these partial skeletal remains.  Previous foreign nationals (identified) have used this wash during their migratory trek.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.3909071,
+            "lon": -110.966488
+          },
+          "formattedAddress": "Oro Valley, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56367,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48507,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 29270,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 138295,
+          "identityId": 124982,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Red marker indicates the approximate location of recovery",
+          "isPublic": true,
+          "createdDateTime": "2026-10-19T19:16:11.033",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1109,
+              "width": 1299,
+              "storageKey": "074f3d261b7c4a9fb638429f08766776",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163887/Images/124982/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 102,
+              "width": 120,
+              "storageKey": "9ba660c2167f4daebfc44eb924c04950",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163887/Images/124982/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163887/Images/124982/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26984,
+        "defaultImageIdentityId": 124982
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53506,
+          "isCaseOwner": false,
+          "name": "Oro Valley Police Department",
+          "city": "Oro Valley",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65109,
+            "agency": {
+              "id": 73376,
+              "name": "Oro Valley Police Department",
+              "street1": "11000 North La Cañada Drive",
+              "city": "Oro Valley",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85737",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5202294900",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.orovalleyaz.gov/police/"
+            }
+          },
+          "caseNumber": "V261000258",
+          "dateReported": "2026-10-07"
+        },
+        {
+          "id": 53622,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65273,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-3204"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26710,
+        "investigatingAgencyIdentityId": 53622
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163887/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163887/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 163912,
+      "idFormatted": "UP163912",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-20T16:07:01.693",
+      "modifiedDateTime": "2026-11-23T20:24:18.257",
+      "caseIdentification": {
+        "id": 53571,
+        "caseNumber": "2026-12718"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74614,
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 80,
+        "heightFrom": 708,
+        "heightTo": 780,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80468,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-08-12",
+        "address": {
+          "city": "Long Beach",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0,
+          "zipCode": "90802"
+        },
+        "description": "Port of Long Beach",
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "The partial remains of this skeletal female were found on a conveyor belt at the Port of Long Beach.  The conveyor belt was transporting coal that had arrived via train from Colorado.  This female had a prior surgical repair of her left clavicle and a metal plate was fixed to the clavicle.  The metal plate would have been implanted during the later portion of Summer of 2011 or after.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.7415317,
+            "lon": -118.1941785
+          },
+          "formattedAddress": "Long Beach, CA 90802, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56369,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48508,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53507,
+          "isCaseOwner": false,
+          "name": "Long Beach Police Department",
+          "city": "Long Beach",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 65111,
+            "agency": {
+              "id": 45630,
+              "name": "Long Beach Police Department",
+              "street1": "400 West Broadway",
+              "city": "Long Beach",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90802",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "5625707260",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "26-0036090"
+        },
+        {
+          "id": 53615,
+          "isCaseOwner": false,
+          "name": "Los Angeles County Medical Examiner",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 65264,
+            "contact": {
+              "id": 190411,
+              "firstName": "Kelli",
+              "lastName": "Blanchard",
+              "jobTitle": "Medical Examiner Investigator, Identifications",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 43449,
+              "name": "Los Angeles County Medical Examiner",
+              "street1": "1104 North Mission Road",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90033",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "3233430512",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://me.lacounty.gov/"
+            }
+          },
+          "caseNumber": "2026-12718"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26704,
+        "investigatingAgencyIdentityId": 53615
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163912/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163912/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 163937,
+      "idFormatted": "UP163937",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-20T21:53:10.447",
+      "modifiedDateTime": "2026-11-23T23:32:09.427",
+      "caseIdentification": {
+        "id": 53555,
+        "caseNumber": "26-2211"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74668,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          },
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 7,
+          "name": "Adult",
+          "localizedName": "Adult"
+        },
+        "estimatedYearOfDeathFrom": 2021,
+        "estimatedYearOfDeathTo": 2024,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80611,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-07-14",
+        "address": {
+          "city": "Greaterville",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "displayName": "Santa Cruz"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "circumstancesOfRecovery": "Isolated cranium and cervical vertebrae found by hikers in desert area.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.5986127,
+            "lon": -110.8076084
+          },
+          "formattedAddress": "Santa Cruz County, AZ, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56393,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48509,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 138491,
+          "identityId": 125169,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T16:44:56.813",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1118,
+              "width": 1627,
+              "storageKey": "52b0c2757b154b5899755376ab68a8b5",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163937/Images/125169/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 82,
+              "width": 120,
+              "storageKey": "d9b6be9618d34428b649211b69145676",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163937/Images/125169/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163937/Images/125169/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26995,
+        "defaultImageIdentityId": 125169
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53533,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65145,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-2211"
+        },
+        {
+          "id": 53534,
+          "isCaseOwner": false,
+          "name": "Santa Cruz County Sheriff's Office",
+          "city": "Nogales",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 169,
+            "name": "Santa Cruz County",
+            "localizedName": "Santa Cruz"
+          },
+          "countyDisplayName": "Santa Cruz",
+          "selection": {
+            "id": 65146,
+            "agency": {
+              "id": 48457,
+              "name": "Santa Cruz County Sheriff's Office",
+              "street1": "2170 North Congress Drive",
+              "city": "Nogales",
+              "county": {
+                "id": 169,
+                "name": "Santa Cruz County",
+                "localizedName": "Santa Cruz"
+              },
+              "zipCode": "85621",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207617869",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://santacruzsheriff.org/"
+            }
+          },
+          "caseNumber": "260714002"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26640,
+        "investigatingAgencyIdentityId": 53533
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163937/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163937/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 163938,
+      "idFormatted": "UP163938",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-20T21:56:10.67",
+      "modifiedDateTime": "2026-11-23T23:28:24.167",
+      "caseIdentification": {
+        "id": 53556,
+        "caseNumber": "26-2033"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74670,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          },
+          {
+            "id": 5,
+            "name": "American Indian / Alaska Native",
+            "localizedName": "American Indian / Alaska Native"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Multiple",
+          "localizedName": "Multiple"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 25,
+        "estimatedAgeTo": 55,
+        "estimatedYearOfDeathFrom": 2016,
+        "estimatedYearOfDeathTo": 2021,
+        "estimatedYearOfBirthFrom": 1961,
+        "estimatedYearOfBirthTo": 1996,
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80612,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-06-30",
+        "address": {
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "circumstancesOfRecovery": "Incomplete skeletal remains found in desert area near Sells by USBP",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.9120215,
+            "lon": -111.881234
+          },
+          "formattedAddress": "Sells, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56394,
+        "torsoNotRecovered": true,
+        "limbsNotRecovered": true,
+        "handsNotRecovered": true,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48528,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 138493,
+          "identityId": 125171,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "Red dot is approximate recovery location",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T16:46:24.957",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 1202,
+              "width": 1573,
+              "storageKey": "6a38c83428b84288b6815ecc24fe7811",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163938/Images/125171/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 92,
+              "width": 120,
+              "storageKey": "03d336dc73d546c192eaadd09617cc8d",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163938/Images/125171/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163938/Images/125171/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26996,
+        "defaultImageIdentityId": 125171
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53528,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65139,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-2033"
+        },
+        {
+          "id": 53529,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65140,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "260629088"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26636,
+        "investigatingAgencyIdentityId": 53528
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163938/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163938/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 163964,
+      "idFormatted": "UP163964",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-21T17:21:33",
+      "modifiedDateTime": "2026-11-23T22:57:45.913",
+      "caseIdentification": {
+        "id": 53557,
+        "caseNumber": "26-2372"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74620,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "heightFrom": 63,
+        "heightTo": 67,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80473,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-07-27",
+        "address": {
+          "city": "Cowlic",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "description": "East of Cowlic Village",
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "31.80308, -111.91808",
+        "circumstancesOfRecovery": "Scattered skeletal elements with shirt and hat found by US Border patrol in the remote desert east of Cowlic Village.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.8069385,
+            "lon": -111.9910008
+          },
+          "formattedAddress": "Cowlic, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56372,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59564,
+          "identityId": 49988,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Black ball cap with \"NF\" logo",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59562,
+          "identityId": 49987,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Long-sleeved black \"Lirica\" brand shirt",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48510,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 138314,
+          "identityId": 125001,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Long-sleeved shirt with logo",
+          "isPublic": true,
+          "createdDateTime": "2026-10-21T17:25:18.74",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2202,
+              "width": 3025,
+              "storageKey": "577c26de0b1e4e9b8d8ab9d9249fa99b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125001/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 87,
+              "width": 120,
+              "storageKey": "186ec7399a88449299ebf63170012ff7",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125001/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125001/Download"
+        },
+        {
+          "id": 138313,
+          "identityId": 125000,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "Ball cap with logo",
+          "isPublic": true,
+          "createdDateTime": "2026-10-21T17:24:29.34",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1222,
+              "width": 799,
+              "storageKey": "77ae703dcf774081893b878059e51bfd",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125000/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 78,
+              "storageKey": "80c3a98f0d09400e86840200cfbfc129",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125000/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/125000/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26986,
+        "defaultImageIdentityId": 125000
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53508,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65112,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "26 07 24 095",
+          "dateReported": "2026-07-27"
+        },
+        {
+          "id": 53621,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65272,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-2372"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26709,
+        "investigatingAgencyIdentityId": 53621
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163964/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 164038,
+      "idFormatted": "UP164038",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-23T17:41:03.607",
+      "modifiedDateTime": "2026-11-23T23:41:14.607",
+      "caseIdentification": {
+        "id": 53568,
+        "caseNumber": "26-2373"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74639,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 9,
+          "name": "Adult - Pre 30",
+          "localizedName": "Adult - Pre 30"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 26,
+        "estimatedYearOfDeathFrom": 2018,
+        "estimatedYearOfDeathTo": 2023,
+        "estimatedYearOfBirthFrom": 1992,
+        "estimatedYearOfBirthTo": 2005,
+        "heightFrom": 65,
+        "heightTo": 69,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80494,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-07-24",
+        "address": {
+          "city": "San Rafael",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "description": "Northwest of village",
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "31.74713, -112.00075",
+        "circumstancesOfRecovery": "Partial skeletal remains discovered in the remote desert by US Border Patrol.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.7373038,
+            "lon": -112.0242912
+          },
+          "formattedAddress": "San Rafael, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56386,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59585,
+          "identityId": 50005,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Ball cap with \"Kansas City team spirit\" logo",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59584,
+          "identityId": 50004,
+          "article": {
+            "id": 4,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 4
+          },
+          "description": "Multi-color athletic shoes",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48523,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeaturesNoKnownInformationIndicator": {
+        "id": 29275,
+        "noKnownInformation": true,
+        "comment": ""
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 138399,
+          "identityId": 125079,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Shoes",
+          "isPublic": true,
+          "createdDateTime": "2026-10-23T17:42:13.67",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2097,
+              "width": 2283,
+              "storageKey": "67acdece9c0d4a3f9101296a10feaee1",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125079/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 110,
+              "width": 120,
+              "storageKey": "ae97ce5968114f069a1392d29015457a",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125079/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125079/Download"
+        },
+        {
+          "id": 138400,
+          "identityId": 125080,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Ball cap",
+          "isPublic": true,
+          "createdDateTime": "2026-10-23T17:42:59.227",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2141,
+              "width": 2943,
+              "storageKey": "8de264c3e6c54b18a4a5efbd40b30158",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125080/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 87,
+              "width": 120,
+              "storageKey": "b3ec2c6c25dd4e1985f86e49d065bad2",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125080/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/125080/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26990,
+        "defaultImageIdentityId": 125080
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53521,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65128,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "26 07 24 108",
+          "dateReported": "2026-07-24"
+        },
+        {
+          "id": 53624,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65275,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-2373"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26712,
+        "investigatingAgencyIdentityId": 53624
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164038/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
+    },
+    {
+      "id": 164126,
+      "idFormatted": "UP164126",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-27T17:03:48.523",
+      "modifiedDateTime": "2026-11-23T23:22:43.617",
+      "caseIdentification": {
+        "id": 53581,
+        "caseNumber": "26-2612"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74657,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 11,
+          "name": "Adult - Pre 50",
+          "localizedName": "Adult - Pre 50"
+        },
+        "estimatedAgeFrom": 28,
+        "estimatedAgeTo": 45,
+        "estimatedYearOfDeathFrom": 2016,
+        "estimatedYearOfDeathTo": 2024,
+        "estimatedYearOfBirthFrom": 1971,
+        "estimatedYearOfBirthTo": 1996,
+        "heightFrom": 64,
+        "heightTo": 68,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80615,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2026-08-08",
+        "address": {
+          "city": "Papago Farms",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "displayName": "AZ"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "displayName": "Pima"
+          },
+          "countyId": 0
+        },
+        "description": "North of village",
+        "foundOnTribalLand": {
+          "id": 1,
+          "name": "Yes",
+          "localizedName": "Yes"
+        },
+        "gpsCoordinates": "31.83886, -112.33177",
+        "circumstancesOfRecovery": "Skeletal remains and personal effects found in by US Border Patrol in the remote desert.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 31.7867208,
+            "lon": -112.3090706
+          },
+          "formattedAddress": "Papago Farms, AZ 85634, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56395,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59599,
+          "identityId": 50018,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "Woven bracelet with \"A B S\" and a heart",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59595,
+          "identityId": 50014,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Lacoste brand shirt size 8",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59612,
+          "identityId": 50016,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "Black belt, possibly \"Descente LTD\" brand",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59596,
+          "identityId": 50015,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Under Armour brand cap",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59601,
+          "identityId": 50017,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Brown wallet",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59600,
+          "identityId": 50019,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Sony brand cell phone",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        },
+        {
+          "id": 59611,
+          "identityId": 50029,
+          "article": {
+            "id": 6,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 6
+          },
+          "description": "Currency, US and Mexican",
+          "location": {
+            "id": 2,
+            "name": "Near the Body",
+            "localizedName": "Near the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48529,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [
+        {
+          "id": 17962,
+          "identityId": 15043,
+          "physicalFeature": {
+            "id": 8,
+            "name": "Other distinctive physical characteristic",
+            "localizedName": "Other distinctive physical characteristic",
+            "ordinal": 100
+          },
+          "description": "Osteoarthritis to knees"
+        }
+      ],
+      "images": [
+        {
+          "id": 138495,
+          "identityId": 125172,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Lacoste brand shirt with alligator logo",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T17:32:22.59",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2304,
+              "width": 3195,
+              "storageKey": "4db62b97e40445f1863407c622cead4b",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125172/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 87,
+              "width": 120,
+              "storageKey": "3178a374b30b4a2f96fbfe07de94792e",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125172/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125172/Download"
+        },
+        {
+          "id": 138496,
+          "identityId": 125173,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Under Armour brand hat",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T17:33:36.333",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2643,
+              "width": 2253,
+              "storageKey": "75893c0096814e259832e6de3165adff",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125173/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 102,
+              "storageKey": "7df70d75761c488096f62f7a45fa7355",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125173/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125173/Download"
+        },
+        {
+          "id": 138586,
+          "identityId": 125262,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 18,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 180
+          },
+          "caption": "Black belt with black lettering that may read \"Descente LTD\"",
+          "isPublic": true,
+          "createdDateTime": "2026-10-29T20:40:43.723",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2094,
+              "width": 2516,
+              "storageKey": "0da98b018a7e47e7ae446d5cc0ad80be",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125262/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 100,
+              "width": 120,
+              "storageKey": "6a889a8140eb466e8fd0bf912e10c84f",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125262/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125262/Download"
+        },
+        {
+          "id": 138498,
+          "identityId": 125174,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 19,
+            "name": "Footwear",
+            "localizedName": "Footwear",
+            "ordinal": 190
+          },
+          "caption": "Toyo brand boots",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T17:34:25.217",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 2286,
+              "width": 2098,
+              "storageKey": "f3dd815c7d4b4817be99f0cb3157b630",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125174/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 110,
+              "storageKey": "ba5b4665e2d245dd8416d7ff863ecbbe",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125174/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125174/Download"
+        },
+        {
+          "id": 138499,
+          "identityId": 125175,
+          "category": {
+            "canBeDefault": false,
+            "canBePublic": true,
+            "id": 21,
+            "name": "Other",
+            "localizedName": "Other",
+            "ordinal": 210
+          },
+          "caption": "woven bracelet",
+          "isPublic": true,
+          "createdDateTime": "2026-10-27T17:58:25.407",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 1361,
+              "width": 3049,
+              "storageKey": "57405425c074424cac8e8a0dba5e4cb4",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125175/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 54,
+              "width": 120,
+              "storageKey": "8e0cf37630014292914b7e4be07e7017",
+              "href": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125175/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/125175/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 26997,
+        "defaultImageIdentityId": 125172
+      },
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53530,
+          "isCaseOwner": false,
+          "name": "Tohono O’odham Nation Police Department",
+          "city": "Sells",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65141,
+            "agency": {
+              "id": 45910,
+              "name": "Tohono O’odham Nation Police Department",
+              "street1": "PO Box 189",
+              "city": "Sells",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85634",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5203833275",
+              "jurisdiction": {
+                "id": 6,
+                "name": "Tribal",
+                "localizedName": "Tribal"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.tonation-nsn.gov/public-safety/police-department/"
+            }
+          },
+          "caseNumber": "26 08 08 041",
+          "dateReported": "2026-08-08"
+        },
+        {
+          "id": 53623,
+          "isCaseOwner": false,
+          "name": "Pima County Medical Examiner's Office",
+          "city": "Tucson",
+          "state": {
+            "id": 34,
+            "name": "Arizona",
+            "localizedName": "AZ"
+          },
+          "stateDisplayName": "AZ",
+          "county": {
+            "id": 167,
+            "name": "Pima County",
+            "localizedName": "Pima"
+          },
+          "countyDisplayName": "Pima",
+          "selection": {
+            "id": 65274,
+            "agency": {
+              "id": 1445,
+              "name": "Pima County Medical Examiner's Office",
+              "street1": "3050 East Milber Street",
+              "city": "Tucson",
+              "county": {
+                "id": 167,
+                "name": "Pima County",
+                "localizedName": "Pima"
+              },
+              "zipCode": "85714",
+              "state": {
+                "id": 34,
+                "name": "Arizona",
+                "localizedName": "AZ"
+              },
+              "phone": "5207248600",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.pima.gov/212/Medical-Examiner"
+            }
+          },
+          "caseNumber": "26-2612"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26711,
+        "investigatingAgencyIdentityId": 53623
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164126/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Arizona"
     }
   ]
 }

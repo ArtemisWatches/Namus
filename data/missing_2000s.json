@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T11:30:19.934202+00:00",
+  "generated_at": "2026-11-24T17:16:26.981289+00:00",
   "case_type": "MissingPersons",
   "decade": "2000s",
-  "count": 4483,
+  "count": 4484,
   "cases": [
     {
       "id": 10,
@@ -1285014,6 +1285014,242 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163654/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 163754,
+      "idFormatted": "MP163754",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-10-14T06:18:04.803",
+      "modifiedDateTime": "2026-11-24T16:56:16.827",
+      "subjectIdentification": {
+        "id": 270739,
+        "firstName": "Andrey",
+        "middleName": "Alan",
+        "lastName": "Barrios",
+        "currentMinAge": 39,
+        "currentMaxAge": 39,
+        "computedMissingMinAge": 19,
+        "computedMissingMaxAge": 19
+      },
+      "subjectDescription": {
+        "id": 239899,
+        "heightFrom": 66,
+        "weightFrom": 175,
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "caseIdentification": {
+        "id": 119594
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 285648,
+        "circumstancesOfDisappearance": "Andrey was dropped off with family with plans to travel to Mexico. He never returned home and has not been seen or heard from since. He may have been traveling in a blue GMC Envoy. Following his disappearance, family members received a phone call from an unknown individual requesting money for his safe return. The case was investigated as a possible kidnapping/extortion incident."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 337322,
+        "date": "2007-03-29",
+        "address": {
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "displayName": "Los Angeles"
+          },
+          "countyId": 0,
+          "zipCode": "91342"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 34.3023759,
+            "lon": -118.3695699
+          },
+          "formattedAddress": "Kagel Canyon, CA 91342, USA"
+        }
+      },
+      "vehicles": [
+        {
+          "id": 39120,
+          "vehicleMake": "General Motor Corp.",
+          "vehicleModel": "Envoy",
+          "vehicleYear": 2002,
+          "vehicleStyle": "SUV",
+          "vehicleColor": "Blue",
+          "tagState": "California",
+          "tagNumber": "5UXE090"
+        }
+      ],
+      "investigatingAgencies": [
+        {
+          "id": 202494,
+          "isCaseOwner": false,
+          "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+          "city": "Los Angeles",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 265,
+            "name": "Los Angeles County",
+            "localizedName": "Los Angeles"
+          },
+          "countyDisplayName": "Los Angeles",
+          "selection": {
+            "id": 236106,
+            "agency": {
+              "id": 43678,
+              "name": "Los Angeles Police Department- Adult Missing Persons Unit",
+              "street1": "100 West 1st Street",
+              "street2": "6th Floor",
+              "city": "Los Angeles",
+              "county": {
+                "id": 265,
+                "name": "Los Angeles County",
+                "localizedName": "Los Angeles"
+              },
+              "zipCode": "90012",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8772755273",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "http://www.lapdonline.org/"
+            }
+          },
+          "caseNumber": "0799-13961",
+          "dateReported": "2007-03-29"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43678,
+        "isCaseOwner": false,
+        "name": "Los Angeles Police Department- Adult Missing Persons Unit"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 134353,
+        "investigatingAgencyIdentityId": 202494
+      },
+      "physicalDescription": {
+        "id": 234409,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 265593,
+          "identityId": 248286,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "Barrios Photo",
+          "isPublic": true,
+          "createdDateTime": "2026-10-14T06:20:34.323",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 348,
+              "width": 256,
+              "storageKey": "c591806374e34bd1b3d744550a7d65af",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/248286/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 88,
+              "storageKey": "96d37ec75a334c8ca96115b7f0e3d8d6",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/248286/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/248286/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 139400,
+        "defaultImageIdentityId": 248286
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163754/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
