@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T17:16:35.941560+00:00",
+  "generated_at": "2026-11-25T16:58:51.374853+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "1990s",
-  "count": 3121,
+  "count": 3124,
   "cases": [
     {
       "id": 79,
@@ -930994,6 +930994,878 @@
       "viewPermission": "public",
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163628/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163628/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 164469,
+      "idFormatted": "UP164469",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-07T18:24:14.64",
+      "modifiedDateTime": "2026-11-23T19:12:59.807",
+      "caseIdentification": {
+        "id": 53631,
+        "caseNumber": "91-0884"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74738,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 3,
+            "name": "Hispanic / Latino",
+            "localizedName": "Hispanic / Latino"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Hispanic / Latino",
+          "localizedName": "Hispanic / Latino"
+        },
+        "estimatedAgeGroup": {
+          "id": 12,
+          "name": "Adult - Pre 60",
+          "localizedName": "Adult - Pre 60"
+        },
+        "estimatedAgeFrom": 50,
+        "estimatedAgeTo": 60,
+        "estimatedYearOfDeathFrom": 1990,
+        "estimatedYearOfDeathTo": 1991,
+        "estimatedYearOfBirthFrom": 1930,
+        "estimatedYearOfBirthTo": 1941,
+        "heightFrom": 64,
+        "heightTo": 66,
+        "heightCertainty": {
+          "id": 2,
+          "name": "Estimated",
+          "localizedName": "Estimated"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80784,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1991-04-26",
+        "address": {
+          "city": "El Cajon",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0
+        },
+        "description": "1/4 mi. north of 15150, Old Highway 80",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was found in El Cajon, California.  He was the victim of homicidal violence.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.7947731,
+            "lon": -116.9625269
+          },
+          "formattedAddress": "El Cajon, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56444,
+        "allPartsRecovered": true,
+        "conditionOfRemains": {
+          "id": 7,
+          "name": "Not recognizable - Near complete or complete skeleton",
+          "localizedName": "Not recognizable - Near complete or complete skeleton"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59644,
+          "identityId": 50054,
+          "article": {
+            "id": 1,
+            "name": "Accessories",
+            "localizedName": "Accessories",
+            "ordinal": 1
+          },
+          "description": "-blue wallet\n-black comb\n-handkerchief \n-package of book matches",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59645,
+          "identityId": 50052,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-gray and white design long sleeve western-style shirt with snap buttons\n-pair hi-top VANS brand name athletic tennis shoes\n-white socks\n-short sleeve shirt with multi-colored stripes\n-V shorts\n-blue trousers",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59643,
+          "identityId": 50053,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "-white metal Timex wrist watch",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48573,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "headHairDescription": "dark brown to black hair and appeared to be up to a few inches in length",
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53577,
+          "isCaseOwner": false,
+          "name": "San Diego County Sheriff's Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65204,
+            "agency": {
+              "id": 44057,
+              "name": "San Diego County Sheriff's Department",
+              "street1": "9621 Ridgehaven Court",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8585655200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.sdsheriff.net"
+            }
+          },
+          "caseNumber": "91-25413"
+        },
+        {
+          "id": 53612,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65259,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "91-0884"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26702,
+        "investigatingAgencyIdentityId": 53612
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164469/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164469/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 164471,
+      "idFormatted": "UP164471",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-07T18:53:49.57",
+      "modifiedDateTime": "2026-11-23T19:37:33.703",
+      "caseIdentification": {
+        "id": 53633,
+        "caseNumber": "91-938"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74740,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 10,
+          "name": "Adult - Pre 40",
+          "localizedName": "Adult - Pre 40"
+        },
+        "estimatedAgeFrom": 18,
+        "estimatedAgeTo": 35,
+        "estimatedYearOfDeathFrom": 1991,
+        "estimatedYearOfBirthFrom": 1956,
+        "estimatedYearOfBirthTo": 1973,
+        "heightFrom": 73,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 175,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 80721,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1991-05-02",
+        "address": {
+          "city": "Encinitas",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92024"
+        },
+        "description": "pacific ocean, 1/8 mi. north of moonlight state beach",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was sighted floating in the edge of incoming tide on Moonlight beach in Encinitas by a person walking the beach.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 33.052083,
+            "lon": -117.2793685
+          },
+          "formattedAddress": "Encinitas, CA 92024, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56445,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59646,
+          "identityId": 50055,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-a pair of tan-gray shorts, buckled and zipped, brand \"ZEPPELIN\", size 32\n-blue, long-sleeve lightweight sweatshirt. Just above the left breast pocket in block letters and white in color is the name \"BOTTLE BIN\". On the back, there is a beach scene looking like waves at the bottom, to the left is a white circle with figures of gulls flying across it. There is a figure of a smiling half sun overlying logo of \"BOTTLE BIN\" and the words \"CALIFORNIA\" below the design on the back.\n-underneath the sweatshirt is another lightweight white shirt with a wide transverse red band across it with the red band extending into the short shirt sleeves. The brand is \"BREEZIN\" and size is medium.\n-A white jockey-type underwear, brand name is \"BVD\" and the size is 30.",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        },
+        {
+          "id": 59648,
+          "identityId": 50056,
+          "article": {
+            "id": 5,
+            "name": "Jewelry",
+            "localizedName": "Jewelry",
+            "ordinal": 5
+          },
+          "description": "inexpensive \"LA WORLD\" wrist watch with black plastic band on left wrist",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48574,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53578,
+          "isCaseOwner": false,
+          "name": "San Diego County Sheriff's Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65205,
+            "agency": {
+              "id": 44057,
+              "name": "San Diego County Sheriff's Department",
+              "street1": "9621 Ridgehaven Court",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8585655200",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "www.sdsheriff.net"
+            }
+          },
+          "caseNumber": "unknown"
+        },
+        {
+          "id": 53613,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65260,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "91-938"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26703,
+        "investigatingAgencyIdentityId": 53613
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164471/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164471/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 164472,
+      "idFormatted": "UP164472",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-07T19:25:32.063",
+      "modifiedDateTime": "2026-11-23T19:04:14.417",
+      "caseIdentification": {
+        "id": 53635,
+        "caseNumber": "91-305"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74742,
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "estimatedAgeGroup": {
+          "id": 13,
+          "name": "Adult - Pre 70",
+          "localizedName": "Adult - Pre 70"
+        },
+        "estimatedAgeFrom": 55,
+        "estimatedAgeTo": 65,
+        "estimatedYearOfDeathFrom": 1991,
+        "estimatedYearOfBirthFrom": 1926,
+        "estimatedYearOfBirthTo": 1936,
+        "heightFrom": 67,
+        "heightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        },
+        "weightFrom": 135,
+        "weightCertainty": {
+          "id": 3,
+          "name": "Measured",
+          "localizedName": "Measured"
+        }
+      },
+      "circumstances": {
+        "id": 80723,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "1991-02-12",
+        "address": {
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92101"
+        },
+        "description": ".8 mile East Balboa Dr. 175' North Cabrillo Bridge",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "The decedent was thought to be a transient who resided in the area of the Nutmeg street restroom in Balboa Park. On the morning of 02/12/1991, he was found obviously dead and decomposing in an open area in Balboa Park. During autopsy it was discovered that he had been the victim of homicidal violence.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.715738,
+            "lon": -117.1610838
+          },
+          "formattedAddress": "San Diego, CA, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56446,
+        "conditionOfRemains": {
+          "id": 3,
+          "name": "Not recognizable - Decomposing/putrefaction",
+          "localizedName": "Not recognizable - Decomposing/putrefaction"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 59649,
+          "identityId": 50057,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "-brown shoes\n-blue socks\n-red handkerchief\n-black trousers\n-black belt\n-blue shirt\n-brown shirt with brown stripes\n-multi-colored shirt\n-blue t-shirt with \"CALGARY 1988\"\n-flannel shirt",
+          "location": {
+            "id": 1,
+            "name": "On the Body",
+            "localizedName": "On the Body"
+          }
+        }
+      ],
+      "physicalDescription": {
+        "id": 48575,
+        "hairColor": {
+          "id": 5,
+          "name": "Gray or Partially Gray",
+          "localizedName": "Gray or Partially Gray"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53579,
+          "isCaseOwner": false,
+          "name": "San Diego Police Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65206,
+            "agency": {
+              "id": 43441,
+              "name": "San Diego Police Department",
+              "street1": "1401 Broadway",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92101",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6195312000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiego.gov/police"
+            }
+          },
+          "caseNumber": "91-15399"
+        },
+        {
+          "id": 53611,
+          "isCaseOwner": false,
+          "name": "San Diego County Medical Examiner's Office",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 65258,
+            "contact": {
+              "id": 60095,
+              "firstName": "Kathy",
+              "lastName": "On",
+              "jobTitle": "Medical Examiner Investigator",
+              "roleId": 3,
+              "role": "Medicolegal Death Investigator",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 44055,
+              "name": "San Diego County Medical Examiner's Office",
+              "street1": "5570 Overland Avenue, Ste. 101",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92123",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "8586942895",
+              "email": "MxInvestigations@sdcounty.ca.gov",
+              "jurisdiction": {
+                "id": 3,
+                "name": "County",
+                "localizedName": "County"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiegocounty.gov/content/sdc/me.html"
+            }
+          },
+          "caseNumber": "91-305"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26701,
+        "investigatingAgencyIdentityId": 53611
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164472/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164472/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]

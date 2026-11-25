@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T11:05:24.513427+00:00",
+  "generated_at": "2026-11-25T16:58:51.374853+00:00",
   "case_type": "UnidentifiedPersons",
   "decade": "2010s",
-  "count": 2942,
+  "count": 2943,
   "cases": [
     {
       "id": 6563,
@@ -880938,6 +880938,203 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163112/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/163112/Images/Default/Poster",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Puerto%20Rico"
+    },
+    {
+      "id": 164307,
+      "idFormatted": "UP164307",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-02T21:57:32.477",
+      "modifiedDateTime": "2026-11-24T00:11:08.33",
+      "caseIdentification": {
+        "id": 53610,
+        "caseNumber": "261006-1120"
+      },
+      "caseIsResolved": false,
+      "subjectDescription": {
+        "id": 74708,
+        "sex": {
+          "id": 3,
+          "name": "Unsure",
+          "localizedName": "Unsure"
+        },
+        "ethnicities": [
+          {
+            "id": 8,
+            "name": "Uncertain",
+            "localizedName": "Uncertain"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Uncertain",
+          "localizedName": "Uncertain"
+        },
+        "estimatedAgeGroup": {
+          "id": 1,
+          "name": "Cannot Determine",
+          "localizedName": "Cannot Determine"
+        },
+        "heightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        },
+        "weightCertainty": {
+          "id": 1,
+          "name": "Cannot Estimate",
+          "localizedName": "Cannot Estimate"
+        }
+      },
+      "circumstances": {
+        "id": 80680,
+        "status": {
+          "id": 1,
+          "name": "Unidentified Deceased",
+          "localizedName": "Unidentified Deceased"
+        },
+        "dateFound": "2013-07-29",
+        "address": {
+          "city": "Ashland",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "displayName": "OR"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 2288,
+            "name": "Jackson County",
+            "displayName": "Jackson"
+          },
+          "countyId": 0,
+          "zipCode": "97520"
+        },
+        "description": "333 N Main Street",
+        "foundOnTribalLand": {
+          "id": 3,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "circumstancesOfRecovery": "Partial cranium and eyeglasses located during a 2013 pond construction in Ashland, OR.",
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 42.1967113,
+            "lon": -122.7139216
+          },
+          "formattedAddress": "Ashland, OR 97520, USA"
+        }
+      },
+      "detailsOfRecovery": {
+        "id": 56421,
+        "conditionOfRemains": {
+          "id": 8,
+          "name": "Not recognizable - Partial skeletal parts only",
+          "localizedName": "Not recognizable - Partial skeletal parts only"
+        }
+      },
+      "notes": [],
+      "permissionToPublish": false,
+      "grantPermissionToPublish": true,
+      "clothingAndAccessoriesArticles": [],
+      "physicalDescription": {
+        "id": 48553,
+        "hairColor": {
+          "id": 13,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "leftEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        },
+        "rightEyeColor": {
+          "id": 9,
+          "name": "Unknown",
+          "localizedName": "Unknown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [],
+      "documents": [],
+      "investigatingAgencies": [
+        {
+          "id": 53557,
+          "isCaseOwner": false,
+          "name": "Oregon State Police - State Medical Examiners Office",
+          "city": "Clackamas",
+          "state": {
+            "id": 40,
+            "name": "Oregon",
+            "localizedName": "OR"
+          },
+          "stateDisplayName": "OR",
+          "county": {
+            "id": 2276,
+            "name": "Clackamas County",
+            "localizedName": "Clackamas"
+          },
+          "countyDisplayName": "Clackamas",
+          "selection": {
+            "id": 65173,
+            "contact": {
+              "id": 325337,
+              "firstName": "Hailey",
+              "lastName": "Collord-Stalder",
+              "jobTitle": "Forensic Anthropologist",
+              "roleId": 6,
+              "role": "Forensic Anthropologist",
+              "isPublicEmail": false,
+              "isPublicPhone1": false,
+              "isPublicPhone2": false
+            },
+            "agency": {
+              "id": 28418,
+              "name": "Oregon State Police - State Medical Examiners Office",
+              "street1": "13309 Southeast 84th Avenue Suite 100",
+              "city": "Clackamas",
+              "county": {
+                "id": 2276,
+                "name": "Clackamas County",
+                "localizedName": "Clackamas"
+              },
+              "zipCode": "97015",
+              "state": {
+                "id": 40,
+                "name": "Oregon",
+                "localizedName": "OR"
+              },
+              "phone": "9716738200",
+              "jurisdiction": {
+                "id": 2,
+                "name": "State",
+                "localizedName": "State"
+              },
+              "agencyType": {
+                "id": 2,
+                "name": "Medical Examiner",
+                "localizedName": "Medical Examiner"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "261006-1120",
+          "dateReported": "2026-10-06"
+        }
+      ],
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 26657,
+        "investigatingAgencyIdentityId": 53557
+      },
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164307/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/UnidentifiedPersons/Cases/164307/Images/Default/Poster",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/Oregon"
     }
   ]
 }
