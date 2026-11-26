@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T11:30:19.934202+00:00",
+  "generated_at": "2026-11-26T16:38:48.252663+00:00",
   "case_type": "MissingPersons",
   "decade": "2020s",
-  "count": 7937,
+  "count": 7938,
   "cases": [
     {
       "id": 64325,
@@ -2002911,6 +2002911,228 @@
       "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/Default/Thumbnail",
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/163715/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 164423,
+      "idFormatted": "MP164423",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-05T19:45:42.587",
+      "modifiedDateTime": "2026-11-25T21:40:47.593",
+      "subjectIdentification": {
+        "id": 273267,
+        "firstName": "Marjorie",
+        "middleName": "Ann",
+        "lastName": "McKuskie",
+        "currentMinAge": 64,
+        "currentMaxAge": 64,
+        "computedMissingMinAge": 58,
+        "computedMissingMaxAge": 58
+      },
+      "subjectDescription": {
+        "id": 242389,
+        "heightFrom": 65,
+        "heightTo": 66,
+        "weightFrom": 125,
+        "weightTo": 200,
+        "ethnicities": [
+          {
+            "id": 1,
+            "name": "White / Caucasian",
+            "localizedName": "White / Caucasian"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "White / Caucasian",
+          "localizedName": "White / Caucasian"
+        },
+        "sex": {
+          "id": 2,
+          "name": "Female",
+          "localizedName": "Female"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 288117,
+        "circumstancesOfDisappearance": "Marjorie lives a transient lifestyle and has fallen out of contact with family. Family has not spoken with her in 20 years. She was last contacted by law enforcement in 2020."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [],
+      "sighting": {
+        "id": 340162,
+        "date": "2020-12-04",
+        "address": {
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "displayName": "CA"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "displayName": "San Diego"
+          },
+          "countyId": 0,
+          "zipCode": "92101"
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 32.715738,
+            "lon": -117.1610838
+          },
+          "formattedAddress": "San Diego, CA, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 204931,
+          "isCaseOwner": false,
+          "name": "San Diego Police Department",
+          "city": "San Diego",
+          "state": {
+            "id": 3,
+            "name": "California",
+            "localizedName": "CA"
+          },
+          "stateDisplayName": "CA",
+          "county": {
+            "id": 283,
+            "name": "San Diego County",
+            "localizedName": "San Diego"
+          },
+          "countyDisplayName": "San Diego",
+          "selection": {
+            "id": 238647,
+            "agency": {
+              "id": 43441,
+              "name": "San Diego Police Department",
+              "street1": "1401 Broadway",
+              "city": "San Diego",
+              "county": {
+                "id": 283,
+                "name": "San Diego County",
+                "localizedName": "San Diego"
+              },
+              "zipCode": "92101",
+              "state": {
+                "id": 3,
+                "name": "California",
+                "localizedName": "CA"
+              },
+              "phone": "6195312000",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true,
+              "websiteUrl": "https://www.sandiego.gov/police"
+            }
+          },
+          "caseNumber": "26500973"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43441,
+        "isCaseOwner": false,
+        "name": "San Diego Police Department"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 136761,
+        "investigatingAgencyIdentityId": 204931
+      },
+      "physicalDescription": {
+        "id": 236866,
+        "hairColor": {
+          "id": 1,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 266917,
+          "identityId": 249606,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 16,
+            "name": "ActualPhoto",
+            "localizedName": "Actual photo",
+            "ordinal": 160
+          },
+          "caption": "CDL photo from 2016",
+          "isPublic": true,
+          "createdDateTime": "2026-11-05T20:20:45.167",
+          "files": {
+            "original": {
+              "mimeType": "image/x-png",
+              "height": 408,
+              "width": 306,
+              "storageKey": "5b70cf78775e44b58664b5bfe86a1326",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/249606/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 90,
+              "storageKey": "d6dad13a4d6b43ca8fb3288933ea4dd4",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/249606/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/249606/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 140596,
+        "defaultImageIdentityId": 249606
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
     }
   ]
