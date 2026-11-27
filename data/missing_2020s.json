@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T16:38:48.252663+00:00",
+  "generated_at": "2026-11-27T16:23:44.509256+00:00",
   "case_type": "MissingPersons",
   "decade": "2020s",
-  "count": 7938,
+  "count": 7939,
   "cases": [
     {
       "id": 64325,
@@ -2003134,6 +2003134,238 @@
       "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/Default/Poster",
       "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/164423/Images/QRCode",
       "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/California"
+    },
+    {
+      "id": 164617,
+      "idFormatted": "MP164617",
+      "publicationStatus": {
+        "id": 1,
+        "name": "Published",
+        "localizedName": "Published"
+      },
+      "createdDateTime": "2026-11-12T15:31:13.693",
+      "modifiedDateTime": "2026-11-23T20:25:34.057",
+      "subjectIdentification": {
+        "id": 273363,
+        "firstName": "Jean",
+        "lastName": "Pierre",
+        "currentMinAge": 18,
+        "currentMaxAge": 18,
+        "computedMissingMinAge": 17,
+        "computedMissingMaxAge": 17
+      },
+      "subjectDescription": {
+        "id": 242482,
+        "heightFrom": 72,
+        "heightTo": 72,
+        "weightFrom": 115,
+        "weightTo": 115,
+        "ethnicities": [
+          {
+            "id": 2,
+            "name": "Black / African American",
+            "localizedName": "Black / African American"
+          }
+        ],
+        "primaryEthnicity": {
+          "id": 0,
+          "name": "Black / African American",
+          "localizedName": "Black / African American"
+        },
+        "sex": {
+          "id": 1,
+          "name": "Male",
+          "localizedName": "Male"
+        },
+        "tribeAssociations": []
+      },
+      "grantPermissionToPublish": true,
+      "caseIsResolved": false,
+      "hasPendingByNcmec": false,
+      "hasNcmecContributors": false,
+      "circumstances": {
+        "id": 288363,
+        "circumstancesOfDisappearance": "Last seen November 16, 2025."
+      },
+      "notes": [],
+      "clothingAndAccessoriesArticles": [
+        {
+          "id": 142997,
+          "identityId": 129404,
+          "article": {
+            "id": 2,
+            "name": "Clothing",
+            "localizedName": "Clothing",
+            "ordinal": 2
+          },
+          "description": "BLUE NIKE TECH SWEAT SUIT  WHITE BLUE SNEAKERS"
+        }
+      ],
+      "sighting": {
+        "id": 340607,
+        "date": "2025-11-16",
+        "address": {
+          "city": "Brooklyn",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "displayName": "NY"
+          },
+          "stateId": 0,
+          "county": {
+            "id": 1913,
+            "name": "Kings County",
+            "displayName": "Kings"
+          },
+          "countyId": 0
+        },
+        "missingFromTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "primaryResidenceOnTribalLand": {
+          "id": 2,
+          "name": "No",
+          "localizedName": "No"
+        },
+        "publicGeolocation": {
+          "coordinates": {
+            "lat": 40.6528762,
+            "lon": -73.95949399999999
+          },
+          "formattedAddress": "Kings County, Brooklyn, NY, USA"
+        }
+      },
+      "vehicles": [],
+      "investigatingAgencies": [
+        {
+          "id": 205008,
+          "isCaseOwner": false,
+          "name": "New York City Police Department - Missing Persons Squad",
+          "city": "New York",
+          "state": {
+            "id": 55,
+            "name": "New York",
+            "localizedName": "NY"
+          },
+          "stateDisplayName": "NY",
+          "county": {
+            "id": 1920,
+            "name": "New York County",
+            "localizedName": "New York"
+          },
+          "countyDisplayName": "New York",
+          "selection": {
+            "id": 238900,
+            "agency": {
+              "id": 43252,
+              "name": "New York City Police Department - Missing Persons Squad",
+              "street1": "2770 Frederick Douglass Boulevard",
+              "city": "New York",
+              "county": {
+                "id": 1920,
+                "name": "New York County",
+                "localizedName": "New York"
+              },
+              "zipCode": "10039",
+              "state": {
+                "id": 55,
+                "name": "New York",
+                "localizedName": "NY"
+              },
+              "phone": "2126947781",
+              "email": "MissingPersonsSquad@nypd.org",
+              "jurisdiction": {
+                "id": 4,
+                "name": "Local",
+                "localizedName": "Local"
+              },
+              "agencyType": {
+                "id": 1,
+                "name": "Law Enforcement",
+                "localizedName": "Law Enforcement"
+              },
+              "approved": true
+            }
+          },
+          "caseNumber": "KNMP25-7766"
+        }
+      ],
+      "primaryInvestigatingAgency": {
+        "id": 43252,
+        "isCaseOwner": false,
+        "name": "New York City Police Department - Missing Persons Squad"
+      },
+      "caseContributors": [],
+      "caseOwner": {
+        "id": 136839,
+        "investigatingAgencyIdentityId": 205008
+      },
+      "physicalDescription": {
+        "id": 236958,
+        "hairColor": {
+          "id": 2,
+          "name": "Black",
+          "localizedName": "Black"
+        },
+        "leftEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        },
+        "rightEyeColor": {
+          "id": 3,
+          "name": "Brown",
+          "localizedName": "Brown"
+        }
+      },
+      "physicalFeatureDescriptions": [],
+      "images": [
+        {
+          "id": 266982,
+          "identityId": 249667,
+          "category": {
+            "canBeDefault": true,
+            "canBePublic": true,
+            "id": 1,
+            "name": "FacialCaseId",
+            "localizedName": "Facial/case ID",
+            "ordinal": 10
+          },
+          "caption": "JEAN S PIERRE",
+          "isPublic": true,
+          "createdDateTime": "2026-11-12T15:31:13.933",
+          "files": {
+            "original": {
+              "mimeType": "image/pjpeg",
+              "height": 150,
+              "width": 116,
+              "storageKey": "e75b7a88d45641a68fcef5fa900331f5",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/249667/Original"
+            },
+            "thumbnail": {
+              "mimeType": "image/jpg",
+              "height": 120,
+              "width": 93,
+              "storageKey": "6e4ee45358ea4f26a131b1bbd02fcb24",
+              "href": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/249667/Thumbnail"
+            }
+          },
+          "hrefDownload": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/249667/Download"
+        }
+      ],
+      "defaultImage": {
+        "id": 140636,
+        "defaultImageIdentityId": 249667
+      },
+      "documents": [],
+      "permissionToPublish": false,
+      "viewPermission": "public",
+      "hrefDefaultImageThumbnail": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/Default/Thumbnail",
+      "hrefDefaultImagePoster": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/Default/Poster",
+      "hrefQRCode": "/api/CaseSets/NamUs/MissingPersons/Cases/164617/Images/QRCode",
+      "hrefGetRsaInformation": "/api/CaseSets/NamUs/Users/Rsa/New%20York"
     }
   ]
 }
